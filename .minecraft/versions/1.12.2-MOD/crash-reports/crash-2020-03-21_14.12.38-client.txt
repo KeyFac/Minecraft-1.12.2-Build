@@ -1,0 +1,168 @@
+---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  CorePlugin (AcademyCraft-1.1.2.jar)
+  ForgePlugin (皮肤-CustomSkinLoader_Forge-14.9.jar)
+Contact their authors BEFORE contacting forge
+
+// On the bright side, I bought you a teddy bear!
+
+Time: 3/21/20 2:12 PM
+Description: Updating screen events
+
+java.lang.StringIndexOutOfBoundsException: String index out of range: -3
+	at java.lang.String.substring(Unknown Source)
+	at noppes.npcs.client.gui.select.GuiTextureSelection.<init>(GuiTextureSelection.java:144)
+	at noppes.npcs.client.gui.mainmenu.GuiNpcDisplay.func_146284_a(GuiNpcDisplay.java:157)
+	at noppes.npcs.client.gui.util.GuiNPCInterface.func_73864_a(GuiNPCInterface.java:159)
+	at noppes.npcs.client.gui.util.GuiNPCInterface2.func_73864_a(GuiNPCInterface2.java:35)
+	at net.minecraft.client.gui.GuiScreen.func_146274_d(GuiScreen.java:533)
+	at net.minecraft.client.gui.GuiScreen.func_146269_k(GuiScreen.java:501)
+	at net.minecraft.client.Minecraft.func_71407_l(Minecraft.java:1759)
+	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:1098)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:398)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Client thread
+Stacktrace:
+	at java.lang.String.substring(Unknown Source)
+	at noppes.npcs.client.gui.select.GuiTextureSelection.<init>(GuiTextureSelection.java:144)
+	at noppes.npcs.client.gui.mainmenu.GuiNpcDisplay.func_146284_a(GuiNpcDisplay.java:157)
+	at noppes.npcs.client.gui.util.GuiNPCInterface.func_73864_a(GuiNPCInterface.java:159)
+	at noppes.npcs.client.gui.util.GuiNPCInterface2.func_73864_a(GuiNPCInterface2.java:35)
+	at net.minecraft.client.gui.GuiScreen.func_146274_d(GuiScreen.java:533)
+	at net.minecraft.client.gui.GuiScreen.func_146269_k(GuiScreen.java:501)
+
+-- Affected screen --
+Details:
+	Screen name: noppes.npcs.client.gui.mainmenu.GuiNpcDisplay
+
+-- Affected level --
+Details:
+	Level name: MpServer
+	All players: 1 total; [EntityPlayerSP['gele178'/2420, l='MpServer', x=-342.92, y=71.00, z=672.66]]
+	Chunk stats: MultiplayerChunkCache: 624, 624
+	Level seed: 0
+	Level generator: ID 00 - default, ver 1. Features enabled: false
+	Level generator options: 
+	Level spawn location: World: (-337,73,703), Chunk: (at 15,4,15 in -22,43; contains blocks -352,0,688 to -337,255,703), Region: (-1,1; contains chunks -32,32 to -1,63, blocks -512,0,512 to -1,255,1023)
+	Level time: 106969 game time, 1462 day time
+	Level dimension: 0
+	Level storage version: 0x00000 - Unknown?
+	Level weather: Rain time: 0 (now: false), thunder time: 0 (now: false)
+	Level game mode: Game mode: creative (ID 1). Hardcore: false. Cheats: false
+	Forced entities: 91 total; [EntityBat['蝙蝠'/12288, l='MpServer', x=116.40, y=39.40, z=333.98], EntityPig['猪'/12545, l='MpServer', x=-347.77, y=70.00, z=634.79], EntityPig['猪'/12546, l='MpServer', x=-358.18, y=69.00, z=635.82], EntityPig['猪'/12547, l='MpServer', x=-379.55, y=70.00, z=651.65], EntityPig['猪'/12548, l='MpServer', x=-367.45, y=69.00, z=639.10], EntityPig['猪'/13317, l='MpServer', x=-395.50, y=68.00, z=602.50], EntityPig['猪'/13318, l='MpServer', x=-397.50, y=68.00, z=601.50], EntityPig['猪'/13319, l='MpServer', x=-395.50, y=68.00, z=601.50], EntityPig['猪'/13320, l='MpServer', x=-393.50, y=69.00, z=600.50], EntityCustomNpc['农民'/34067, l='MpServer', x=-313.50, y=71.00, z=685.50], EntityPig['猪'/12563, l='MpServer', x=-399.50, y=69.00, z=715.50], EntityPig['猪'/12566, l='MpServer', x=-398.50, y=69.00, z=716.50], EntityPig['猪'/12578, l='MpServer', x=-399.50, y=70.00, z=710.50], EntityPig['猪'/12580, l='MpServer', x=-323.50, y=70.00, z=625.50], EntityPig['猪'/12581, l='MpServer', x=-325.50, y=70.00, z=625.50], EntityPig['猪'/12582, l='MpServer', x=-327.50, y=70.00, z=624.50], EntityPig['猪'/12583, l='MpServer', x=-327.64, y=70.00, z=637.73], EntityBat['蝙蝠'/46891, l='MpServer', x=-325.75, y=51.10, z=704.25], EntityPig['猪'/12848, l='MpServer', x=-356.50, y=67.00, z=606.50], EntityPig['猪'/12849, l='MpServer', x=-355.50, y=66.00, z=604.46], EntityPig['猪'/12850, l='MpServer', x=-356.50, y=66.00, z=604.50], EntityPig['猪'/12851, l='MpServer', x=-355.50, y=66.00, z=605.55], EntityPig['猪'/12852, l='MpServer', x=-354.68, y=68.00, z=614.41], EntityPig['猪'/12853, l='MpServer', x=-357.50, y=67.00, z=608.50], EntityCustomNpc['农民'/41782, l='MpServer', x=-337.50, y=73.00, z=710.50], EntityPig['猪'/12854, l='MpServer', x=-359.50, y=67.00, z=608.50], EntityPig['猪'/12855, l='MpServer', x=-358.50, y=67.00, z=606.50], EntityBat['蝙蝠'/47415, l='MpServer', x=-310.38, y=12.13, z=613.51], EntityVillager['村民'/12352, l='MpServer', x=-307.50, y=72.00, z=706.42], EntityVillager['村民'/12353, l='MpServer', x=-332.43, y=72.00, z=704.52], EntityVillager['村民'/12354, l='MpServer', x=-324.28, y=73.00, z=716.53], EntityVillager['村民'/12355, l='MpServer', x=-308.40, y=72.00, z=721.35], EntityVillager['村民'/12357, l='MpServer', x=-321.40, y=71.94, z=708.52], EntityVillager['村民'/12358, l='MpServer', x=-290.78, y=70.00, z=702.23], EntityVillager['村民'/12361, l='MpServer', x=-312.65, y=73.00, z=706.50], EntityVillager['村民'/12362, l='MpServer', x=-309.34, y=71.00, z=698.46], EntityPlayerSP['gele178'/2420, l='MpServer', x=-342.92, y=71.00, z=672.66], EntityCustomNpc['铁匠'/26700, l='MpServer', x=-327.45, y=73.00, z=705.47], EntityPig['猪'/12366, l='MpServer', x=-282.30, y=70.00, z=698.59], EntityPig['猪'/12367, l='MpServer', x=-295.37, y=70.00, z=695.21], EntityPig['猪'/12368, l='MpServer', x=-288.43, y=68.00, z=664.25], EntityPig['猪'/12369, l='MpServer', x=-298.24, y=69.00, z=639.74], EntitySquid['鱿鱼'/47443, l='MpServer', x=-295.44, y=52.89, z=711.43], EntityCustomNpc['马'/47188, l='MpServer', x=-342.50, y=71.00, z=675.50], EntityVillager['村民'/12378, l='MpServer', x=-320.63, y=72.00, z=695.53], EntityPig['猪'/12379, l='MpServer', x=-279.73, y=69.00, z=742.28], EntityPig['猪'/12380, l='MpServer', x=-279.20, y=69.00, z=740.74], EntityPig['猪'/12381, l='MpServer', x=-275.10, y=68.00, z=742.61], EntityChicken['鸡'/13163, l='MpServer', x=-266.64, y=64.00, z=598.23], EntityChicken['鸡'/13164, l='MpServer', x=-265.50, y=68.00, z=594.50], EntityChicken['鸡'/13165, l='MpServer', x=-271.50, y=69.00, z=593.50], EntityChicken['鸡'/13166, l='MpServer', x=-270.50, y=69.00, z=593.50], EntityChicken['鸡'/13167, l='MpServer', x=-270.50, y=69.00, z=593.50], EntityChicken['鸡'/13168, l='MpServer', x=-271.50, y=70.00, z=594.50], EntityCustomNpc['马'/46705, l='MpServer', x=-342.50, y=71.00, z=667.50], EntityBat['蝙蝠'/47219, l='MpServer', x=-280.82, y=28.18, z=697.31], EntityCustomNpc['接待员'/25975, l='MpServer', x=-288.50, y=75.00, z=703.50], EntityCustomNpc['谷场管理者'/46205, l='MpServer', x=-345.50, y=71.00, z=670.50], EntityChicken['鸡'/39814, l='MpServer', x=-276.68, y=68.00, z=667.80], EntityPig['猪'/15240, l='MpServer', x=-408.40, y=70.00, z=710.72], EntityPig['猪'/15241, l='MpServer', x=-400.50, y=70.00, z=714.50], EntityPig['猪'/15242, l='MpServer', x=-400.50, y=71.00, z=710.50], EntityPig['猪'/15243, l='MpServer', x=-406.47, y=73.00, z=704.72], EntitySquid['鱿鱼'/47245, l='MpServer', x=-328.60, y=35.00, z=714.40], EntityChicken['鸡'/39827, l='MpServer', x=-275.54, y=68.00, z=666.99], EntityPig['猪'/12436, l='MpServer', x=-357.72, y=73.00, z=744.34], EntityPig['猪'/12437, l='MpServer', x=-365.30, y=75.00, z=737.50], EntityPig['猪'/12438, l='MpServer', x=-365.55, y=75.00, z=742.26], EntityBat['蝙蝠'/47005, l='MpServer', x=-263.75, y=38.06, z=732.11], EntityChicken['鸡'/39839, l='MpServer', x=-275.78, y=68.00, z=666.03], EntityChicken['鸡'/39337, l='MpServer', x=-354.45, y=70.00, z=710.12], EntityBat['蝙蝠'/47025, l='MpServer', x=-267.25, y=36.10, z=621.41], EntityChicken['鸡'/12470, l='MpServer', x=-293.51, y=70.00, z=686.14], EntityChicken['鸡'/12472, l='MpServer', x=-275.44, y=68.00, z=666.56], EntityBat['蝙蝠'/47544, l='MpServer', x=-377.78, y=25.18, z=709.25], EntityItem['item.item.egg'/47033, l='MpServer', x=-387.24, y=67.00, z=712.11], EntityPig['猪'/12474, l='MpServer', x=-386.50, y=68.00, z=719.50], EntityPig['猪'/12475, l='MpServer', x=-385.50, y=68.00, z=720.50], EntityPig['猪'/12476, l='MpServer', x=-386.50, y=68.00, z=719.50], EntityPig['猪'/12477, l='MpServer', x=-385.50, y=68.00, z=721.50], EntityChicken['鸡'/12478, l='MpServer', x=-387.50, y=67.00, z=713.50], EntityChicken['鸡'/12479, l='MpServer', x=-388.50, y=68.00, z=713.50], EntityChicken['鸡'/12480, l='MpServer', x=-386.50, y=68.00, z=716.50], EntityChicken['鸡'/12481, l='MpServer', x=-387.50, y=67.00, z=712.50], EntitySquid['鱿鱼'/47301, l='MpServer', x=-295.64, y=26.00, z=711.67], EntityItem['item.item.dyePowder.black'/47557, l='MpServer', x=-328.14, y=35.00, z=714.81], EntityBat['蝙蝠'/47331, l='MpServer', x=-325.39, y=53.06, z=594.94], EntityCustomNpc['Dacks'/44521, l='MpServer', x=-320.50, y=67.00, z=683.50], EntityBat['蝙蝠'/46825, l='MpServer', x=-317.54, y=22.37, z=738.31], EntityItem['item.item.egg'/46587, l='MpServer', x=-386.88, y=68.00, z=716.72], EntityBat['蝙蝠'/47102, l='MpServer', x=-351.07, y=42.41, z=696.59]]
+	Retry entities: 126 total; [EntityBat['蝙蝠'/12288, l='MpServer', x=116.40, y=39.40, z=333.98], EntityZombie['僵尸'/8961, l='MpServer', x=55.50, y=26.00, z=337.50], EntityBat['蝙蝠'/12289, l='MpServer', x=126.86, y=42.13, z=318.30], EntityCreeper['爬行者'/10249, l='MpServer', x=74.50, y=32.00, z=307.50], EntitySkeleton['骷髅'/12305, l='MpServer', x=79.50, y=16.00, z=314.50], EntitySkeleton['骷髅'/12306, l='MpServer', x=78.50, y=16.00, z=317.50], EntitySquid['鱿鱼'/11540, l='MpServer', x=116.36, y=48.00, z=351.79], EntitySquid['鱿鱼'/11542, l='MpServer', x=91.40, y=60.73, z=424.09], EntitySquid['鱿鱼'/11543, l='MpServer', x=91.40, y=62.50, z=420.37], EntityZombie['僵尸'/6939, l='MpServer', x=77.50, y=56.00, z=329.50], EntityZombie['僵尸'/6940, l='MpServer', x=76.50, y=56.00, z=327.50], EntityZombie['僵尸'/11292, l='MpServer', x=152.50, y=52.00, z=319.50], EntityBat['蝙蝠'/9502, l='MpServer', x=88.41, y=61.11, z=331.50], EntityZombie['僵尸'/11560, l='MpServer', x=70.50, y=20.00, z=295.50], EntitySkeleton['骷髅'/12074, l='MpServer', x=94.50, y=19.00, z=394.50], EntityBat['蝙蝠'/12334, l='MpServer', x=112.72, y=27.46, z=314.61], EntityBat['蝙蝠'/12335, l='MpServer', x=114.31, y=23.87, z=303.65], EntityCreeper['爬行者'/6453, l='MpServer', x=64.50, y=32.00, z=326.50], EntityBat['蝙蝠'/12344, l='MpServer', x=142.87, y=38.10, z=309.69], EntitySkeleton['骷髅'/11582, l='MpServer', x=78.50, y=24.00, z=411.50], EntitySkeleton['骷髅'/11077, l='MpServer', x=81.20, y=55.00, z=329.34], EntityCreeper['爬行者'/11595, l='MpServer', x=137.50, y=35.00, z=310.50], EntityCreeper['爬行者'/11596, l='MpServer', x=141.50, y=35.00, z=312.50], EntityCreeper['爬行者'/11597, l='MpServer', x=140.50, y=35.00, z=311.50], EntityCreeper['爬行者'/6734, l='MpServer', x=47.43, y=32.00, z=297.59], EntityItem['item.item.dyePowder.black'/4177, l='MpServer', x=91.13, y=54.00, z=330.24], EntityBat['蝙蝠'/11602, l='MpServer', x=133.52, y=37.04, z=312.46], EntityBat['蝙蝠'/12115, l='MpServer', x=111.66, y=48.99, z=348.93], EntityCreeper['爬行者'/12123, l='MpServer', x=124.50, y=12.00, z=319.50], EntityCreeper['爬行者'/11358, l='MpServer', x=133.50, y=38.00, z=301.50], EntityZombie['僵尸'/11873, l='MpServer', x=94.50, y=20.00, z=330.50], EntitySkeleton['骷髅'/7267, l='MpServer', x=98.69, y=54.00, z=331.52], EntityCreeper['爬行者'/11876, l='MpServer', x=130.50, y=52.00, z=315.50], EntitySkeleton['骷髅'/7526, l='MpServer', x=61.80, y=31.00, z=306.71], EntityEnderman['末影人'/11110, l='MpServer', x=84.82, y=55.00, z=327.95], EntityChicken['鸡'/105, l='MpServer', x=25.50, y=105.00, z=358.01], EntitySpider['蜘蛛'/11625, l='MpServer', x=134.70, y=37.10, z=290.10], EntityChicken['鸡'/106, l='MpServer', x=28.39, y=108.00, z=360.53], EntityChicken['鸡'/107, l='MpServer', x=24.51, y=102.00, z=353.08], EntityChicken['鸡'/108, l='MpServer', x=21.89, y=106.00, z=365.60], EntityChicken['鸡'/109, l='MpServer', x=30.49, y=109.00, z=362.86], EntityChicken['鸡'/110, l='MpServer', x=32.50, y=110.00, z=367.60], EntityChicken['鸡'/111, l='MpServer', x=23.51, y=112.00, z=383.13], EntitySquid['鱿鱼'/10096, l='MpServer', x=94.26, y=55.73, z=322.40], EntityZombie['僵尸'/11636, l='MpServer', x=33.50, y=34.00, z=296.50], EntitySkeleton['骷髅'/11637, l='MpServer', x=98.50, y=21.00, z=353.50], EntityCreeper['爬行者'/11130, l='MpServer', x=73.50, y=29.00, z=336.50], EntityChicken['鸡'/126, l='MpServer', x=62.30, y=78.00, z=314.51], EntityEnderman['末影人'/11390, l='MpServer', x=81.50, y=55.00, z=325.50], EntityChicken['鸡'/127, l='MpServer', x=62.47, y=78.00, z=313.50], EntityEnderman['末影人'/11391, l='MpServer', x=82.50, y=55.00, z=325.50], EntityChicken['鸡'/128, l='MpServer', x=64.50, y=79.00, z=315.50], EntityZombie['僵尸'/10880, l='MpServer', x=79.50, y=27.00, z=375.50], EntityEnderman['末影人'/11392, l='MpServer', x=83.50, y=55.00, z=327.50], EntityChicken['鸡'/129, l='MpServer', x=63.50, y=79.00, z=315.50], EntityCreeper['爬行者'/11393, l='MpServer', x=87.50, y=55.00, z=322.50], EntityChicken['鸡'/130, l='MpServer', x=59.50, y=84.00, z=330.50], EntityChicken['鸡'/131, l='MpServer', x=63.50, y=85.00, z=332.50], EntityChicken['鸡'/132, l='MpServer', x=67.50, y=86.00, z=333.50], EntityZombie['僵尸'/11140, l='MpServer', x=103.50, y=65.00, z=308.50], EntityChicken['鸡'/133, l='MpServer', x=65.50, y=86.00, z=336.50], EntitySkeleton['骷髅'/11141, l='MpServer', x=100.50, y=65.00, z=310.50], EntityCreeper['爬行者'/12169, l='MpServer', x=36.50, y=23.00, z=411.50], EntitySkeleton['骷髅'/10633, l='MpServer', x=82.50, y=55.00, z=319.50], EntityZombie['僵尸'/10634, l='MpServer', x=83.50, y=55.00, z=320.50], EntityZombie['僵尸'/10635, l='MpServer', x=82.50, y=55.00, z=323.50], EntityEnderman['末影人'/10638, l='MpServer', x=86.50, y=55.00, z=324.50], EntityChicken['鸡'/150, l='MpServer', x=72.50, y=91.00, z=347.50], EntityChicken['鸡'/151, l='MpServer', x=73.50, y=95.00, z=349.50], EntityChicken['鸡'/152, l='MpServer', x=72.50, y=99.00, z=350.50], EntitySquid['鱿鱼'/11160, l='MpServer', x=99.60, y=54.00, z=324.40], EntityChicken['鸡'/153, l='MpServer', x=79.23, y=101.00, z=351.50], EntityBat['蝙蝠'/11673, l='MpServer', x=84.96, y=21.07, z=393.94], EntityBat['蝙蝠'/12188, l='MpServer', x=121.28, y=29.12, z=305.84], EntityCreeper['爬行者'/12194, l='MpServer', x=102.50, y=18.00, z=366.50], EntitySkeleton['骷髅'/8867, l='MpServer', x=68.50, y=31.00, z=312.50], EntitySkeleton['骷髅'/8868, l='MpServer', x=59.50, y=31.00, z=306.50], EntityZombie['僵尸'/10922, l='MpServer', x=78.50, y=15.00, z=322.50], EntitySkeleton['骷髅'/10924, l='MpServer', x=35.56, y=34.00, z=295.74], EntityChicken['鸡'/172, l='MpServer', x=132.50, y=83.00, z=315.50], EntityChicken['鸡'/173, l='MpServer', x=134.50, y=82.00, z=314.50], EntitySpider['蜘蛛'/4782, l='MpServer', x=81.50, y=55.00, z=324.50], EntityChicken['鸡'/174, l='MpServer', x=132.50, y=83.00, z=315.50], EntityChicken['鸡'/175, l='MpServer', x=130.50, y=87.00, z=316.50], EntityChicken['鸡'/176, l='MpServer', x=120.50, y=68.00, z=406.50], EntitySkeleton['骷髅'/8881, l='MpServer', x=63.50, y=21.00, z=357.50], EntityChicken['鸡'/177, l='MpServer', x=121.51, y=64.00, z=414.12], EntitySkeleton['骷髅'/8882, l='MpServer', x=60.77, y=19.00, z=352.46], EntityChicken['鸡'/178, l='MpServer', x=121.50, y=67.00, z=406.50], EntityChicken['鸡'/179, l='MpServer', x=120.50, y=67.00, z=407.50], EntityCow['牛'/10675, l='MpServer', x=168.78, y=70.00, z=391.51], EntityCow['牛'/10676, l='MpServer', x=169.43, y=70.00, z=392.67], EntitySpider['蜘蛛'/12213, l='MpServer', x=86.50, y=19.00, z=381.50], EntityCow['牛'/10677, l='MpServer', x=166.80, y=71.00, z=393.48], EntityCreeper['爬行者'/11960, l='MpServer', x=91.50, y=20.00, z=327.50], EntitySkeleton['骷髅'/11962, l='MpServer', x=57.43, y=31.00, z=298.16], EntityCreeper['爬行者'/11963, l='MpServer', x=63.50, y=32.00, z=304.50], EntitySkeleton['骷髅'/11964, l='MpServer', x=59.50, y=32.00, z=302.50], EntitySkeleton['骷髅'/11965, l='MpServer', x=60.50, y=31.00, z=302.91], EntityZombie['僵尸'/11966, l='MpServer', x=112.75, y=57.00, z=315.66], EntityZombie['僵尸'/11967, l='MpServer', x=114.00, y=56.00, z=317.57], EntityBat['蝙蝠'/12228, l='MpServer', x=116.91, y=26.03, z=383.75], EntityBat['蝙蝠'/12229, l='MpServer', x=119.25, y=27.10, z=386.75], EntitySkeleton['骷髅'/11468, l='MpServer', x=79.50, y=25.00, z=335.78], EntitySkeleton['骷髅'/11470, l='MpServer', x=88.50, y=31.00, z=326.50], EntityChicken['鸡'/208, l='MpServer', x=150.51, y=67.00, z=336.77], EntityChicken['鸡'/209, l='MpServer', x=152.74, y=67.00, z=338.86], EntityZombie['僵尸'/5842, l='MpServer', x=42.50, y=33.00, z=307.50], EntityChicken['鸡'/210, l='MpServer', x=155.45, y=77.00, z=347.40], EntityChicken['鸡'/211, l='MpServer', x=159.50, y=68.00, z=340.50], EntityChicken['鸡'/212, l='MpServer', x=174.92, y=69.00, z=395.75], EntitySkeleton['骷髅'/11733, l='MpServer', x=107.50, y=32.00, z=334.50], EntitySkeleton['骷髅'/11734, l='MpServer', x=105.50, y=32.00, z=335.50], EntitySkeleton['骷髅'/11735, l='MpServer', x=104.50, y=32.00, z=338.50], EntitySkeleton['骷髅'/11736, l='MpServer', x=103.50, y=32.00, z=336.50], EntityCow['牛'/219, l='MpServer', x=174.59, y=69.00, z=394.98], EntityZombie['僵尸'/11232, l='MpServer', x=49.50, y=32.00, z=283.50], EntityCreeper['爬行者'/10724, l='MpServer', x=46.50, y=32.00, z=293.50], EntityCreeper['爬行者'/10725, l='MpServer', x=46.50, y=32.00, z=295.50], EntitySpider['蜘蛛'/11242, l='MpServer', x=117.50, y=52.00, z=359.50], EntityZombieVillager['僵尸村民'/11248, l='MpServer', x=66.50, y=30.00, z=303.50], EntityBat['蝙蝠'/12272, l='MpServer', x=75.25, y=24.10, z=351.25], EntityBat['蝙蝠'/9466, l='MpServer', x=86.47, y=55.07, z=325.50], EntityBat['蝙蝠'/9467, l='MpServer', x=78.51, y=59.77, z=332.31], EntitySkeleton['骷髅'/11771, l='MpServer', x=79.50, y=29.00, z=345.50], EntityBat['蝙蝠'/9468, l='MpServer', x=76.71, y=57.09, z=323.60]]
+	Server brand: fml,forge
+	Server type: Integrated singleplayer server
+Stacktrace:
+	at net.minecraft.client.multiplayer.WorldClient.func_72914_a(WorldClient.java:420)
+	at net.minecraft.client.Minecraft.func_71396_d(Minecraft.java:2741)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:419)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 7 (amd64) version 6.1
+	Java Version: 1.8.0_241, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 5935707064 bytes (5660 MB) / 8120172544 bytes (7744 MB) up to 8589934592 bytes (8192 MB)
+	LiteLoader Brand: 1.12.2-SNAPSHOT-r4CC2BB0-b4-4
+	LiteLoader Mods: 1 loaded mod(s)
+          - VoxelMap version 1.7.1
+	LaunchWrapper: 27 active transformer(s)
+          - Transformer: net.minecraftforge.fml.common.asm.transformers.PatchingTransformer
+          - Transformer: org.spongepowered.asm.mixin.transformer.Proxy
+          - Transformer: com.mumfrey.liteloader.transformers.event.EventProxyTransformer
+          - Transformer: com.mumfrey.liteloader.launch.LiteLoaderTransformer
+          - Transformer: com.mumfrey.liteloader.client.transformers.CrashReportTransformer
+          - Transformer: org.spongepowered.asm.mixin.transformer.Proxy
+          - Transformer: $wrapper.net.minecraftforge.fml.common.asm.transformers.SideTransformer
+          - Transformer: $wrapper.net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+          - Transformer: $wrapper.net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+          - Transformer: $wrapper.net.minecraftforge.fml.common.asm.transformers.SoundEngineFixTransformer
+          - Transformer: $wrapper.cn.lambdalib2.render.mc.PipelineTransformer
+          - Transformer: $wrapper.cn.lambdalib2.registry.impl.RegistryTransformer
+          - Transformer: $wrapper.customskinloader.forge.TransformerManager
+          - Transformer: net.minecraftforge.fml.common.asm.transformers.DeobfuscationTransformer
+          - Transformer: net.minecraftforge.fml.common.asm.transformers.AccessTransformer
+          - Transformer: net.minecraftforge.fml.common.asm.transformers.ModAccessTransformer
+          - Transformer: net.minecraftforge.fml.common.asm.transformers.ItemStackTransformer
+          - Transformer: net.minecraftforge.fml.common.asm.transformers.ItemBlockTransformer
+          - Transformer: net.minecraftforge.fml.common.asm.transformers.ItemBlockSpecialTransformer
+          - Transformer: net.minecraftforge.fml.common.asm.transformers.PotionEffectTransformer
+          - Transformer: net.minecraftforge.fml.common.asm.transformers.TerminalTransformer
+          - Transformer: org.spongepowered.asm.mixin.transformer.Proxy
+          - Transformer: com.mumfrey.liteloader.transformers.event.EventTransformer
+          - Transformer: com.mumfrey.liteloader.common.transformers.LiteLoaderPacketTransformer
+          - Transformer: com.mumfrey.liteloader.transformers.event.json.ModEventInjectionTransformer
+          - Transformer: org.spongepowered.asm.mixin.transformer.Proxy
+          - Transformer: net.minecraftforge.fml.common.asm.transformers.ModAPITransformer
+	JVM Flags: 11 total; -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=16M -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Xmn128m -Xmx8192m -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump
+	IntCache: cache: 0, tcache: 0, allocated: 12, tallocated: 94
+	FML: MCP 9.42 Powered by Forge 14.23.5.2847 19 mods loaded, 19 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State  | ID                | Version         | Source                                                | Signature                                |
+	|:------ |:----------------- |:--------------- |:----------------------------------------------------- |:---------------------------------------- |
+	| LCHIJA | minecraft         | 1.12.2          | minecraft.jar                                         | None                                     |
+	| LCHIJA | mcp               | 9.42            | minecraft.jar                                         | None                                     |
+	| LCHIJA | FML               | 8.0.99.99       | forge-1.12.2-14.23.5.2847.jar                         | None                                     |
+	| LCHIJA | forge             | 14.23.5.2847    | forge-1.12.2-14.23.5.2847.jar                         | None                                     |
+	| LCHIJA | LambdaLib|Core    | 0.1.9           | minecraft.jar                                         | None                                     |
+	| LCHIJA | lambdalib2        | 0.1.9           | AcademyCraft-1.1.2.jar                                | None                                     |
+	| LCHIJA | academy           | 1.1.2           | AcademyCraft-1.1.2.jar                                | None                                     |
+	| LCHIJA | codechickenlib    | 3.2.3.358       | CodeChickenLib-1.12.2-3.2.3.358-universal.jar         | f1850c39b2516232a2108a7bd84d1cb5df93b261 |
+	| LCHIJA | redstoneflux      | 2.1.0           | RedstoneFlux-1.12-2.1.0.6-universal.jar               | 8a6abf2cb9e141b866580d369ba6548732eff25f |
+	| LCHIJA | brandonscore      | 2.4.18          | BrandonsCore-1.12.2-2.4.18.210-universal.jar          | None                                     |
+	| LCHIJA | draconicevolution | 2.3.25          | Draconic-Evolution-1.12.2-2.3.25.351-universal.jar    | None                                     |
+	| LCHIJA | ic2               | 2.8.196-ex112   | industrialcraft-2-2.8.196-ex112.jar                   | de041f9f6187debbc77034a344134053277aa3b0 |
+	| LCHIJA | ptrmodellib       | 1.0.4           | PTRLib-1.0.4.jar                                      | None                                     |
+	| LCHIJA | worldedit         | 6.1.10-SNAPSHOT | 创世神-worldedit-forge-mc1.12.2-6.1.10-SNAPSHOT-dist.jar | None                                     |
+	| LCHIJA | cfm               | 6.3.1           | 家具-furniture-6.3.1-1.12.2.jar                         | None                                     |
+	| LCHIJA | props             | 2.6.3           | 更多装饰-Decocraft-2.6.3_1.12.2.jar                       | None                                     |
+	| LCHIJA | customskinloader  | 14.9            | 皮肤-CustomSkinLoader_Forge-14.9.jar                    | None                                     |
+	| LCHIJA | customnpcs        | 1.12            | 自定义NPC-CustomNPCs_1.12.2-(01Oct19).jar                | None                                     |
+	| LCHIJA | variedcommodities | 1.12.2          | 自定义NPC附属-VariedCommodities_1.12.2(21nov19).jar        | None                                     |
+
+	Loaded coremods (and transformers): 
+CorePlugin (AcademyCraft-1.1.2.jar)
+  cn.lambdalib2.render.mc.PipelineTransformer
+  cn.lambdalib2.registry.impl.RegistryTransformer
+ForgePlugin (皮肤-CustomSkinLoader_Forge-14.9.jar)
+  customskinloader.forge.TransformerManager
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 442.50' Renderer: 'GeForce GTX 960/PCIe/SSE2'
+	Launched Version: HMCL 3.3.157
+	LWJGL: 2.9.4
+	OpenGL: GeForce GTX 960/PCIe/SSE2 GL version 4.6.0 NVIDIA 442.50, NVIDIA Corporation
+	GL Caps: Using GL 1.3 multitexturing.
+Using GL 1.3 texture combiners.
+Using framebuffer objects because OpenGL 3.0 is supported and separate blending is supported.
+Shaders are available because OpenGL 2.1 is supported.
+VBOs are available because OpenGL 1.5 is supported.
+
+	Using VBOs: Yes
+	Is Modded: Definitely; Client brand changed to 'fml,forge,LiteLoader'
+	Type: Client (map_client.txt)
+	Resource Packs: 
+	Current Language: 简体中文 (中国)
+	Profiler Position: N/A (disabled)
+	CPU: 8x Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz
