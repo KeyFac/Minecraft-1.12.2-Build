@@ -1,0 +1,198 @@
+---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  CorePlugin (AcademyCraft-1.1.2.jar)
+Contact their authors BEFORE contacting forge
+
+// Uh... Did I do that?
+
+Time: 4/1/20 11:45 AM
+Description: Initializing game
+
+java.lang.NoClassDefFoundError: cpw/mods/fml/common/event/FMLInitializationEvent
+	at java.lang.Class.getDeclaredMethods0(Native Method)
+	at java.lang.Class.privateGetDeclaredMethods(Unknown Source)
+	at java.lang.Class.getDeclaredMethods(Unknown Source)
+	at net.minecraftforge.fml.common.FMLModContainer.gatherAnnotations(FMLModContainer.java:400)
+	at net.minecraftforge.fml.common.FMLModContainer.constructMod(FMLModContainer.java:595)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219)
+	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136)
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:595)
+	at net.minecraftforge.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:232)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:467)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+Caused by: java.lang.ClassNotFoundException: cpw.mods.fml.common.event.FMLInitializationEvent
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 41 more
+Caused by: java.lang.NullPointerException
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:182)
+	... 43 more
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Client thread
+Stacktrace:
+	at java.lang.Class.getDeclaredMethods0(Native Method)
+	at java.lang.Class.privateGetDeclaredMethods(Unknown Source)
+	at java.lang.Class.getDeclaredMethods(Unknown Source)
+	at net.minecraftforge.fml.common.FMLModContainer.gatherAnnotations(FMLModContainer.java:400)
+	at net.minecraftforge.fml.common.FMLModContainer.constructMod(FMLModContainer.java:595)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219)
+	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136)
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:595)
+	at net.minecraftforge.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:232)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:467)
+
+-- Initialization --
+Details:
+Stacktrace:
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 7 (amd64) version 6.1
+	Java Version: 1.8.0_60, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 143606704 bytes (136 MB) / 452984832 bytes (432 MB) up to 2147483648 bytes (2048 MB)
+	LiteLoader Brand: LiteLoader startup incomplete
+	LiteLoader Mods: LiteLoader startup incomplete
+	LaunchWrapper: 26 active transformer(s)
+          - Transformer: net.minecraftforge.fml.common.asm.transformers.PatchingTransformer
+          - Transformer: org.spongepowered.asm.mixin.transformer.Proxy
+          - Transformer: com.mumfrey.liteloader.transformers.event.EventProxyTransformer
+          - Transformer: com.mumfrey.liteloader.launch.LiteLoaderTransformer
+          - Transformer: com.mumfrey.liteloader.client.transformers.CrashReportTransformer
+          - Transformer: org.spongepowered.asm.mixin.transformer.Proxy
+          - Transformer: $wrapper.net.minecraftforge.fml.common.asm.transformers.SideTransformer
+          - Transformer: $wrapper.net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+          - Transformer: $wrapper.net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+          - Transformer: $wrapper.net.minecraftforge.fml.common.asm.transformers.SoundEngineFixTransformer
+          - Transformer: $wrapper.cn.lambdalib2.render.mc.PipelineTransformer
+          - Transformer: $wrapper.cn.lambdalib2.registry.impl.RegistryTransformer
+          - Transformer: net.minecraftforge.fml.common.asm.transformers.DeobfuscationTransformer
+          - Transformer: net.minecraftforge.fml.common.asm.transformers.AccessTransformer
+          - Transformer: net.minecraftforge.fml.common.asm.transformers.ModAccessTransformer
+          - Transformer: net.minecraftforge.fml.common.asm.transformers.ItemStackTransformer
+          - Transformer: net.minecraftforge.fml.common.asm.transformers.ItemBlockTransformer
+          - Transformer: net.minecraftforge.fml.common.asm.transformers.ItemBlockSpecialTransformer
+          - Transformer: net.minecraftforge.fml.common.asm.transformers.PotionEffectTransformer
+          - Transformer: net.minecraftforge.fml.common.asm.transformers.TerminalTransformer
+          - Transformer: org.spongepowered.asm.mixin.transformer.Proxy
+          - Transformer: com.mumfrey.liteloader.transformers.event.EventTransformer
+          - Transformer: com.mumfrey.liteloader.common.transformers.LiteLoaderPacketTransformer
+          - Transformer: com.mumfrey.liteloader.transformers.event.json.ModEventInjectionTransformer
+          - Transformer: org.spongepowered.asm.mixin.transformer.Proxy
+          - Transformer: net.minecraftforge.fml.common.asm.transformers.ModAPITransformer
+	JVM Flags: 11 total; -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=16M -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Xmn128m -Xmx2048m -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP 9.42 Powered by Forge 14.23.5.2847 18 mods loaded, 18 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State | ID                | Version         | Source                                             | Signature                                |
+	|:----- |:----------------- |:--------------- |:-------------------------------------------------- |:---------------------------------------- |
+	| LC    | minecraft         | 1.12.2          | minecraft.jar                                      | None                                     |
+	| LC    | mcp               | 9.42            | minecraft.jar                                      | None                                     |
+	| LC    | FML               | 8.0.99.99       | forge-1.12.2-14.23.5.2847.jar                      | None                                     |
+	| LC    | forge             | 14.23.5.2847    | forge-1.12.2-14.23.5.2847.jar                      | None                                     |
+	| LC    | LambdaLib|Core    | 0.1.9           | minecraft.jar                                      | None                                     |
+	| LC    | lambdalib2        | 0.1.9           | AcademyCraft-1.1.2.jar                             | None                                     |
+	| LC    | academy           | 1.1.2           | AcademyCraft-1.1.2.jar                             | None                                     |
+	| LC    | codechickenlib    | 3.2.3.358       | CodeChickenLib-1.12.2-3.2.3.358-universal.jar      | f1850c39b2516232a2108a7bd84d1cb5df93b261 |
+	| LC    | redstoneflux      | 2.1.0           | RedstoneFlux-1.12-2.1.0.6-universal.jar            | 8a6abf2cb9e141b866580d369ba6548732eff25f |
+	| LC    | brandonscore      | 2.4.18          | BrandonsCore-1.12.2-2.4.18.210-universal.jar       | None                                     |
+	| LC    | customnpcs        | 1.12            | CustomNPCs_1.12.2-(01Oct19).jar                    | None                                     |
+	| LC    | ptrmodellib       | 1.0.4           | PTRLib-1.0.4.jar                                   | None                                     |
+	| LC    | props             | 2.6.3           | Decocraft-2.6.3_1.12.2.jar                         | None                                     |
+	| L     | draconicevolution | 2.3.25          | Draconic-Evolution-1.12.2-2.3.25.351-universal.jar | None                                     |
+	| L     | cfm               | 6.3.1           | furniture-6.3.1-1.12.2.jar                         | None                                     |
+	| L     | ic2               | 2.8.170-ex112   | industrialcraft-2-2.8.170-ex112.jar                | None                                     |
+	| L     | variedcommodities | 1.12.2          | VariedCommodities_1.12.2(21nov19).jar              | None                                     |
+	| L     | worldedit         | 6.1.10-SNAPSHOT | worldedit-forge-mc1.12.2-6.1.10-SNAPSHOT-dist.jar  | None                                     |
+
+	Loaded coremods (and transformers): 
+CorePlugin (AcademyCraft-1.1.2.jar)
+  cn.lambdalib2.render.mc.PipelineTransformer
+  cn.lambdalib2.registry.impl.RegistryTransformer
+	GL info: ' Vendor: 'ATI Technologies Inc.' Version: '4.5.13491 Compatibility Profile Context 22.19.662.4' Renderer: 'Radeon RX 550 Series'
+	Launched Version: HMCL 3.3.157
+	LWJGL: 2.9.4
+	OpenGL: Radeon RX 550 Series GL version 4.5.13491 Compatibility Profile Context 22.19.662.4, ATI Technologies Inc.
+	GL Caps: Using GL 1.3 multitexturing.
+Using GL 1.3 texture combiners.
+Using framebuffer objects because OpenGL 3.0 is supported and separate blending is supported.
+Shaders are available because OpenGL 2.1 is supported.
+VBOs are available because OpenGL 1.5 is supported.
+
+	Using VBOs: Yes
+	Is Modded: Definitely; Client brand changed to 'fml,forge,LiteLoader'
+	Type: Client (map_client.txt)
+	Resource Packs: 
+	Current Language: 简体中文 (中国)
+	Profiler Position: N/A (disabled)
+	CPU: 8x Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz
