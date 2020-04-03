@@ -1,8 +1,0 @@
-{
-  "awesome.bullet_hit": {
-    "max_distance": 16.0,
-    "sounds": [
-      "sounds/bullet_hit"
-    ]
-  }
-}
