@@ -11,7 +11,7 @@ bobView:true
 anaglyph3d:false
 maxFps:120
 fboEnable:true
-difficulty:0
+difficulty:3
 fancyGraphics:true
 ao:2
 renderClouds:true
@@ -107,7 +107,7 @@ key_key.cycleAttackAOE:0
 key_key.toggleShields:0
 key_WorldEdit Reference:183
 key_key.minimap.voxelmapmenu:36
-key_key.minimap.waypointmenu:0
+key_key.minimap.waypointmenu:41
 key_key.minimap.zoom:52
 key_key.minimap.togglefullscreen:37
 key_key.minimap.waypointhotkey:51
