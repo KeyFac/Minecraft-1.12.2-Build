@@ -71,10 +71,10 @@
   "accounts": [
     {
       "serverBaseURL": "https://mcskin.littleservice.cn/api/yggdrasil/",
-      "clientToken": "400d5410931c4218b49d333b58e694e4",
+      "clientToken": "93bbdafdbd1348fdae968fc2efe270e5",
       "displayName": "gele178",
       "userProperties": {},
-      "accessToken": "359d3cb99eef4f5fa0ec4d3978c86e1c",
+      "accessToken": "e3e20ff0879241d6b624a6cbeaf0c90e",
       "profileProperties": {
         "textures": "eyJ0aW1lc3RhbXAiOjE1OTI2NTQ2NTY5NjQsInByb2ZpbGVJZCI6IjYyNmQyZWRlODY5OTQyMWE4ZGQwODM5ZDhmZjhlODRkIiwicHJvZmlsZU5hbWUiOiJnZWxlMTc4IiwiaXNQdWJsaWMiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cHM6Ly9tY3NraW4ubGl0dGxlc2VydmljZS5jbi90ZXh0dXJlcy8zOTk2ODNkZDFlZWJiZWNkOGI0MmRlMGE4MzhhNDI3ZDNhY2QxMmQxY2I2YzIxN2FhZGMyMTFmMTAxNzE1NTBkIn0sIkNBUEUiOnsidXJsIjoiaHR0cHM6Ly9tY3NraW4ubGl0dGxlc2VydmljZS5jbi90ZXh0dXJlcy9mMjdkOTNmZTk3NjUzYmY3MWUxOGMwNjRmM2U2YjQ2OTM5MWQ0Yzc0ODI3MDY0YTA4Y2ViNWI1YWU5ODVjNTdlIn19fQ\u003d\u003d"
       },

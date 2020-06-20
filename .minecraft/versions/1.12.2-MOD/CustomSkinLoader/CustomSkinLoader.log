@@ -1,12 +1,12 @@
-[2020-04-12 13:52:30] [pool-4-thread-1 INFO] CustomSkinLoader 14.9
-[2020-04-12 13:52:30] [pool-4-thread-1 INFO] DataDir: D:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\CustomSkinLoader
-[2020-04-12 13:52:30] [pool-4-thread-1 INFO] Minecraft: 1.12.2(1.12.2-MOD)
-[2020-04-12 13:52:30] [pool-4-thread-1 INFO] Config File: D:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\CustomSkinLoader\CustomSkinLoader.json
-[2020-04-12 13:52:30] [pool-4-thread-1 INFO] Try to load config.
-[2020-04-12 13:52:30] [pool-4-thread-1 INFO] Successfully load config.
-[2020-04-12 13:52:31] [pool-4-thread-1 INFO] EnableDynamicSkull:true, EnableTranSkin:true, IgnoreHttpsCertificate:false, CacheExpiry:30, EnableUpdateSkull:false, EnableLocalProfileCache:false, EnableCacheAutoClean:false, LoadList:6
-[2020-04-12 13:52:31] [gele178 INFO] Loading gele178's profile.
-[2020-04-12 13:52:31] [gele178 INFO] 1/6 Try to load profile from 'Mojang'.
-[2020-04-12 13:52:31] [gele178 INFO] Default profile will be used.
-[2020-04-12 13:52:31] [gele178 INFO] gele178's profile loaded.
-[2020-04-12 13:52:31] [gele178 INFO] (SkinUrl: https://mcskin.littleservice.cn/textures/399683dd1eebbecd8b42de0a838a427d3acd12d1cb6c217aadc211f10171550d , Model: default , CapeUrl: https://mcskin.littleservice.cn/textures/f27d93fe97653bf71e18c064f3e6b469391d4c74827064a08ceb5b5ae985c57e  , Expiry: 1586670786)
+[2020-06-20 20:06:36] [pool-4-thread-1 INFO] CustomSkinLoader 14.9
+[2020-06-20 20:06:36] [pool-4-thread-1 INFO] DataDir: D:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\CustomSkinLoader
+[2020-06-20 20:06:36] [pool-4-thread-1 INFO] Minecraft: 1.12.2(1.12.2-MOD)
+[2020-06-20 20:06:36] [pool-4-thread-1 INFO] Config File: D:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\CustomSkinLoader\CustomSkinLoader.json
+[2020-06-20 20:06:36] [pool-4-thread-1 INFO] Try to load config.
+[2020-06-20 20:06:36] [pool-4-thread-1 INFO] Successfully load config.
+[2020-06-20 20:06:36] [pool-4-thread-1 INFO] EnableDynamicSkull:true, EnableTranSkin:true, IgnoreHttpsCertificate:false, CacheExpiry:30, EnableUpdateSkull:false, EnableLocalProfileCache:false, EnableCacheAutoClean:false, LoadList:6
+[2020-06-20 20:06:36] [gele178 INFO] Loading gele178's profile.
+[2020-06-20 20:06:36] [gele178 INFO] 1/6 Try to load profile from 'Mojang'.
+[2020-06-20 20:06:36] [gele178 INFO] Default profile will be used.
+[2020-06-20 20:06:36] [gele178 INFO] gele178's profile loaded.
+[2020-06-20 20:06:36] [gele178 INFO] (SkinUrl: https://mcskin.littleservice.cn/textures/399683dd1eebbecd8b42de0a838a427d3acd12d1cb6c217aadc211f10171550d , Model: default , CapeUrl: https://mcskin.littleservice.cn/textures/f27d93fe97653bf71e18c064f3e6b469391d4c74827064a08ceb5b5ae985c57e  , Expiry: 1592654831)
