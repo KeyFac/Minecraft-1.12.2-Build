@@ -1,0 +1,58 @@
+[2020-02-17 18:27:31] [pool-5-thread-1 INFO] CustomSkinLoader 14.10a
+[2020-02-17 18:27:31] [pool-5-thread-1 INFO] DataDir: F:\Game\压缩包\.minecraft\CustomSkinLoader
+[2020-02-17 18:27:31] [pool-5-thread-1 INFO] Minecraft: 1.12.2(1.12.2-XSqjm)
+[2020-02-17 18:27:31] [pool-5-thread-1 INFO] Config File: F:\Game\压缩包\.minecraft\CustomSkinLoader\CustomSkinLoader.json
+[2020-02-17 18:27:31] [pool-5-thread-1 INFO] Try to load config.
+[2020-02-17 18:27:31] [pool-5-thread-1 INFO] Successfully load config.
+[2020-02-17 18:27:31] [pool-5-thread-1 INFO] version : 14.10
+[2020-02-17 18:27:31] [pool-5-thread-1 INFO] enableDynamicSkull : true
+[2020-02-17 18:27:31] [pool-5-thread-1 INFO] enableTransparentSkin : true
+[2020-02-17 18:27:31] [pool-5-thread-1 INFO] ignoreHttpsCertificate : false
+[2020-02-17 18:27:31] [pool-5-thread-1 INFO] forceLoadAllTextures : false
+[2020-02-17 18:27:31] [pool-5-thread-1 INFO] enableCape : true
+[2020-02-17 18:27:31] [pool-5-thread-1 INFO] cacheExpiry : 30
+[2020-02-17 18:27:31] [pool-5-thread-1 INFO] enableUpdateSkull : false
+[2020-02-17 18:27:31] [pool-5-thread-1 INFO] enableLocalProfileCache : false
+[2020-02-17 18:27:31] [pool-5-thread-1 INFO] enableCacheAutoClean : false
+[2020-02-17 18:27:31] [pool-5-thread-1 INFO] loadList : 6
+[2020-02-17 18:27:31] [XSqjm INFO] Loading XSqjm's profile.
+[2020-02-17 18:27:31] [XSqjm INFO] 1/6 Try to load profile from 'Mojang'.
+[2020-02-17 18:27:31] [XSqjm DEBUG] Try to request 'https://api.mojang.com/users/profiles/minecraft/XSqjm'.
+[2020-02-17 18:27:31] [XSqjm DEBUG] Cache file found (Length: 0 , Path: 'F:\Game\压缩包\.minecraft\CustomSkinLoader\caches\ca691fbf66017cf4e14096a78cc155488965b938' , Expire: 0')
+[2020-02-17 18:27:31] [XSqjm INFO] Try to load from cache 'F:\Game\压缩包\.minecraft\CustomSkinLoader\caches\ca691fbf66017cf4e14096a78cc155488965b938'.
+[2020-02-17 18:27:31] [XSqjm DEBUG] Successfully load from cache
+[2020-02-17 18:27:31] [XSqjm DEBUG] Content: 
+[2020-02-17 18:27:31] [XSqjm INFO] Profile not found.(XSqjm's profile not found.)
+[2020-02-17 18:27:31] [XSqjm INFO] 2/6 Try to load profile from 'LittleSkin'.
+[2020-02-17 18:27:31] [XSqjm DEBUG] Try to request 'https://littleskin.cn/XSqjm.json'.
+[2020-02-17 18:27:31] [XSqjm DEBUG] Successfully request (Response Code: 200 , Content Length: 181)
+[2020-02-17 18:27:31] [XSqjm DEBUG] Saved to cache (Length: 181 , Path: 'F:\Game\压缩包\.minecraft\CustomSkinLoader\caches\57a6ae08a137e31f730fe51168ee1b04754a02fe' , Expire: 1581935341)
+[2020-02-17 18:27:31] [XSqjm DEBUG] Content: {"username":"XSqjm","skins":{"default":"ee5cb71a05424d1c92f2fb4e13bd3ad9ed074dfbe408efafb94c22b5727998a2"},"cape":"c1afb55f5b2a3cf8826315e9c7b46db7810b0639de8ca98a94ecfcfa8bbef533"}
+[2020-02-17 18:27:31] [XSqjm INFO] XSqjm's profile loaded.
+[2020-02-17 18:27:31] [XSqjm INFO] (SkinUrl: https://littleskin.cn/textures/ee5cb71a05424d1c92f2fb4e13bd3ad9ed074dfbe408efafb94c22b5727998a2 , Model: default , CapeUrl: https://littleskin.cn/textures/c1afb55f5b2a3cf8826315e9c7b46db7810b0639de8ca98a94ecfcfa8bbef533  , Expiry: 1581935286)
+[2020-02-17 18:27:43] [CZS_hodo INFO] Loading CZS_hodo's profile.
+[2020-02-17 18:27:43] [CZS_hodo INFO] 1/6 Try to load profile from 'Mojang'.
+[2020-02-17 18:27:43] [CZS_hodo DEBUG] Try to request 'https://api.mojang.com/users/profiles/minecraft/CZS_hodo'.
+[2020-02-17 18:27:43] [CZS_hodo DEBUG] Cache file found (Length: 59 , Path: 'F:\Game\压缩包\.minecraft\CustomSkinLoader\caches\c084f44f9d7b5e0e6181994c8a6c55a224bc221c' , Expire: 0')
+[2020-02-17 18:27:43] [CZS_hodo INFO] Try to load from cache 'F:\Game\压缩包\.minecraft\CustomSkinLoader\caches\c084f44f9d7b5e0e6181994c8a6c55a224bc221c'.
+[2020-02-17 18:27:43] [CZS_hodo DEBUG] Successfully load from cache
+[2020-02-17 18:27:43] [CZS_hodo DEBUG] Content: {"id":"4037173e010148c7afd2335a1472e88a","name":"CZS_hodo"}
+[2020-02-17 18:27:43] [CZS_hodo DEBUG] Try to request 'https://sessionserver.mojang.com/session/minecraft/profile/4037173e010148c7afd2335a1472e88a'.
+[2020-02-17 18:27:43] [CZS_hodo DEBUG] Successfully request (Response Code: 200 , Content Length: 453)
+[2020-02-17 18:27:43] [CZS_hodo DEBUG] Saved to cache (Length: 453 , Path: 'F:\Game\压缩包\.minecraft\CustomSkinLoader\caches\f071204def3a16952824abbae4503daee03f8cb8' , Expire: 1581935355)
+[2020-02-17 18:27:43] [CZS_hodo DEBUG] Content: {"id":"4037173e010148c7afd2335a1472e88a","name":"CZS_hodo","properties":[{"name":"textures","value":"eyJ0aW1lc3RhbXAiOjE1ODE5MzUyNzg4MDYsInByb2ZpbGVJZCI6IjQwMzcxNzNlMDEwMTQ4YzdhZmQyMzM1YTE0NzJlODhhIiwicHJvZmlsZU5hbWUiOiJDWlNfaG9kbyIsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hNGVhNzM3MTQzYjkzYTdiNWFhZWY0YTA0MjFmZmYyN2E5ZmEwZGRmYTZhNjAxZWI2M2JhZTk3MjAyYmI4YjciLCJtZXRhZGF0YSI6eyJtb2RlbCI6InNsaW0ifX19fQ=="}]}
+[2020-02-17 18:27:43] [CZS_hodo INFO] CZS_hodo's profile loaded.
+[2020-02-17 18:27:43] [CZS_hodo INFO] (SkinUrl: http://textures.minecraft.net/texture/a4ea737143b93a7b5aaef4a0421fff27a9fa0ddfa6a601eb63bae97202bb8b7 , Model: slim , CapeUrl: null  , Expiry: 1581935297)
+[2020-02-17 18:27:43] [minatoapua INFO] Loading minatoapua's profile.
+[2020-02-17 18:27:43] [minatoapua INFO] 1/6 Try to load profile from 'Mojang'.
+[2020-02-17 18:27:43] [minatoapua DEBUG] Try to request 'https://api.mojang.com/users/profiles/minecraft/minatoapua'.
+[2020-02-17 18:27:43] [minatoapua DEBUG] Cache file found (Length: 61 , Path: 'F:\Game\压缩包\.minecraft\CustomSkinLoader\caches\aecb71d02b07104412236003c06f5d20f5c6daa2' , Expire: 0')
+[2020-02-17 18:27:43] [minatoapua INFO] Try to load from cache 'F:\Game\压缩包\.minecraft\CustomSkinLoader\caches\aecb71d02b07104412236003c06f5d20f5c6daa2'.
+[2020-02-17 18:27:43] [minatoapua DEBUG] Successfully load from cache
+[2020-02-17 18:27:43] [minatoapua DEBUG] Content: {"id":"25da31672e2648f5b0cfa3c9684ff52d","name":"minatoapua"}
+[2020-02-17 18:27:43] [minatoapua DEBUG] Try to request 'https://sessionserver.mojang.com/session/minecraft/profile/25da31672e2648f5b0cfa3c9684ff52d'.
+[2020-02-17 18:27:44] [minatoapua DEBUG] Successfully request (Response Code: 200 , Content Length: 459)
+[2020-02-17 18:27:44] [minatoapua DEBUG] Saved to cache (Length: 459 , Path: 'F:\Game\压缩包\.minecraft\CustomSkinLoader\caches\83acf16041e5fed27a95bec25d92e56801cf2c17' , Expire: 1581935357)
+[2020-02-17 18:27:44] [minatoapua DEBUG] Content: {"id":"25da31672e2648f5b0cfa3c9684ff52d","name":"minatoapua","properties":[{"name":"textures","value":"eyJ0aW1lc3RhbXAiOjE1ODE5MzUyNzkxNDUsInByb2ZpbGVJZCI6IjI1ZGEzMTY3MmUyNjQ4ZjViMGNmYTNjOTY4NGZmNTJkIiwicHJvZmlsZU5hbWUiOiJtaW5hdG9hcHVhIiwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzYzYjIzOWViNjg3YWQ4Y2NlOTk1YTdlOTQzOGQ5ZTNkMzYzY2I1ZmNiMmUxNTZlMzllNDFlMGE2NzU3NzEyMDAiLCJtZXRhZGF0YSI6eyJtb2RlbCI6InNsaW0ifX19fQ=="}]}
+[2020-02-17 18:27:44] [minatoapua INFO] minatoapua's profile loaded.
+[2020-02-17 18:27:44] [minatoapua INFO] (SkinUrl: http://textures.minecraft.net/texture/63b239eb687ad8cce995a7e9438d9e3d363cb5fcb2e156e39e41e0a675771200 , Model: slim , CapeUrl: null  , Expiry: 1581935299)

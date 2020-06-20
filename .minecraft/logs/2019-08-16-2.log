@@ -1,0 +1,70 @@
+[19:55:19] [Client thread/INFO]: Setting user: gele178
+[19:55:22] [Client thread/INFO]: LWJGL Version: 3.2.2 build 10
+[19:55:26] [Client thread/INFO]: Narrator library for x64 successfully loaded
+[19:55:29] [Client thread/INFO]: OpenAL initialized.
+[19:55:29] [Client thread/INFO]: Sound engine started
+[19:55:30] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[19:55:30] [Client thread/INFO]: Created: 256x256 textures/particle-atlas
+[19:55:30] [Client thread/INFO]: Created: 256x256 textures/painting-atlas
+[19:55:30] [Client thread/INFO]: Created: 256x128 textures/mob_effect-atlas
+[19:55:31] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[19:55:47] [Client thread/INFO]: Connecting to mc.redstoner.cn., 38842
+[19:55:50] [Client thread/WARN]: Unknown custom packed identifier: minecraft:register
+[19:55:50] [Client thread/INFO]: [CHAT] §c请使用/login登录已经注册过的帐号或者使用/reg注册！
+[19:55:50] [Client thread/WARN]: Unknown custom packed identifier: minecraft:register
+[19:55:50] [Client thread/INFO]: [CHAT] 
+[19:55:52] [Client thread/INFO]: [CHAT] C-winorld >> 请输入 “/login <密码>” 以登录
+[19:55:57] [Client thread/INFO]: [CHAT] C-winorld >> 已成功登录!
+[19:55:59] [Client thread/INFO]: [CHAT] 玩家 gele178 被传送到了 cz 服务器.
+[19:55:59] [Client thread/FATAL]: Error executing task on Client
+java.lang.NullPointerException: null
+	at cti.a(SourceFile:220) ~[1.14.4.jar:?]
+	at dkc.a(SourceFile:1993) ~[1.14.4.jar:?]
+	at nb.a(SourceFile:122) ~[1.14.4.jar:?]
+	at nb.a(SourceFile:16) ~[1.14.4.jar:?]
+	at ke.a(SourceFile:21) ~[1.14.4.jar:?]
+	at agq.h(SourceFile:144) [1.14.4.jar:?]
+	at agu.h(SourceFile:23) [1.14.4.jar:?]
+	at agq.q(SourceFile:118) [1.14.4.jar:?]
+	at agq.bh(SourceFile:103) [1.14.4.jar:?]
+	at cyc.e(SourceFile:915) [1.14.4.jar:?]
+	at cyc.b(SourceFile:410) [1.14.4.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:155) [1.14.4.jar:?]
+[19:55:59] [Client thread/WARN]: Unknown custom packed identifier: minecraft:register
+[19:55:59] [Client thread/INFO]: [CHAT] C-winorld >> gele178 加入了服务器。
+[19:56:00] [Client thread/INFO]: Loaded 5 advancements
+[19:56:00] [Client thread/INFO]: [CHAT] C-winorld >> 加载中~
+[19:56:14] [Client thread/INFO]: [CHAT] [+]gele178 → 终于！
+[19:56:16] [Client thread/INFO]: [CHAT] [R]258456 → ?
+[19:56:19] [Client thread/INFO]: [CHAT] C-winorld >> 支持1.12.2所有物品哦，下载1.12来体验服务器吧。地址：http://redstoner.cn/zip
+[19:56:30] [Client thread/INFO]: [CHAT] [+]gele178 → 我不受数据库骚扰了！
+[19:56:32] [Client thread/INFO]: [CHAT] [R]df33 → 有没有给0t的无延时中继器
+[19:56:33] [Client thread/INFO]: [CHAT] [R]df33 → 有没有给0t的无延时中继器
+[19:56:33] [Client thread/INFO]: [CHAT] 点200 已添加到你的银行账户
+[19:56:33] [Client thread/INFO]: [CHAT] [第2签][末吉]人间有人泣，鬼界有鬼哭。
+[19:56:47] [Client thread/INFO]: [CHAT] [+]1231235242789asd → 0t
+[19:56:49] [Client thread/INFO]: [CHAT] 请求已发送给 [R]258456
+[19:56:49] [Client thread/INFO]: [CHAT] 想要取消这个传送请求？ 请输入 /tpacancel.
+[19:56:52] [Client thread/INFO]: [CHAT] [R]258456 接受了你的传送请求
+[19:56:52] [Client thread/INFO]: [CHAT] 正在传送至 [R]258456.
+[19:56:57] [Client thread/INFO]: [CHAT] [R]昵:Duskydream → peach
+[19:56:59] [Client thread/INFO]: [CHAT] C-winorld >> wuowa666 离开了服务器。
+[19:57:03] [Client thread/INFO]: [CHAT] [+]1231235242789asd → 0t本身
+[19:57:06] [Client thread/INFO]: [CHAT] [+]1231235242789asd → e
+[19:57:09] [Client thread/INFO]: [CHAT] C-winorld >> M组拥有VS权限，MASTER_WORLD世界权限。使用mp指令还能给予其他玩家世界权限
+[19:57:10] [Client thread/INFO]: [CHAT] [R]258456 → Grinp9_,开始不
+[19:57:22] [Client thread/INFO]: [CHAT] [+]gele178 → 我有一个想法
+[19:57:25] [Client thread/INFO]: [CHAT] C-winorld >> Forest_dusk_D 离开了服务器。
+[19:57:29] [Client thread/INFO]: [CHAT] C-winorld >> Forest_dusk_D 加入了服务器。
+[19:57:44] [Client thread/INFO]: [CHAT] [+]gele178 → give me op
+[19:57:49] [Client thread/INFO]: [CHAT] [R]258456 → ........
+[19:57:50] [Client thread/INFO]: [CHAT] [R]昵:Duskydream → peach
+[19:57:57] [Client thread/INFO]: [CHAT] [+]gele178 → I will make a scorbord
+[19:57:59] [Client thread/INFO]: [CHAT] [+]gele178 → I will make a scorboard
+[19:57:59] [Client thread/INFO]: [CHAT] C-winorld >> warp可以自己设置哦，不过要收取300点数，warp会出现在坐标大全里面哦
+[19:58:07] [Client thread/INFO]: [CHAT] [R]258456 → sorry you can not
+[19:58:08] [Client thread/INFO]: [CHAT] [R]昵:Duskydream → 哪个哦【
+[19:58:12] [Client thread/INFO]: [CHAT] [R]昵:Duskydream → 哪个op不会
+[19:58:17] [Client thread/INFO]: [CHAT] [R]昵:Duskydream → scorboard
+[19:58:19] [Client thread/INFO]: [CHAT] [+]gele178 → 我把指令发你
+[19:58:27] [Client thread/INFO]: [CHAT] [R]258456 → ♂啊

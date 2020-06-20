@@ -1,0 +1,1566 @@
+[12:56:47] [Client thread/INFO]: Setting user: gele178
+[12:56:52] [Client thread/WARN]: Skipping bad option: lastServer:
+[12:56:52] [Client thread/WARN]: Skipping bad option: textBackgroundOpacity:
+[12:56:52] [Client thread/INFO]: LWJGL Version: 3.2.2 build 10
+[12:56:56] [Client thread/INFO]: Narrator library for x64 successfully loaded
+[12:56:59] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[12:57:00] [Client thread/INFO]: OpenAL initialized.
+[12:57:00] [Client thread/INFO]: Sound engine started
+[12:57:00] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[12:57:00] [Client thread/INFO]: Created: 256x256 textures/particle-atlas
+[12:57:00] [Client thread/INFO]: Created: 256x256 textures/painting-atlas
+[12:57:00] [Client thread/INFO]: Created: 256x128 textures/mob_effect-atlas
+[12:57:50] [Client thread/ERROR]: Can't ping redstoner.cn: 连接超时
+[12:58:29] [Client thread/INFO]: Connecting to mc.redstoner.cn., 38842
+[12:58:30] [Client thread/WARN]: Unknown custom packed identifier: minecraft:register
+[12:58:30] [Client thread/INFO]: [CHAT] §c请使用/login登录已经注册过的帐号或者使用/reg注册！
+[12:58:30] [Client thread/WARN]: Unknown custom packed identifier: minecraft:register
+[12:58:30] [Client thread/INFO]: [CHAT] 
+[12:58:32] [Client thread/INFO]: [CHAT] C-winorld >> 请使用指令 “/register <密码> <密码>” 注册
+[12:58:48] [Client thread/INFO]: [CHAT] 您需要先通过验证才能聊天!
+[12:59:01] [Client thread/INFO]: [CHAT] C-winorld >> 已成功注册!
+[12:59:01] [Client thread/INFO]: [CHAT] C-winorld >> 已成功登录!
+[12:59:09] [Client thread/INFO]: [CHAT] C-winorld >> 做建筑，红石可以获得人民币？了解一下，http://redstoner.cn/better
+[12:59:22] [Client thread/INFO]: [CHAT] 正在发送请求...
+[12:59:22] [Client thread/INFO]: [CHAT] 你不在正版用户列表中!
+[12:59:44] [Client thread/INFO]: [CHAT] 玩家 gele178 被传送到了 cz 服务器.
+[12:59:44] [Client thread/FATAL]: Error executing task on Client
+java.lang.NullPointerException: null
+	at cti.a(SourceFile:220) ~[1.14.4.jar:?]
+	at dkc.a(SourceFile:1993) ~[1.14.4.jar:?]
+	at nb.a(SourceFile:122) ~[1.14.4.jar:?]
+	at nb.a(SourceFile:16) ~[1.14.4.jar:?]
+	at ke.a(SourceFile:21) ~[1.14.4.jar:?]
+	at agq.h(SourceFile:144) [1.14.4.jar:?]
+	at agu.h(SourceFile:23) [1.14.4.jar:?]
+	at agq.q(SourceFile:118) [1.14.4.jar:?]
+	at agq.bh(SourceFile:103) [1.14.4.jar:?]
+	at cyc.e(SourceFile:915) [1.14.4.jar:?]
+	at cyc.b(SourceFile:410) [1.14.4.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:155) [1.14.4.jar:?]
+[12:59:44] [Client thread/WARN]: Unknown custom packed identifier: minecraft:register
+[12:59:44] [Client thread/INFO]: [CHAT] C-winorld >> gele178 加入了服务器。
+[12:59:44] [Client thread/INFO]: [CHAT] C-winorld >> 加载中~
+[12:59:46] [Client thread/INFO]: [CHAT] [R]df33 → 不会
+[12:59:49] [Client thread/INFO]: [CHAT] [+]gele178 → .
+[12:59:57] [Client thread/INFO]: [CHAT] [地皮系统] 你已被传送
+[12:59:57] [Client thread/INFO]: [CHAT] [地皮系统] 你成功的领取了地皮
+[12:59:59] [Client thread/INFO]: [CHAT] C-winorld >> 输入 /zb 完成正版认证领取奖励。
+[13:00:00] [Client thread/INFO]: [CHAT] [+]yuan_yuan_233[喵] → 0k
+[13:00:04] [Client thread/INFO]: [CHAT] C-winorld >> 请输入正确的命令进行正版认证
+[13:00:04] [Client thread/INFO]: [CHAT] C-winorld >> 指令为: /zb <邮箱> <密码>
+[13:00:04] [Client thread/INFO]: [CHAT] C-winorld >> 成功后可获得1000点，工具箱领取称号
+[13:00:09] [Client thread/INFO]: [CHAT] [+]Grinp9_[凤] → sb
+[13:00:14] [Client thread/INFO]: [CHAT] [R]df33 → bs
+[13:00:21] [Client thread/INFO]: [CHAT] [+]258456 → 嗯
+[13:00:23] [Client thread/INFO]: [CHAT] 请求已发送给 [+]258456
+[13:00:23] [Client thread/INFO]: [CHAT] 想要取消这个传送请求？ 请输入 /tpacancel.
+[13:00:27] [Client thread/INFO]: [CHAT] [+]258456 接受了你的传送请求
+[13:00:27] [Client thread/INFO]: [CHAT] 正在传送至 [+]258456.
+[13:00:31] [Client thread/INFO]: [CHAT] C-winorld >> newname 加入了服务器。
+[13:00:33] [Client thread/INFO]: [CHAT] [地皮聊天][-18;-28] [+]____Sdferuh____: df33
+[13:00:39] [Client thread/INFO]: [CHAT] [+]yuan_yuan_233[喵] → 0
+[13:00:41] [Client thread/INFO]: [CHAT] [[+]258456 -> 我] hi
+[13:00:44] [Client thread/INFO]: [CHAT] [地皮聊天][-18;-28] [+]____Sdferuh____: 你是否记得这个骚操作
+[13:00:44] [Client thread/INFO]: Reloading ResourceManager: Default, Programmer Art
+[13:00:45] [Client thread/INFO]: [CHAT] [地皮聊天][-18;-28] [+]____Sdferuh____: df33
+[13:00:46] [Client thread/INFO]: OpenAL initialized.
+[13:00:46] [Client thread/INFO]: Sound engine started
+[13:00:46] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[13:00:46] [Client thread/INFO]: Created: 256x256 textures/particle-atlas
+[13:00:46] [Client thread/INFO]: Created: 256x256 textures/painting-atlas
+[13:00:46] [Client thread/INFO]: Created: 256x128 textures/mob_effect-atlas
+[13:00:49] [Client thread/INFO]: [CHAT] C-winorld >> 服务器的点数和点券是2个不同单位哦，前者是是游戏币，后者是充值获得。
+[13:00:50] [Client thread/INFO]: [CHAT] [+]Grinp9_[凤] → hape
+[13:00:53] [Client thread/INFO]: [CHAT] [地皮聊天][-18;-28] [+]____Sdferuh____: df33
+[13:00:56] [Client thread/INFO]: [CHAT] [地皮聊天][-18;-28] [+]____Sdferuh____: 你是否记得这个骚操作
+[13:01:12] [Client thread/INFO]: [CHAT] [地皮聊天][-18;-28] [+]____Sdferuh____: df33
+[13:01:12] [Client thread/INFO]: [CHAT] C-winorld >> luoye 加入了服务器。
+[13:01:15] [Client thread/INFO]: [CHAT] [地皮聊天][-18;-28] [+]____Sdferuh____: 你是否记得这个骚操作
+[13:01:17] [Client thread/INFO]: [CHAT] [R]df33 → jide
+[13:01:21] [Client thread/INFO]: [CHAT] [+]luoye → ?
+[13:01:22] [Client thread/INFO]: [CHAT] [+]258456 → 哇..............
+[13:01:22] [Client thread/INFO]: [CHAT] [R]df33 → 级的
+[13:01:24] [Client thread/INFO]: [CHAT] [地皮聊天][-18;-28] [+]____Sdferuh____: 233
+[13:01:25] [Client thread/INFO]: [CHAT] [+]yuan_yuan_233[喵] → cnm
+[13:01:30] [Client thread/INFO]: [CHAT] [地皮聊天][-18;-28] [+]____Sdferuh____: 那个人是我小号
+[13:01:30] [Client thread/INFO]: [CHAT] [+]258456 → 很迷.........
+[13:01:35] [Client thread/INFO]: [CHAT] C-winorld >> xiaob0 离开了服务器。
+[13:01:39] [Client thread/INFO]: [CHAT] C-winorld >> 手拿燧石右击空气查看惊喜！【开始自定义盔甲架吧】
+[13:01:50] [Client thread/INFO]: Loaded 3 advancements
+[13:01:53] [Client thread/INFO]: [CHAT] [+]yuan_yuan_233[喵] → 不对啊
+[13:01:55] [Client thread/INFO]: [CHAT] [地皮聊天][-18;-28] [+]____Sdferuh____: .
+[13:02:01] [Client thread/INFO]: [CHAT] [地皮系统] 使一位管理员设置标志： use
+[13:02:05] [Client thread/INFO]: [CHAT] 点200 已添加到你的银行账户
+[13:02:05] [Client thread/INFO]: [CHAT] [第1签][半吉]天命如露滴，如幻更似虚，相逢若相知，逝去也足矣。
+[13:02:18] [Client thread/INFO]: [CHAT] [+]yuan_yuan_233[喵] → 好像不对
+[13:02:23] [Client thread/INFO]: [CHAT] [R]a_smart_pig → 啥呀
+[13:02:29] [Client thread/INFO]: [CHAT] C-winorld >> R组输入/hd回档建筑。水世界来体验吧~
+[13:02:33] [Client thread/INFO]: [CHAT] [地皮聊天][-18;-28] [+]____Sdferuh____: .
+[13:02:35] [Client thread/INFO]: [CHAT] [+]RS_yan_di → 树门
+[13:02:36] [Client thread/INFO]: [CHAT] [+]258456 → df33,要不要更着我一起做一个骚操作，那天我不是做了个3*3感应门吗
+[13:02:41] [Client thread/INFO]: [CHAT] [R]df33 → en
+[13:02:48] [Client thread/INFO]: [CHAT] [+]258456 → 我试试做个4*4感应
+[13:02:52] [Client thread/INFO]: [CHAT] [R]a_smart_pig → 给我看看效果
+[13:03:02] [Client thread/INFO]: [CHAT] CoreProtect - 查询模式已开启.
+[13:03:02] [Client thread/INFO]: [CHAT] NightVision > Night vision enabled!
+[13:03:05] [Client thread/INFO]: [CHAT] [R]df33 → 666
+[13:03:19] [Client thread/INFO]: [CHAT] C-winorld >> 服务器支持上传和下载存档了~请查看http://redstoner.cn/transport.html
+[13:03:25] [Client thread/INFO]: [CHAT] C-winorld >> Evolution 加入了服务器。
+[13:03:25] [Client thread/INFO]: [CHAT] [+]RS_yan_di → 可怕的时序
+[13:03:29] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:03:37] [Client thread/INFO]: [CHAT] [R]df33 → wc
+[13:03:40] [Client thread/INFO]: [CHAT] [R]df33 → 为什么删了
+[13:03:43] [Client thread/INFO]: [CHAT] [R]df33 → 挺好玩的啊
+[13:03:50] [Client thread/INFO]: [CHAT] [R]df33 → .
+[13:04:05] [Client thread/INFO]: [CHAT] C-winorld >> newname 离开了服务器。
+[13:04:09] [Client thread/INFO]: [CHAT] C-winorld >> /p tp 和 /speed 普通玩家都可以使用了
+[13:04:31] [Client thread/INFO]: [CHAT] C-winorld >> Med_Cupcake 加入了服务器。
+[13:04:51] [Client thread/INFO]: [CHAT] 正在回到上一位置.
+[13:04:54] [Client thread/INFO]: [CHAT] 正在回到上一位置.
+[13:04:54] [Client thread/INFO]: [CHAT] 错误:传送冷却:1 秒.
+[13:04:55] [Client thread/INFO]: [CHAT] 正在回到上一位置.
+[13:04:55] [Client thread/INFO]: [CHAT] 错误:传送冷却:现在.
+[13:04:56] [Client thread/INFO]: [CHAT] 正在回到上一位置.
+[13:04:59] [Client thread/INFO]: [CHAT] 请求已发送给 [+]258456
+[13:04:59] [Client thread/INFO]: [CHAT] 想要取消这个传送请求？ 请输入 /tpacancel.
+[13:04:59] [Client thread/INFO]: [CHAT] C-winorld >> 给予其他玩家权限请注意！p add 给予玩家权限不能使用WE。\np trust 给予玩家权限可以使用WE。如果不是信任玩家请不要给予trust权限。
+[13:05:00] [Client thread/INFO]: [CHAT] C-winorld >> lbwnb_233 加入了服务器。
+[13:05:02] [Client thread/INFO]: [CHAT] [+]258456 接受了你的传送请求
+[13:05:02] [Client thread/INFO]: [CHAT] 正在传送至 [+]258456.
+[13:05:02] [Sound engine/ERROR]: Stop: Invalid name parameter.
+[13:05:08] [Client thread/INFO]: [CHAT] [R]Evolution → xddd
+[13:05:14] [Client thread/INFO]: [CHAT] CoreProtect - 数据库繁忙. 请稍候再试.
+[13:05:15] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:05:16] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:05:26] [Client thread/INFO]: [CHAT] [+]____Sdferuh____ → .
+[13:05:26] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:05:27] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:05:28] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:05:31] [Client thread/INFO]: [CHAT] CoreProtect - 数据库繁忙. 请稍候再试.
+[13:05:31] [Client thread/INFO]: [CHAT] CoreProtect - 数据库繁忙. 请稍候再试.
+[13:05:32] [Client thread/INFO]: [CHAT] [+]lbwnb_233 → .
+[13:05:33] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:05:33] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:05:33] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:05:34] [Client thread/INFO]: [CHAT] [+]lbwnb_233 → ..
+[13:05:38] [Client thread/INFO]: [CHAT] [+]RS_yan_di → 2333
+[13:05:43] [Client thread/INFO]: [CHAT] [R]Evolution → 2333
+[13:05:49] [Client thread/INFO]: [CHAT] C-winorld >> 想获得永久权限组？查看http://redstoner.cn/tieba/group
+[13:05:58] [Client thread/INFO]: [CHAT] [+]gele178 → 没有小木斧吗？
+[13:06:01] [Client thread/INFO]: [CHAT] [+]258456 → 有啊
+[13:06:05] [Client thread/INFO]: [CHAT] ----- CoreProtect ----- (x1773/y20/z-3479)
+[13:06:05] [Client thread/INFO]: [CHAT] 69.88/h ago - wws 放置了 quartz_block.
+[13:06:05] [Client thread/INFO]: [CHAT] 69.97/h ago - wws 破坏了 redstone_block.
+[13:06:05] [Client thread/INFO]: [CHAT] 69.97/h ago - wws 放置了 redstone_block.
+[13:06:05] [Client thread/INFO]: [CHAT] 69.97/h ago - wws 破坏了 redstone_block.
+[13:06:05] [Client thread/INFO]: [CHAT] 69.97/h ago - wws 放置了 redstone_block.
+[13:06:05] [Client thread/INFO]: [CHAT] 69.97/h ago - wws 破坏了 redstone_block.
+[13:06:05] [Client thread/INFO]: [CHAT] 69.97/h ago - wws 放置了 redstone_block.
+[13:06:06] [Client thread/INFO]: [CHAT] ----- CoreProtect ----- (x1773/y20/z-3479)
+[13:06:06] [Client thread/INFO]: [CHAT] 69.88/h ago - wws 放置了 quartz_block.
+[13:06:06] [Client thread/INFO]: [CHAT] 69.97/h ago - wws 破坏了 redstone_block.
+[13:06:06] [Client thread/INFO]: [CHAT] 69.97/h ago - wws 放置了 redstone_block.
+[13:06:06] [Client thread/INFO]: [CHAT] 69.97/h ago - wws 破坏了 redstone_block.
+[13:06:06] [Client thread/INFO]: [CHAT] 69.97/h ago - wws 放置了 redstone_block.
+[13:06:06] [Client thread/INFO]: [CHAT] 69.97/h ago - wws 破坏了 redstone_block.
+[13:06:06] [Client thread/INFO]: [CHAT] 69.97/h ago - wws 放置了 redstone_block.
+[13:06:07] [Client thread/INFO]: [CHAT] ----- CoreProtect ----- (x1773/y20/z-3478)
+[13:06:07] [Client thread/INFO]: [CHAT] 69.88/h ago - wws 放置了 quartz_block.
+[13:06:08] [Client thread/INFO]: [CHAT] [+]gele178 → e
+[13:06:17] [Client thread/INFO]: [CHAT] [+]gele178 → 我是说创世神
+[13:06:19] [Client thread/INFO]: [CHAT] ----- CoreProtect ----- (x1773/y22/z-3477)
+[13:06:19] [Client thread/INFO]: [CHAT] 0.00/h ago - 258456 放置了 quartz_block.
+[13:06:20] [Client thread/INFO]: [CHAT] ----- CoreProtect ----- (x1773/y22/z-3477)
+[13:06:20] [Client thread/INFO]: [CHAT] 0.00/h ago - 258456 放置了 quartz_block.
+[13:06:20] [Client thread/INFO]: [CHAT] ----- CoreProtect ----- (x1773/y22/z-3478)
+[13:06:20] [Client thread/INFO]: [CHAT] 0.00/h ago - 258456 放置了 quartz_block.
+[13:06:21] [Client thread/INFO]: [CHAT] ----- CoreProtect ----- (x1773/y22/z-3480)
+[13:06:21] [Client thread/INFO]: [CHAT] 0.00/h ago - 258456 放置了 quartz_block.
+[13:06:21] [Client thread/INFO]: [CHAT] ----- CoreProtect ----- (x1773/y21/z-3481)
+[13:06:21] [Client thread/INFO]: [CHAT] 0.00/h ago - 258456 放置了 quartz_block.
+[13:06:22] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:06:23] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:06:24] [Client thread/INFO]: [CHAT] ----- CoreProtect ----- (x1773/y22/z-3480)
+[13:06:24] [Client thread/INFO]: [CHAT] 0.00/h ago - 258456 放置了 quartz_block.
+[13:06:24] [Client thread/INFO]: [CHAT] [+]258456 → 对啊
+[13:06:24] [Client thread/INFO]: [CHAT] ----- CoreProtect ----- (x1773/y22/z-3478)
+[13:06:24] [Client thread/INFO]: [CHAT] 0.00/h ago - 258456 放置了 quartz_block.
+[13:06:30] [Client thread/INFO]: [CHAT] C-winorld >>  设置点 [1] 为坐标 (1775, 22, -3479) 选择的方块[]个
+[13:06:35] [Client thread/INFO]: [CHAT] [+]gele178 → e?
+[13:06:38] [Client thread/INFO]: [CHAT] [+]luoye → g
+[13:06:39] [Client thread/INFO]: [CHAT] C-winorld >> 服务器卫星地图了解一下？查看http://redstoner.cn/map
+[13:06:40] [Client thread/INFO]: [CHAT] C-winorld >>  设置点 [1] 为坐标 (1791, 33, -3468) 选择的方块[]个
+[13:06:44] [Client thread/INFO]: [CHAT] C-winorld >>  设置点 [2] 为坐标 (1797, 33, -3463) 选择的方块[42]个
+[13:06:48] [Client thread/INFO]: [CHAT] C-winorld >>  您的WorldEdit操作已取消: 使用 /wea来解除限制, 或设置`region-restrictions`选项为false在config.yml内.
+[13:06:54] [Client thread/INFO]: [CHAT] C-winorld >>  您缺少权限: fawe.admin
+[13:06:59] [Client thread/INFO]: [CHAT] [+]gele178 → emmm
+[13:07:03] [Client thread/INFO]: [CHAT] [+]gele178 → ./wea
+[13:07:11] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:07:13] [Client thread/INFO]: [CHAT] [+]yuan_yuan_233[喵] → 火把能接这脉冲吗
+[13:07:17] [Client thread/INFO]: [CHAT] CoreProtect - 数据库繁忙. 请稍候再试.
+[13:07:17] [Client thread/INFO]: [CHAT] CoreProtect - 数据库繁忙. 请稍候再试.
+[13:07:17] [Client thread/INFO]: [CHAT] CoreProtect - 数据库繁忙. 请稍候再试.
+[13:07:17] [Client thread/INFO]: [CHAT] [+]Grinp9_[凤] → ??
+[13:07:18] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:07:18] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:07:19] [Client thread/INFO]: [CHAT] ----- CoreProtect ----- (x1804/y39/z-3460)
+[13:07:19] [Client thread/INFO]: [CHAT] 385.83/h ago - 258456 破坏了 quartz_block.
+[13:07:19] [Client thread/INFO]: [CHAT] 385.83/h ago - 258456 放置了 quartz_block.
+[13:07:19] [Client thread/INFO]: [CHAT] 385.83/h ago - 258456 破坏了 quartz_block.
+[13:07:19] [Client thread/INFO]: [CHAT] 385.83/h ago - 258456 放置了 quartz_block.
+[13:07:19] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:07:20] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:07:21] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:07:22] [Client thread/INFO]: [CHAT] [+]Grinp9_[凤] → 康康
+[13:07:22] [Client thread/INFO]: [CHAT] ----- CoreProtect ----- (x1807/y43/z-3465)
+[13:07:22] [Client thread/INFO]: [CHAT] 431.96/h ago - 258456 放置了 redstone_wire.
+[13:07:27] [Client thread/INFO]: [CHAT] [+]yuan_yuan_233[喵] → 不能
+[13:07:28] [Client thread/INFO]: [CHAT] [+]258456 → df33,做4*4感应吧
+[13:07:29] [Client thread/INFO]: [CHAT] C-winorld >> /pay 玩家 点数 给建筑师一点打赏吧，可以离线打赏的~
+[13:07:39] [Client thread/INFO]: [CHAT] [R]df33 → 中建四个活塞
+[13:07:42] [Client thread/INFO]: [CHAT] [R]df33 → ？
+[13:07:46] [Client thread/INFO]: [CHAT] [+]lbwnb_233 → .
+[13:07:48] [Client thread/INFO]: [CHAT] C-winorld >> Med_Cupcake 离开了服务器。
+[13:07:50] [Client thread/INFO]: [CHAT] CoreProtect - 数据库繁忙. 请稍候再试.
+[13:07:54] [Client thread/INFO]: [CHAT] [R]df33 → 中间四个活塞吗
+[13:07:58] [Client thread/INFO]: [CHAT] [+]258456 → 这两个位置活塞
+[13:07:59] [Client thread/INFO]: [CHAT] [+]RS_yan_di → 我的脑细胞已经死完了
+[13:08:04] [Client thread/INFO]: [CHAT] [+]yuan_yuan_233[喵] → 不xing
+[13:08:08] [Client thread/INFO]: [CHAT] [+]gele178 → CoreProtect怎么关
+[13:08:11] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:08:12] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:08:15] [Client thread/INFO]: [CHAT] ----- 玩家互动记录 ----- (x1774/y18/z-3486)
+[13:08:15] [Client thread/INFO]: [CHAT] 0.02/h ago - df33 点击了 wood_button.
+[13:08:15] [Client thread/INFO]: [CHAT] 0.03/h ago - df33 点击了 wood_button.
+[13:08:15] [Client thread/INFO]: [CHAT] 0.04/h ago - 258456 点击了 wood_button.
+[13:08:15] [Client thread/INFO]: [CHAT] 0.05/h ago - 258456 点击了 wood_button.
+[13:08:15] [Client thread/INFO]: [CHAT] 0.05/h ago - 258456 点击了 wood_button.
+[13:08:15] [Client thread/INFO]: [CHAT] 0.05/h ago - 258456 点击了 wood_button.
+[13:08:15] [Client thread/INFO]: [CHAT] 64.44/h ago - wws 点击了 wood_button.
+[13:08:15] [Client thread/INFO]: [CHAT] -----
+[13:08:15] [Client thread/INFO]: [CHAT] 页数1/11. 需要查看更老的数据请输入 "/co l <页数>".\n
+[13:08:19] [Client thread/INFO]: [CHAT] C-winorld >> 可以@他人哦。 @juan_maku
+[13:08:22] [Client thread/INFO]: [CHAT] [R]df33 → 侧边怎么办
+[13:08:32] [Client thread/INFO]: [CHAT] [+]258456 → 侧吸2
+[13:08:32] [Client thread/INFO]: [CHAT] C-winorld >> aibh 加入了服务器。
+[13:08:35] [Client thread/INFO]: [CHAT] ----- 玩家互动记录 ----- (x1790/y23/z-3520)
+[13:08:35] [Client thread/INFO]: [CHAT] 70.17/h ago - wws 点击了 lever.
+[13:08:35] [Client thread/INFO]: [CHAT] 144.53/h ago - HaiL_Fried 点击了 lever.
+[13:08:36] [Client thread/INFO]: [CHAT] ----- 玩家互动记录 ----- (x1790/y23/z-3520)
+[13:08:36] [Client thread/INFO]: [CHAT] 70.17/h ago - wws 点击了 lever.
+[13:08:36] [Client thread/INFO]: [CHAT] 144.53/h ago - HaiL_Fried 点击了 lever.
+[13:08:48] [Client thread/INFO]: [CHAT] [+]Grinp9_[凤] → 在康康
+[13:08:49] [Client thread/INFO]: [CHAT] C-winorld >> NaNO2Fish 离开了服务器。
+[13:08:56] [Client thread/INFO]: Loaded 4 advancements
+[13:09:09] [Client thread/INFO]: [CHAT] C-winorld >> 羡慕玩家后缀？在菜单氪金箱子里面可以抽哦，钥匙在魔法商店购买。
+[13:09:10] [Client thread/INFO]: [CHAT] [+]lbwnb_233 → ..
+[13:09:25] [Client thread/INFO]: [CHAT] [R]df33 → 侧边怎么办
+[13:09:33] [Client thread/INFO]: [CHAT] [+]258456 → 嗯???
+[13:09:59] [Client thread/INFO]: [CHAT] C-winorld >> 你发布的作品后面如果可以提到 C-winorld~我们会非常感谢的Thanks?(?ω?)?
+[13:10:04] [Client thread/INFO]: [CHAT] C-winorld >> luoye 离开了服务器。
+[13:10:05] [Client thread/INFO]: [CHAT] [+]aibh → =-=
+[13:10:06] [Client thread/INFO]: [CHAT] [R]df33 → no
+[13:10:30] [Client thread/INFO]: [CHAT] [+]Grinp9_[凤] → 想到了
+[13:10:45] [Client thread/INFO]: [CHAT] [+]yuan_yuan_233[喵] → 2t用活塞整成持续激活的
+[13:10:49] [Client thread/INFO]: [CHAT] [+]Grinp9_[凤] → 这样
+[13:10:49] [Client thread/INFO]: [CHAT] C-winorld >> B组可以使用实体家具，狗窝，浴盆哦~具体查看工具箱
+[13:11:24] [Client thread/INFO]: [CHAT] [+]258456 → df33稍等一下，吃午饭...........
+[13:11:31] [Client thread/INFO]: [CHAT] [+]yuan_yuan_233[喵] → tq1
+[13:11:39] [Client thread/INFO]: [CHAT] C-winorld >> 菜单里面有材质包选择哦，有各种有趣的材质包哦
+[13:11:39] [Client thread/INFO]: [CHAT] *[+]258456 暂时离开了.
+[13:11:45] [Client thread/INFO]: [CHAT] C-winorld >> HMENH4 加入了服务器。
+[13:11:56] [Client thread/INFO]: [CHAT] [+]Grinp9_[凤] → 怎么传上去是另一个问题
+[13:12:05] [Client thread/INFO]: [CHAT] [地皮系统] 你已被传送
+[13:12:19] [Client thread/INFO]: [CHAT] [R]df33 → tp错认了
+[13:12:21] [Client thread/INFO]: [CHAT] [地皮系统] 你已被传送
+[13:12:22] [Client thread/INFO]: [CHAT] [R]df33 → 尴尬
+[13:12:26] [Client thread/INFO]: [CHAT] [地皮系统] 你已被传送
+[13:12:29] [Client thread/INFO]: [CHAT] C-winorld >> 工具箱中找到无限夜视，取消称号，自定义旗帜等玩法哦
+[13:12:31] [Client thread/INFO]: [CHAT] [地皮系统] 你没有权限！ (plots.worldedit.bypass)
+[13:12:53] [Client thread/INFO]: [CHAT] C-winorld >> df33 离开了服务器。
+[13:13:19] [Client thread/INFO]: [CHAT] C-winorld >> 女生可以认证[+]称号？地址：http://redstoner.cn/gw
+[13:13:23] [Client thread/INFO]: [CHAT] [+]Grinp9_[凤] → tql
+[13:13:32] [Client thread/INFO]: [CHAT] C-winorld >> df33 加入了服务器。
+[13:13:44] [Client thread/INFO]: [CHAT] [R]df33 → wc
+[13:13:45] [Client thread/INFO]: [CHAT] [+]Grinp9_[凤] → tql
+[13:13:50] [Client thread/INFO]: [CHAT] [+]yuan_yuan_233[喵] → tq1
+[13:14:09] [Client thread/INFO]: [CHAT] C-winorld >> 支持1.12.2所有物品哦，下载1.12来体验服务器吧。地址：http://redstoner.cn/zip
+[13:14:13] [Client thread/INFO]: [CHAT] [R]df33 → ?
+[13:14:19] [Client thread/INFO]: [CHAT] *[+]258456 回来了.
+[13:14:21] [Client thread/INFO]: [CHAT] [+]Grinp9_[凤] → gg
+[13:14:29] [Client thread/INFO]: [CHAT] C-winorld >> Ender_Camdrew 加入了服务器。
+[13:14:36] [Client thread/INFO]: [CHAT] [+]昵:Hatsune__Miku → wa
+[13:14:44] [Client thread/INFO]: [CHAT] [R]df33 → nali
+[13:14:47] [Client thread/INFO]: [CHAT] [+]yuan_yuan_233[喵] → 试试
+[13:14:47] [Client thread/INFO]: [CHAT] [地皮系统] 你已被传送
+[13:14:48] [Client thread/INFO]: [CHAT] [R]df33 → 哪里
+[13:14:54] [Client thread/INFO]: [CHAT] *[+]1231235242789asd 回来了.
+[13:14:59] [Client thread/INFO]: [CHAT] C-winorld >> M组拥有VS权限，MASTER_WORLD世界权限。使用mp指令还能给予其他玩家世界权限
+[13:15:01] [Client thread/INFO]: [CHAT] I'm sorry, but you do not have permission to perform this command. Please contact the server administrators if you believe that this is in error.
+[13:15:04] [Client thread/INFO]: [CHAT] I'm sorry, but you do not have permission to perform this command. Please contact the server administrators if you believe that this is in error.
+[13:15:04] [Client thread/INFO]: [CHAT] [+]Grinp9_[凤] → 应该⑧行
+[13:15:07] [Client thread/INFO]: [CHAT] [R]df33 → ok
+[13:15:11] [Client thread/INFO]: [CHAT] I'm sorry, but you do not have permission to perform this command. Please contact the server administrators if you believe that this is in error.
+[13:15:44] [Client thread/INFO]: [CHAT] [R]a_smart_pig → ......
+[13:15:46] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:15:47] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:15:48] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:15:48] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:15:49] [Client thread/INFO]: [CHAT] [+]Grinp9_[凤] → ......
+[13:15:49] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:15:50] [Client thread/INFO]: [CHAT] C-winorld >> warp可以自己设置哦，不过要收取300点数，warp会出现在坐标大全里面哦
+[13:15:50] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:15:53] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:15:53] [Client thread/INFO]: [CHAT] [R]df33 → ok
+[13:15:54] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:15:54] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:15:54] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:15:54] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:15:55] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:15:55] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:15:55] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:15:55] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:15:56] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:15:57] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:15:58] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:15:58] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:15:58] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:15:58] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:15:58] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:15:59] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:15:59] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:00] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:00] [Client thread/INFO]: [CHAT] [+]Grinp9_[凤] → 跟随大佬的语言，我也变大佬了
+[13:16:01] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:01] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:09] [Client thread/INFO]: [CHAT] [+]gele178 → CoreProtect怎么关
+[13:16:11] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:16] [Client thread/INFO]: [CHAT] [+]mao124 → .
+[13:16:29] [Client thread/INFO]: [CHAT] CoreProtect - 命令 "/cooff" 找不到.
+[13:16:35] [Client thread/INFO]: [CHAT] CoreProtect - 你没有权限执行这个命令.
+[13:16:39] [Client thread/INFO]: [CHAT] C-winorld >> 首次充值点券可获得1.25的翻倍奖励哦~
+[13:16:40] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:40] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:41] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:42] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:43] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:44] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:44] [Client thread/INFO]: [CHAT] CoreProtect - 数据库繁忙. 请稍候再试.
+[13:16:44] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:44] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:45] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:45] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:45] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:45] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:45] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:46] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:46] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:46] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:46] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:46] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:47] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:47] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:47] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:47] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:47] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:47] [Client thread/INFO]: [CHAT] [R]df33 → .
+[13:16:48] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:48] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:49] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:49] [Client thread/INFO]: [CHAT] CoreProtect - 数据库繁忙. 请稍候再试.
+[13:16:49] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:49] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:49] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:50] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:50] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:50] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:50] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:50] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:51] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:51] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:51] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:51] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:51] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:52] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:52] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:52] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:52] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:52] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:53] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:53] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:54] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:54] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:55] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:55] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:55] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:56] [Client thread/INFO]: [CHAT] C-winorld >> HMENH4 离开了服务器。
+[13:16:56] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:56] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:56] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:56] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:57] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:57] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:57] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:58] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:58] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:58] [Client thread/INFO]: [CHAT] [+]Grinp9_[凤] → tql
+[13:16:58] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:58] [Client thread/INFO]: [CHAT] C-winorld >> Masamenco 加入了服务器。
+[13:16:59] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:59] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:59] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:16:59] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:17:00] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:17:03] [Client thread/INFO]: [CHAT] [+]yuan_yuan_233[喵] → tq1
+[13:17:12] [Client thread/INFO]: [CHAT] [+]Grinp9_[凤] → gg
+[13:17:22] [Client thread/INFO]: [CHAT] [地皮系统] 你不能再领取更多地皮了
+[13:17:29] [Client thread/INFO]: [CHAT] C-winorld >> 主菜单中可以签到哦，领取点券和点数，购买红石和建筑区权限
+[13:17:30] [Client thread/INFO]: [CHAT] [R]df33 → ender别隐身
+[13:17:30] [Client thread/INFO]: [CHAT] --------- 地皮帮助 ---------
+[13:17:30] [Client thread/INFO]: [CHAT] 类型: ALL, 页面： 1/7
+[13:17:30] [Client thread/INFO]: [CHAT] /plot buy (buy)
+[13:17:30] [Client thread/INFO]: [CHAT]  - 购买所在的地皮
+[13:17:30] [Client thread/INFO]: [CHAT] /plot save (save|backup)
+[13:17:30] [Client thread/INFO]: [CHAT]  - 导出地皮模型
+[13:17:30] [Client thread/INFO]: [CHAT] /plot confirm (confirm)
+[13:17:30] [Client thread/INFO]: [CHAT]  - 确认操作
+[13:17:30] [Client thread/INFO]: [CHAT] /plot download [schematic|bo3|world] (download|dl)
+[13:17:30] [Client thread/INFO]: [CHAT]  - 上传文件
+[13:17:30] [Client thread/INFO]: [CHAT] --------- 地皮帮助 ---------
+[13:17:38] [Client thread/INFO]: [CHAT] [+]昵:Hatsune__Miku → 不算隐身
+[13:17:45] [Client thread/INFO]: [CHAT] [R]df33 → 那怎么看不见
+[13:17:52] [Client thread/INFO]: [CHAT] [+]yuan_yuan_233[喵] → ?
+[13:17:57] [Client thread/INFO]: [CHAT] [+]昵:Hatsune__Miku → 雨女无瓜
+[13:17:58] [Client thread/INFO]: [CHAT] [地皮系统] 你需要地皮主人权限
+[13:18:01] [Client thread/INFO]: [CHAT] [地皮系统] 你不能再领取更多地皮了
+[13:18:04] [Client thread/INFO]: [CHAT] C-winorld >> aibh 离开了服务器。
+[13:18:05] [Client thread/INFO]: [CHAT] [+]mao124 → ./gm 3 ?
+[13:18:06] [Client thread/INFO]: [CHAT] [地皮系统] 你已被传送
+[13:18:08] [Client thread/INFO]: [CHAT] [地皮系统] 你不在一个地皮中
+[13:18:13] [Client thread/INFO]: [CHAT] [地皮系统] 你是否要执行: /plot delete 20;25?
+[13:18:13] [Client thread/INFO]: [CHAT] 该操作不可逆! 如果确定请输入: /plot confirm
+[13:18:19] [Client thread/INFO]: [CHAT] C-winorld >> 氪金箱子可以获得其他地方得不到的权限和称号哦，宠物，权限等
+[13:18:21] [Client thread/INFO]: [CHAT] *[+]1231235242789asd 暂时离开了.
+[13:18:23] [Client thread/INFO]: [CHAT] [地皮系统] Delete completed! Took 950ms.
+[13:18:28] [Client thread/INFO]: [CHAT] [地皮系统] 你已被传送
+[13:18:28] [Client thread/INFO]: [CHAT] [地皮系统] 你成功的领取了地皮
+[13:18:34] [Client thread/INFO]: [CHAT] [R]a_smart_pig → .......
+[13:18:40] [Client thread/INFO]: [CHAT] C-winorld >> WsdomClearlove9 离开了服务器。
+[13:18:44] [Client thread/INFO]: [CHAT] [地皮系统] 你已被传送
+[13:18:45] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:18:45] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:18:45] [Client thread/INFO]: [CHAT] C-winorld >> 1231235242789asd 离开了服务器。
+[13:18:52] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:18:52] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:18:53] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:18:53] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:18:53] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:18:54] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:18:54] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:18:55] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:19:01] [Client thread/INFO]: [CHAT] C-winorld >> aibh 加入了服务器。
+[13:19:09] [Client thread/INFO]: [CHAT] C-winorld >> 菜单不见了？ 输入/spawn 可以打开菜单哦，或者直接那个钟~
+[13:19:20] [Client thread/INFO]: [CHAT] C-winorld >> aibh 离开了服务器。
+[13:19:33] [Client thread/INFO]: [CHAT] Teleporting to F星界霸主...
+[13:19:39] [Client thread/INFO]: [CHAT] [地皮系统] 你已被传送
+[13:19:42] [Client thread/INFO]: [CHAT] C-winorld >> aibh 加入了服务器。
+[13:19:48] [Client thread/INFO]: [CHAT] 你今天已经签到过了
+[13:19:50] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:19:50] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:19:50] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:19:51] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:19:51] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:19:51] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:19:51] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:19:51] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:19:51] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:19:52] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:19:52] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:19:52] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:19:52] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:19:52] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:19:53] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:19:53] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:19:53] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:19:53] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:19:53] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:19:53] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:19:53] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:19:54] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:19:54] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:19:54] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:19:54] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:19:54] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:19:55] [Client thread/INFO]: [CHAT] [R]df33 → 莎普ass♂
+[13:19:55] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:19:55] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:19:55] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:19:56] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:19:56] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:19:56] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:19:56] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:19:57] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:19:59] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:19:59] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:19:59] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:19:59] [Client thread/INFO]: [CHAT] C-winorld >> 卡地狱门弄得没办法出去？重进服务器会恢复~记得举报小坏蛋。
+[13:19:59] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:20:00] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:20:00] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:20:00] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:20:01] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:20:01] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:20:01] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:20:06] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:20:07] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:20:07] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:20:07] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:20:07] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:20:08] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:20:08] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:20:08] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:20:09] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:20:48] [Client thread/INFO]: [CHAT] [+]Grinp9_[凤] → 上面要改
+[13:20:49] [Client thread/INFO]: [CHAT] C-winorld >> 充值点券可以扫描二维码，充值地址：http://redstoner.cn/pay
+[13:21:39] [Client thread/INFO]: [CHAT] C-winorld >> 红模玩家/sg 数量指令获得不可堆叠物品。
+[13:21:48] [Client thread/INFO]: [CHAT] C-winorld >> 请输入数量，获得可折叠数量。
+[13:21:51] [Client thread/INFO]: [CHAT] 给予 [+]gele178  2 个 wood pickaxe.
+[13:21:51] [Client thread/INFO]: Loaded 5 advancements
+[13:22:00] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:00] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:00] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:01] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:01] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:01] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:01] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:01] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:01] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:01] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:01] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:01] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:02] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:02] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:02] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:02] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:02] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:03] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:03] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:03] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:03] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:03] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:04] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:04] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:04] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:04] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:04] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:05] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:05] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:05] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:05] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:05] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:06] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:06] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:06] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:06] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:07] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:07] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:07] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:07] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:07] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:07] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:08] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:08] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:08] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:08] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:08] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:09] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:09] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:09] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:09] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:10] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:10] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:10] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:10] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:11] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:11] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:11] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:11] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:11] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:11] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:11] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:11] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:11] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:12] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:12] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:12] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:12] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:12] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:12] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:12] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:12] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:13] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:13] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:13] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:13] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:13] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:13] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:13] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:13] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:13] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:14] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:14] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:14] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:14] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:14] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:14] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:14] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:15] [Client thread/INFO]: [CHAT] CoreProtect - 数据库繁忙. 请稍候再试.
+[13:22:15] [Client thread/INFO]: [CHAT] CoreProtect - 数据库繁忙. 请稍候再试.
+[13:22:15] [Client thread/INFO]: [CHAT] CoreProtect - 数据库繁忙. 请稍候再试.
+[13:22:15] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:15] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:15] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:15] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:15] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:15] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:15] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:16] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:16] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:16] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:16] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:16] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:16] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:16] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:16] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:16] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:17] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:17] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:17] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:17] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:17] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:22] [Client thread/INFO]: [CHAT] [+]Grinp9_[凤] → 我觉得
+[13:22:29] [Client thread/INFO]: [CHAT] C-winorld >> 招募宣传和技术，需要在16岁以上哦。服务器群 http://redstoner.cn/join
+[13:22:31] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:34] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:34] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:35] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:35] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:36] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:36] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:36] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:36] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:37] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:37] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:37] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:37] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:37] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:38] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:38] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:38] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:39] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:39] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:39] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:40] [Client thread/INFO]: [CHAT] [R]df33 → 8是
+[13:22:40] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:40] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:40] [Client thread/INFO]: [CHAT] [+]yuan_yuan_233[喵] → 0k
+[13:22:40] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:40] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:41] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:41] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:41] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:42] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:42] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:42] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:43] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:43] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:43] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:43] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:44] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:44] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:44] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:45] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:45] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:45] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:46] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:46] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:46] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:46] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:47] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:47] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:47] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:47] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:48] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:48] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:48] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:48] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:48] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:48] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:48] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:48] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:49] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:49] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:49] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:49] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:49] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:49] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:49] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:50] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:50] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:50] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:50] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:50] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:50] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:50] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:50] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:50] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:51] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:51] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:51] [Client thread/INFO]: [CHAT] CoreProtect - 数据库繁忙. 请稍候再试.
+[13:22:51] [Client thread/INFO]: [CHAT] CoreProtect - 数据库繁忙. 请稍候再试.
+[13:22:51] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:51] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:51] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:51] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:52] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:52] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:52] [Client thread/INFO]: [CHAT] [+]yuan_yuan_233[喵] → 试试
+[13:22:52] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:52] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:52] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:52] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:52] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:52] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:53] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:53] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:53] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:53] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:54] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:54] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:54] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:54] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:54] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:54] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:54] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:54] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:54] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:54] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:54] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:55] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:55] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:55] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:55] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:55] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:55] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:55] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:55] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:55] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:56] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:56] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:56] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:56] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:56] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:56] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:56] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:56] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:56] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:57] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:57] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:57] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:57] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:57] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:57] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:57] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:58] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:58] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:22:58] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:23:02] [Client thread/INFO]: [CHAT] [R]df33 → 练习搭路
+[13:23:21] [Client thread/INFO]: Reloading ResourceManager: Default, Programmer Art
+[13:23:22] [Client thread/INFO]: OpenAL initialized.
+[13:23:22] [Client thread/INFO]: Sound engine started
+[13:23:22] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[13:23:22] [Client thread/INFO]: Created: 256x256 textures/particle-atlas
+[13:23:22] [Client thread/INFO]: Created: 256x256 textures/painting-atlas
+[13:23:22] [Client thread/INFO]: Created: 256x128 textures/mob_effect-atlas
+[13:24:14] [Client thread/INFO]: Connecting to mc.redstoner.cn., 38842
+[13:24:20] [Client thread/INFO]: Connecting to mc.redstoner.cn., 38842
+[13:24:21] [Client thread/WARN]: Unknown custom packed identifier: minecraft:register
+[13:24:21] [Client thread/INFO]: [CHAT] §c请使用/login登录已经注册过的帐号或者使用/reg注册！
+[13:24:21] [Client thread/WARN]: Unknown custom packed identifier: minecraft:register
+[13:24:21] [Client thread/INFO]: [CHAT] 
+[13:24:22] [Client thread/INFO]: [CHAT] C-winorld >> 欢迎回来,已帮你自动登录到此服务器
+[13:24:22] [Client thread/INFO]: [CHAT] C-winorld >> 已成功登录!
+[13:24:28] [Client thread/INFO]: [CHAT] [C-winorld] 已将您传送回大厅.
+[13:24:42] [Client thread/INFO]: [CHAT] 玩家 gele178 被传送到了 cz 服务器.
+[13:24:42] [Client thread/FATAL]: Error executing task on Client
+java.lang.NullPointerException: null
+	at cti.a(SourceFile:220) ~[1.14.4.jar:?]
+	at dkc.a(SourceFile:1993) ~[1.14.4.jar:?]
+	at nb.a(SourceFile:122) ~[1.14.4.jar:?]
+	at nb.a(SourceFile:16) ~[1.14.4.jar:?]
+	at ke.a(SourceFile:21) ~[1.14.4.jar:?]
+	at agq.h(SourceFile:144) [1.14.4.jar:?]
+	at agu.h(SourceFile:23) [1.14.4.jar:?]
+	at agq.q(SourceFile:118) [1.14.4.jar:?]
+	at agq.bh(SourceFile:103) [1.14.4.jar:?]
+	at cyc.e(SourceFile:915) [1.14.4.jar:?]
+	at cyc.b(SourceFile:410) [1.14.4.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:155) [1.14.4.jar:?]
+[13:24:42] [Client thread/WARN]: Unknown custom packed identifier: minecraft:register
+[13:24:42] [Client thread/INFO]: [CHAT] C-winorld >> gele178 加入了服务器。
+[13:24:42] [Client thread/INFO]: [CHAT] C-winorld >> 加载中~
+[13:24:42] [Client thread/INFO]: Loaded 5 advancements
+[13:24:44] [Client thread/INFO]: [CHAT] [R]df33 → 233
+[13:24:50] [Client thread/INFO]: [CHAT] [+]RS_yan_di → 这个树门的时序 秀的我头皮发麻
+[13:24:51] [Client thread/INFO]: [CHAT] [+]yuan_yuan_233[喵] → 哇不能吧这脉冲信号改成1吗
+[13:24:59] [Client thread/INFO]: [CHAT] C-winorld >> 菜单有工具礼包，音符盒，强模工具，便利的开始你的设计。
+[13:25:11] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:25:12] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:25:12] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:25:13] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:25:13] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:25:18] [Client thread/INFO]: [CHAT] [+]yuan_yuan_233[喵] → 似乎不能收
+[13:25:30] [Client thread/INFO]: [CHAT] C-winorld >> ocelot 加入了服务器。
+[13:25:31] [Client thread/INFO]: [CHAT] [R]df33 → wulix的就算了(
+[13:25:47] [Client thread/INFO]: [CHAT] C-winorld >> Kevin_6783 加入了服务器。
+[13:25:49] [Client thread/INFO]: [CHAT] C-winorld >> 服务器有反背包编辑器检测，检测到编辑器物品会直接清空背包~
+[13:25:53] [Client thread/INFO]: [CHAT] [+]mao124 → em..
+[13:25:55] [Client thread/INFO]: [CHAT] [+]yuan_yuan_233[喵] → 他说无沙，，
+[13:25:59] [Client thread/INFO]: [CHAT] C-winorld >> Masamenco 离开了服务器。
+[13:25:59] [Client thread/INFO]: [CHAT] [+]Grinp9_[凤] → .
+[13:26:01] [Client thread/INFO]: [CHAT] [+]RS_yan_di → 这个树门的时序 秀的我头皮发麻
+[13:26:14] [Client thread/INFO]: [CHAT] [R]df33 → 好像可以试试
+[13:26:39] [Client thread/INFO]: [CHAT] C-winorld >> R组牌子可以使用彩色字体，没有拉杆时间，而且@玩家没有冷却时间。
+[13:27:11] [Client thread/INFO]: [CHAT] C-winorld >> Masamenco 加入了服务器。
+[13:27:14] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:27:14] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:27:14] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:27:14] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:27:14] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:27:14] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:27:14] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:27:14] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:27:15] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:27:15] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:27:15] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:27:29] [Client thread/INFO]: [CHAT] C-winorld >> 普通玩家可以在地皮使用WE，B组可以在more区使用WE权限哦
+[13:27:33] [Client thread/INFO]: [CHAT] [+]Grinp9_[凤] → sb
+[13:27:35] [Client thread/INFO]: [CHAT] [+]yuan_yuan_233[喵] → 狗屎
+[13:27:42] [Client thread/INFO]: [CHAT] [R]a_smart_pig → 算了不做单片了
+[13:28:19] [Client thread/INFO]: [CHAT] C-winorld >> R组玩家在菜单礼包中领取红石调试棒，对着活塞试试不吃亏哦
+[13:28:23] [Client thread/INFO]: [CHAT] C-winorld >> a_smart_pig 离开了服务器。
+[13:28:31] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:28:32] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:28:33] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:28:33] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:28:33] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:28:33] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:28:34] [Client thread/INFO]: [CHAT] [+]Grinp9_[凤] → 什么hape玩意
+[13:28:53] [Client thread/INFO]: [CHAT] [+]yuan_yuan_233[喵] → wa
+[13:29:07] [Client thread/INFO]: Reloading ResourceManager: Default, Programmer Art
+[13:29:08] [Client thread/INFO]: OpenAL initialized.
+[13:29:08] [Client thread/INFO]: Sound engine started
+[13:29:08] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[13:29:08] [Client thread/INFO]: Created: 256x256 textures/particle-atlas
+[13:29:08] [Client thread/INFO]: Created: 256x256 textures/painting-atlas
+[13:29:08] [Client thread/INFO]: Created: 256x128 textures/mob_effect-atlas
+[13:29:16] [Client thread/INFO]: Connecting to mc.redstoner.cn., 38842
+[13:29:25] [Client thread/WARN]: Unknown custom packed identifier: minecraft:register
+[13:29:25] [Client thread/INFO]: [CHAT] §c请使用/login登录已经注册过的帐号或者使用/reg注册！
+[13:29:25] [Client thread/WARN]: Unknown custom packed identifier: minecraft:register
+[13:29:25] [Client thread/INFO]: [CHAT] 
+[13:29:25] [Client thread/INFO]: [CHAT] C-winorld >> 欢迎回来,已帮你自动登录到此服务器
+[13:29:25] [Client thread/INFO]: [CHAT] C-winorld >> 已成功登录!
+[13:29:42] [Client thread/INFO]: [CHAT] 玩家 gele178 被传送到了 sc 服务器.
+[13:29:42] [Client thread/INFO]: [CHAT] Could not connect to a default or fallback server, please try again later: io.netty.channel.AbstractChannel$AnnotatedConnectException
+[13:29:44] [Client thread/INFO]: [CHAT] 玩家 gele178 被传送到了 cz 服务器.
+[13:29:44] [Client thread/FATAL]: Error executing task on Client
+java.lang.NullPointerException: null
+	at cti.a(SourceFile:220) ~[1.14.4.jar:?]
+	at dkc.a(SourceFile:1993) ~[1.14.4.jar:?]
+	at nb.a(SourceFile:122) ~[1.14.4.jar:?]
+	at nb.a(SourceFile:16) ~[1.14.4.jar:?]
+	at ke.a(SourceFile:21) ~[1.14.4.jar:?]
+	at agq.h(SourceFile:144) [1.14.4.jar:?]
+	at agu.h(SourceFile:23) [1.14.4.jar:?]
+	at agq.q(SourceFile:118) [1.14.4.jar:?]
+	at agq.bh(SourceFile:103) [1.14.4.jar:?]
+	at cyc.e(SourceFile:915) [1.14.4.jar:?]
+	at cyc.b(SourceFile:410) [1.14.4.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:155) [1.14.4.jar:?]
+[13:29:44] [Client thread/WARN]: Unknown custom packed identifier: minecraft:register
+[13:29:44] [Client thread/INFO]: [CHAT] C-winorld >> gele178 加入了服务器。
+[13:29:44] [Client thread/INFO]: [CHAT] C-winorld >> 加载中~
+[13:29:44] [Client thread/INFO]: Loaded 5 advancements
+[13:29:46] [Client thread/INFO]: [CHAT] CoreProtect - 这个位置没有任何方块记录.
+[13:29:59] [Client thread/INFO]: [CHAT] C-winorld >> 注意：服务器禁止钓鱼和刷无意义评论哦~可能导致长时间禁言。
+[13:30:02] [Client thread/INFO]: [CHAT] [+]yuan_yuan_233[喵] → sb
+[13:30:04] [Client thread/INFO]: [CHAT] [+]lbwnb_233 → 什么东西
+[13:30:05] [Client thread/INFO]: [CHAT] [+]lbwnb_233 → 你妈死了
+[13:30:06] [Client thread/INFO]: [CHAT] [+]lbwnb_233 → 窝囊废
+[13:30:06] [Client thread/INFO]: [CHAT] [地皮系统] 你不能再领取更多地皮了
+[13:30:06] [Client thread/INFO]: [CHAT] [+]lbwnb_233 → 是不是
+[13:30:07] [Client thread/INFO]: [CHAT] [R]df33 → 难啊
+[13:30:07] [Client thread/INFO]: [CHAT] [+]lbwnb_233 → 窝囊废
+[13:30:08] [Client thread/INFO]: [CHAT] [地皮系统] 你已被传送
+[13:30:08] [Client thread/INFO]: [CHAT] [+]lbwnb_233 → 你回答我
+[13:30:21] [Client thread/INFO]: [CHAT] [M]NekoGabriel[测] → ?
+[13:30:23] [Client thread/INFO]: [CHAT] [R]df33 → ?
+[13:30:34] [Client thread/INFO]: [CHAT] [+]昵:Hatsune__Miku → neko禁言大法
+[13:30:41] [Client thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:30:41] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:30:41] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:30:41] [Client thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:30:41] [Client thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:30:41] [Server thread/INFO]: Starting integrated minecraft server version 1.14.4
+[13:30:41] [Server thread/INFO]: Generating keypair
+[13:30:41] [Server thread/INFO]: Reloading ResourceManager: Default
+[13:30:42] [Server thread/INFO]: Loaded 6 recipes
+[13:30:42] [Server thread/INFO]: Loaded 811 advancements
+[13:30:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:30:42] [Client thread/INFO]: 准备生成区域中：0%
+[13:30:42] [Client thread/INFO]: 准备生成区域中：8%
+[13:30:43] [Client thread/INFO]: 准备生成区域中：90%
+[13:30:43] [Client thread/INFO]: 准备生成区域中：92%
+[13:30:44] [Client thread/INFO]: Time elapsed: 1715 ms
+[13:30:44] [Server thread/INFO]: Changing view distance to 6, from 10
+[13:30:44] [Server thread/INFO]: gele178[local:E:84cf424e] logged in with entity id 244 at (-719.3746585815547, 7.690445761566108, 591.3361099688256)
+[13:30:44] [Server thread/INFO]: gele178加入了游戏
+[13:30:44] [Server thread/INFO]: Saving and pausing game...
+[13:30:44] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_end
+[13:30:44] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_nether
+[13:30:44] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:overworld
+[13:30:45] [Client thread/INFO]: Loaded 116 advancements
+[13:31:05] [Server thread/INFO]: [gele178: 已移除流浪商人的所有效果]
+[13:31:05] [Client thread/INFO]: [CHAT] 已移除流浪商人的所有效果
+[13:31:18] [Server thread/INFO]: [gele178: 已移除61个对象的所有效果]
+[13:31:18] [Client thread/INFO]: [CHAT] 已移除61个对象的所有效果
+[13:32:39] [Client thread/INFO]: [CHAT] 无效或未知的实体类型'minecraft:'
+[13:32:39] [Client thread/INFO]: [CHAT] ...e @e[type=<--[此处]
+[13:32:40] [Server thread/INFO]: Saving and pausing game...
+[13:32:40] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_end
+[13:32:40] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_nether
+[13:32:40] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:overworld
+[13:33:16] [Server thread/INFO]: [gele178: 已将发光效果应用于5个对象]
+[13:33:16] [Client thread/INFO]: [CHAT] 已将发光效果应用于5个对象
+[13:34:06] [Server thread/INFO]: [gele178: 已将跳跃提升效果应用于gele178]
+[13:34:06] [Client thread/INFO]: [CHAT] 已将跳跃提升效果应用于gele178
+[13:34:29] [Client thread/INFO]: [CHAT] 未知的效果：minecraft:
+[13:34:34] [Server thread/INFO]: [gele178: 已将村庄英雄效果应用于gele178]
+[13:34:34] [Client thread/INFO]: [CHAT] 已将村庄英雄效果应用于gele178
+[13:35:08] [Client thread/INFO]: [CHAT] 未知的命令
+[13:35:08] [Client thread/INFO]: [CHAT] ...fect clear<--[此处]
+[13:35:12] [Server thread/INFO]: [gele178: 已移除gele178的所有效果]
+[13:35:12] [Client thread/INFO]: [CHAT] 已移除gele178的所有效果
+[13:35:15] [Server thread/INFO]: [gele178: 已将村庄英雄效果应用于gele178]
+[13:35:15] [Client thread/INFO]: [CHAT] 已将村庄英雄效果应用于gele178
+[13:35:48] [Client thread/INFO]: Loaded 119 advancements
+[13:37:12] [Client thread/INFO]: Loaded 120 advancements
+[13:38:55] [Client thread/INFO]: [CHAT] 未知的命令
+[13:38:55] [Client thread/INFO]: [CHAT] /kill<--[此处]
+[13:39:14] [Client thread/INFO]: [CHAT] 错误的命令参数
+[13:39:14] [Client thread/INFO]: [CHAT] ...villager] {child:1}<--[此处]
+[13:39:42] [Server thread/INFO]: Saving and pausing game...
+[13:39:42] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_end
+[13:39:42] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_nether
+[13:39:42] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:overworld
+[13:39:52] [Client thread/INFO]: Reloading ResourceManager: Default, Programmer Art
+[13:39:53] [Client thread/INFO]: OpenAL initialized.
+[13:39:53] [Client thread/INFO]: Sound engine started
+[13:39:53] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[13:39:53] [Client thread/INFO]: Created: 256x256 textures/particle-atlas
+[13:39:53] [Client thread/INFO]: Created: 256x256 textures/painting-atlas
+[13:39:53] [Client thread/INFO]: Created: 256x128 textures/mob_effect-atlas
+[13:40:44] [Server thread/INFO]: [gele178: 已将不祥之兆效果应用于gele178]
+[13:40:44] [Client thread/INFO]: [CHAT] 已将不祥之兆效果应用于gele178
+[13:40:48] [Server thread/INFO]: Saving and pausing game...
+[13:40:48] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_end
+[13:40:48] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_nether
+[13:40:48] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:overworld
+[13:40:51] [Server thread/INFO]: [gele178: 已将不祥之兆效果应用于gele178]
+[13:40:51] [Client thread/INFO]: [CHAT] 已将不祥之兆效果应用于gele178
+[13:41:05] [Server thread/INFO]: [gele178: 难度已被设置为和平]
+[13:41:05] [Client thread/INFO]: [CHAT] 难度已被设置为和平
+[13:41:39] [Server thread/INFO]: [gele178: 杀死了15个实体]
+[13:41:39] [Client thread/INFO]: [CHAT] 杀死了15个实体
+[13:41:44] [Server thread/INFO]: [gele178: 杀死了3个实体]
+[13:41:44] [Client thread/INFO]: [CHAT] 杀死了3个实体
+[13:41:56] [Server thread/INFO]: [gele178: 已将1个[命令方块]给予gele178]
+[13:41:56] [Client thread/INFO]: [CHAT] 已将1个[命令方块]给予gele178
+[13:42:08] [Client thread/INFO]: [CHAT] 未知的命令
+[13:42:08] [Client thread/INFO]: [CHAT] /summon<--[此处]
+[13:42:14] [Server thread/INFO]: Saving and pausing game...
+[13:42:14] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_end
+[13:42:14] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_nether
+[13:42:14] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:overworld
+[13:42:37] [Client thread/INFO]: [CHAT] 成功设置：summon minecraft:lightning_bolt 0 0 0
+[13:42:37] [Server thread/INFO]: Saving and pausing game...
+[13:42:37] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_end
+[13:42:37] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_nether
+[13:42:37] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:overworld
+[13:42:39] [Client thread/INFO]: [CHAT] 成功设置：summon minecraft:lightning_bolt 0 0 0
+[13:42:42] [Server thread/INFO]: Saving and pausing game...
+[13:42:42] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_end
+[13:42:42] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_nether
+[13:42:42] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:overworld
+[13:42:43] [Client thread/INFO]: [CHAT] 成功设置：summon minecraft:lightning_bolt 0 0 0
+[13:42:47] [Server thread/INFO]: Saving and pausing game...
+[13:42:47] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_end
+[13:42:47] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_nether
+[13:42:47] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:overworld
+[13:42:52] [Server thread/INFO]: Saving and pausing game...
+[13:42:52] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_end
+[13:42:52] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_nether
+[13:42:52] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:overworld
+[13:44:02] [Client thread/INFO]: [CHAT] 成功设置：tp @e[type=minecraft:lightning_bolt] @e[type=minecraft:arrow]
+[13:44:06] [Server thread/INFO]: Saving and pausing game...
+[13:44:06] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_end
+[13:44:06] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_nether
+[13:44:06] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:overworld
+[13:44:48] [Client thread/INFO]: [CHAT] 成功设置：tp @e[type=minecraft:lightning_bolt] @r
+[13:44:53] [Server thread/INFO]: Saving and pausing game...
+[13:44:53] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_end
+[13:44:53] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_nether
+[13:44:53] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:overworld
+[13:44:55] [Client thread/INFO]: [CHAT] 成功设置：tp @e[type=minecraft:lightning_bolt] @r
+[13:44:56] [Server thread/INFO]: Saving and pausing game...
+[13:44:56] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_end
+[13:44:56] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_nether
+[13:44:56] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:overworld
+[13:45:01] [Server thread/INFO]: Saving and pausing game...
+[13:45:01] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_end
+[13:45:01] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_nether
+[13:45:01] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:overworld
+[13:45:03] [Server thread/INFO]: Saving and pausing game...
+[13:45:03] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_end
+[13:45:03] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_nether
+[13:45:03] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:overworld
+[13:45:06] [Client thread/INFO]: [CHAT] 成功设置：summon minecraft:lightning_bolt 
+[13:45:08] [Server thread/INFO]: Saving and pausing game...
+[13:45:08] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_end
+[13:45:08] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_nether
+[13:45:08] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:overworld
+[13:45:10] [Client thread/INFO]: [CHAT] 成功设置：summon minecraft:lightning_bolt 
+[13:45:11] [Server thread/INFO]: Saving and pausing game...
+[13:45:11] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_end
+[13:45:11] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_nether
+[13:45:11] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:overworld
+[13:45:12] [Client thread/INFO]: [CHAT] 成功设置：tp @e[type=minecraft:lightning_bolt] @r
+[13:45:16] [Server thread/INFO]: Saving and pausing game...
+[13:45:16] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_end
+[13:45:16] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_nether
+[13:45:16] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:overworld
+[13:45:20] [Server thread/INFO]: Saving and pausing game...
+[13:45:20] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_end
+[13:45:20] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_nether
+[13:45:20] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:overworld
+[13:45:21] [Server thread/INFO]: Saving and pausing game...
+[13:45:21] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_end
+[13:45:21] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_nether
+[13:45:21] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:overworld
+[13:45:37] [Server thread/INFO]: Saving and pausing game...
+[13:45:37] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_end
+[13:45:37] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_nether
+[13:45:37] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:overworld
+[13:46:00] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:00] [Client thread/INFO]: [CHAT] 成功设置：summon minecraft:lightning_bolt
+[13:46:00] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:00] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:00] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:00] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:00] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:00] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:00] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:01] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:01] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:01] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:01] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:01] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:01] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:01] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:01] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:01] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:01] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:01] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:01] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:01] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:01] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:01] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:01] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:01] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:01] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:01] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:01] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:01] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:01] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:01] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:01] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:01] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:01] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:01] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:01] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:01] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:01] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:01] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:01] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:01] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:01] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:01] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:01] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:01] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:01] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:01] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:01] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:02] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:02] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:02] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:02] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:02] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:02] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:02] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:02] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:02] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:02] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:02] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:02] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:02] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:02] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:02] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:02] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:02] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:02] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:02] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:02] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:02] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:02] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:02] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:02] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:02] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:02] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:02] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:02] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:02] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:02] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:02] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:02] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:02] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:02] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:02] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:02] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:02] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:02] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:02] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:02] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:03] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:03] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:03] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:03] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:03] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:03] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:03] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:03] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:03] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:03] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:03] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:03] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:03] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:03] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:03] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:03] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:03] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:03] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:03] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:03] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:03] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:03] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:03] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:03] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:03] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:03] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:03] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:03] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:03] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:03] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:03] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:03] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:03] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:03] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:03] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:03] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:03] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:03] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:03] [Server thread/INFO]: Saving and pausing game...
+[13:46:03] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_end
+[13:46:03] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_nether
+[13:46:03] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:overworld
+[13:46:07] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:07] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:07] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:07] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:07] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:07] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:07] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:07] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:07] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:07] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:07] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:07] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:07] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:07] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:07] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:07] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:07] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:07] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:07] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:07] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:07] [Server thread/INFO]: Saving and pausing game...
+[13:46:07] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_end
+[13:46:07] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_nether
+[13:46:07] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:overworld
+[13:46:09] [Client thread/INFO]: [CHAT] 成功设置：summon minecraft:lightning_bolt
+[13:46:09] [Server thread/INFO]: [@: 召唤了新的闪电束]
+[13:46:09] [Client thread/INFO]: [CHAT] [@: 召唤了新的闪电束]
+[13:46:27] [Client thread/INFO]: [CHAT] 游戏规则keepInventory目前为：false
+[13:46:29] [Server thread/INFO]: [gele178: 游戏规则keepInventory已被设为：true]
+[13:46:29] [Client thread/INFO]: [CHAT] 游戏规则keepInventory已被设为：true
+[13:46:34] [Server thread/INFO]: [gele178: 游戏规则commandBlockOutput已被设为：false]
+[13:46:34] [Client thread/INFO]: [CHAT] 游戏规则commandBlockOutput已被设为：false
+[13:46:36] [Server thread/INFO]: Saving and pausing game...
+[13:46:36] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_end
+[13:46:36] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_nether
+[13:46:36] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:overworld
+[13:46:37] [Client thread/INFO]: [CHAT] 成功设置：summon minecraft:lightning_bolt
+[13:46:37] [Server thread/INFO]: Saving and pausing game...
+[13:46:37] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_end
+[13:46:37] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_nether
+[13:46:37] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:overworld
+[13:46:40] [Client thread/INFO]: [CHAT] 成功设置：tp @e[type=minecraft:lightning_bolt] @p
+[13:46:41] [Server thread/INFO]: Saving and pausing game...
+[13:46:41] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_end
+[13:46:41] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_nether
+[13:46:41] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:overworld
+[13:46:47] [Client thread/INFO]: [CHAT] 成功设置：tp @e[type=minecraft:lightning_bolt] gele178
+[13:46:48] [Server thread/INFO]: Saving and pausing game...
+[13:46:48] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_end
+[13:46:48] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_nether
+[13:46:48] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:overworld
+[13:46:50] [Server thread/INFO]: Saving and pausing game...
+[13:46:50] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_end
+[13:46:50] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_nether
+[13:46:50] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:overworld
+[13:46:59] [Server thread/INFO]: Saving and pausing game...
+[13:46:59] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_end
+[13:46:59] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_nether
+[13:46:59] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:overworld
+[13:47:05] [Client thread/INFO]: [CHAT] 成功设置：tp @e[type=minecraft:lightning_bolt] gele178 
+[13:47:08] [Client thread/INFO]: [CHAT] 错误的命令参数
+[13:47:08] [Client thread/INFO]: [CHAT] /gamemode 0<--[此处]
+[13:47:10] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为生存模式 ]
+[13:47:10] [Client thread/INFO]: [CHAT] 您的游戏模式已被设置为生存模式 
+[13:47:14] [Server thread/INFO]: gele178被闪电击中
+[13:47:14] [Client thread/INFO]: [CHAT] gele178被闪电击中
+[13:47:25] [Client thread/INFO]: [CHAT] 未知的命令
+[13:47:25] [Client thread/INFO]: [CHAT] /gamemode<--[此处]
+[13:47:26] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为创造模式 ]
+[13:47:26] [Client thread/INFO]: [CHAT] 您的游戏模式已被设置为创造模式 
+[13:47:35] [Server thread/INFO]: Saving and pausing game...
+[13:47:35] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_end
+[13:47:35] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_nether
+[13:47:35] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:overworld
+[13:47:39] [Server thread/INFO]: Saving and pausing game...
+[13:47:39] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_end
+[13:47:39] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_nether
+[13:47:39] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:overworld
+[13:47:43] [Server thread/INFO]: Saving and pausing game...
+[13:47:43] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_end
+[13:47:43] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_nether
+[13:47:43] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:overworld
+[13:47:58] [Client thread/INFO]: [CHAT] 成功设置：summon minecraft:villager -681.58 5.00 512.48
+[13:48:01] [Server thread/INFO]: Saving and pausing game...
+[13:48:01] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_end
+[13:48:01] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_nether
+[13:48:01] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:overworld
+[13:48:05] [Client thread/INFO]: [CHAT] 成功设置：summon minecraft:villager -681.58 5.00 512.48
+[13:48:06] [Server thread/INFO]: Saving and pausing game...
+[13:48:06] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_end
+[13:48:06] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_nether
+[13:48:06] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:overworld
+[13:48:09] [Client thread/INFO]: [CHAT] 成功设置：summon minecraft:villager -681.58 5.00 512.48
+[13:48:09] [Server thread/INFO]: Saving and pausing game...
+[13:48:09] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_end
+[13:48:09] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_nether
+[13:48:09] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:overworld
+[13:48:14] [Server thread/INFO]: Saving and pausing game...
+[13:48:14] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_end
+[13:48:14] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_nether
+[13:48:14] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:overworld
+[13:48:16] [Client thread/INFO]: [CHAT] 成功设置：summon minecraft:villager -681.58 5.00 512.48
+[13:48:17] [Server thread/INFO]: Saving and pausing game...
+[13:48:17] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_end
+[13:48:17] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_nether
+[13:48:17] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:overworld
+[13:48:18] [Client thread/INFO]: [CHAT] 成功设置：summon minecraft:villager -681.58 5.00 512.48
+[13:48:20] [Server thread/INFO]: Saving and pausing game...
+[13:48:20] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_end
+[13:48:20] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_nether
+[13:48:20] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:overworld
+[13:48:33] [Server thread/INFO]: Saving and pausing game...
+[13:48:33] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_end
+[13:48:33] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_nether
+[13:48:33] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:overworld
+[13:48:56] [Client thread/INFO]: [CHAT] 成功设置：summon minecraft:villager -682 5 512
+[13:48:56] [Server thread/INFO]: Saving and pausing game...
+[13:48:56] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_end
+[13:48:56] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_nether
+[13:48:56] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:overworld
+[13:48:59] [Client thread/INFO]: [CHAT] 成功设置：summon minecraft:villager -682 5 512
+[13:49:10] [Server thread/INFO]: Saving and pausing game...
+[13:49:10] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_end
+[13:49:10] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_nether
+[13:49:10] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:overworld
+[13:49:13] [Client thread/INFO]: [CHAT] 成功设置：summon minecraft:villager -682 5 511
+[13:49:15] [Server thread/INFO]: Saving and pausing game...
+[13:49:15] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_end
+[13:49:15] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_nether
+[13:49:15] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:overworld
+[13:49:20] [Client thread/INFO]: [CHAT] 成功设置：summon minecraft:villager -683 5 512
+[13:49:46] [Client thread/INFO]: [CHAT] [调试]： 按键设置：
+[13:49:46] [Client thread/INFO]: [CHAT] F3 + A = 重新加载区块
+[13:49:46] [Client thread/INFO]: [CHAT] F3 + B = 显示碰撞体积
+[13:49:46] [Client thread/INFO]: [CHAT] F3 + C = 用/tp命令的形式复制你的位置，按住F3 + C使游戏崩溃
+[13:49:46] [Client thread/INFO]: [CHAT] F3 + D = 清空聊天记录
+[13:49:46] [Client thread/INFO]: [CHAT] F3 + F = 在渲染距离间循环（按Shift来反向循环）
+[13:49:46] [Client thread/INFO]: [CHAT] F3 + G = 显示区块边界
+[13:49:46] [Client thread/INFO]: [CHAT] F3 + H = 显示高级提示框
+[13:49:46] [Client thread/INFO]: [CHAT] F3 + I = 将实体或方块的数据复制到剪贴板
+[13:49:46] [Client thread/INFO]: [CHAT] F3 + N = 在创造和旁观模式间切换
+[13:49:46] [Client thread/INFO]: [CHAT] F3 + P = 失去焦点时暂停
+[13:49:46] [Client thread/INFO]: [CHAT] F3 + Q = 显示此列表
+[13:49:46] [Client thread/INFO]: [CHAT] F3 + T = 重新加载资源包
+[13:49:46] [Client thread/INFO]: [CHAT] F3 + Esc = 暂停但不显示菜单（如果允许暂停）
+[13:50:20] [Server thread/INFO]: [gele178: 难度已被设置为简单]
+[13:50:20] [Client thread/INFO]: [CHAT] 难度已被设置为简单
+[13:50:34] [Server thread/INFO]: [gele178: 难度已被设置为和平]
+[13:50:34] [Client thread/INFO]: [CHAT] 难度已被设置为和平
+[13:50:43] [Client thread/INFO]: [CHAT] 只有玩家会受此命令的影响，但提供的选择器包括其它实体
+[13:50:43] [Client thread/INFO]: [CHAT] /kick @e<--[此处]
+[13:50:52] [Server thread/INFO]: gele178 lost connection: 连接中止
+[13:50:52] [Server thread/INFO]: gele178退出了游戏
+[13:50:52] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[13:50:52] [Server thread/INFO]: [gele178: 已踢出gele178：被管理员踢出游戏]
+[13:50:52] [Sound engine/ERROR]: Stop: Invalid name parameter.
+[13:50:52] [Server thread/INFO]: Stopping server
+[13:50:52] [Server thread/INFO]: Saving players
+[13:50:52] [Server thread/INFO]: Saving worlds
+[13:50:52] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_end
+[13:50:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:50:52] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_nether
+[13:50:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:50:52] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:overworld
+[13:50:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (新的世界): All chunks are saved
+[13:50:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:50:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:50:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (新的世界): All chunks are saved
+[13:50:57] [Client thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:50:57] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:50:57] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:50:57] [Client thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:50:57] [Client thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:50:57] [Server thread/INFO]: Starting integrated minecraft server version 1.14.4
+[13:50:57] [Server thread/INFO]: Generating keypair
+[13:50:57] [Server thread/INFO]: Reloading ResourceManager: Default
+[13:50:58] [Server thread/INFO]: Loaded 6 recipes
+[13:50:58] [Server thread/INFO]: Loaded 811 advancements
+[13:50:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:50:58] [Client thread/INFO]: 准备生成区域中：0%
+[13:50:58] [Client thread/INFO]: 准备生成区域中：90%
+[13:50:59] [Server thread/INFO]: Changing view distance to 6, from 10
+[13:50:59] [Client thread/INFO]: Time elapsed: 952 ms
+[13:50:59] [Server thread/INFO]: gele178[local:E:9bc28baf] logged in with entity id 17091 at (-686.1982385895944, 4.0, 512.3920696156515)
+[13:50:59] [Server thread/INFO]: gele178加入了游戏
+[13:50:59] [Server thread/INFO]: Saving and pausing game...
+[13:50:59] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_end
+[13:50:59] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_nether
+[13:50:59] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:overworld
+[13:50:59] [Client thread/INFO]: Loaded 120 advancements
+[13:51:13] [Server thread/INFO]: [gele178: 已踢出gele178：被管理员踢出游戏]
+[13:51:13] [Server thread/INFO]: gele178 lost connection: 被管理员踢出游戏
+[13:51:13] [Server thread/INFO]: gele178退出了游戏
+[13:51:13] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[13:51:13] [Server thread/INFO]: Stopping server
+[13:51:13] [Server thread/INFO]: Saving players
+[13:51:13] [Server thread/INFO]: Saving worlds
+[13:51:13] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_end
+[13:51:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:51:13] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_nether
+[13:51:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:51:13] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:overworld
+[13:51:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (新的世界): All chunks are saved
+[13:51:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:51:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:51:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (新的世界): All chunks are saved
+[13:51:28] [Client thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:51:28] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:51:28] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:51:28] [Client thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:51:28] [Client thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:51:28] [Server thread/INFO]: Starting integrated minecraft server version 1.14.4
+[13:51:28] [Server thread/INFO]: Generating keypair
+[13:51:28] [Server thread/INFO]: Reloading ResourceManager: Default
+[13:51:28] [Server thread/INFO]: Loaded 6 recipes
+[13:51:28] [Server thread/INFO]: Loaded 811 advancements
+[13:51:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:51:28] [Client thread/INFO]: 准备生成区域中：0%
+[13:51:28] [Client thread/INFO]: 准备生成区域中：91%
+[13:51:29] [Server thread/INFO]: Changing view distance to 6, from 10
+[13:51:29] [Client thread/INFO]: Time elapsed: 785 ms
+[13:51:29] [Server thread/INFO]: gele178[local:E:7a29f11e] logged in with entity id 18817 at (-686.1982385895944, 4.0, 512.3920696156515)
+[13:51:29] [Server thread/INFO]: gele178加入了游戏
+[13:51:29] [Server thread/INFO]: Saving and pausing game...
+[13:51:29] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_end
+[13:51:29] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_nether
+[13:51:29] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:overworld
+[13:51:29] [Client thread/INFO]: Loaded 120 advancements
+[13:51:47] [Server thread/INFO]: Saving and pausing game...
+[13:51:47] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_end
+[13:51:47] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_nether
+[13:51:47] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:overworld
+[13:51:53] [Client thread/INFO]: [CHAT] 成功设置：summon minecraft:pig -683 5 512
+[13:52:13] [Server thread/INFO]: Saving and pausing game...
+[13:52:13] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_end
+[13:52:13] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_nether
+[13:52:13] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:overworld
+[14:14:46] [Client thread/INFO]: Using default channel type
+[14:14:46] [Client thread/INFO]: Started serving on 52269
+[14:14:46] [Client thread/INFO]: [CHAT] 本地游戏已在端口52269上开启
+[14:15:13] [Client thread/INFO]: [CHAT] 成功设置：summon minecraft:chicken -683 5 512
+[14:15:39] [Client thread/INFO]: [CHAT] 成功设置：summon minecraft:bat -683 5 512
+[14:15:54] [Client thread/INFO]: [CHAT] 成功设置：summon minecraft:chicken -683 5 512
+[14:17:01] [Client thread/INFO]: [CHAT] 成功设置：effect give @e[type=minecraft:lightning_bolt] minecraft:invisibility 1 1
+[14:17:06] [Client thread/INFO]: [CHAT] 成功设置：effect give @e[type=minecraft:lightning_bolt] minecraft:invisibility 1 1
+[14:17:19] [Client thread/INFO]: [CHAT] 成功设置：effect give @e[type=minecraft:chicken] minecraft:invisibility 1 1
+[14:18:11] [Client thread/INFO]: [CHAT] [调试]： 按键设置：
+[14:18:11] [Client thread/INFO]: [CHAT] F3 + A = 重新加载区块
+[14:18:11] [Client thread/INFO]: [CHAT] F3 + B = 显示碰撞体积
+[14:18:11] [Client thread/INFO]: [CHAT] F3 + C = 用/tp命令的形式复制你的位置，按住F3 + C使游戏崩溃
+[14:18:11] [Client thread/INFO]: [CHAT] F3 + D = 清空聊天记录
+[14:18:11] [Client thread/INFO]: [CHAT] F3 + F = 在渲染距离间循环（按Shift来反向循环）
+[14:18:11] [Client thread/INFO]: [CHAT] F3 + G = 显示区块边界
+[14:18:11] [Client thread/INFO]: [CHAT] F3 + H = 显示高级提示框
+[14:18:11] [Client thread/INFO]: [CHAT] F3 + I = 将实体或方块的数据复制到剪贴板
+[14:18:11] [Client thread/INFO]: [CHAT] F3 + N = 在创造和旁观模式间切换
+[14:18:11] [Client thread/INFO]: [CHAT] F3 + P = 失去焦点时暂停
+[14:18:11] [Client thread/INFO]: [CHAT] F3 + Q = 显示此列表
+[14:18:11] [Client thread/INFO]: [CHAT] F3 + T = 重新加载资源包
+[14:18:11] [Client thread/INFO]: [CHAT] F3 + Esc = 暂停但不显示菜单（如果允许暂停）
+[14:18:19] [Client thread/INFO]: [CHAT] [调试]： 坐标已复制到剪贴板
+[14:18:35] [Client thread/INFO]: [CHAT] 成功设置：summon minecraft:chicken -683 5 512
+[14:18:37] [Client thread/INFO]: [CHAT] 成功设置：summon minecraft:lightning_bolt
+[14:18:48] [Server thread/INFO]: [gele178: 将gele178传送到 -673.34，4.0，529.34]
+[14:18:48] [Client thread/INFO]: [CHAT] 将gele178传送到 -673.34，4.0，529.34
+[14:19:02] [Client thread/INFO]: [CHAT] 成功设置：summon minecraft:lightning_bolt -673 4
+[14:19:09] [Client thread/INFO]: [CHAT] 成功设置：summon minecraft:lightning_bolt -673 4 529
+[14:19:18] [Client thread/INFO]: [CHAT] 成功设置：summon minecraft:chicken -673 4 529
+[14:19:19] [Client thread/INFO]: [CHAT] 成功设置：summon minecraft:lightning_bolt -673 4 529
+[14:19:22] [Client thread/INFO]: [CHAT] 成功设置：summon minecraft:chicken -673 4 529
+[14:19:30] [Client thread/INFO]: [CHAT] 游戏规则doFireTick目前为：true
+[14:19:32] [Server thread/INFO]: [gele178: 游戏规则doFireTick已被设为：false]
+[14:19:32] [Client thread/INFO]: [CHAT] 游戏规则doFireTick已被设为：false
+[14:19:50] [Client thread/INFO]: [CHAT] 成功设置：effect give @e[type=minecraft:chicken] minecraft:invisibility 100000 255
+[14:20:01] [Client thread/INFO]: [CHAT] 成功设置：summon minecraft:chicken -673 4 529
+[14:20:02] [Client thread/INFO]: [CHAT] 成功设置：summon minecraft:lightning_bolt -673 4 529
+[14:20:06] [Client thread/INFO]: [CHAT] 成功设置：summon minecraft:lightning_bolt -673 5 529
+[14:20:10] [Client thread/INFO]: [CHAT] 成功设置：summon minecraft:chicken -673 5 529
+[14:20:18] [Client thread/INFO]: Loaded 124 advancements
+[14:20:25] [Client thread/INFO]: [CHAT] 成功设置：summon minecraft:chicken -673 5 529
+[14:20:27] [Client thread/INFO]: [CHAT] 成功设置：summon minecraft:lightning_bolt -673 5 529
+[14:20:29] [Client thread/INFO]: [CHAT] 成功设置：summon minecraft:chicken -673 5 529
+[14:20:45] [Client thread/INFO]: [CHAT] 成功设置：effect give @e[type=minecraft:chicken] minecraft:invisibility 100000 255
+[14:20:47] [Client thread/INFO]: [CHAT] 成功设置：effect give @e[type=minecraft:chicken] minecraft:invisibility 100000 255
+[14:21:07] [Client thread/INFO]: [CHAT] 成功设置：summon minecraft:bat -673 5 529
+[14:21:49] [Client thread/INFO]: [CHAT] 成功设置：summon minecraft:fox -673 5 529
+[14:21:57] [Client thread/INFO]: [CHAT] 成功设置：summon minecraft:bat -673 5 529
+[14:22:05] [Client thread/INFO]: [CHAT] 成功设置：effect give @e[type=minecraft:bat] minecraft:invisibility 100000 255
+[14:22:40] [Client thread/INFO]: [CHAT] [调试]： 按键设置：
+[14:22:40] [Client thread/INFO]: [CHAT] F3 + A = 重新加载区块
+[14:22:40] [Client thread/INFO]: [CHAT] F3 + B = 显示碰撞体积
+[14:22:40] [Client thread/INFO]: [CHAT] F3 + C = 用/tp命令的形式复制你的位置，按住F3 + C使游戏崩溃
+[14:22:40] [Client thread/INFO]: [CHAT] F3 + D = 清空聊天记录
+[14:22:40] [Client thread/INFO]: [CHAT] F3 + F = 在渲染距离间循环（按Shift来反向循环）
+[14:22:40] [Client thread/INFO]: [CHAT] F3 + G = 显示区块边界
+[14:22:40] [Client thread/INFO]: [CHAT] F3 + H = 显示高级提示框
+[14:22:40] [Client thread/INFO]: [CHAT] F3 + I = 将实体或方块的数据复制到剪贴板
+[14:22:40] [Client thread/INFO]: [CHAT] F3 + N = 在创造和旁观模式间切换
+[14:22:40] [Client thread/INFO]: [CHAT] F3 + P = 失去焦点时暂停
+[14:22:40] [Client thread/INFO]: [CHAT] F3 + Q = 显示此列表
+[14:22:40] [Client thread/INFO]: [CHAT] F3 + T = 重新加载资源包
+[14:22:40] [Client thread/INFO]: [CHAT] F3 + Esc = 暂停但不显示菜单（如果允许暂停）
+[14:23:12] [Client thread/INFO]: [CHAT] [调试]： 服务端实体数据已复制到剪贴板
+[14:25:05] [Client thread/INFO]: [CHAT] 成功设置：tp @e[type=minecraft:bat] @r
+[14:25:07] [Client thread/INFO]: [CHAT] 成功设置：tp @e[type=minecraft:bat] @r
+[14:27:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[14:27:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20620ms or 412 ticks behind
+[14:28:11] [Client thread/INFO]: [CHAT] 成功设置：effect give @e[type=bat] minecraft:resistance 100000 1
+[14:28:24] [Client thread/INFO]: [CHAT] 成功设置：effect give @e[type=bat] minecraft:resistance 100000 1
+[14:28:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 52200ms or 1044 ticks behind
+[14:28:51] [Client thread/INFO]: [CHAT] 成功设置：effect give @e[type=minecraft:bat] minecraft:invisibility 100000 1
+[14:29:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 31991ms or 639 ticks behind
+[14:30:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[14:30:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[14:31:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20664ms or 413 ticks behind
+[14:32:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 49938ms or 998 ticks behind
+[14:32:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2063ms or 41 ticks behind
+[14:33:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[14:33:55] [Client thread/INFO]: [CHAT] 成功设置：tp @e[type=minecraft:bat] @a
+[14:34:03] [Client thread/INFO]: [CHAT] 成功设置：tp @e[type=minecraft:bat] @r
+[14:34:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[14:34:42] [Client thread/INFO]: [CHAT] 成功设置：kill @e[type=bat]
+[14:34:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2833ms or 56 ticks behind
+[14:36:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[14:36:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19187ms or 383 ticks behind
+[14:37:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 29392ms or 587 ticks behind
+[14:38:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[14:38:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19953ms or 399 ticks behind
+[14:39:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 47524ms or 950 ticks behind
+[14:39:48] [Server thread/INFO]: gele178 lost connection: 连接中止
+[14:39:48] [Server thread/INFO]: gele178退出了游戏
+[14:39:48] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[14:39:48] [Server thread/INFO]: Stopping server
+[14:39:48] [Server thread/INFO]: Saving players
+[14:39:48] [Server thread/INFO]: Saving worlds
+[14:39:48] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_end
+[14:39:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:39:48] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_nether
+[14:39:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:39:48] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:overworld
+[14:39:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (新的世界): All chunks are saved
+[14:39:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:39:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:39:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (新的世界): All chunks are saved
+[14:39:50] [Client thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:39:50] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:39:50] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:39:50] [Client thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:39:50] [Client thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:39:50] [Server thread/INFO]: Starting integrated minecraft server version 1.14.4
+[14:39:50] [Server thread/INFO]: Generating keypair
+[14:39:50] [Server thread/INFO]: Reloading ResourceManager: Default
+[14:39:50] [Server thread/INFO]: Loaded 6 recipes
+[14:39:50] [Server thread/INFO]: Loaded 811 advancements
+[14:39:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:39:50] [Client thread/INFO]: 准备生成区域中：0%
+[14:39:50] [Server thread/INFO]: Changing view distance to 6, from 10
+[14:39:50] [Client thread/INFO]: 准备生成区域中：99%
+[14:39:50] [Client thread/INFO]: Time elapsed: 534 ms
+[14:39:50] [Server thread/INFO]: gele178[local:E:335cc1d4] logged in with entity id 131831 at (-685.2387376014469, 4.0, 511.69272042527956)
+[14:39:50] [Server thread/INFO]: gele178加入了游戏
+[14:39:51] [Server thread/INFO]: Saving and pausing game...
+[14:39:51] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_end
+[14:39:51] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:the_nether
+[14:39:51] [Server thread/INFO]: Saving chunks for level '新的世界'/minecraft:overworld
+[14:39:54] [Client thread/INFO]: Using default channel type
+[14:39:54] [Client thread/INFO]: Started serving on 52711
+[14:39:54] [Client thread/INFO]: [CHAT] 本地游戏已在端口52711上开启
+[14:39:55] [Client thread/INFO]: Loaded 124 advancements
+[14:39:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind

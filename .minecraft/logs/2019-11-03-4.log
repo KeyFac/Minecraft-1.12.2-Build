@@ -1,0 +1,143 @@
+[14:36:11] [Client thread/INFO]: Setting user: gele178
+[14:36:16] [Client thread/INFO]: LWJGL Version: 3.2.2 build 10
+[14:36:20] [Client thread/INFO]: Narrator library for x64 successfully loaded
+[14:36:22] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[14:36:22] [Client thread/INFO]: OpenAL initialized.
+[14:36:22] [Client thread/INFO]: Sound engine started
+[14:36:22] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[14:36:23] [Client thread/INFO]: Created: 256x256 textures/particle-atlas
+[14:36:23] [Client thread/INFO]: Created: 256x256 textures/painting-atlas
+[14:36:23] [Client thread/INFO]: Created: 256x128 textures/mob_effect-atlas
+[14:36:34] [Client thread/INFO]: Connecting to mc.redstoner.cn., 38842
+[14:36:40] [Client thread/WARN]: Unknown custom packed identifier: minecraft:register
+[14:36:40] [Client thread/WARN]: Unknown custom packed identifier: minecraft:register
+[14:36:40] [Client thread/INFO]: [CHAT] 
+[14:36:40] [Client thread/INFO]: [CHAT] C-winorld >> 欢迎回来,已帮你自动登录到此服务器
+[14:36:40] [Client thread/INFO]: [CHAT] C-winorld >> 已成功登录!
+[14:36:44] [Client thread/INFO]: [CHAT] 玩家 gele178 被传送到了 cz 服务器.
+[14:36:44] [Client thread/FATAL]: Error executing task on Client
+java.lang.NullPointerException: null
+	at cti.a(SourceFile:220) ~[1.14.4.jar:?]
+	at dkc.a(SourceFile:1993) ~[1.14.4.jar:?]
+	at nb.a(SourceFile:122) ~[1.14.4.jar:?]
+	at nb.a(SourceFile:16) ~[1.14.4.jar:?]
+	at ke.a(SourceFile:21) ~[1.14.4.jar:?]
+	at agq.h(SourceFile:144) [1.14.4.jar:?]
+	at agu.h(SourceFile:23) [1.14.4.jar:?]
+	at agq.q(SourceFile:118) [1.14.4.jar:?]
+	at agq.bh(SourceFile:103) [1.14.4.jar:?]
+	at cyc.e(SourceFile:915) [1.14.4.jar:?]
+	at cyc.b(SourceFile:410) [1.14.4.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:155) [1.14.4.jar:?]
+[14:36:44] [Client thread/WARN]: Unknown custom packed identifier: minecraft:register
+[14:36:44] [Client thread/INFO]: [CHAT] C-winorld >> gele178 加入了服务器。
+[14:36:44] [Client thread/INFO]: Loaded 17 advancements
+[14:36:44] [Client thread/INFO]: [CHAT] C-winorld >> 加载中~
+[14:36:55] [Client thread/INFO]: [CHAT] C-winorld >> Ctrl+鼠标中键对准方块试试，可获得单机无法获得头颅和牌子等物品哦。
+[14:37:24] [Client thread/INFO]: [CHAT] [我 -> [R]258456] 原来Forge端是进不了服务器的啊
+[14:37:45] [Client thread/INFO]: [CHAT] C-winorld >> 右键玩家可以骑在头上哦，潜行后右键即可投掷玩家
+[14:37:45] [Client thread/INFO]: [CHAT] NightVision > Night vision enabled!
+[14:37:58] [Client thread/INFO]: [CHAT] C-winorld >> 已经替你更换为 xdd 材质包!
+[14:38:24] [Client thread/INFO]: [CHAT] [+]Cauchy → ?
+[14:38:27] [Client thread/INFO]: [CHAT] Variable prefix:'&f[&c+&f]&7' added to the user gele178
+[14:38:35] [Client thread/INFO]: [CHAT] §b§lC-winorld §e§l>>§6CW合作团队RGT，国内一流的红石团队。点击加入RGT~
+[14:38:49] [Client thread/INFO]: [CHAT] [[R]258456 -> 我] 额,forge能进
+[14:39:25] [Client thread/INFO]: [CHAT] C-winorld >> 做建筑，红石可以获得人民币？了解一下，http://redstoner.cn/better
+[14:39:37] [Client thread/INFO]: [CHAT] [+]Cauchy → 音渣，红石渣，建筑渣，总结一下，我就是渣渣
+[14:40:11] [Client thread/INFO]: [CHAT] [+]1231235242789asd → 但不是生存渣吧
+[14:40:15] [Client thread/INFO]: [CHAT] C-winorld >> 输入 /zb 完成正版认证领取奖励。
+[14:40:26] [Client thread/INFO]: [CHAT] [+]Cauchy → 指令和生存还好
+[14:40:40] [Client thread/INFO]: [CHAT] [+]Cauchy → 以往玩的指令和生存
+[14:40:41] [Client thread/INFO]: [CHAT] C-winorld >> 请输入正确的命令进行正版认证
+[14:40:41] [Client thread/INFO]: [CHAT] C-winorld >> 指令为: /zb <邮箱> <密码>
+[14:40:41] [Client thread/INFO]: [CHAT] C-winorld >> 成功后可获得1000点，工具箱领取称号
+[14:41:05] [Client thread/INFO]: [CHAT] C-winorld >> 服务器的点数和点券是2个不同单位哦，前者是是游戏币，后者是充值获得。
+[14:41:29] [Client thread/INFO]: [CHAT] [+]Cauchy → 以往一次射出5个的
+[14:41:38] [Client thread/INFO]: [CHAT] [+]Cauchy → 你刚才....
+[14:41:55] [Client thread/INFO]: [CHAT] C-winorld >> 手拿燧石右击空气查看惊喜！【开始自定义盔甲架吧】
+[14:42:39] [Client thread/INFO]: [CHAT] [+]Cauchy → 玩mod生存吗?
+[14:42:45] [Client thread/INFO]: [CHAT] C-winorld >> R组输入/hd回档建筑。水世界来体验吧~
+[14:42:52] [Client thread/INFO]: [CHAT] [+]昵:OFQWQA[婵] → ??\
+[14:42:53] [Client thread/INFO]: [CHAT] [+]1231235242789asd → 什么mod
+[14:43:02] [Client thread/INFO]: [CHAT] [+]Cauchy → 科技向的
+[14:43:08] [Client thread/INFO]: [CHAT] [+]昵:OFQWQA[婵] → 我有虚无3
+[14:43:13] [Client thread/INFO]: [CHAT] [+]昵:OFQWQA[婵] → 我有虚无3
+[14:43:20] [Client thread/INFO]: [CHAT] [+]1231235242789asd → 工业
+[14:43:29] [Client thread/INFO]: [CHAT] [+]昵:OFQWQA[婵] → 星际??
+[14:43:29] [Client thread/INFO]: [CHAT] [+]Cauchy → 你核电怎么样
+[14:43:33] [Client thread/INFO]: [CHAT] [+]Cauchy → ic2
+[14:43:35] [Client thread/INFO]: [CHAT] C-winorld >> 服务器支持上传和下载存档了~请查看http://redstoner.cn/transport.html
+[14:43:37] [Client thread/INFO]: [CHAT] C-winorld >> OldFreddy 离开了服务器。
+[14:43:54] [Client thread/INFO]: [CHAT] [+]1231235242789asd → e
+[14:44:05] [Client thread/INFO]: [CHAT] [+]1231235242789asd → 没玩到过那
+[14:44:16] [Client thread/INFO]: [CHAT] [+]Cauchy → 我全网最快烧铀炼钚mk1反应堆 42 棒
+[14:44:25] [Client thread/INFO]: [CHAT] C-winorld >> /p tp 和 /speed 普通玩家都可以使用了
+[14:44:31] [Client thread/INFO]: [CHAT] [+]Cauchy → 目前没找到过比我更块的烧铀
+[14:45:15] [Client thread/INFO]: [CHAT] C-winorld >> 给予其他玩家权限请注意！p add 给予玩家权限不能使用WE。\np trust 给予玩家权限可以使用WE。如果不是信任玩家请不要给予trust权限。
+[14:46:05] [Client thread/INFO]: [CHAT] C-winorld >> 想获得永久权限组？查看http://redstoner.cn/tieba/group
+[14:46:18] [Client thread/INFO]: [CHAT] [+]Cauchy → 还有强冷堆，也没找到效率更高的 40个四联棒 13个lzh 1个铱中子反射板
+[14:46:29] [Client thread/INFO]: [CHAT] [+]Cauchy → 4360*5EU/t
+[14:46:55] [Client thread/INFO]: [CHAT] C-winorld >> 服务器卫星地图了解一下？查看http://redstoner.cn/map
+[14:47:17] [Client thread/INFO]: [CHAT] [+]Cauchy → 其他科技向的mod玩不
+[14:47:39] [Client thread/INFO]: [CHAT] [+]Cauchy → 末影接口，沉浸,ae,nc什么的
+[14:47:45] [Client thread/INFO]: [CHAT] C-winorld >> /pay 玩家 点数 给建筑师一点打赏吧，可以离线打赏的~
+[14:47:48] [Client thread/INFO]: [CHAT] [+]1231235242789asd → 好像没有了吧
+[14:47:51] [Client thread/INFO]: [CHAT] [+]Cauchy → ?
+[14:47:57] [Client thread/INFO]: [CHAT] [+]1231235242789asd → 我玩的都是服务器
+[14:48:19] [Client thread/INFO]: [CHAT] [+]Cauchy → 我玩mod也玩服务器
+[14:48:35] [Client thread/INFO]: [CHAT] C-winorld >> 可以@他人哦。 @juan_maku
+[14:48:56] [Client thread/INFO]: [CHAT] [R]258456 请求传送到你这里
+[14:48:56] [Client thread/INFO]: [CHAT] 若想接受传送,输入 /tpaccept.
+[14:48:56] [Client thread/INFO]: [CHAT] 若想拒绝传送,输入 /tpdeny
+[14:48:56] [Client thread/INFO]: [CHAT] 此请求将在 120 秒后自动取消.
+[14:49:05] [Client thread/INFO]: [CHAT] [+]1231235242789asd → 我是渣机，已经限制了我玩mod了
+[14:49:08] [Client thread/INFO]: [CHAT] [+]Cauchy → 好吧
+[14:49:25] [Client thread/INFO]: [CHAT] C-winorld >> 羡慕玩家后缀？在菜单氪金箱子里面可以抽哦，钥匙在魔法商店购买。
+[14:50:15] [Client thread/INFO]: [CHAT] C-winorld >> 你发布的作品后面如果可以提到 C-winorld~我们会非常感谢的Thanks?(?ω?)?
+[14:51:05] [Client thread/INFO]: [CHAT] C-winorld >> B组可以使用实体家具，狗窝，浴盆哦~具体查看工具箱
+[14:51:55] [Client thread/INFO]: [CHAT] C-winorld >> 菜单里面有材质包选择哦，有各种有趣的材质包哦
+[14:52:45] [Client thread/INFO]: [CHAT] C-winorld >> 工具箱中找到无限夜视，取消称号，自定义旗帜等玩法哦
+[14:53:35] [Client thread/INFO]: [CHAT] C-winorld >> 女生可以认证[+]称号？地址：http://redstoner.cn/gw
+[14:54:25] [Client thread/INFO]: [CHAT] C-winorld >> 支持1.12.2所有物品哦，下载1.12来体验服务器吧。地址：http://redstoner.cn/zip
+[14:55:15] [Client thread/INFO]: [CHAT] C-winorld >> M组拥有VS权限，MASTER_WORLD世界权限。使用mp指令还能给予其他玩家世界权限
+[14:56:05] [Client thread/INFO]: [CHAT] C-winorld >> warp可以自己设置哦，不过要收取300点数，warp会出现在坐标大全里面哦
+[14:56:55] [Client thread/INFO]: [CHAT] C-winorld >> 首次充值点券可获得1.25的翻倍奖励哦~
+[14:56:59] [Client thread/INFO]: [CHAT] [+]Cauchy → 你在挂机吗
+[14:57:15] [Client thread/INFO]: [CHAT] [+]1231235242789asd → 做作业中
+[14:57:17] [Client thread/INFO]: [CHAT] [+]Cauchy → o
+[14:57:45] [Client thread/INFO]: [CHAT] C-winorld >> 主菜单中可以签到哦，领取点券和点数，购买红石和建筑区权限
+[14:58:35] [Client thread/INFO]: [CHAT] C-winorld >> 氪金箱子可以获得其他地方得不到的权限和称号哦，宠物，权限等
+[14:59:25] [Client thread/INFO]: [CHAT] C-winorld >> 菜单不见了？ 输入/spawn 可以打开菜单哦，或者直接那个钟~
+[15:00:15] [Client thread/INFO]: [CHAT] C-winorld >> 卡地狱门弄得没办法出去？重进服务器会恢复~记得举报小坏蛋。
+[15:01:05] [Client thread/INFO]: [CHAT] C-winorld >> 充值点券可以扫描二维码，充值地址：http://redstoner.cn/pay
+[15:01:55] [Client thread/INFO]: [CHAT] C-winorld >> 红模玩家/sg 数量指令获得不可堆叠物品。
+[15:02:45] [Client thread/INFO]: [CHAT] C-winorld >> 招募宣传和技术，需要在16岁以上哦。服务器群 http://redstoner.cn/join
+[15:03:35] [Client thread/INFO]: [CHAT] C-winorld >> F3+N可以快速切换模式~
+[15:04:25] [Client thread/INFO]: [CHAT] C-winorld >> 牌子和铁砧可以用彩色字体来设置哦~
+[15:05:15] [Client thread/INFO]: [CHAT] C-winorld >> 菜单有工具礼包，音符盒，强模工具，便利的开始你的设计。
+[15:06:05] [Client thread/INFO]: [CHAT] C-winorld >> 服务器有反背包编辑器检测，检测到编辑器物品会直接清空背包~
+[15:06:55] [Client thread/INFO]: [CHAT] C-winorld >> R组牌子可以使用彩色字体，没有拉杆时间，而且@玩家没有冷却时间。
+[15:07:45] [Client thread/INFO]: [CHAT] C-winorld >> 普通玩家可以在地皮使用WE，B组可以在more区使用WE权限哦
+[15:08:35] [Client thread/INFO]: [CHAT] C-winorld >> R组玩家在菜单礼包中领取红石调试棒，对着活塞试试不吃亏哦
+[15:09:25] [Client thread/INFO]: [CHAT] C-winorld >> 红石音乐一个个调太麻烦？用菜单礼包里面的调试棒可以直接选择哦
+[15:10:15] [Client thread/INFO]: [CHAT] C-winorld >> 注意：服务器禁止钓鱼和刷无意义评论哦~可能导致长时间禁言。
+[15:11:05] [Client thread/INFO]: [CHAT] C-winorld >> Ctrl+鼠标中键对准方块试试，可获得单机无法获得头颅和牌子等物品哦。
+[15:11:55] [Client thread/INFO]: [CHAT] C-winorld >> 右键玩家可以骑在头上哦，潜行后右键即可投掷玩家
+[15:12:18] [Client thread/INFO]: [CHAT] Variable prefix:'&f[&b+&f]&7' added to the user gele178
+[15:12:45] [Client thread/INFO]: [CHAT] §b§lC-winorld §e§l>>§6CW合作团队RGT，国内一流的红石团队。点击加入RGT~
+[15:12:46] [Client thread/INFO]: [CHAT] Error: 礼包未找到
+[15:12:46] [Client thread/INFO]: [CHAT] Usage: /kit use [kitname]
+[15:12:55] [Client thread/INFO]: [CHAT] I'm sorry, but you do not have permission to perform this command.
+[15:13:35] [Client thread/INFO]: [CHAT] C-winorld >> 做建筑，红石可以获得人民币？了解一下，http://redstoner.cn/better
+[15:14:24] [Client thread/INFO]: Loaded 23 advancements
+[15:14:25] [Client thread/INFO]: [CHAT] C-winorld >> 输入 /zb 完成正版认证领取奖励。
+[15:14:29] [Client thread/INFO]: [CHAT] gele178达成了目标[天空即为极限]
+[15:14:29] [Client thread/INFO]: Loaded 28 advancements
+[15:14:52] [Client thread/INFO]: [CHAT] 你没有使用该命令的权限
+[15:14:58] [Client thread/INFO]: [CHAT] 请求已发送给 [R]258456
+[15:14:58] [Client thread/INFO]: [CHAT] 想要取消这个传送请求？ 请输入 /tpacancel.
+[15:15:01] [Client thread/INFO]: [CHAT] [R]258456 接受了你的传送请求
+[15:15:01] [Client thread/INFO]: [CHAT] 正在传送至 [R]258456.
+[15:15:15] [Client thread/INFO]: [CHAT] C-winorld >> 服务器的点数和点券是2个不同单位哦，前者是是游戏币，后者是充值获得。
+[15:15:22] [Client thread/INFO]: Loaded 32 advancements
+[15:15:28] [Client thread/INFO]: [CHAT] Cauchy达成了目标[天空即为极限]
