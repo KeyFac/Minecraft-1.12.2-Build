@@ -1,5 +1,5 @@
 {
-  "version": "14.9",
+  "version": "14.11",
   "loadlist": [
     {
       "name": "Mojang",
@@ -38,6 +38,7 @@
   "enableTransparentSkin": true,
   "ignoreHttpsCertificate": false,
   "forceLoadAllTextures": false,
+  "enableCape": true,
   "cacheExpiry": 30,
   "enableUpdateSkull": false,
   "enableLocalProfileCache": false,
