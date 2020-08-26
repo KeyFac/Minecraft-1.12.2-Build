@@ -1125,3 +1125,19 @@ Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$Missin
 [14:18:11] [Client thread/INFO]: Using default channel type
 [14:18:12] [Client thread/INFO]: Started on 50277
 [14:18:12] [Client thread/INFO]: [CHAT] 本地游戏已在端口50277上开启
+[15:07:33] [Timer-0/ERROR]: java.net.ConnectException: Connection timed out: connect
+[15:45:00] [Server thread/INFO]: gele178 lost connection: Internal Exception: java.nio.channels.ClosedChannelException
+[15:45:00] [Server thread/INFO]: gele178退出了游戏
+[15:45:00] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[15:45:00] [Server thread/INFO]: Stopping server
+[15:45:00] [Server thread/INFO]: Saving players
+[15:45:00] [Server thread/INFO]: Saving worlds
+[15:45:00] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[15:45:00] [Server thread/INFO]: Unloading dimension 0
+[15:45:00] [Server thread/INFO]: Applying holder lookups
+[15:45:00] [Server thread/INFO]: Holder lookups applied
+[15:45:04] [Client thread/INFO]: LiteLoader is shutting down, shutting down core providers and syncing configuration
+[15:45:04] [Client thread/INFO]: Baking listener list for ShutdownObserver with 3 listeners
+[15:45:04] [Client thread/INFO]: Stopping!
+[15:45:04] [Client thread/INFO]: SoundSystem shutting down...
+[15:45:04] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
