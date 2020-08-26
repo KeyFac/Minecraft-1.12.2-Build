@@ -1,34 +1,35 @@
-[14:06:59] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
-[14:06:59] [main/INFO]: Loading tweak class name com.mumfrey.liteloader.launch.LiteLoaderTweaker
-[14:06:59] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
-[14:06:59] [main/INFO]: Forge Mod Loader version 14.23.5.2847 for Minecraft 1.12.2 loading
-[14:06:59] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_251, running on Windows 7:amd64:6.1, installed at C:\Program Files\Java\jdk1.8.0_251\jre
-[14:06:59] [main/WARN]: The coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin) is not signed!
-[14:06:59] [main/WARN]: The coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin) is not signed!
-[14:06:59] [main/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\mods for mods
-[14:06:59] [main/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\mods\1.12.2 for mods
-[14:06:59] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in AcademyCraft-1.1.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[14:06:59] [main/WARN]: The coremod cn.lambdalib2.CorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[14:06:59] [main/WARN]: The coremod CorePlugin (cn.lambdalib2.CorePlugin) is not signed!
-[14:06:59] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in CustomSkinLoader_Forge-14.11.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[14:06:59] [main/WARN]: The coremod customskinloader.forge.ForgePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[14:06:59] [main/INFO]: Calling tweak class com.mumfrey.liteloader.launch.LiteLoaderTweaker
-[14:06:59] [main/INFO]: Bootstrapping LiteLoader 1.12.2
-[14:06:59] [main/INFO]: Registering API provider class com.mumfrey.liteloader.client.api.LiteLoaderCoreAPIClient
-[14:06:59] [main/INFO]: Spawning API provider class 'com.mumfrey.liteloader.client.api.LiteLoaderCoreAPIClient' ...
-[14:06:59] [main/INFO]: API provider class 'com.mumfrey.liteloader.client.api.LiteLoaderCoreAPIClient' provides API 'liteloader'
-[14:06:59] [main/INFO]: Initialising API 'liteloader' ...
-[14:06:59] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.7.5 Source=file:/E:/Users/Administrator/Documents/GitHub/Minecraft-1.12.2-Build/.minecraft/libraries/com/mumfrey/liteloader/1.12.2-20171128.144431-4/liteloader-1.12.2-20171128.144431-4.jar Service=LaunchWrapper Env=CLIENT
-[14:07:00] [main/INFO]: LiteLoader begin PREINIT...
-[14:07:00] [main/INFO]: Initialising Loader properties...
-[14:07:00] [main/INFO]: Setting up logger...
-[14:07:00] [main/INFO]: LiteLoader 1.12.2 starting up...
-[14:07:00] [main/INFO]: Active Pack: 1.12.2-SNAPSHOT-r4CC2BB0-b4-4
-[14:07:00] [main/INFO]: Java reports OS="windows 7"
-[14:07:00] [main/INFO]: Adding supported mod class prefix 'LiteMod'
-[14:07:00] [main/INFO]: Enumerating class path...
-[14:07:00] [main/INFO]: Class path separator=";"
-[14:07:00] [main/INFO]: Class path entries=(
+[17:03:06] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[17:03:06] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[17:03:06] [main/INFO]: Loading tweak class name com.mumfrey.liteloader.launch.LiteLoaderTweaker
+[17:03:06] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[17:03:06] [main/INFO]: Forge Mod Loader version 14.23.5.2847 for Minecraft 1.12.2 loading
+[17:03:06] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_251, running on Windows 7:amd64:6.1, installed at C:\Program Files\Java\jdk1.8.0_251\jre
+[17:03:07] [main/WARN]: The coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin) is not signed!
+[17:03:07] [main/WARN]: The coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin) is not signed!
+[17:03:07] [main/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\mods for mods
+[17:03:07] [main/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\mods\1.12.2 for mods
+[17:03:07] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in AcademyCraft-1.1.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:03:07] [main/WARN]: The coremod cn.lambdalib2.CorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:03:07] [main/WARN]: The coremod CorePlugin (cn.lambdalib2.CorePlugin) is not signed!
+[17:03:07] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in CustomSkinLoader_Forge-14.11.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:03:07] [main/WARN]: The coremod customskinloader.forge.ForgePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:03:07] [main/INFO]: Calling tweak class com.mumfrey.liteloader.launch.LiteLoaderTweaker
+[17:03:07] [main/INFO]: Bootstrapping LiteLoader 1.12.2
+[17:03:07] [main/INFO]: Registering API provider class com.mumfrey.liteloader.client.api.LiteLoaderCoreAPIClient
+[17:03:07] [main/INFO]: Spawning API provider class 'com.mumfrey.liteloader.client.api.LiteLoaderCoreAPIClient' ...
+[17:03:07] [main/INFO]: API provider class 'com.mumfrey.liteloader.client.api.LiteLoaderCoreAPIClient' provides API 'liteloader'
+[17:03:07] [main/INFO]: Initialising API 'liteloader' ...
+[17:03:07] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.7.5 Source=file:/E:/Users/Administrator/Documents/GitHub/Minecraft-1.12.2-Build/.minecraft/libraries/com/mumfrey/liteloader/1.12.2-20171128.144431-4/liteloader-1.12.2-20171128.144431-4.jar Service=LaunchWrapper Env=CLIENT
+[17:03:07] [main/INFO]: LiteLoader begin PREINIT...
+[17:03:07] [main/INFO]: Initialising Loader properties...
+[17:03:07] [main/INFO]: Setting up logger...
+[17:03:07] [main/INFO]: LiteLoader 1.12.2 starting up...
+[17:03:07] [main/INFO]: Active Pack: 1.12.2-SNAPSHOT-r4CC2BB0-b4-4
+[17:03:07] [main/INFO]: Java reports OS="windows 7"
+[17:03:07] [main/INFO]: Adding supported mod class prefix 'LiteMod'
+[17:03:07] [main/INFO]: Enumerating class path...
+[17:03:07] [main/INFO]: Class path separator=";"
+[17:03:07] [main/INFO]: Class path entries=(
    classpathEntry=E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\minecraft\launchwrapper\1.12\launchwrapper-1.12.jar
    classpathEntry=E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\org\ow2\asm\asm-all\5.2\asm-all-5.2.jar
    classpathEntry=E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\com\mumfrey\liteloader\1.12.2-20171128.144431-4\liteloader-1.12.2-20171128.144431-4.jar
@@ -83,114 +84,114 @@
    classpathEntry=E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\1.12.2-MOD.jar
    classpathEntry=C:\Users\Administrator\AppData\Roaming\.hmcl\authlib-injector.jar
 )
-[14:07:00] [main/INFO]: Registering discovery module EnumeratorModuleClassPath: [<Java Class Path>]
-[14:07:00] [main/INFO]: Registering discovery module EnumeratorModuleFolder: [E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\mods]
-[14:07:00] [main/INFO]: Registering discovery module EnumeratorModuleFolder: [E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\mods\1.12.2]
-[14:07:00] [main/INFO]: Registering enumerator plugin DefaultEnumeratorPlugin: [com.mumfrey.liteloader.core.api.DefaultEnumeratorPlugin@65e7f52a]
-[14:07:00] [main/INFO]: Discovering valid mod files in folder E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\mods
-[14:07:00] [main/INFO]: Inspecting jar metadata in 'AcademyCraft-1.1.2.jar'
-[14:07:00] [main/INFO]: Ignoring E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\mods\AcademyCraft-1.1.2.jar
-[14:07:00] [main/INFO]: Inspecting jar metadata in 'BrandonsCore-1.12.2-2.4.18.210-universal.jar'
-[14:07:00] [main/INFO]: Ignoring E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\mods\BrandonsCore-1.12.2-2.4.18.210-universal.jar
-[14:07:00] [main/INFO]: Inspecting jar metadata in 'CodeChickenLib-1.12.2-3.2.3.358-universal.jar'
-[14:07:00] [main/INFO]: Ignoring E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\mods\CodeChickenLib-1.12.2-3.2.3.358-universal.jar
-[14:07:00] [main/INFO]: Inspecting jar metadata in 'CustomNPCs_1.12.2-(01Oct19).jar'
-[14:07:00] [main/INFO]: Ignoring E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\mods\CustomNPCs_1.12.2-(01Oct19).jar
-[14:07:00] [main/INFO]: Inspecting jar metadata in 'CustomSkinLoader_Forge-14.11.jar'
-[14:07:00] [main/INFO]: Ignoring E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\mods\CustomSkinLoader_Forge-14.11.jar
-[14:07:00] [main/INFO]: Inspecting jar metadata in 'Decocraft-2.6.3_1.12.2.jar'
-[14:07:00] [main/INFO]: Ignoring E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\mods\Decocraft-2.6.3_1.12.2.jar
-[14:07:00] [main/INFO]: Inspecting jar metadata in 'Draconic-Evolution-1.12.2-2.3.25.351-universal.jar'
-[14:07:00] [main/INFO]: Ignoring E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\mods\Draconic-Evolution-1.12.2-2.3.25.351-universal.jar
-[14:07:00] [main/INFO]: Inspecting jar metadata in 'furniture-6.3.1-1.12.2.jar'
-[14:07:00] [main/INFO]: Ignoring E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\mods\furniture-6.3.1-1.12.2.jar
-[14:07:00] [main/INFO]: Inspecting jar metadata in 'industrialcraft-2-2.8.196-ex112.jar'
-[14:07:00] [main/INFO]: Ignoring E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\mods\industrialcraft-2-2.8.196-ex112.jar
-[14:07:00] [main/INFO]: Inspecting jar metadata in 'PTRLib-1.0.4.jar'
-[14:07:00] [main/INFO]: Ignoring E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\mods\PTRLib-1.0.4.jar
-[14:07:00] [main/INFO]: Inspecting jar metadata in 'RedstoneFlux-1.12-2.1.0.6-universal.jar'
-[14:07:00] [main/INFO]: Ignoring E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\mods\RedstoneFlux-1.12-2.1.0.6-universal.jar
-[14:07:00] [main/INFO]: Inspecting jar metadata in 'VariedCommodities_1.12.2(21nov19).jar'
-[14:07:00] [main/INFO]: Ignoring E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\mods\VariedCommodities_1.12.2(21nov19).jar
-[14:07:00] [main/INFO]: Inspecting jar metadata in '创世神-worldedit-forge-mc1.12.2-6.1.10-SNAPSHOT-dist.jar'
-[14:07:00] [main/INFO]: Ignoring E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\mods\创世神-worldedit-forge-mc1.12.2-6.1.10-SNAPSHOT-dist.jar
-[14:07:00] [main/INFO]: Considering valid mod file: E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\mods\小地图-需要Liteload-mod_voxelMap_1.7.1_for_1.12.2.litemod
-[14:07:00] [main/INFO]: Discovering valid mod files in folder E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\mods\1.12.2
-[14:07:00] [main/INFO]: Discovering tweaks on class path...
-[14:07:00] [main/INFO]: Baking listener list for EnumerationObserver with 1 listeners
-[14:07:00] [main/INFO]: Registering discovered mod files in folder E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\mods
-[14:07:00] [main/INFO]: Adding newest valid mod file 'E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\mods\小地图-需要Liteload-mod_voxelMap_1.7.1_for_1.12.2.litemod' at revision 1701.0000
-[14:07:00] [main/INFO]: Registering discovered mod files in folder E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\mods\1.12.2
-[14:07:00] [main/INFO]: Registering mixin config mixins.oldnorth.json for 小地图-需要Liteload-mod_voxelMap_1.7.1_for_1.12.2.litemod
-[14:07:00] [main/INFO]: Registering mixin config mixins.voxelmap.json for 小地图-需要Liteload-mod_voxelMap_1.7.1_for_1.12.2.litemod
-[14:07:00] [main/INFO]: Initialising LiteLoader Mixins
-[14:07:00] [main/INFO]: Compatibility level set to JAVA_8
-[14:07:00] [main/INFO]: LiteLoader PREINIT complete
-[14:07:00] [main/INFO]: Injecting required class transformer 'com.mumfrey.liteloader.transformers.event.EventProxyTransformer'
-[14:07:00] [main/INFO]: Injecting required class transformer 'com.mumfrey.liteloader.launch.LiteLoaderTransformer'
-[14:07:00] [main/INFO]: Injecting required class transformer 'com.mumfrey.liteloader.client.transformers.CrashReportTransformer'
-[14:07:00] [main/INFO]: Queuing required class transformer 'com.mumfrey.liteloader.transformers.event.EventTransformer'
-[14:07:00] [main/INFO]: Queuing required class transformer 'com.mumfrey.liteloader.common.transformers.LiteLoaderPacketTransformer'
-[14:07:00] [main/INFO]: Queuing required class transformer 'com.mumfrey.liteloader.transformers.event.json.ModEventInjectionTransformer'
-[14:07:00] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[14:07:00] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[14:07:00] [main/INFO]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
-[14:07:00] [main/INFO]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[14:07:00] [main/INFO]: Loading tweak class name com.mumfrey.liteloader.launch.LiteLoaderTweaker$PreInitTweaker
-[14:07:00] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[14:07:00] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[14:07:00] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[14:07:01] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
-[14:07:01] [main/ERROR]: FML appears to be missing any signature data. This is not a good thing
-[14:07:01] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[14:07:01] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[14:07:01] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[14:07:01] [main/INFO]: [customskinloader.Logger:<init>:50]: Log Path: E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\.\CustomSkinLoader\ForgePlugin.log
-[14:07:01] [main/INFO]: [customskinloader.Logger:log:70]: [main INFO] [CSL DEBUG] REGISTERING TRANSFORMER customskinloader.forge.transformer.SkinManagerTransformer$InitTransformer
-[14:07:01] [main/INFO]: [customskinloader.Logger:log:70]: [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.client.resources.SkinManager(<init>(Lnet/minecraft/client/renderer/texture/TextureManager;Ljava/io/File;Lcom/mojang/authlib/minecraft/MinecraftSessionService;)V)
-[14:07:01] [main/INFO]: [customskinloader.Logger:log:70]: [main INFO] [CSL DEBUG] REGISTERING TRANSFORMER customskinloader.forge.transformer.SkinManagerTransformer$LoadSkinTransformer
-[14:07:01] [main/INFO]: [customskinloader.Logger:log:70]: [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.client.resources.SkinManager(func_152789_a(Lcom/mojang/authlib/minecraft/MinecraftProfileTexture;Lcom/mojang/authlib/minecraft/MinecraftProfileTexture$Type;Lnet/minecraft/client/resources/SkinManager$SkinAvailableCallback;)Lnet/minecraft/util/ResourceLocation;)
-[14:07:01] [main/INFO]: [customskinloader.Logger:log:70]: [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.client.resources.SkinManager(loadSkin(Lcom/mojang/authlib/minecraft/MinecraftProfileTexture;Lcom/mojang/authlib/minecraft/MinecraftProfileTexture$Type;Lnet/minecraft/client/resources/SkinManager$SkinAvailableCallback;)Lnet/minecraft/util/ResourceLocation;)
-[14:07:01] [main/INFO]: [customskinloader.Logger:log:70]: [main INFO] [CSL DEBUG] REGISTERING TRANSFORMER customskinloader.forge.transformer.SkinManagerTransformer$LoadProfileTexturesTransformer
-[14:07:01] [main/INFO]: [customskinloader.Logger:log:70]: [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.client.resources.SkinManager(func_152790_a(Lcom/mojang/authlib/GameProfile;Lnet/minecraft/client/resources/SkinManager$SkinAvailableCallback;Z)V)
-[14:07:01] [main/INFO]: [customskinloader.Logger:log:70]: [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.client.resources.SkinManager(loadProfileTextures(Lcom/mojang/authlib/GameProfile;Lnet/minecraft/client/resources/SkinManager$SkinAvailableCallback;Z)V)
-[14:07:01] [main/INFO]: [customskinloader.Logger:log:70]: [main INFO] [CSL DEBUG] REGISTERING TRANSFORMER customskinloader.forge.transformer.SkinManagerTransformer$LoadSkinFromCacheTransformer
-[14:07:01] [main/INFO]: [customskinloader.Logger:log:70]: [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.client.resources.SkinManager(func_152788_a(Lcom/mojang/authlib/GameProfile;)Ljava/util/Map;)
-[14:07:01] [main/INFO]: [customskinloader.Logger:log:70]: [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.client.resources.SkinManager(loadSkinFromCache(Lcom/mojang/authlib/GameProfile;)Ljava/util/Map;)
-[14:07:01] [main/INFO]: [customskinloader.Logger:log:70]: [main INFO] [CSL DEBUG] REGISTERING TRANSFORMER customskinloader.forge.transformer.PlayerTabTransformer$ScoreObjectiveTransformer
-[14:07:01] [main/INFO]: [customskinloader.Logger:log:70]: [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.client.gui.GuiPlayerTabOverlay(func_175249_a(ILnet/minecraft/scoreboard/Scoreboard;Lnet/minecraft/scoreboard/ScoreObjective;)V)
-[14:07:01] [main/INFO]: [customskinloader.Logger:log:70]: [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.client.gui.GuiPlayerTabOverlay(renderPlayerlist(ILnet/minecraft/scoreboard/Scoreboard;Lnet/minecraft/scoreboard/ScoreObjective;)V)
-[14:07:01] [main/INFO]: [customskinloader.Logger:log:70]: [main INFO] [CSL DEBUG] REGISTERING TRANSFORMER customskinloader.forge.transformer.SpectatorMenuTransformer$PlayerMenuObjectTransformer
-[14:07:01] [main/INFO]: [customskinloader.Logger:log:70]: [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.client.gui.spectator.PlayerMenuObject(<init>(Lcom/mojang/authlib/GameProfile;)V)
-[14:07:01] [main/INFO]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
-[14:07:01] [main/INFO]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@4337afd
-[14:07:01] [main/INFO]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[14:07:01] [main/INFO]: Calling tweak class com.mumfrey.liteloader.launch.LiteLoaderTweaker$PreInitTweaker
-[14:07:01] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[14:07:01] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[14:07:01] [main/WARN]: Tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker has already been visited -- skipping
-[14:07:01] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[14:07:02] [main/INFO]: [cn.lambdalib2.render.mc.PipelineTransformer:transform:16]: Transforming RenderGlobal
-[14:07:02] [main/INFO]: [cn.lambdalib2.render.mc.PipelineTransformer$EntityRendererVisitor:visitMethod:50]: Transforming RenderGlobal.renderEntities
-[14:07:02] [main/INFO]: A re-entrant transformer '$wrapper.cn.lambdalib2.render.mc.PipelineTransformer' was detected and will no longer process meta class data
-[14:07:02] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
-[14:07:02] [main/INFO]: Injecting downstream transformers
-[14:07:02] [main/INFO]: Injecting additional class transformer class 'com.mumfrey.liteloader.transformers.event.EventTransformer'
-[14:07:02] [main/INFO]: Injecting additional class transformer class 'com.mumfrey.liteloader.common.transformers.LiteLoaderPacketTransformer'
-[14:07:02] [main/INFO]: Injecting additional class transformer class 'com.mumfrey.liteloader.transformers.event.json.ModEventInjectionTransformer'
-[14:07:02] [main/INFO]: FML detected, switching to searge mappings
-[14:07:02] [Client thread/INFO]: Setting user: gele178
-[14:07:05] [Client thread/WARN]: Skipping bad option: lastServer:
-[14:07:05] [Client thread/INFO]: LWJGL Version: 2.9.4
-[14:07:06] [Client thread/INFO]: Generating new Event Handler Proxy Class com.mumfrey.liteloader.core.event.EventProxy
-[14:07:06] [Client thread/INFO]: Successfully generated event handler proxy class with 0 handlers(s) and 0 total invocations
-[14:07:06] [Client thread/INFO]: -- System Details --
+[17:03:07] [main/INFO]: Registering discovery module EnumeratorModuleClassPath: [<Java Class Path>]
+[17:03:07] [main/INFO]: Registering discovery module EnumeratorModuleFolder: [E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\mods]
+[17:03:07] [main/INFO]: Registering discovery module EnumeratorModuleFolder: [E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\mods\1.12.2]
+[17:03:07] [main/INFO]: Registering enumerator plugin DefaultEnumeratorPlugin: [com.mumfrey.liteloader.core.api.DefaultEnumeratorPlugin@4b61d0c6]
+[17:03:07] [main/INFO]: Discovering valid mod files in folder E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\mods
+[17:03:07] [main/INFO]: Inspecting jar metadata in 'AcademyCraft-1.1.2.jar'
+[17:03:07] [main/INFO]: Ignoring E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\mods\AcademyCraft-1.1.2.jar
+[17:03:07] [main/INFO]: Inspecting jar metadata in 'BrandonsCore-1.12.2-2.4.18.210-universal.jar'
+[17:03:07] [main/INFO]: Ignoring E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\mods\BrandonsCore-1.12.2-2.4.18.210-universal.jar
+[17:03:07] [main/INFO]: Inspecting jar metadata in 'CodeChickenLib-1.12.2-3.2.3.358-universal.jar'
+[17:03:07] [main/INFO]: Ignoring E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\mods\CodeChickenLib-1.12.2-3.2.3.358-universal.jar
+[17:03:07] [main/INFO]: Inspecting jar metadata in 'CustomNPCs_1.12.2-(01Oct19).jar'
+[17:03:07] [main/INFO]: Ignoring E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\mods\CustomNPCs_1.12.2-(01Oct19).jar
+[17:03:07] [main/INFO]: Inspecting jar metadata in 'CustomSkinLoader_Forge-14.11.jar'
+[17:03:07] [main/INFO]: Ignoring E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\mods\CustomSkinLoader_Forge-14.11.jar
+[17:03:07] [main/INFO]: Inspecting jar metadata in 'Decocraft-2.6.3_1.12.2.jar'
+[17:03:07] [main/INFO]: Ignoring E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\mods\Decocraft-2.6.3_1.12.2.jar
+[17:03:07] [main/INFO]: Inspecting jar metadata in 'Draconic-Evolution-1.12.2-2.3.25.351-universal.jar'
+[17:03:07] [main/INFO]: Ignoring E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\mods\Draconic-Evolution-1.12.2-2.3.25.351-universal.jar
+[17:03:07] [main/INFO]: Inspecting jar metadata in 'furniture-6.3.1-1.12.2.jar'
+[17:03:07] [main/INFO]: Ignoring E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\mods\furniture-6.3.1-1.12.2.jar
+[17:03:07] [main/INFO]: Inspecting jar metadata in 'industrialcraft-2-2.8.196-ex112.jar'
+[17:03:07] [main/INFO]: Ignoring E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\mods\industrialcraft-2-2.8.196-ex112.jar
+[17:03:07] [main/INFO]: Inspecting jar metadata in 'PTRLib-1.0.4.jar'
+[17:03:07] [main/INFO]: Ignoring E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\mods\PTRLib-1.0.4.jar
+[17:03:07] [main/INFO]: Inspecting jar metadata in 'RedstoneFlux-1.12-2.1.0.6-universal.jar'
+[17:03:07] [main/INFO]: Ignoring E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\mods\RedstoneFlux-1.12-2.1.0.6-universal.jar
+[17:03:07] [main/INFO]: Inspecting jar metadata in 'VariedCommodities_1.12.2(21nov19).jar'
+[17:03:07] [main/INFO]: Ignoring E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\mods\VariedCommodities_1.12.2(21nov19).jar
+[17:03:07] [main/INFO]: Inspecting jar metadata in '创世神-worldedit-forge-mc1.12.2-6.1.10-SNAPSHOT-dist.jar'
+[17:03:07] [main/INFO]: Ignoring E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\mods\创世神-worldedit-forge-mc1.12.2-6.1.10-SNAPSHOT-dist.jar
+[17:03:07] [main/INFO]: Considering valid mod file: E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\mods\小地图-需要Liteload-mod_voxelMap_1.7.1_for_1.12.2.litemod
+[17:03:07] [main/INFO]: Discovering valid mod files in folder E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\mods\1.12.2
+[17:03:07] [main/INFO]: Discovering tweaks on class path...
+[17:03:07] [main/INFO]: Baking listener list for EnumerationObserver with 1 listeners
+[17:03:07] [main/INFO]: Registering discovered mod files in folder E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\mods
+[17:03:07] [main/INFO]: Adding newest valid mod file 'E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\mods\小地图-需要Liteload-mod_voxelMap_1.7.1_for_1.12.2.litemod' at revision 1701.0000
+[17:03:07] [main/INFO]: Registering discovered mod files in folder E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\mods\1.12.2
+[17:03:07] [main/INFO]: Registering mixin config mixins.oldnorth.json for 小地图-需要Liteload-mod_voxelMap_1.7.1_for_1.12.2.litemod
+[17:03:07] [main/INFO]: Registering mixin config mixins.voxelmap.json for 小地图-需要Liteload-mod_voxelMap_1.7.1_for_1.12.2.litemod
+[17:03:07] [main/INFO]: Initialising LiteLoader Mixins
+[17:03:07] [main/INFO]: Compatibility level set to JAVA_8
+[17:03:07] [main/INFO]: LiteLoader PREINIT complete
+[17:03:07] [main/INFO]: Injecting required class transformer 'com.mumfrey.liteloader.transformers.event.EventProxyTransformer'
+[17:03:07] [main/INFO]: Injecting required class transformer 'com.mumfrey.liteloader.launch.LiteLoaderTransformer'
+[17:03:07] [main/INFO]: Injecting required class transformer 'com.mumfrey.liteloader.client.transformers.CrashReportTransformer'
+[17:03:07] [main/INFO]: Queuing required class transformer 'com.mumfrey.liteloader.transformers.event.EventTransformer'
+[17:03:07] [main/INFO]: Queuing required class transformer 'com.mumfrey.liteloader.common.transformers.LiteLoaderPacketTransformer'
+[17:03:07] [main/INFO]: Queuing required class transformer 'com.mumfrey.liteloader.transformers.event.json.ModEventInjectionTransformer'
+[17:03:07] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[17:03:07] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[17:03:07] [main/INFO]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[17:03:07] [main/INFO]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[17:03:07] [main/INFO]: Loading tweak class name com.mumfrey.liteloader.launch.LiteLoaderTweaker$PreInitTweaker
+[17:03:07] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[17:03:07] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[17:03:07] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:03:09] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[17:03:09] [main/ERROR]: FML appears to be missing any signature data. This is not a good thing
+[17:03:09] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:03:09] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:03:09] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:03:09] [main/INFO]: [customskinloader.Logger:<init>:50]: Log Path: E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\.\CustomSkinLoader\ForgePlugin.log
+[17:03:09] [main/INFO]: [customskinloader.Logger:log:70]: [main INFO] [CSL DEBUG] REGISTERING TRANSFORMER customskinloader.forge.transformer.SkinManagerTransformer$InitTransformer
+[17:03:09] [main/INFO]: [customskinloader.Logger:log:70]: [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.client.resources.SkinManager(<init>(Lnet/minecraft/client/renderer/texture/TextureManager;Ljava/io/File;Lcom/mojang/authlib/minecraft/MinecraftSessionService;)V)
+[17:03:09] [main/INFO]: [customskinloader.Logger:log:70]: [main INFO] [CSL DEBUG] REGISTERING TRANSFORMER customskinloader.forge.transformer.SkinManagerTransformer$LoadSkinTransformer
+[17:03:09] [main/INFO]: [customskinloader.Logger:log:70]: [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.client.resources.SkinManager(func_152789_a(Lcom/mojang/authlib/minecraft/MinecraftProfileTexture;Lcom/mojang/authlib/minecraft/MinecraftProfileTexture$Type;Lnet/minecraft/client/resources/SkinManager$SkinAvailableCallback;)Lnet/minecraft/util/ResourceLocation;)
+[17:03:09] [main/INFO]: [customskinloader.Logger:log:70]: [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.client.resources.SkinManager(loadSkin(Lcom/mojang/authlib/minecraft/MinecraftProfileTexture;Lcom/mojang/authlib/minecraft/MinecraftProfileTexture$Type;Lnet/minecraft/client/resources/SkinManager$SkinAvailableCallback;)Lnet/minecraft/util/ResourceLocation;)
+[17:03:09] [main/INFO]: [customskinloader.Logger:log:70]: [main INFO] [CSL DEBUG] REGISTERING TRANSFORMER customskinloader.forge.transformer.SkinManagerTransformer$LoadProfileTexturesTransformer
+[17:03:09] [main/INFO]: [customskinloader.Logger:log:70]: [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.client.resources.SkinManager(func_152790_a(Lcom/mojang/authlib/GameProfile;Lnet/minecraft/client/resources/SkinManager$SkinAvailableCallback;Z)V)
+[17:03:09] [main/INFO]: [customskinloader.Logger:log:70]: [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.client.resources.SkinManager(loadProfileTextures(Lcom/mojang/authlib/GameProfile;Lnet/minecraft/client/resources/SkinManager$SkinAvailableCallback;Z)V)
+[17:03:09] [main/INFO]: [customskinloader.Logger:log:70]: [main INFO] [CSL DEBUG] REGISTERING TRANSFORMER customskinloader.forge.transformer.SkinManagerTransformer$LoadSkinFromCacheTransformer
+[17:03:09] [main/INFO]: [customskinloader.Logger:log:70]: [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.client.resources.SkinManager(func_152788_a(Lcom/mojang/authlib/GameProfile;)Ljava/util/Map;)
+[17:03:09] [main/INFO]: [customskinloader.Logger:log:70]: [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.client.resources.SkinManager(loadSkinFromCache(Lcom/mojang/authlib/GameProfile;)Ljava/util/Map;)
+[17:03:09] [main/INFO]: [customskinloader.Logger:log:70]: [main INFO] [CSL DEBUG] REGISTERING TRANSFORMER customskinloader.forge.transformer.PlayerTabTransformer$ScoreObjectiveTransformer
+[17:03:09] [main/INFO]: [customskinloader.Logger:log:70]: [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.client.gui.GuiPlayerTabOverlay(func_175249_a(ILnet/minecraft/scoreboard/Scoreboard;Lnet/minecraft/scoreboard/ScoreObjective;)V)
+[17:03:09] [main/INFO]: [customskinloader.Logger:log:70]: [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.client.gui.GuiPlayerTabOverlay(renderPlayerlist(ILnet/minecraft/scoreboard/Scoreboard;Lnet/minecraft/scoreboard/ScoreObjective;)V)
+[17:03:09] [main/INFO]: [customskinloader.Logger:log:70]: [main INFO] [CSL DEBUG] REGISTERING TRANSFORMER customskinloader.forge.transformer.SpectatorMenuTransformer$PlayerMenuObjectTransformer
+[17:03:09] [main/INFO]: [customskinloader.Logger:log:70]: [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.client.gui.spectator.PlayerMenuObject(<init>(Lcom/mojang/authlib/GameProfile;)V)
+[17:03:09] [main/INFO]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[17:03:09] [main/INFO]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@5f5827d0
+[17:03:09] [main/INFO]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[17:03:09] [main/INFO]: Calling tweak class com.mumfrey.liteloader.launch.LiteLoaderTweaker$PreInitTweaker
+[17:03:09] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[17:03:09] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[17:03:09] [main/WARN]: Tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker has already been visited -- skipping
+[17:03:09] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[17:03:09] [main/INFO]: [cn.lambdalib2.render.mc.PipelineTransformer:transform:16]: Transforming RenderGlobal
+[17:03:09] [main/INFO]: [cn.lambdalib2.render.mc.PipelineTransformer$EntityRendererVisitor:visitMethod:50]: Transforming RenderGlobal.renderEntities
+[17:03:09] [main/INFO]: A re-entrant transformer '$wrapper.cn.lambdalib2.render.mc.PipelineTransformer' was detected and will no longer process meta class data
+[17:03:10] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[17:03:10] [main/INFO]: Injecting downstream transformers
+[17:03:10] [main/INFO]: Injecting additional class transformer class 'com.mumfrey.liteloader.transformers.event.EventTransformer'
+[17:03:10] [main/INFO]: Injecting additional class transformer class 'com.mumfrey.liteloader.common.transformers.LiteLoaderPacketTransformer'
+[17:03:10] [main/INFO]: Injecting additional class transformer class 'com.mumfrey.liteloader.transformers.event.json.ModEventInjectionTransformer'
+[17:03:10] [main/INFO]: FML detected, switching to searge mappings
+[17:03:10] [Client thread/INFO]: Setting user: gele178
+[17:03:14] [Client thread/WARN]: Skipping bad option: lastServer:
+[17:03:14] [Client thread/INFO]: LWJGL Version: 2.9.4
+[17:03:15] [Client thread/INFO]: Generating new Event Handler Proxy Class com.mumfrey.liteloader.core.event.EventProxy
+[17:03:15] [Client thread/INFO]: Successfully generated event handler proxy class with 0 handlers(s) and 0 total invocations
+[17:03:15] [Client thread/INFO]: -- System Details --
 Details:
 	Minecraft Version: 1.12.2
 	Operating System: Windows 7 (amd64) version 6.1
 	Java Version: 1.8.0_251, Oracle Corporation
 	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
-	Memory: 76656776 bytes (73 MB) / 318767104 bytes (304 MB) up to 4294967296 bytes (4096 MB)
+	Memory: 130792176 bytes (124 MB) / 318767104 bytes (304 MB) up to 4294967296 bytes (4096 MB)
 	LiteLoader Brand: LiteLoader startup incomplete
 	LiteLoader Mods: LiteLoader startup incomplete
 	LaunchWrapper: 26 active transformer(s)
@@ -230,134 +231,134 @@ CorePlugin (AcademyCraft-1.1.2.jar)
 CustomSkinLoader (CustomSkinLoader_Forge-14.11.jar)
   customskinloader.forge.loader.LaunchWrapper
 	GL info: ' Vendor: 'ATI Technologies Inc.' Version: '4.5.13491 Compatibility Profile Context 22.19.662.4' Renderer: 'Radeon RX 550 Series'
-[14:07:06] [Client thread/INFO]: MinecraftForge v14.23.5.2847 Initialized
-[14:07:06] [Client thread/INFO]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[14:07:06] [Client thread/INFO]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[14:07:06] [Client thread/INFO]: Replaced 1227 ore ingredients
-[14:07:06] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\mods for mods
-[14:07:06] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\mods\1.12.2 for mods
-[14:07:07] [Client thread/INFO]: Mod lambdalib2 is missing the required element 'name'. Substituting lambdalib2
-[14:07:07] [Client thread/WARN]: Mod codechickenlib is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 3.2.3.358
-[14:07:08] [Client thread/INFO]: Forge Mod Loader has identified 19 mods to load
-[14:07:08] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge, LambdaLib|Core, academy, lambdalib2, brandonscore, codechickenlib, customnpcs, customskinloader, props, draconicevolution, cfm, ic2, ptrmodellib, redstoneflux, variedcommodities, worldedit] at CLIENT
-[14:07:08] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge, LambdaLib|Core, academy, lambdalib2, brandonscore, codechickenlib, customnpcs, customskinloader, props, draconicevolution, cfm, ic2, ptrmodellib, redstoneflux, variedcommodities, worldedit] at SERVER
-[14:07:08] [Thread-4/INFO]: Using sync timing. 200 frames of Display.update took 189798648 nanos
-[14:07:09] [Client thread/INFO]: LambdaLib2|Core is loading.
-[14:07:09] [Client thread/INFO]: [cn.lambdalib2.registry.impl.RegistryTransformer:transform:23]: [LL2] Find registry mod: cn.academy.AcademyCraft
-[14:07:09] [Client thread/INFO]: [cn.lambdalib2.render.mc.PipelineTransformer:transform:16]: Transforming RenderGlobal
-[14:07:09] [Client thread/INFO]: [cn.lambdalib2.render.mc.PipelineTransformer$EntityRendererVisitor:visitMethod:50]: Transforming RenderGlobal.renderEntities
-[14:07:09] [Client thread/INFO]: Brandon's Core online! Waiting for Draconic Evolution to join the party....
-[14:07:09] [Client thread/INFO]: Draconic Evolution online!
-[14:07:09] [Client thread/INFO]: Hay! There you are! Now lets destroy some worlds!!
-[14:07:09] [Client thread/INFO]: Sounds like fun! Lets get to it!
-[14:07:09] [Client thread/INFO]: Hello Minecraft!!!
-[14:07:10] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Academy Craft, FMLFileResourcePack:lambdalib2, FMLFileResourcePack:Brandon's Core, FMLFileResourcePack:CodeChicken Lib, FMLFileResourcePack:CustomNPCs, FMLFileResourcePack:CustomSkinLoader, FMLFileResourcePack:Decocraft, FMLFileResourcePack:Draconic Evolution, FMLFileResourcePack:MrCrayfish's Furniture Mod, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:ptrmodellib, FMLFileResourcePack:Redstone Flux, FMLFileResourcePack:Varied Commodities, FMLFileResourcePack:WorldEdit
-[14:07:10] [Client thread/INFO]: Processing ObjectHolder annotations
-[14:07:10] [Client thread/INFO]: Found 1093 ObjectHolder annotations
-[14:07:10] [Client thread/INFO]: Identifying ItemStackHolder annotations
-[14:07:10] [Client thread/INFO]: Found 0 ItemStackHolder annotations
-[14:07:11] [Client thread/INFO]: Configured a dormant chunk cache size of 0
-[14:07:11] [Forge Version Check/INFO]: [codechickenlib] Starting version check at http://chickenbones.net/Files/notification/version.php?query=forge&version=1.12&file=CodeChickenLib
-[14:07:11] [Forge Version Check/INFO]: [codechickenlib] Found status: BETA Target: null
-[14:07:11] [Forge Version Check/INFO]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[14:07:12] [Forge Version Check/INFO]: [forge] Found status: OUTDATED Target: 14.23.5.2854
-[14:07:12] [Client thread/INFO]: EntityData baked, network participants: [cn.academy.ability.develop.DevelopData, cn.academy.ability.develop.PortableDevData, cn.academy.ability.vanilla.teleporter.skill.LocTeleportData, cn.academy.datapart.AbilityData, cn.academy.datapart.CPData, cn.academy.datapart.CooldownData, cn.academy.datapart.PresetData, cn.academy.misc.media.MediaAcquireData, cn.academy.terminal.TerminalData, cn.academy.tutorial.TutorialData, cn.lambdalib2.datapart.PlayerDataTag]
-[14:07:12] [Client thread/INFO]: Starting AcademyCraft
-[14:07:12] [Client thread/INFO]: Copyright (c) Lambda Innovation, 2013-2018
-[14:07:12] [Client thread/INFO]: https://ac.li-dev.cn/
-[14:07:13] [Client thread/INFO]: Found mod feature container for mod: draconicevolution
-[14:07:13] [Client thread/INFO]: Found mod config container for mod: draconicevolution
-[14:07:13] [Client thread/INFO]: Found mod config container for mod: brandonscore
-[14:07:13] [Client thread/INFO]: Found mod config container for mod: draconicevolution
-[14:07:13] [Client thread/INFO]: Loading mod config for: draconicevolution
-[14:07:13] [Client thread/INFO]: Loading mod config for: brandonscore
-[14:07:13] [Client thread/WARN]: No features were detected for mod: brandonscore. This maybe an issue or maybe this mod just does not have any items or blocks.
-[14:07:13] [Client thread/WARN]: Skipping bad option: lastServer:
-[14:07:14] [Client thread/INFO]: Original locale was , switching to Locale.US
-[14:07:14] [Client thread/INFO]: Locale is now en_US
-[14:07:14] [Client thread/INFO]: Locale was restored to 
-[14:07:29] [Client thread/INFO]: Total mipmap : 2476 ms
-[14:07:29] [Client thread/INFO]: Registering features for mod: draconicevolution
-[14:07:29] [Client thread/INFO]: Registering feature renderers for mod: draconicevolution
-[14:07:30] [Client thread/INFO]: Finished PreInitialization
-[14:07:30] [Client thread/INFO]: OBJLoader: Domain draconicevolution has been added.
-[14:07:30] [Client thread/INFO]: Downloading Project Intelligence Mod Manifest...
-[14:07:37] [Client thread/INFO]: Successfully loaded 352 out of 352 recipes for shaped recipes
-[14:07:37] [Client thread/INFO]: Successfully loaded 79 out of 79 recipes for shapeless recipes
-[14:07:37] [Client thread/INFO]: Successfully loaded 41 out of 41 recipes for solid uu recipes
-[14:07:37] [Client thread/INFO]: Successfully loaded 27 out of 27 recipes for furnace recipes
-[14:07:37] [Client thread/INFO]: Successfully loaded 5 out of 5 recipes for blast furnace recipes
-[14:07:37] [Client thread/INFO]: Successfully loaded 14 out of 14 recipes for block cutter recipes
-[14:07:37] [Client thread/INFO]: Successfully loaded 51 out of 51 recipes for compressor recipes
-[14:07:37] [Client thread/INFO]: Successfully loaded 13 out of 13 recipes for extractor recipes
-[14:07:37] [Client thread/INFO]: Successfully loaded 86 out of 86 recipes for macerator recipes
-[14:07:37] [Client thread/INFO]: Successfully loaded 5 out of 5 recipes for metal former cutting recipes
-[14:07:37] [Client thread/INFO]: Successfully loaded 10 out of 10 recipes for metal former extruding recipes
-[14:07:37] [Client thread/INFO]: Successfully loaded 14 out of 14 recipes for metal former rolling recipes
-[14:07:37] [Client thread/INFO]: Successfully loaded 8 out of 8 recipes for ore washing recipes
-[14:07:37] [Client thread/INFO]: Successfully loaded 26 out of 26 recipes for thermal centrifuge recipes
-[14:07:37] [Client thread/WARN]: The item tritium_fuel_rod is not initialized.
-[14:07:37] [Client thread/WARN]: The item plasma_launcher is not initialized.
-[14:07:37] [Client thread/WARN]: The item item_pipe is not initialized.
-[14:07:37] [Client thread/WARN]: The item extractor_cover is not initialized.
-[14:07:37] [Client thread/WARN]: The item ingot2 is not initialized.
-[14:07:37] [Client thread/WARN]: The item test_pick is not initialized.
-[14:07:37] [Client thread/WARN]: The fluid deuterium is not initialized.
-[14:07:37] [Client thread/WARN]: The fluid molten_brass is not initialized.
-[14:07:37] [Client thread/WARN]: The fluid molten_bronze is not initialized.
-[14:07:37] [Client thread/WARN]: The fluid molten_copper is not initialized.
-[14:07:37] [Client thread/WARN]: The fluid molten_gold is not initialized.
-[14:07:37] [Client thread/WARN]: The fluid molten_iron is not initialized.
-[14:07:37] [Client thread/WARN]: The fluid molten_lead is not initialized.
-[14:07:37] [Client thread/WARN]: The fluid molten_silver is not initialized.
-[14:07:37] [Client thread/WARN]: The fluid molten_steel is not initialized.
-[14:07:37] [Client thread/WARN]: The fluid molten_tin is not initialized.
-[14:07:37] [Client thread/WARN]: The fluid molten_zinc is not initialized.
-[14:07:37] [Client thread/INFO]: LL2: Executing 4 block registry callbacks...
-[14:07:37] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tileredstoneblock`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
-[14:07:37] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tileblockanvil`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
-[14:07:37] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilemailbox`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
-[14:07:37] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilewaypoint`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
-[14:07:37] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilenpcscripted`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
-[14:07:37] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilenpcscripteddoor`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
-[14:07:37] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilenpcbuilder`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
-[14:07:37] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilenpccopy`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
-[14:07:37] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilenpcborder`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
-[14:07:37] [Client thread/INFO]: Applying holder lookups
-[14:07:37] [Client thread/INFO]: Holder lookups applied
-[14:07:37] [Client thread/INFO]: LL2: Executing 6 item registry callbacks...
-[14:07:38] [Client thread/INFO]: Applying holder lookups
-[14:07:38] [Client thread/INFO]: Holder lookups applied
-[14:07:38] [Client thread/INFO]: Applying holder lookups
-[14:07:38] [Client thread/INFO]: Holder lookups applied
-[14:07:38] [Client thread/INFO]: Applying holder lookups
-[14:07:38] [Client thread/INFO]: Holder lookups applied
-[14:07:38] [Client thread/INFO]: Injecting itemstacks
-[14:07:38] [Client thread/INFO]: Itemstack injection complete
-[14:07:38] [Client thread/INFO]: [customskinloader.Logger:log:70]: [Client thread INFO] [CSL DEBUG] Successfully transformed method <init> in class net.minecraft.client.resources.SkinManager
-[14:07:38] [Client thread/INFO]: [customskinloader.Logger:log:70]: [Client thread INFO] [CSL DEBUG] Successfully transformed method func_152789_a in class net.minecraft.client.resources.SkinManager
-[14:07:38] [Client thread/INFO]: [customskinloader.Logger:log:70]: [Client thread INFO] [CSL DEBUG] Successfully transformed method func_152790_a in class net.minecraft.client.resources.SkinManager
-[14:07:38] [Client thread/INFO]: [customskinloader.Logger:log:70]: [Client thread INFO] [CSL DEBUG] Successfully transformed method func_152788_a in class net.minecraft.client.resources.SkinManager
-[14:07:39] [Client thread/WARN]: Missing sound for event: cfm:channel_news
-[14:07:39] [Client thread/WARN]: Missing sound for event: cfm:channel_cooking
-[14:07:39] [Client thread/WARN]: Missing sound for event: cfm:channel_sam_tabor
-[14:07:39] [Client thread/WARN]: Missing sound for event: cfm:channel_heman
-[14:07:39] [Client thread/WARN]: Missing sound for event: cfm:channel_switch
-[14:07:39] [Client thread/WARN]: Missing sound for event: variedcommodities:gun.pistol.shot
-[14:07:39] [Client thread/WARN]: Missing sound for event: variedcommodities:gun.pistol.trigger
-[14:07:39] [Client thread/WARN]: Missing sound for event: variedcommodities:gun.empty
-[14:07:39] [Client thread/WARN]: Missing sound for event: variedcommodities:gun.ak47.load
-[14:07:39] [Client thread/WARN]: Missing sound for event: variedcommodities:magic.shot
-[14:07:39] [Client thread/WARN]: Missing sound for event: variedcommodities:magic.charge
-[14:07:39] [Client thread/WARN]: Missing sound for event: variedcommodities:misc.swosh
-[14:07:39] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[14:07:39] [Thread-11/INFO]: Initializing LWJGL OpenAL
-[14:07:39] [Thread-11/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[14:07:39] [Thread-11/INFO]: OpenAL initialized.
-[14:07:39] [Sound Library Loader/INFO]: Sound engine started
-[14:07:42] [Client thread/INFO]: Max texture size: 16384
-[14:07:46] [Client thread/INFO]: Created: 2048x1024 textures-atlas
-[14:07:47] [Client thread/ERROR]: Exception loading model for variant props:blockprops#facing=east
+[17:03:15] [Client thread/INFO]: MinecraftForge v14.23.5.2847 Initialized
+[17:03:15] [Client thread/INFO]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[17:03:15] [Client thread/INFO]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[17:03:15] [Client thread/INFO]: Replaced 1227 ore ingredients
+[17:03:15] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\mods for mods
+[17:03:15] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\mods\1.12.2 for mods
+[17:03:16] [Client thread/INFO]: Mod lambdalib2 is missing the required element 'name'. Substituting lambdalib2
+[17:03:16] [Client thread/WARN]: Mod codechickenlib is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 3.2.3.358
+[17:03:17] [Client thread/INFO]: Forge Mod Loader has identified 19 mods to load
+[17:03:17] [Thread-4/INFO]: Using sync timing. 200 frames of Display.update took 104620086 nanos
+[17:03:17] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge, LambdaLib|Core, academy, lambdalib2, brandonscore, codechickenlib, customnpcs, customskinloader, props, draconicevolution, cfm, ic2, ptrmodellib, redstoneflux, variedcommodities, worldedit] at CLIENT
+[17:03:17] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge, LambdaLib|Core, academy, lambdalib2, brandonscore, codechickenlib, customnpcs, customskinloader, props, draconicevolution, cfm, ic2, ptrmodellib, redstoneflux, variedcommodities, worldedit] at SERVER
+[17:03:17] [Client thread/INFO]: LambdaLib2|Core is loading.
+[17:03:17] [Client thread/INFO]: [cn.lambdalib2.registry.impl.RegistryTransformer:transform:23]: [LL2] Find registry mod: cn.academy.AcademyCraft
+[17:03:18] [Client thread/INFO]: [cn.lambdalib2.render.mc.PipelineTransformer:transform:16]: Transforming RenderGlobal
+[17:03:18] [Client thread/INFO]: [cn.lambdalib2.render.mc.PipelineTransformer$EntityRendererVisitor:visitMethod:50]: Transforming RenderGlobal.renderEntities
+[17:03:18] [Client thread/INFO]: Brandon's Core online! Waiting for Draconic Evolution to join the party....
+[17:03:18] [Client thread/INFO]: Draconic Evolution online!
+[17:03:18] [Client thread/INFO]: Hay! There you are! Now lets destroy some worlds!!
+[17:03:18] [Client thread/INFO]: Sounds like fun! Lets get to it!
+[17:03:18] [Client thread/INFO]: Hello Minecraft!!!
+[17:03:19] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Academy Craft, FMLFileResourcePack:lambdalib2, FMLFileResourcePack:Brandon's Core, FMLFileResourcePack:CodeChicken Lib, FMLFileResourcePack:CustomNPCs, FMLFileResourcePack:CustomSkinLoader, FMLFileResourcePack:Decocraft, FMLFileResourcePack:Draconic Evolution, FMLFileResourcePack:MrCrayfish's Furniture Mod, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:ptrmodellib, FMLFileResourcePack:Redstone Flux, FMLFileResourcePack:Varied Commodities, FMLFileResourcePack:WorldEdit
+[17:03:19] [Client thread/INFO]: Processing ObjectHolder annotations
+[17:03:19] [Client thread/INFO]: Found 1093 ObjectHolder annotations
+[17:03:19] [Client thread/INFO]: Identifying ItemStackHolder annotations
+[17:03:19] [Client thread/INFO]: Found 0 ItemStackHolder annotations
+[17:03:19] [Client thread/INFO]: Configured a dormant chunk cache size of 0
+[17:03:19] [Forge Version Check/INFO]: [codechickenlib] Starting version check at http://chickenbones.net/Files/notification/version.php?query=forge&version=1.12&file=CodeChickenLib
+[17:03:20] [Forge Version Check/INFO]: [codechickenlib] Found status: BETA Target: null
+[17:03:20] [Forge Version Check/INFO]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[17:03:21] [Forge Version Check/INFO]: [forge] Found status: OUTDATED Target: 14.23.5.2854
+[17:03:21] [Client thread/INFO]: EntityData baked, network participants: [cn.academy.ability.develop.DevelopData, cn.academy.ability.develop.PortableDevData, cn.academy.ability.vanilla.teleporter.skill.LocTeleportData, cn.academy.datapart.AbilityData, cn.academy.datapart.CPData, cn.academy.datapart.CooldownData, cn.academy.datapart.PresetData, cn.academy.misc.media.MediaAcquireData, cn.academy.terminal.TerminalData, cn.academy.tutorial.TutorialData, cn.lambdalib2.datapart.PlayerDataTag]
+[17:03:21] [Client thread/INFO]: Starting AcademyCraft
+[17:03:21] [Client thread/INFO]: Copyright (c) Lambda Innovation, 2013-2018
+[17:03:21] [Client thread/INFO]: https://ac.li-dev.cn/
+[17:03:22] [Client thread/INFO]: Found mod feature container for mod: draconicevolution
+[17:03:22] [Client thread/INFO]: Found mod config container for mod: brandonscore
+[17:03:22] [Client thread/INFO]: Found mod config container for mod: draconicevolution
+[17:03:22] [Client thread/INFO]: Found mod config container for mod: draconicevolution
+[17:03:22] [Client thread/INFO]: Loading mod config for: draconicevolution
+[17:03:22] [Client thread/INFO]: Loading mod config for: brandonscore
+[17:03:22] [Client thread/WARN]: No features were detected for mod: brandonscore. This maybe an issue or maybe this mod just does not have any items or blocks.
+[17:03:22] [Client thread/WARN]: Skipping bad option: lastServer:
+[17:03:23] [Client thread/INFO]: Original locale was , switching to Locale.US
+[17:03:23] [Client thread/INFO]: Locale is now en_US
+[17:03:23] [Client thread/INFO]: Locale was restored to 
+[17:03:35] [Client thread/INFO]: Total mipmap : 2461 ms
+[17:03:35] [Client thread/INFO]: Registering features for mod: draconicevolution
+[17:03:35] [Client thread/INFO]: Registering feature renderers for mod: draconicevolution
+[17:03:35] [Client thread/INFO]: Finished PreInitialization
+[17:03:35] [Client thread/INFO]: OBJLoader: Domain draconicevolution has been added.
+[17:03:35] [Client thread/INFO]: Downloading Project Intelligence Mod Manifest...
+[17:03:42] [Client thread/INFO]: Successfully loaded 352 out of 352 recipes for shaped recipes
+[17:03:42] [Client thread/INFO]: Successfully loaded 79 out of 79 recipes for shapeless recipes
+[17:03:42] [Client thread/INFO]: Successfully loaded 41 out of 41 recipes for solid uu recipes
+[17:03:42] [Client thread/INFO]: Successfully loaded 27 out of 27 recipes for furnace recipes
+[17:03:42] [Client thread/INFO]: Successfully loaded 5 out of 5 recipes for blast furnace recipes
+[17:03:42] [Client thread/INFO]: Successfully loaded 14 out of 14 recipes for block cutter recipes
+[17:03:42] [Client thread/INFO]: Successfully loaded 51 out of 51 recipes for compressor recipes
+[17:03:42] [Client thread/INFO]: Successfully loaded 13 out of 13 recipes for extractor recipes
+[17:03:42] [Client thread/INFO]: Successfully loaded 86 out of 86 recipes for macerator recipes
+[17:03:42] [Client thread/INFO]: Successfully loaded 5 out of 5 recipes for metal former cutting recipes
+[17:03:42] [Client thread/INFO]: Successfully loaded 10 out of 10 recipes for metal former extruding recipes
+[17:03:42] [Client thread/INFO]: Successfully loaded 14 out of 14 recipes for metal former rolling recipes
+[17:03:42] [Client thread/INFO]: Successfully loaded 8 out of 8 recipes for ore washing recipes
+[17:03:42] [Client thread/INFO]: Successfully loaded 26 out of 26 recipes for thermal centrifuge recipes
+[17:03:43] [Client thread/WARN]: The item tritium_fuel_rod is not initialized.
+[17:03:43] [Client thread/WARN]: The item plasma_launcher is not initialized.
+[17:03:43] [Client thread/WARN]: The item item_pipe is not initialized.
+[17:03:43] [Client thread/WARN]: The item extractor_cover is not initialized.
+[17:03:43] [Client thread/WARN]: The item ingot2 is not initialized.
+[17:03:43] [Client thread/WARN]: The item test_pick is not initialized.
+[17:03:43] [Client thread/WARN]: The fluid deuterium is not initialized.
+[17:03:43] [Client thread/WARN]: The fluid molten_brass is not initialized.
+[17:03:43] [Client thread/WARN]: The fluid molten_bronze is not initialized.
+[17:03:43] [Client thread/WARN]: The fluid molten_copper is not initialized.
+[17:03:43] [Client thread/WARN]: The fluid molten_gold is not initialized.
+[17:03:43] [Client thread/WARN]: The fluid molten_iron is not initialized.
+[17:03:43] [Client thread/WARN]: The fluid molten_lead is not initialized.
+[17:03:43] [Client thread/WARN]: The fluid molten_silver is not initialized.
+[17:03:43] [Client thread/WARN]: The fluid molten_steel is not initialized.
+[17:03:43] [Client thread/WARN]: The fluid molten_tin is not initialized.
+[17:03:43] [Client thread/WARN]: The fluid molten_zinc is not initialized.
+[17:03:43] [Client thread/INFO]: LL2: Executing 4 block registry callbacks...
+[17:03:43] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tileredstoneblock`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:43] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tileblockanvil`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:43] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilemailbox`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:43] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilewaypoint`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:43] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilenpcscripted`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:43] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilenpcscripteddoor`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:43] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilenpcbuilder`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:43] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilenpccopy`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:43] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tilenpcborder`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:43] [Client thread/INFO]: Applying holder lookups
+[17:03:43] [Client thread/INFO]: Holder lookups applied
+[17:03:43] [Client thread/INFO]: LL2: Executing 6 item registry callbacks...
+[17:03:43] [Client thread/INFO]: Applying holder lookups
+[17:03:43] [Client thread/INFO]: Holder lookups applied
+[17:03:43] [Client thread/INFO]: Applying holder lookups
+[17:03:43] [Client thread/INFO]: Holder lookups applied
+[17:03:43] [Client thread/INFO]: Applying holder lookups
+[17:03:43] [Client thread/INFO]: Holder lookups applied
+[17:03:43] [Client thread/INFO]: Injecting itemstacks
+[17:03:43] [Client thread/INFO]: Itemstack injection complete
+[17:03:43] [Client thread/INFO]: [customskinloader.Logger:log:70]: [Client thread INFO] [CSL DEBUG] Successfully transformed method <init> in class net.minecraft.client.resources.SkinManager
+[17:03:43] [Client thread/INFO]: [customskinloader.Logger:log:70]: [Client thread INFO] [CSL DEBUG] Successfully transformed method func_152789_a in class net.minecraft.client.resources.SkinManager
+[17:03:43] [Client thread/INFO]: [customskinloader.Logger:log:70]: [Client thread INFO] [CSL DEBUG] Successfully transformed method func_152790_a in class net.minecraft.client.resources.SkinManager
+[17:03:43] [Client thread/INFO]: [customskinloader.Logger:log:70]: [Client thread INFO] [CSL DEBUG] Successfully transformed method func_152788_a in class net.minecraft.client.resources.SkinManager
+[17:03:44] [Client thread/WARN]: Missing sound for event: cfm:channel_news
+[17:03:44] [Client thread/WARN]: Missing sound for event: cfm:channel_cooking
+[17:03:44] [Client thread/WARN]: Missing sound for event: cfm:channel_sam_tabor
+[17:03:44] [Client thread/WARN]: Missing sound for event: cfm:channel_heman
+[17:03:44] [Client thread/WARN]: Missing sound for event: cfm:channel_switch
+[17:03:44] [Client thread/WARN]: Missing sound for event: variedcommodities:gun.pistol.shot
+[17:03:44] [Client thread/WARN]: Missing sound for event: variedcommodities:gun.pistol.trigger
+[17:03:44] [Client thread/WARN]: Missing sound for event: variedcommodities:gun.empty
+[17:03:44] [Client thread/WARN]: Missing sound for event: variedcommodities:gun.ak47.load
+[17:03:44] [Client thread/WARN]: Missing sound for event: variedcommodities:magic.shot
+[17:03:44] [Client thread/WARN]: Missing sound for event: variedcommodities:magic.charge
+[17:03:44] [Client thread/WARN]: Missing sound for event: variedcommodities:misc.swosh
+[17:03:44] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[17:03:44] [Thread-11/INFO]: Initializing LWJGL OpenAL
+[17:03:44] [Thread-11/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[17:03:45] [Thread-11/INFO]: OpenAL initialized.
+[17:03:45] [Sound Library Loader/INFO]: Sound engine started
+[17:03:48] [Client thread/INFO]: Max texture size: 16384
+[17:03:51] [Client thread/INFO]: Created: 2048x1024 textures-atlas
+[17:03:52] [Client thread/ERROR]: Exception loading model for variant props:blockprops#facing=east
 net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model props:blockprops#facing=east with loader VariantLoader.INSTANCE, skipping
 	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
 	at net.minecraftforge.client.model.ModelLoader.func_177569_a(ModelLoader.java:235) ~[ModelLoader.class:?]
@@ -380,7 +381,7 @@ Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$Missin
 	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1175) ~[ModelLoader$VariantLoader.class:?]
 	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
 	... 15 more
-[14:07:47] [Client thread/ERROR]: Exception loading blockstate for the variant props:blockprops#facing=east: 
+[17:03:52] [Client thread/ERROR]: Exception loading blockstate for the variant props:blockprops#facing=east: 
 java.lang.Exception: Could not load model definition for variant props:blockprops
 	at net.minecraftforge.client.model.ModelLoader.func_177586_a(ModelLoader.java:269) ~[ModelLoader.class:?]
 	at net.minecraft.client.renderer.block.model.ModelBakery.loadBlock(ModelBakery.java:121) ~[cgb.class:?]
@@ -409,7 +410,7 @@ Caused by: java.io.FileNotFoundException: props:blockstates/blockprops.json
 	at net.minecraft.client.renderer.block.model.ModelBakery.func_177586_a(ModelBakery.java:208) ~[cgb.class:?]
 	at net.minecraftforge.client.model.ModelLoader.func_177586_a(ModelLoader.java:265) ~[ModelLoader.class:?]
 	... 14 more
-[14:07:47] [Client thread/ERROR]: Exception loading model for variant props:blockfake#facing=south
+[17:03:52] [Client thread/ERROR]: Exception loading model for variant props:blockfake#facing=south
 net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model props:blockfake#facing=south with loader VariantLoader.INSTANCE, skipping
 	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
 	at net.minecraftforge.client.model.ModelLoader.func_177569_a(ModelLoader.java:235) ~[ModelLoader.class:?]
@@ -432,7 +433,7 @@ Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$Missin
 	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1175) ~[ModelLoader$VariantLoader.class:?]
 	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
 	... 15 more
-[14:07:47] [Client thread/ERROR]: Exception loading blockstate for the variant props:blockfake#facing=south: 
+[17:03:52] [Client thread/ERROR]: Exception loading blockstate for the variant props:blockfake#facing=south: 
 java.lang.Exception: Could not load model definition for variant props:blockfake
 	at net.minecraftforge.client.model.ModelLoader.func_177586_a(ModelLoader.java:269) ~[ModelLoader.class:?]
 	at net.minecraft.client.renderer.block.model.ModelBakery.loadBlock(ModelBakery.java:121) ~[cgb.class:?]
@@ -461,7 +462,7 @@ Caused by: java.io.FileNotFoundException: props:blockstates/blockfake.json
 	at net.minecraft.client.renderer.block.model.ModelBakery.func_177586_a(ModelBakery.java:208) ~[cgb.class:?]
 	at net.minecraftforge.client.model.ModelLoader.func_177586_a(ModelLoader.java:265) ~[ModelLoader.class:?]
 	... 14 more
-[14:07:47] [Client thread/ERROR]: Exception loading model for variant props:blockprops#facing=west
+[17:03:52] [Client thread/ERROR]: Exception loading model for variant props:blockprops#facing=west
 net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model props:blockprops#facing=west with loader VariantLoader.INSTANCE, skipping
 	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
 	at net.minecraftforge.client.model.ModelLoader.func_177569_a(ModelLoader.java:235) ~[ModelLoader.class:?]
@@ -484,7 +485,7 @@ Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$Missin
 	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1175) ~[ModelLoader$VariantLoader.class:?]
 	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
 	... 15 more
-[14:07:47] [Client thread/ERROR]: Exception loading model for variant props:blockprops#facing=south
+[17:03:52] [Client thread/ERROR]: Exception loading model for variant props:blockprops#facing=south
 net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model props:blockprops#facing=south with loader VariantLoader.INSTANCE, skipping
 	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
 	at net.minecraftforge.client.model.ModelLoader.func_177569_a(ModelLoader.java:235) ~[ModelLoader.class:?]
@@ -507,247 +508,247 @@ Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$Missin
 	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1175) ~[ModelLoader$VariantLoader.class:?]
 	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
 	... 15 more
-[14:07:47] [Client thread/FATAL]: Suppressed additional 3 model loading errors for domain props
-[14:07:48] [Client thread/INFO]: JInput Component Registry is initialising...
-[14:07:48] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
-[14:07:48] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
-[14:07:48] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
-[14:07:48] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
-[14:07:48] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
-[14:07:48] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
-[14:07:48] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
-[14:07:48] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
-[14:07:48] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
-[14:07:48] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
-[14:07:48] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
-[14:07:48] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
-[14:07:48] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
-[14:07:48] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
-[14:07:48] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
-[14:07:48] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
-[14:07:48] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
-[14:07:48] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
-[14:07:48] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
-[14:07:48] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
-[14:07:48] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
-[14:07:48] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
-[14:07:48] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
-[14:07:48] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
-[14:07:48] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
-[14:07:48] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
-[14:07:48] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
-[14:07:48] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
-[14:07:48] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
-[14:07:48] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
-[14:07:48] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
-[14:07:48] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
-[14:07:48] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
-[14:07:48] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
-[14:07:48] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
-[14:07:48] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
-[14:07:48] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
-[14:07:48] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
-[14:07:48] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
-[14:07:48] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
-[14:07:48] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
-[14:07:48] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
-[14:07:48] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
-[14:07:48] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
-[14:07:48] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
-[14:07:48] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
-[14:07:48] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
-[14:07:48] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
-[14:07:48] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
-[14:07:48] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
-[14:07:48] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
-[14:07:48] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
-[14:07:48] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
-[14:07:48] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
-[14:07:48] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
-[14:07:48] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
-[14:07:48] [Client thread/INFO]: Inspecting Mouse controller HID-compliant mouse on Unknown...
-[14:07:48] [Client thread/INFO]: Inspecting Keyboard controller HID Keyboard Device on Unknown...
-[14:07:48] [Client thread/INFO]: Inspecting Unknown controller USB Receiver on Unknown...
-[14:07:48] [Client thread/INFO]: Inspecting Unknown controller USB Receiver on Unknown...
-[14:07:48] [Client thread/INFO]: Inspecting Unknown controller USB Receiver on Unknown...
-[14:07:48] [Client thread/INFO]: Inspecting Unknown controller USB Receiver on Unknown...
-[14:07:48] [Client thread/INFO]: JInput Component Registry initialised, found 6 controller(s) 167 component(s)
-[14:07:48] [Client thread/INFO]: LiteLoader begin INIT...
-[14:07:48] [Client thread/INFO]: Baking listener list for CoreProvider with 2 listeners
-[14:07:48] [Client thread/INFO]: Injecting external mods into class path...
-[14:07:48] [Client thread/INFO]: Injecting external mods into class path...
-[14:07:48] [Client thread/INFO]: Discovering mods on class path...
-[14:07:48] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\minecraft\launchwrapper\1.12\launchwrapper-1.12.jar...
-[14:07:48] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\org\ow2\asm\asm-all\5.2\asm-all-5.2.jar...
-[14:07:48] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\com\mumfrey\liteloader\1.12.2-20171128.144431-4\liteloader-1.12.2-20171128.144431-4.jar...
-[14:07:48] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\minecraftforge\forge\1.12.2-14.23.5.2847\forge-1.12.2-14.23.5.2847.jar...
-[14:07:48] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\org\jline\jline\3.5.1\jline-3.5.1.jar...
-[14:07:48] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar...
-[14:07:48] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\com\typesafe\akka\akka-actor_2.11\2.3.3\akka-actor_2.11-2.3.3.jar...
-[14:07:48] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\com\typesafe\config\1.2.1\config-1.2.1.jar...
-[14:07:48] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\org\scala-lang\scala-actors-migration_2.11\1.1.0\scala-actors-migration_2.11-1.1.0.jar...
-[14:07:48] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\org\scala-lang\scala-compiler\2.11.1\scala-compiler-2.11.1.jar...
-[14:07:48] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\org\scala-lang\plugins\scala-continuations-library_2.11\1.0.2\scala-continuations-library_2.11-1.0.2.jar...
-[14:07:48] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\org\scala-lang\plugins\scala-continuations-plugin_2.11.1\1.0.2\scala-continuations-plugin_2.11.1-1.0.2.jar...
-[14:07:48] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\org\scala-lang\scala-library\2.11.1\scala-library-2.11.1.jar...
-[14:07:48] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\org\scala-lang\scala-parser-combinators_2.11\1.0.1\scala-parser-combinators_2.11-1.0.1.jar...
-[14:07:48] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\org\scala-lang\scala-reflect\2.11.1\scala-reflect-2.11.1.jar...
-[14:07:48] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\org\scala-lang\scala-swing_2.11\1.0.1\scala-swing_2.11-1.0.1.jar...
-[14:07:48] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\org\scala-lang\scala-xml_2.11\1.0.2\scala-xml_2.11-1.0.2.jar...
-[14:07:48] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\lzma\lzma\0.0.1\lzma-0.0.1.jar...
-[14:07:48] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar...
-[14:07:48] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\java3d\vecmath\1.5.2\vecmath-1.5.2.jar...
-[14:07:48] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\sf\trove4j\trove4j\3.0.3\trove4j-3.0.3.jar...
-[14:07:48] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\org\apache\maven\maven-artifact\3.5.3\maven-artifact-3.5.3.jar...
-[14:07:48] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\com\mojang\patchy\1.1\patchy-1.1.jar...
-[14:07:48] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar...
-[14:07:48] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar...
-[14:07:48] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar...
-[14:07:48] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar...
-[14:07:48] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar...
-[14:07:48] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar...
-[14:07:48] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar...
-[14:07:48] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar...
-[14:07:48] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\io\netty\netty-all\4.1.9.Final\netty-all-4.1.9.Final.jar...
-[14:07:48] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\com\google\guava\guava\21.0\guava-21.0.jar...
-[14:07:48] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar...
-[14:07:48] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\commons-io\commons-io\2.5\commons-io-2.5.jar...
-[14:07:48] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.jar...
-[14:07:48] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar...
-[14:07:48] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar...
-[14:07:48] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar...
-[14:07:48] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\com\mojang\authlib\1.5.25\authlib-1.5.25.jar...
-[14:07:48] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\com\mojang\realms\1.10.22\realms-1.10.22.jar...
-[14:07:48] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar...
-[14:07:48] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar...
-[14:07:48] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar...
-[14:07:48] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar...
-[14:07:48] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\it\unimi\dsi\fastutil\7.1.0\fastutil-7.1.0.jar...
-[14:07:48] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.8.1\log4j-api-2.8.1.jar...
-[14:07:48] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.8.1\log4j-core-2.8.1.jar...
-[14:07:48] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl\2.9.4-nightly-20150209\lwjgl-2.9.4-nightly-20150209.jar...
-[14:07:48] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl_util\2.9.4-nightly-20150209\lwjgl_util-2.9.4-nightly-20150209.jar...
-[14:07:48] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\com\mojang\text2speech\1.10.3\text2speech-1.10.3.jar...
-[14:07:48] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\1.12.2-MOD.jar...
-[14:07:48] [Client thread/INFO]: Searching C:\Users\Administrator\AppData\Roaming\.hmcl\authlib-injector.jar...
-[14:07:48] [Client thread/INFO]: Discovering mods in valid mod files...
-[14:07:48] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\mods\小地图-需要Liteload-mod_voxelMap_1.7.1_for_1.12.2.litemod...
-[14:07:48] [Client thread/INFO]: Found 1 potential matches
-[14:07:48] [Client thread/INFO]: Discovering mods in valid mod files...
-[14:07:48] [Client thread/INFO]: Mod class discovery completed
-[14:07:48] [Client thread/INFO]: LiteLoader begin POSTINIT...
-[14:07:48] [Client thread/INFO]: Inhibiting sound handler reload
-[14:07:48] [Client thread/INFO]: Registering interface provider com.mumfrey.liteloader.client.LiteLoaderEventBrokerClient for API LiteLoader core API
-[14:07:48] [Client thread/INFO]: Registering interface provider com.mumfrey.liteloader.client.PacketEventsClient for API LiteLoader core API
-[14:07:48] [Client thread/INFO]: Registering interface provider com.mumfrey.liteloader.client.ClientPluginChannelsClient for API LiteLoader core API
-[14:07:48] [Client thread/INFO]: Registering interface provider com.mumfrey.liteloader.core.ServerPluginChannels for API LiteLoader core API
-[14:07:48] [Client thread/INFO]: Registering interface provider com.mumfrey.liteloader.messaging.MessageBus for API LiteLoader core API
-[14:07:48] [Client thread/INFO]: Discovered 1 total mod(s), injected 0 tweak(s)
-[14:07:48] [Client thread/INFO]: Loading mod from com.mamiyaotaru.voxelmap.litemod.LiteModVoxelMap
-[14:07:48] [Client thread/INFO]: Baking listener list for ModLoadObserver with 1 listeners
-[14:07:48] [Client thread/INFO]: Successfully added mod VoxelMap version 1.7.1
-[14:07:48] [Client thread/INFO]: Adding "E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\mods\小地图-需要Liteload-mod_voxelMap_1.7.1_for_1.12.2.litemod" to active resource pack set
-[14:07:48] [Client thread/INFO]: Setting up "小地图-需要Liteload-mod_voxelMap_1.7.1_for_1.12.2.litemod" as mod resource pack with identifier "VoxelMap"
-[14:07:48] [Client thread/INFO]: Successfully added "E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\mods\小地图-需要Liteload-mod_voxelMap_1.7.1_for_1.12.2.litemod" to active resource pack set
-[14:07:48] [Client thread/INFO]: Initialising mod VoxelMap version 1.7.1
-[14:07:48] [Client thread/INFO]: Baking listener list for InterfaceObserver with 0 listeners
-[14:07:49] [Client thread/INFO]: Loading Default Recipes...
-[14:07:49] [Client thread/INFO]: Applying holder lookups
-[14:07:49] [Client thread/INFO]: Holder lookups applied
-[14:07:49] [Client thread/INFO]: RegTileEntityRender: 10 renders registered.
-[14:07:50] [Client thread/INFO]: IC2 API Support has been loaded.
-[14:07:50] [Client thread/WARN]: =============================================================
-[14:07:50] [Client thread/WARN]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
-[14:07:50] [Client thread/WARN]: Offender: com/jcraft/jorbis/VorbisFile.make_decode_ready()I
-[14:07:50] [Client thread/WARN]: Use FMLCommonHandler.exitJava instead
-[14:07:50] [Client thread/WARN]: =============================================================
-[14:07:51] [Client thread/INFO]: CustomNPC Permissions available:
-[14:07:51] [Client thread/INFO]: customnpcs.edit.blocks
-[14:07:51] [Client thread/INFO]: customnpcs.edit.villager
-[14:07:51] [Client thread/INFO]: customnpcs.global.bank
-[14:07:51] [Client thread/INFO]: customnpcs.global.dialog
-[14:07:51] [Client thread/INFO]: customnpcs.global.faction
-[14:07:51] [Client thread/INFO]: customnpcs.global.linked
-[14:07:51] [Client thread/INFO]: customnpcs.global.naturalspawn
-[14:07:51] [Client thread/INFO]: customnpcs.global.playerdata
-[14:07:51] [Client thread/INFO]: customnpcs.global.quest
-[14:07:51] [Client thread/INFO]: customnpcs.global.recipe
-[14:07:51] [Client thread/INFO]: customnpcs.global.transport
-[14:07:51] [Client thread/INFO]: customnpcs.npc.advanced
-[14:07:51] [Client thread/INFO]: customnpcs.npc.ai
-[14:07:51] [Client thread/INFO]: customnpcs.npc.clone
-[14:07:51] [Client thread/INFO]: customnpcs.npc.create
-[14:07:51] [Client thread/INFO]: customnpcs.npc.delete
-[14:07:51] [Client thread/INFO]: customnpcs.npc.display
-[14:07:51] [Client thread/INFO]: customnpcs.npc.freeze
-[14:07:51] [Client thread/INFO]: customnpcs.npc.gui
-[14:07:51] [Client thread/INFO]: customnpcs.npc.inventory
-[14:07:51] [Client thread/INFO]: customnpcs.npc.reset
-[14:07:51] [Client thread/INFO]: customnpcs.npc.stats
-[14:07:51] [Client thread/INFO]: customnpcs.scenes
-[14:07:51] [Client thread/INFO]: customnpcs.soulstone.all
-[14:07:51] [Client thread/INFO]: customnpcs.spawner.create
-[14:07:51] [Client thread/INFO]: customnpcs.spawner.mob
-[14:07:51] [Client thread/INFO]: customnpcs.tool.mounter
-[14:07:51] [Client thread/INFO]: customnpcs.tool.nbtbook
-[14:07:51] [Client thread/INFO]: customnpcs.tool.pather
-[14:07:51] [Client thread/INFO]: customnpcs.tool.scripter
-[14:07:51] [Client thread/INFO]: Finished Initialization
-[14:07:51] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmoven`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[14:07:51] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmfridge`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[14:07:51] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[14:07:51] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmfreezer`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[14:07:51] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmbedsidecabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[14:07:51] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmailbox`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[14:07:51] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcomputer`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[14:07:51] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmprinter`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[14:07:51] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmstereo`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[14:07:51] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmpresent`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[14:07:51] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmbin`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[14:07:51] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmwallcabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[14:07:51] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmbath`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[14:07:51] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmshowerhead`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[14:07:51] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmplate`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[14:07:51] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcouch`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[14:07:51] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmtoaster`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[14:07:51] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmchoppingboard`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[14:07:51] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmblender`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[14:07:51] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmicrowave`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[14:07:51] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmwashingmachine`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[14:07:51] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdishwasher`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[14:07:51] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcabinetkitchen`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[14:07:51] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcup`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[14:07:51] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcookiejar`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[14:07:51] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmtree`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[14:07:51] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmirror`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[14:07:51] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmgrill`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[14:07:51] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmeski`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[14:07:51] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdoormat`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[14:07:51] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcrate`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[14:07:51] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmlightswitch`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[14:07:51] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmceilingfan`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[14:07:51] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdeskcabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[14:07:51] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmodernslidingdoor`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[14:07:51] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdigitalclock`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[14:07:51] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmtv`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[14:07:51] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmkitchencounter`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[14:07:51] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmkitchencounterdrawer`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[14:07:51] [Client thread/INFO]: Injecting itemstacks
-[14:07:51] [Client thread/INFO]: Itemstack injection complete
-[14:07:51] [Client thread/INFO]: Finished PostInitialization
-[14:07:51] [Client thread/INFO]: Loading predefined UU world scan values, run /ic2 uu-world-scan <small|medium|large> to calibrate them for your world.
-[14:07:52] [Client thread/INFO]: ic2 version 2.8.196-ex112 loaded.
-[14:07:52] [Client thread/INFO]: WorldEdit for Forge (version 6.1.10-SNAPSHOT) is loaded
-[14:07:52] [Client thread/INFO]: Forge Mod Loader has successfully loaded 19 mods
-[14:07:52] [Client thread/WARN]: Skipping bad option: lastServer:
-[14:07:52] [Client thread/INFO]: [customskinloader.Logger:log:70]: [Client thread INFO] [CSL DEBUG] Successfully transformed method func_175249_a in class net.minecraft.client.gui.GuiPlayerTabOverlay
-[14:07:52] [Client thread/INFO]: Narrator library for x64 successfully loaded
-[14:07:53] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Academy Craft, FMLFileResourcePack:lambdalib2, FMLFileResourcePack:Brandon's Core, FMLFileResourcePack:CodeChicken Lib, FMLFileResourcePack:CustomNPCs, FMLFileResourcePack:CustomSkinLoader, FMLFileResourcePack:Decocraft, FMLFileResourcePack:Draconic Evolution, FMLFileResourcePack:MrCrayfish's Furniture Mod, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:ptrmodellib, FMLFileResourcePack:Redstone Flux, FMLFileResourcePack:Varied Commodities, FMLFileResourcePack:WorldEdit, LiteLoader, VoxelMap
-[14:07:54] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
-[14:07:58] [Client thread/INFO]: Total mipmap : 2190 ms
-[14:08:01] [Client thread/INFO]: Max texture size: 16384
-[14:08:03] [Client thread/INFO]: Created: 2048x1024 textures-atlas
-[14:08:04] [Client thread/ERROR]: Exception loading model for variant props:blockprops#facing=east
+[17:03:52] [Client thread/FATAL]: Suppressed additional 3 model loading errors for domain props
+[17:03:52] [Client thread/INFO]: JInput Component Registry is initialising...
+[17:03:52] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[17:03:52] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[17:03:52] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[17:03:52] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[17:03:52] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[17:03:52] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[17:03:52] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[17:03:52] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[17:03:52] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[17:03:52] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[17:03:52] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[17:03:52] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[17:03:52] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[17:03:52] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[17:03:52] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[17:03:52] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[17:03:52] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[17:03:52] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[17:03:52] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[17:03:52] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[17:03:52] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[17:03:53] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[17:03:53] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[17:03:53] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[17:03:53] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[17:03:53] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[17:03:53] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[17:03:53] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[17:03:53] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[17:03:53] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[17:03:53] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[17:03:53] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[17:03:53] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[17:03:53] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[17:03:53] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[17:03:53] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[17:03:53] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[17:03:53] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[17:03:53] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[17:03:53] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[17:03:53] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[17:03:53] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[17:03:53] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[17:03:53] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[17:03:53] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[17:03:53] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[17:03:53] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[17:03:53] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[17:03:53] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[17:03:53] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[17:03:53] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[17:03:53] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[17:03:53] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[17:03:53] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[17:03:53] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[17:03:53] [Client thread/ERROR]: The jar file E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar has a security seal for path net.java.games.input, but that path is defined and not secure
+[17:03:53] [Client thread/INFO]: Inspecting Mouse controller HID-compliant mouse on Unknown...
+[17:03:53] [Client thread/INFO]: Inspecting Keyboard controller HID Keyboard Device on Unknown...
+[17:03:53] [Client thread/INFO]: Inspecting Unknown controller USB Receiver on Unknown...
+[17:03:53] [Client thread/INFO]: Inspecting Unknown controller USB Receiver on Unknown...
+[17:03:53] [Client thread/INFO]: Inspecting Unknown controller USB Receiver on Unknown...
+[17:03:53] [Client thread/INFO]: Inspecting Unknown controller USB Receiver on Unknown...
+[17:03:53] [Client thread/INFO]: JInput Component Registry initialised, found 6 controller(s) 167 component(s)
+[17:03:53] [Client thread/INFO]: LiteLoader begin INIT...
+[17:03:53] [Client thread/INFO]: Baking listener list for CoreProvider with 2 listeners
+[17:03:53] [Client thread/INFO]: Injecting external mods into class path...
+[17:03:53] [Client thread/INFO]: Injecting external mods into class path...
+[17:03:53] [Client thread/INFO]: Discovering mods on class path...
+[17:03:53] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\minecraft\launchwrapper\1.12\launchwrapper-1.12.jar...
+[17:03:53] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\org\ow2\asm\asm-all\5.2\asm-all-5.2.jar...
+[17:03:53] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\com\mumfrey\liteloader\1.12.2-20171128.144431-4\liteloader-1.12.2-20171128.144431-4.jar...
+[17:03:53] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\minecraftforge\forge\1.12.2-14.23.5.2847\forge-1.12.2-14.23.5.2847.jar...
+[17:03:53] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\org\jline\jline\3.5.1\jline-3.5.1.jar...
+[17:03:53] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar...
+[17:03:53] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\com\typesafe\akka\akka-actor_2.11\2.3.3\akka-actor_2.11-2.3.3.jar...
+[17:03:53] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\com\typesafe\config\1.2.1\config-1.2.1.jar...
+[17:03:53] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\org\scala-lang\scala-actors-migration_2.11\1.1.0\scala-actors-migration_2.11-1.1.0.jar...
+[17:03:53] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\org\scala-lang\scala-compiler\2.11.1\scala-compiler-2.11.1.jar...
+[17:03:53] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\org\scala-lang\plugins\scala-continuations-library_2.11\1.0.2\scala-continuations-library_2.11-1.0.2.jar...
+[17:03:53] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\org\scala-lang\plugins\scala-continuations-plugin_2.11.1\1.0.2\scala-continuations-plugin_2.11.1-1.0.2.jar...
+[17:03:53] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\org\scala-lang\scala-library\2.11.1\scala-library-2.11.1.jar...
+[17:03:53] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\org\scala-lang\scala-parser-combinators_2.11\1.0.1\scala-parser-combinators_2.11-1.0.1.jar...
+[17:03:53] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\org\scala-lang\scala-reflect\2.11.1\scala-reflect-2.11.1.jar...
+[17:03:53] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\org\scala-lang\scala-swing_2.11\1.0.1\scala-swing_2.11-1.0.1.jar...
+[17:03:53] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\org\scala-lang\scala-xml_2.11\1.0.2\scala-xml_2.11-1.0.2.jar...
+[17:03:53] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\lzma\lzma\0.0.1\lzma-0.0.1.jar...
+[17:03:53] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar...
+[17:03:53] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\java3d\vecmath\1.5.2\vecmath-1.5.2.jar...
+[17:03:53] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\sf\trove4j\trove4j\3.0.3\trove4j-3.0.3.jar...
+[17:03:53] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\org\apache\maven\maven-artifact\3.5.3\maven-artifact-3.5.3.jar...
+[17:03:53] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\com\mojang\patchy\1.1\patchy-1.1.jar...
+[17:03:53] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar...
+[17:03:53] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar...
+[17:03:53] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar...
+[17:03:53] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar...
+[17:03:53] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar...
+[17:03:53] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar...
+[17:03:53] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar...
+[17:03:53] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar...
+[17:03:53] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\io\netty\netty-all\4.1.9.Final\netty-all-4.1.9.Final.jar...
+[17:03:53] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\com\google\guava\guava\21.0\guava-21.0.jar...
+[17:03:53] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar...
+[17:03:53] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\commons-io\commons-io\2.5\commons-io-2.5.jar...
+[17:03:53] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.jar...
+[17:03:53] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar...
+[17:03:53] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar...
+[17:03:53] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar...
+[17:03:53] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\com\mojang\authlib\1.5.25\authlib-1.5.25.jar...
+[17:03:53] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\com\mojang\realms\1.10.22\realms-1.10.22.jar...
+[17:03:53] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar...
+[17:03:53] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar...
+[17:03:53] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar...
+[17:03:53] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar...
+[17:03:53] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\it\unimi\dsi\fastutil\7.1.0\fastutil-7.1.0.jar...
+[17:03:53] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.8.1\log4j-api-2.8.1.jar...
+[17:03:53] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.8.1\log4j-core-2.8.1.jar...
+[17:03:53] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl\2.9.4-nightly-20150209\lwjgl-2.9.4-nightly-20150209.jar...
+[17:03:53] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl_util\2.9.4-nightly-20150209\lwjgl_util-2.9.4-nightly-20150209.jar...
+[17:03:53] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\libraries\com\mojang\text2speech\1.10.3\text2speech-1.10.3.jar...
+[17:03:53] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\1.12.2-MOD.jar...
+[17:03:53] [Client thread/INFO]: Searching C:\Users\Administrator\AppData\Roaming\.hmcl\authlib-injector.jar...
+[17:03:53] [Client thread/INFO]: Discovering mods in valid mod files...
+[17:03:53] [Client thread/INFO]: Searching E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\mods\小地图-需要Liteload-mod_voxelMap_1.7.1_for_1.12.2.litemod...
+[17:03:53] [Client thread/INFO]: Found 1 potential matches
+[17:03:53] [Client thread/INFO]: Discovering mods in valid mod files...
+[17:03:53] [Client thread/INFO]: Mod class discovery completed
+[17:03:53] [Client thread/INFO]: LiteLoader begin POSTINIT...
+[17:03:53] [Client thread/INFO]: Inhibiting sound handler reload
+[17:03:53] [Client thread/INFO]: Registering interface provider com.mumfrey.liteloader.client.LiteLoaderEventBrokerClient for API LiteLoader core API
+[17:03:53] [Client thread/INFO]: Registering interface provider com.mumfrey.liteloader.client.PacketEventsClient for API LiteLoader core API
+[17:03:53] [Client thread/INFO]: Registering interface provider com.mumfrey.liteloader.client.ClientPluginChannelsClient for API LiteLoader core API
+[17:03:53] [Client thread/INFO]: Registering interface provider com.mumfrey.liteloader.core.ServerPluginChannels for API LiteLoader core API
+[17:03:53] [Client thread/INFO]: Registering interface provider com.mumfrey.liteloader.messaging.MessageBus for API LiteLoader core API
+[17:03:53] [Client thread/INFO]: Discovered 1 total mod(s), injected 0 tweak(s)
+[17:03:53] [Client thread/INFO]: Loading mod from com.mamiyaotaru.voxelmap.litemod.LiteModVoxelMap
+[17:03:53] [Client thread/INFO]: Baking listener list for ModLoadObserver with 1 listeners
+[17:03:53] [Client thread/INFO]: Successfully added mod VoxelMap version 1.7.1
+[17:03:53] [Client thread/INFO]: Adding "E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\mods\小地图-需要Liteload-mod_voxelMap_1.7.1_for_1.12.2.litemod" to active resource pack set
+[17:03:53] [Client thread/INFO]: Setting up "小地图-需要Liteload-mod_voxelMap_1.7.1_for_1.12.2.litemod" as mod resource pack with identifier "VoxelMap"
+[17:03:53] [Client thread/INFO]: Successfully added "E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\mods\小地图-需要Liteload-mod_voxelMap_1.7.1_for_1.12.2.litemod" to active resource pack set
+[17:03:53] [Client thread/INFO]: Initialising mod VoxelMap version 1.7.1
+[17:03:53] [Client thread/INFO]: Baking listener list for InterfaceObserver with 0 listeners
+[17:03:54] [Client thread/INFO]: Loading Default Recipes...
+[17:03:54] [Client thread/INFO]: Applying holder lookups
+[17:03:54] [Client thread/INFO]: Holder lookups applied
+[17:03:54] [Client thread/INFO]: RegTileEntityRender: 10 renders registered.
+[17:03:54] [Client thread/WARN]: =============================================================
+[17:03:54] [Client thread/WARN]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
+[17:03:54] [Client thread/WARN]: Offender: com/jcraft/jorbis/VorbisFile.make_decode_ready()I
+[17:03:54] [Client thread/WARN]: Use FMLCommonHandler.exitJava instead
+[17:03:54] [Client thread/WARN]: =============================================================
+[17:03:55] [Client thread/INFO]: IC2 API Support has been loaded.
+[17:03:55] [Client thread/INFO]: CustomNPC Permissions available:
+[17:03:55] [Client thread/INFO]: customnpcs.edit.blocks
+[17:03:55] [Client thread/INFO]: customnpcs.edit.villager
+[17:03:55] [Client thread/INFO]: customnpcs.global.bank
+[17:03:55] [Client thread/INFO]: customnpcs.global.dialog
+[17:03:55] [Client thread/INFO]: customnpcs.global.faction
+[17:03:55] [Client thread/INFO]: customnpcs.global.linked
+[17:03:55] [Client thread/INFO]: customnpcs.global.naturalspawn
+[17:03:55] [Client thread/INFO]: customnpcs.global.playerdata
+[17:03:55] [Client thread/INFO]: customnpcs.global.quest
+[17:03:55] [Client thread/INFO]: customnpcs.global.recipe
+[17:03:55] [Client thread/INFO]: customnpcs.global.transport
+[17:03:55] [Client thread/INFO]: customnpcs.npc.advanced
+[17:03:55] [Client thread/INFO]: customnpcs.npc.ai
+[17:03:55] [Client thread/INFO]: customnpcs.npc.clone
+[17:03:55] [Client thread/INFO]: customnpcs.npc.create
+[17:03:55] [Client thread/INFO]: customnpcs.npc.delete
+[17:03:55] [Client thread/INFO]: customnpcs.npc.display
+[17:03:55] [Client thread/INFO]: customnpcs.npc.freeze
+[17:03:55] [Client thread/INFO]: customnpcs.npc.gui
+[17:03:55] [Client thread/INFO]: customnpcs.npc.inventory
+[17:03:55] [Client thread/INFO]: customnpcs.npc.reset
+[17:03:55] [Client thread/INFO]: customnpcs.npc.stats
+[17:03:55] [Client thread/INFO]: customnpcs.scenes
+[17:03:55] [Client thread/INFO]: customnpcs.soulstone.all
+[17:03:55] [Client thread/INFO]: customnpcs.spawner.create
+[17:03:55] [Client thread/INFO]: customnpcs.spawner.mob
+[17:03:55] [Client thread/INFO]: customnpcs.tool.mounter
+[17:03:55] [Client thread/INFO]: customnpcs.tool.nbtbook
+[17:03:55] [Client thread/INFO]: customnpcs.tool.pather
+[17:03:55] [Client thread/INFO]: customnpcs.tool.scripter
+[17:03:55] [Client thread/INFO]: Finished Initialization
+[17:03:55] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmoven`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:55] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmfridge`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:55] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:55] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmfreezer`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:55] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmbedsidecabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:55] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmailbox`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:55] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcomputer`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:55] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmprinter`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:55] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmstereo`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:55] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmpresent`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:55] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmbin`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:55] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmwallcabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:55] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmbath`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:55] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmshowerhead`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:55] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmplate`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:55] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcouch`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:55] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmtoaster`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:55] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmchoppingboard`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:55] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmblender`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:55] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmicrowave`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:55] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmwashingmachine`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:55] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdishwasher`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:55] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcabinetkitchen`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:55] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcup`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:55] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcookiejar`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:55] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmtree`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:55] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmirror`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:55] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmgrill`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:55] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmeski`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:55] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdoormat`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:55] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcrate`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:55] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmlightswitch`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:55] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmceilingfan`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:55] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdeskcabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:55] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmodernslidingdoor`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:55] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdigitalclock`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:55] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmtv`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:55] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmkitchencounter`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:55] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmkitchencounterdrawer`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:56] [Client thread/INFO]: Injecting itemstacks
+[17:03:56] [Client thread/INFO]: Itemstack injection complete
+[17:03:56] [Client thread/INFO]: Finished PostInitialization
+[17:03:56] [Client thread/INFO]: Loading predefined UU world scan values, run /ic2 uu-world-scan <small|medium|large> to calibrate them for your world.
+[17:03:56] [Client thread/INFO]: ic2 version 2.8.196-ex112 loaded.
+[17:03:56] [Client thread/INFO]: WorldEdit for Forge (version 6.1.10-SNAPSHOT) is loaded
+[17:03:56] [Client thread/INFO]: Forge Mod Loader has successfully loaded 19 mods
+[17:03:56] [Client thread/WARN]: Skipping bad option: lastServer:
+[17:03:56] [Client thread/INFO]: [customskinloader.Logger:log:70]: [Client thread INFO] [CSL DEBUG] Successfully transformed method func_175249_a in class net.minecraft.client.gui.GuiPlayerTabOverlay
+[17:03:57] [Client thread/INFO]: Narrator library for x64 successfully loaded
+[17:03:57] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Academy Craft, FMLFileResourcePack:lambdalib2, FMLFileResourcePack:Brandon's Core, FMLFileResourcePack:CodeChicken Lib, FMLFileResourcePack:CustomNPCs, FMLFileResourcePack:CustomSkinLoader, FMLFileResourcePack:Decocraft, FMLFileResourcePack:Draconic Evolution, FMLFileResourcePack:MrCrayfish's Furniture Mod, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:ptrmodellib, FMLFileResourcePack:Redstone Flux, FMLFileResourcePack:Varied Commodities, FMLFileResourcePack:WorldEdit, LiteLoader, VoxelMap
+[17:03:58] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[17:04:02] [Client thread/INFO]: Total mipmap : 2184 ms
+[17:04:05] [Client thread/INFO]: Max texture size: 16384
+[17:04:08] [Client thread/INFO]: Created: 2048x1024 textures-atlas
+[17:04:08] [Client thread/ERROR]: Exception loading model for variant props:blockprops#facing=east
 net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model props:blockprops#facing=east with loader VariantLoader.INSTANCE, skipping
 	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
 	at net.minecraftforge.client.model.ModelLoader.func_177569_a(ModelLoader.java:235) ~[ModelLoader.class:?]
@@ -775,7 +776,7 @@ Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$Missin
 	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1175) ~[ModelLoader$VariantLoader.class:?]
 	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
 	... 20 more
-[14:08:04] [Client thread/ERROR]: Exception loading blockstate for the variant props:blockprops#facing=east: 
+[17:04:08] [Client thread/ERROR]: Exception loading blockstate for the variant props:blockprops#facing=east: 
 java.lang.Exception: Could not load model definition for variant props:blockprops
 	at net.minecraftforge.client.model.ModelLoader.func_177586_a(ModelLoader.java:269) ~[ModelLoader.class:?]
 	at net.minecraft.client.renderer.block.model.ModelBakery.loadBlock(ModelBakery.java:121) ~[cgb.class:?]
@@ -809,7 +810,7 @@ Caused by: java.io.FileNotFoundException: props:blockstates/blockprops.json
 	at net.minecraft.client.renderer.block.model.ModelBakery.func_177586_a(ModelBakery.java:208) ~[cgb.class:?]
 	at net.minecraftforge.client.model.ModelLoader.func_177586_a(ModelLoader.java:265) ~[ModelLoader.class:?]
 	... 19 more
-[14:08:04] [Client thread/ERROR]: Exception loading model for variant props:blockfake#facing=south
+[17:04:08] [Client thread/ERROR]: Exception loading model for variant props:blockfake#facing=south
 net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model props:blockfake#facing=south with loader VariantLoader.INSTANCE, skipping
 	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
 	at net.minecraftforge.client.model.ModelLoader.func_177569_a(ModelLoader.java:235) ~[ModelLoader.class:?]
@@ -837,7 +838,7 @@ Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$Missin
 	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1175) ~[ModelLoader$VariantLoader.class:?]
 	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
 	... 20 more
-[14:08:04] [Client thread/ERROR]: Exception loading blockstate for the variant props:blockfake#facing=south: 
+[17:04:08] [Client thread/ERROR]: Exception loading blockstate for the variant props:blockfake#facing=south: 
 java.lang.Exception: Could not load model definition for variant props:blockfake
 	at net.minecraftforge.client.model.ModelLoader.func_177586_a(ModelLoader.java:269) ~[ModelLoader.class:?]
 	at net.minecraft.client.renderer.block.model.ModelBakery.loadBlock(ModelBakery.java:121) ~[cgb.class:?]
@@ -871,7 +872,7 @@ Caused by: java.io.FileNotFoundException: props:blockstates/blockfake.json
 	at net.minecraft.client.renderer.block.model.ModelBakery.func_177586_a(ModelBakery.java:208) ~[cgb.class:?]
 	at net.minecraftforge.client.model.ModelLoader.func_177586_a(ModelLoader.java:265) ~[ModelLoader.class:?]
 	... 19 more
-[14:08:04] [Client thread/ERROR]: Exception loading model for variant props:blockprops#facing=west
+[17:04:08] [Client thread/ERROR]: Exception loading model for variant props:blockprops#facing=west
 net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model props:blockprops#facing=west with loader VariantLoader.INSTANCE, skipping
 	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
 	at net.minecraftforge.client.model.ModelLoader.func_177569_a(ModelLoader.java:235) ~[ModelLoader.class:?]
@@ -899,7 +900,7 @@ Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$Missin
 	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1175) ~[ModelLoader$VariantLoader.class:?]
 	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
 	... 20 more
-[14:08:04] [Client thread/ERROR]: Exception loading model for variant props:blockprops#facing=south
+[17:04:08] [Client thread/ERROR]: Exception loading model for variant props:blockprops#facing=south
 net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model props:blockprops#facing=south with loader VariantLoader.INSTANCE, skipping
 	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
 	at net.minecraftforge.client.model.ModelLoader.func_177569_a(ModelLoader.java:235) ~[ModelLoader.class:?]
@@ -927,217 +928,62 @@ Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$Missin
 	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1175) ~[ModelLoader$VariantLoader.class:?]
 	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
 	... 20 more
-[14:08:04] [Client thread/FATAL]: Suppressed additional 3 model loading errors for domain props
-[14:08:04] [Client thread/INFO]: Calling late init for mod VoxelMap
-[14:08:04] [Client thread/INFO]: [com.mamiyaotaru.voxelmap.util.g:for:291]: Error loading old block IDs config file from litemod!
-[14:08:04] [Client thread/INFO]: [com.mamiyaotaru.voxelmap.util.g:for:292]: java.io.FileNotFoundException: voxelmap:conf/blockids.txt
-[14:08:04] [Client thread/INFO]: [com.mamiyaotaru.voxelmap.util.g:for:292]: 	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(FallbackResourceManager.java:69)
-[14:08:04] [Client thread/INFO]: [com.mamiyaotaru.voxelmap.util.g:for:292]: 	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SimpleReloadableResourceManager.java:65)
-[14:08:04] [Client thread/INFO]: [com.mamiyaotaru.voxelmap.util.g:for:292]: 	at com.mamiyaotaru.voxelmap.util.g.for(Unknown Source)
-[14:08:04] [Client thread/INFO]: [com.mamiyaotaru.voxelmap.util.g:for:292]: 	at com.mamiyaotaru.voxelmap.a.<init>(Unknown Source)
-[14:08:04] [Client thread/INFO]: [com.mamiyaotaru.voxelmap.util.g:for:292]: 	at com.mamiyaotaru.voxelmap.t.do(Unknown Source)
-[14:08:04] [Client thread/INFO]: [com.mamiyaotaru.voxelmap.util.g:for:292]: 	at com.mamiyaotaru.voxelmap.litemod.LiteModVoxelMap.onInitCompleted(Unknown Source)
-[14:08:04] [Client thread/INFO]: [com.mamiyaotaru.voxelmap.util.g:for:292]: 	at com.mumfrey.liteloader.client.LiteLoaderEventBrokerClient.onStartupComplete(LiteLoaderEventBrokerClient.java:283)
-[14:08:04] [Client thread/INFO]: [com.mamiyaotaru.voxelmap.util.g:for:292]: 	at net.minecraft.client.Minecraft.handler$onStartupComplete$zzj000(Minecraft.java:3394)
-[14:08:04] [Client thread/INFO]: [com.mamiyaotaru.voxelmap.util.g:for:292]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:570)
-[14:08:04] [Client thread/INFO]: [com.mamiyaotaru.voxelmap.util.g:for:292]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378)
-[14:08:04] [Client thread/INFO]: [com.mamiyaotaru.voxelmap.util.g:for:292]: 	at net.minecraft.client.main.Main.main(SourceFile:123)
-[14:08:04] [Client thread/INFO]: [com.mamiyaotaru.voxelmap.util.g:for:292]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-[14:08:04] [Client thread/INFO]: [com.mamiyaotaru.voxelmap.util.g:for:292]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-[14:08:04] [Client thread/INFO]: [com.mamiyaotaru.voxelmap.util.g:for:292]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-[14:08:04] [Client thread/INFO]: [com.mamiyaotaru.voxelmap.util.g:for:292]: 	at java.lang.reflect.Method.invoke(Method.java:498)
-[14:08:04] [Client thread/INFO]: [com.mamiyaotaru.voxelmap.util.g:for:292]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
-[14:08:04] [Client thread/INFO]: [com.mamiyaotaru.voxelmap.util.g:for:292]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
-[14:08:05] [Client thread/INFO]: [com.mamiyaotaru.voxelmap.k:<init>:414]: CATEGORY ORDER IS 7
-[14:08:05] [Client thread/INFO]: Created: 256x256 waypoints-atlas
-[14:08:05] [Client thread/INFO]: Created: 256x128 chooser-atlas
-[14:08:05] [Client thread/INFO]: Created: 512x256 mobs-atlas
-[14:08:05] [Client thread/INFO]: Baking listener list for ViewportListener with 0 listeners
-[14:08:05] [Client thread/INFO]: Sound handler reload inhibit removed
-[14:08:05] [Client thread/INFO]: Reloading sound handler
-[14:08:06] [Client thread/WARN]: Missing sound for event: cfm:channel_news
-[14:08:06] [Client thread/WARN]: Missing sound for event: cfm:channel_cooking
-[14:08:06] [Client thread/WARN]: Missing sound for event: cfm:channel_sam_tabor
-[14:08:06] [Client thread/WARN]: Missing sound for event: cfm:channel_heman
-[14:08:06] [Client thread/WARN]: Missing sound for event: cfm:channel_switch
-[14:08:06] [Client thread/WARN]: Missing sound for event: variedcommodities:gun.pistol.shot
-[14:08:06] [Client thread/WARN]: Missing sound for event: variedcommodities:gun.pistol.trigger
-[14:08:06] [Client thread/WARN]: Missing sound for event: variedcommodities:gun.empty
-[14:08:06] [Client thread/WARN]: Missing sound for event: variedcommodities:gun.ak47.load
-[14:08:06] [Client thread/WARN]: Missing sound for event: variedcommodities:magic.shot
-[14:08:06] [Client thread/WARN]: Missing sound for event: variedcommodities:magic.charge
-[14:08:06] [Client thread/WARN]: Missing sound for event: variedcommodities:misc.swosh
-[14:08:06] [Client thread/INFO]: SoundSystem shutting down...
-[14:08:06] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
-[14:08:06] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[14:08:06] [Client thread/INFO]: Baking listener list for GameLoopListener with 0 listeners
-[14:08:06] [Client thread/INFO]: Checking Doc Versions
-[14:08:06] [Client thread/INFO]: Baking listener list for RenderListener with 1 listeners
-[14:08:06] [Thread-17/INFO]: Initializing LWJGL OpenAL
-[14:08:06] [Thread-17/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[14:08:06] [Client thread/INFO]: Baking listener list for TickObserver with 3 listeners
-[14:08:06] [Client thread/INFO]: Baking listener list for PostRenderObserver with 3 listeners
-[14:08:06] [Thread-17/INFO]: OpenAL initialized.
-[14:08:06] [Client thread/INFO]: Baking listener list for Tickable with 1 listeners
-[14:08:06] [Client thread/INFO]: Baking listener list for FrameBufferListener with 0 listeners
-[14:08:07] [Sound Library Loader/INFO]: Sound engine started
-[14:08:19] [Client thread/INFO]: Baking listener list for ServerCommandProvider with 0 listeners
-[14:08:19] [Server thread/INFO]: Starting integrated minecraft server version 1.12.2
-[14:08:19] [Server thread/INFO]: Generating keypair
-[14:08:19] [Server thread/INFO]: Injecting existing registry data into this server instance
-[14:08:20] [Server thread/INFO]: Applying holder lookups
-[14:08:20] [Server thread/INFO]: Holder lookups applied
-[14:08:20] [Server thread/INFO]: Loading dimension 0 (New World) (net.minecraft.server.integrated.IntegratedServer@56662673)
-[14:08:20] [Server thread/INFO]: Loaded 529 advancements
-[14:08:20] [Server thread/INFO]: Loading dimension -1 (New World) (net.minecraft.server.integrated.IntegratedServer@56662673)
-[14:08:20] [Server thread/INFO]: Loading dimension 1 (New World) (net.minecraft.server.integrated.IntegratedServer@56662673)
-[14:08:20] [Server thread/INFO]: Preparing start region for level 0
-[14:08:21] [Server thread/INFO]: Preparing spawn area: 45%
-[14:08:22] [Server thread/INFO]: Baking listener list for IEventState with 0 listeners
-[14:08:22] [Server thread/INFO]: Baking listener list for ServerTickable with 0 listeners
-[14:08:22] [Server thread/INFO]: Unloading dimension -1
-[14:08:22] [Server thread/INFO]: Unloading dimension 1
-[14:08:22] [Server thread/INFO]: WiWorldData: LoadNode [{node:{x:-299,y:71,z:703},receivers:[{x:-300,y:71,z:705},{x:-300,y:71,z:705}],generators:[{x:-301,y:77,z:711},{x:-300,y:75,z:703},{x:-302,y:77,z:713},{x:-300,y:75,z:704},{x:-299,y:75,z:703},{x:-298,y:75,z:704},{x:-302,y:77,z:711},{x:-301,y:77,z:712},{x:-299,y:75,z:704},{x:-298,y:75,z:703},{x:-300,y:75,z:705},{x:-302,y:77,z:712},{x:-299,y:75,z:705}]},{node:{x:-310,y:76,z:703},receivers:[{x:-311,y:76,z:704}],generators:[{x:-311,y:76,z:703}]},{node:{x:-289,y:80,z:704},receivers:[{x:-287,y:80,z:705},{x:-287,y:80,z:705}],generators:[{x:-286,y:81,z:703},{x:-289,y:81,z:706},{x:-290,y:81,z:703},{x:-288,y:72,z:699},{x:-286,y:81,z:705},{x:-289,y:81,z:702},{x:-288,y:82,z:702},{x:-287,y:81,z:702},{x:-290,y:81,z:705},{x:-287,y:81,z:706},{x:-288,y:72,z:699},{x:-288,y:82,z:706},{x:-290,y:82,z:704}]},{node:{x:-336,y:73,z:702},receivers:[{x:-336,y:74,z:702}],generators:[{x:-339,y:73,z:698},{x:-336,y:75,z:702}]}]4
-[14:08:22] [Server thread/INFO]: Changing view distance to 8, from 10
-[14:08:44] [Netty Server IO #1/INFO]: Generating new Event Handler Proxy Class com.mumfrey.liteloader.core.event.EventProxy$2
-[14:08:44] [Netty Server IO #1/INFO]: Successfully generated event handler proxy class with 124 handlers(s) and 124 total invocations
-[14:08:44] [Netty Local Client IO #0/INFO]: Baking listener list for PostLoginListener with 0 listeners
-[14:08:44] [Server thread/INFO]: Baking listener list for ServerPlayerListener with 0 listeners
-[14:08:44] [Netty Local Client IO #0/INFO]: Server protocol version 2
-[14:08:44] [Netty Server IO #1/INFO]: Client protocol version 2
-[14:08:44] [Netty Server IO #1/INFO]: Client attempting to join with 19 mods : minecraft@1.12.2,ptrmodellib@1.0.4,FML@8.0.99.99,customnpcs@1.12,worldedit@6.1.10-SNAPSHOT,redstoneflux@2.1.0,cfm@6.3.1,customskinloader@14.11,lambdalib2@0.1.9,props@2.6.3,draconicevolution@2.3.25,forge@14.23.5.2847,codechickenlib@3.2.3.358,ic2@2.8.196-ex112,brandonscore@2.4.18,mcp@9.42,LambdaLib|Core@0.1.9,variedcommodities@1.12.2,academy@1.1.2
-[14:08:44] [Netty Server IO #1/INFO]: Skipping config sync, No mods have registered a syncable config.
-[14:08:44] [Netty Local Client IO #0/INFO]: [Netty Local Client IO #0] Client side modded connection established
-[14:08:44] [Server thread/INFO]: Baking listener list for IEventState with 1 listeners
-[14:08:44] [Server thread/INFO]: [Server thread] Server side modded connection established
-[14:08:44] [Server thread/INFO]: gele178[local:E:83f25436] logged in with entity id 497 at (-284.2912661923875, 76.0, 705.1945747536934)
-[14:08:45] [Server thread/INFO]: gele178加入了游戏
-[14:08:45] [Client thread/INFO]: Baking listener list for PreJoinGameListener with 0 listeners
-[14:08:47] [Client thread/INFO]: Baking listener list for JoinGameListener with 1 listeners
-[14:08:47] [Thread-9/INFO]: [CHAT] §2CustomNpcs§f installed. For more info §9§nClick here
-[14:08:47] [Client thread/INFO]: Baking listener list for PreRenderListener with 0 listeners
-[14:08:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2831ms behind, skipping 56 tick(s)
-[14:08:47] [Server thread/INFO]: Saving and pausing game...
-[14:08:47] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
-[14:08:49] [Client thread/INFO]: Baking listener list for PostRenderListener with 1 listeners
-[14:08:51] [pool-4-thread-1/INFO]: [customskinloader.Logger:<init>:50]: Log Path: E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\CustomSkinLoader\CustomSkinLoader.log
-[14:08:51] [pool-4-thread-1/INFO]: [customskinloader.Logger:log:70]: [pool-4-thread-1 INFO] CustomSkinLoader 14.11
-[14:08:51] [pool-4-thread-1/INFO]: [customskinloader.Logger:log:70]: [pool-4-thread-1 INFO] DataDir: E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\CustomSkinLoader
-[14:08:51] [pool-4-thread-1/INFO]: [customskinloader.Logger:log:70]: [pool-4-thread-1 INFO] Minecraft: 1.12.2(1.12.2-MOD)
-[14:08:51] [pool-4-thread-1/INFO]: [customskinloader.Logger:log:70]: [pool-4-thread-1 INFO] Config File: E:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\CustomSkinLoader\CustomSkinLoader.json
-[14:08:51] [pool-4-thread-1/INFO]: [customskinloader.Logger:log:70]: [pool-4-thread-1 INFO] Try to load config.
-[14:08:51] [pool-4-thread-1/INFO]: [customskinloader.Logger:log:70]: [pool-4-thread-1 INFO] Successfully load config.
-[14:08:51] [pool-4-thread-1/INFO]: [customskinloader.Logger:log:70]: [pool-4-thread-1 INFO] version : 14.11
-[14:08:51] [pool-4-thread-1/INFO]: [customskinloader.Logger:log:70]: [pool-4-thread-1 INFO] enableDynamicSkull : true
-[14:08:51] [pool-4-thread-1/INFO]: [customskinloader.Logger:log:70]: [pool-4-thread-1 INFO] enableTransparentSkin : true
-[14:08:51] [pool-4-thread-1/INFO]: [customskinloader.Logger:log:70]: [pool-4-thread-1 INFO] ignoreHttpsCertificate : false
-[14:08:51] [pool-4-thread-1/INFO]: [customskinloader.Logger:log:70]: [pool-4-thread-1 INFO] forceLoadAllTextures : false
-[14:08:51] [pool-4-thread-1/INFO]: [customskinloader.Logger:log:70]: [pool-4-thread-1 INFO] enableCape : true
-[14:08:51] [pool-4-thread-1/INFO]: [customskinloader.Logger:log:70]: [pool-4-thread-1 INFO] cacheExpiry : 30
-[14:08:51] [pool-4-thread-1/INFO]: [customskinloader.Logger:log:70]: [pool-4-thread-1 INFO] enableUpdateSkull : false
-[14:08:51] [pool-4-thread-1/INFO]: [customskinloader.Logger:log:70]: [pool-4-thread-1 INFO] enableLocalProfileCache : false
-[14:08:51] [pool-4-thread-1/INFO]: [customskinloader.Logger:log:70]: [pool-4-thread-1 INFO] enableCacheAutoClean : false
-[14:08:51] [pool-4-thread-1/INFO]: [customskinloader.Logger:log:70]: [pool-4-thread-1 INFO] loadList : 6
-[14:08:51] [pool-4-thread-1/INFO]: [customskinloader.Logger:log:70]: [gele178 INFO] Loading gele178's profile.
-[14:08:51] [pool-4-thread-1/INFO]: [customskinloader.Logger:log:70]: [gele178 INFO] 1/6 Try to load profile from 'Mojang'.
-[14:08:51] [pool-4-thread-1/INFO]: [customskinloader.Logger:log:70]: [gele178 INFO] Default profile will be used.
-[14:08:51] [pool-4-thread-1/INFO]: [customskinloader.Logger:log:70]: [gele178 INFO] gele178's profile loaded.
-[14:08:51] [pool-4-thread-1/INFO]: [customskinloader.Logger:log:70]: [gele178 INFO] (SkinUrl: https://mcskin.littleservice.cn/textures/399683dd1eebbecd8b42de0a838a427d3acd12d1cb6c217aadc211f10171550d , Model: default , CapeUrl: https://mcskin.littleservice.cn/textures/f27d93fe97653bf71e18c064f3e6b469391d4c74827064a08ceb5b5ae985c57e  , Expiry: 1598422163)
-[14:08:52] [Client thread/INFO]: Baking listener list for HUDRenderListener with 1 listeners
-[14:08:52] [Client thread/INFO]: Baking listener list for WorldObserver with 2 listeners
-[14:08:52] [Server thread/INFO]: Baking listener list for PlayerMoveListener with 0 listeners
-[14:08:52] [Client thread/INFO]: Baking listener list for ChatListener with 0 listeners
-[14:08:52] [Client thread/INFO]: [CHAT] 感谢下载 MrCrayfish 的家具模组。
-[14:08:52] [Client thread/INFO]: [CHAT] §6-> §a浏览 MrCrayfish 的 YouTube。
-[14:08:52] [Client thread/INFO]: [CHAT] §6-> §ryoutube.com/user/MrCrayfishMinecraft
-[14:08:52] [Client thread/INFO]: Loaded 529 advancements
-[14:08:53] [Client thread/INFO]: OnSynchronized true Preset{#0=vecmanip.dir_blast, #1=vecmanip.vec_accel, #2=vecmanip.plasma_cannon, #3=vecmanip.vec_reflection}
-[14:08:53] [Client thread/INFO]: Baking listener list for EntityRenderListener with 0 listeners
-[14:08:58] [Client thread/INFO]: [CHAT] randomTickSpeed, reducedDebugInfo
-[14:08:58] [Client thread/INFO]: Baking listener list for OutboundChatFilter with 1 listeners
-[14:08:58] [Server thread/INFO]: Baking listener list for ServerChatFilter with 0 listeners
-[14:08:58] [Client thread/INFO]: [CHAT] randomTickSpeed = 10000
-[14:09:02] [Server thread/INFO]: [gele178: 游戏规则randomTickSpeed已经更新为 3]
-[14:09:02] [Client thread/INFO]: [CHAT] 游戏规则randomTickSpeed已经更新为 3
-[14:09:08] [Server thread/INFO]: Saving and pausing game...
-[14:09:08] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
-[14:10:14] [Client thread/INFO]: Baking listener list for PlayerClickListener with 0 listeners
-[14:10:14] [Server thread/INFO]: Baking listener list for PlayerInteractionListener with 0 listeners
-[14:10:36] [Server thread/INFO]: Saving and pausing game...
-[14:10:36] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
-[14:13:31] [Client thread/INFO]: OBJLoader.Parser: command 's' (model: 'draconicevolution:models/item/tools/draconic_staff_of_power.obj') is not currently supported, skipping. Line: 4293 's off'
-[14:13:41] [Client thread/INFO]: [CHAT] 你已经安装过了数据终端.
-[14:13:42] [Client thread/INFO]: [CHAT] 你已经安装过了数据终端.
-[14:13:59] [Server thread/INFO]: Saving and pausing game...
-[14:13:59] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
-[14:14:01] [Server thread/INFO]: Saving and pausing game...
-[14:14:01] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
-[14:14:10] [Client thread/INFO]: GainFocus Unnamed 0@Widget
-[14:14:10] [Client thread/INFO]: [cn.lambdalib2.cgui.CGui:mouseClickMove:151]: StartDragging Unnamed 0@Widget
-[14:14:24] [Client thread/INFO]: [cn.lambdalib2.cgui.CGui:mouseClickMove:151]: StartDragging null
-[14:14:30] [Client thread/INFO]: GainFocus stop@Widget
-[14:14:30] [Client thread/INFO]: [cn.lambdalib2.cgui.CGui:mouseClickMove:151]: StartDragging stop@Widget
-[14:14:56] [Client thread/INFO]: [CHAT] Second position set to (-306.0, 71.0, 687.0).
-[14:15:13] [Client thread/INFO]: [CHAT] cfm:mirror, cfm:mountable_block, customnpcs:customnpc, customnpcs:customnpc64x32, customnpcs:customnpcalex, customnpcs:customnpcchairmount, customnpcs:customnpcclassic, customnpcs:customnpcprojectile, customnpcs:npccrystal, customnpcs:npcdragon, customnpcs:npcdwarffemale, customnpcs:npcdwarfmale, customnpcs:npcelffemale, customnpcs:npcelfmale, customnpcs:npcenderchibi, customnpcs:npcenderman, customnpcs:npcfurryfemale, customnpcs:npcfurrymale, customnpcs:npcgolem, customnpcs:npchumanfemale, customnpcs:npchumanmale, customnpcs:npcnagafemale, customnpcs:npcnagamale, customnpcs:npcorcfemale, customnpcs:npcorcfmale, customnpcs:npcpony, customnpcs:npcskeleton, customnpcs:npcslime, customnpcs:npcvillager, customnpcs:npczombiefemale, customnpcs:npczombiemale
-[14:15:13] [Client thread/INFO]: [CHAT] cfm:mirror, cfm:mountable_block, customnpcs:customnpc, customnpcs:customnpc64x32, customnpcs:customnpcalex, customnpcs:customnpcchairmount, customnpcs:customnpcclassic, customnpcs:customnpcprojectile, customnpcs:npccrystal, customnpcs:npcdragon, customnpcs:npcdwarffemale, customnpcs:npcdwarfmale, customnpcs:npcelffemale, customnpcs:npcelfmale, customnpcs:npcenderchibi, customnpcs:npcenderman, customnpcs:npcfurryfemale, customnpcs:npcfurrymale, customnpcs:npcgolem, customnpcs:npchumanfemale, customnpcs:npchumanmale, customnpcs:npcnagafemale, customnpcs:npcnagamale, customnpcs:npcorcfemale, customnpcs:npcorcfmale, customnpcs:npcpony, customnpcs:npcskeleton, customnpcs:npcslime, customnpcs:npcvillager, customnpcs:npczombiefemale, customnpcs:npczombiemale
-[14:15:18] [Server thread/INFO]: [gele178: 成功地召唤了实体]
-[14:15:18] [Client thread/INFO]: [CHAT] 成功地召唤了实体
-[14:15:22] [Client thread/WARN]: Received passengers for unknown entity
-[14:15:23] [Server thread/INFO]: [gele178: 成功地召唤了实体]
-[14:15:23] [Client thread/INFO]: [CHAT] 成功地召唤了实体
-[14:15:32] [Client thread/WARN]: Received passengers for unknown entity
-[14:15:35] [Server thread/INFO]: [gele178: 成功地召唤了实体]
-[14:15:35] [Client thread/INFO]: [CHAT] 成功地召唤了实体
-[14:15:41] [Server thread/INFO]: [gele178: 成功地召唤了实体]
-[14:15:41] [Client thread/INFO]: [CHAT] 成功地召唤了实体
-[14:15:42] [Server thread/INFO]: [gele178: 成功地召唤了实体]
-[14:15:42] [Client thread/INFO]: [CHAT] 成功地召唤了实体
-[14:15:52] [Client thread/INFO]: [CHAT] /gamemode, /gamerule, /give, /gmask, /green
-[14:15:53] [Client thread/INFO]: [CHAT] /gamemode, /gamerule, /give, /gmask, /green
-[14:15:53] [Client thread/INFO]: [CHAT] announceAdvancements, commandBlockOutput, disableElytraMovementCheck, doDaylightCycle, doEntityDrops, doFireTick, doLimitedCrafting, doMobLoot, doMobSpawning, doTileDrops, doWeatherCycle, gameLoopFunction, keepInventory, logAdminCommands, maxCommandChainLength, maxEntityCramming, mobGriefing, naturalRegeneration, randomTickSpeed, reducedDebugInfo, sendCommandFeedback, showDeathMessages, spawnRadius and spectatorsGenerateChunks
-[14:16:10] [Client thread/INFO]: [CHAT] maxCommandChainLength, maxEntityCramming, mobGriefing
-[14:16:11] [Client thread/INFO]: [CHAT] maxCommandChainLength, maxEntityCramming, mobGriefing
-[14:16:11] [Client thread/INFO]: [CHAT] maxCommandChainLength, maxEntityCramming, mobGriefing
-[14:16:12] [Client thread/INFO]: [CHAT] mobGriefing = true
-[14:16:30] [Client thread/INFO]: [CHAT] mobGriefing = true
-[14:16:33] [Server thread/INFO]: [gele178: 成功地召唤了实体]
-[14:16:33] [Client thread/INFO]: [CHAT] 成功地召唤了实体
-[14:16:42] [Server thread/INFO]: [gele178: 游戏规则mobGriefing已经更新为 false]
-[14:16:42] [Client thread/INFO]: [CHAT] 游戏规则mobGriefing已经更新为 false
-[14:16:45] [Server thread/INFO]: [gele178: 成功地召唤了实体]
-[14:16:45] [Client thread/INFO]: [CHAT] 成功地召唤了实体
-[14:17:19] [Client thread/WARN]: Received passengers for unknown entity
-[14:17:48] [Client thread/INFO]: [CHAT] 谷场管理者: 你好，我是这个谷场的管理者
-[14:17:48] [Client thread/INFO]: [CHAT] 谷场管理者: 你好，我是这个谷场的管理者
-[14:17:48] [Client thread/INFO]: [CHAT] 谷场管理者: 你好，我是这个谷场的管理者
-[14:17:48] [Client thread/INFO]: [CHAT] 谷场管理者: 你好，我是这个谷场的管理者
-[14:17:49] [Client thread/INFO]: [CHAT] 谷场管理者: 你好，我是这个谷场的管理者
-[14:17:49] [Client thread/INFO]: [CHAT] 谷场管理者: 你好，我是这个谷场的管理者
-[14:17:49] [Client thread/INFO]: [CHAT] 谷场管理者: 你好，我是这个谷场的管理者
-[14:17:49] [Client thread/INFO]: [CHAT] 谷场管理者: 你好，我是这个谷场的管理者
-[14:17:49] [Client thread/INFO]: [CHAT] 谷场管理者: 你好，我是这个谷场的管理者
-[14:17:50] [Client thread/INFO]: [CHAT] 谷场管理者: 你好，我是这个谷场的管理者
-[14:17:50] [Client thread/INFO]: [CHAT] 谷场管理者: 你好，我是这个谷场的管理者
-[14:17:52] [Client thread/WARN]: Received passengers for unknown entity
-[14:18:04] [Client thread/INFO]: GainFocus Unnamed 2@Widget
-[14:18:10] [Server thread/INFO]: Saving and pausing game...
-[14:18:10] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
-[14:18:11] [Client thread/INFO]: Using default channel type
-[14:18:12] [Client thread/INFO]: Started on 50277
-[14:18:12] [Client thread/INFO]: [CHAT] 本地游戏已在端口50277上开启
-[15:07:33] [Timer-0/ERROR]: java.net.ConnectException: Connection timed out: connect
-[15:45:00] [Server thread/INFO]: gele178 lost connection: Internal Exception: java.nio.channels.ClosedChannelException
-[15:45:00] [Server thread/INFO]: gele178退出了游戏
-[15:45:00] [Server thread/INFO]: Stopping singleplayer server as player logged out
-[15:45:00] [Server thread/INFO]: Stopping server
-[15:45:00] [Server thread/INFO]: Saving players
-[15:45:00] [Server thread/INFO]: Saving worlds
-[15:45:00] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
-[15:45:00] [Server thread/INFO]: Unloading dimension 0
-[15:45:00] [Server thread/INFO]: Applying holder lookups
-[15:45:00] [Server thread/INFO]: Holder lookups applied
-[15:45:04] [Client thread/INFO]: LiteLoader is shutting down, shutting down core providers and syncing configuration
-[15:45:04] [Client thread/INFO]: Baking listener list for ShutdownObserver with 3 listeners
-[15:45:04] [Client thread/INFO]: Stopping!
-[15:45:04] [Client thread/INFO]: SoundSystem shutting down...
-[15:45:04] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[17:04:08] [Client thread/FATAL]: Suppressed additional 3 model loading errors for domain props
+[17:04:09] [Client thread/INFO]: Calling late init for mod VoxelMap
+[17:04:09] [Client thread/INFO]: [com.mamiyaotaru.voxelmap.util.g:for:291]: Error loading old block IDs config file from litemod!
+[17:04:09] [Client thread/INFO]: [com.mamiyaotaru.voxelmap.util.g:for:292]: java.io.FileNotFoundException: voxelmap:conf/blockids.txt
+[17:04:09] [Client thread/INFO]: [com.mamiyaotaru.voxelmap.util.g:for:292]: 	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(FallbackResourceManager.java:69)
+[17:04:09] [Client thread/INFO]: [com.mamiyaotaru.voxelmap.util.g:for:292]: 	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SimpleReloadableResourceManager.java:65)
+[17:04:09] [Client thread/INFO]: [com.mamiyaotaru.voxelmap.util.g:for:292]: 	at com.mamiyaotaru.voxelmap.util.g.for(Unknown Source)
+[17:04:09] [Client thread/INFO]: [com.mamiyaotaru.voxelmap.util.g:for:292]: 	at com.mamiyaotaru.voxelmap.a.<init>(Unknown Source)
+[17:04:09] [Client thread/INFO]: [com.mamiyaotaru.voxelmap.util.g:for:292]: 	at com.mamiyaotaru.voxelmap.t.do(Unknown Source)
+[17:04:09] [Client thread/INFO]: [com.mamiyaotaru.voxelmap.util.g:for:292]: 	at com.mamiyaotaru.voxelmap.litemod.LiteModVoxelMap.onInitCompleted(Unknown Source)
+[17:04:09] [Client thread/INFO]: [com.mamiyaotaru.voxelmap.util.g:for:292]: 	at com.mumfrey.liteloader.client.LiteLoaderEventBrokerClient.onStartupComplete(LiteLoaderEventBrokerClient.java:283)
+[17:04:09] [Client thread/INFO]: [com.mamiyaotaru.voxelmap.util.g:for:292]: 	at net.minecraft.client.Minecraft.handler$onStartupComplete$zzj000(Minecraft.java:3394)
+[17:04:09] [Client thread/INFO]: [com.mamiyaotaru.voxelmap.util.g:for:292]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:570)
+[17:04:09] [Client thread/INFO]: [com.mamiyaotaru.voxelmap.util.g:for:292]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378)
+[17:04:09] [Client thread/INFO]: [com.mamiyaotaru.voxelmap.util.g:for:292]: 	at net.minecraft.client.main.Main.main(SourceFile:123)
+[17:04:09] [Client thread/INFO]: [com.mamiyaotaru.voxelmap.util.g:for:292]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[17:04:09] [Client thread/INFO]: [com.mamiyaotaru.voxelmap.util.g:for:292]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[17:04:09] [Client thread/INFO]: [com.mamiyaotaru.voxelmap.util.g:for:292]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[17:04:09] [Client thread/INFO]: [com.mamiyaotaru.voxelmap.util.g:for:292]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[17:04:09] [Client thread/INFO]: [com.mamiyaotaru.voxelmap.util.g:for:292]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[17:04:09] [Client thread/INFO]: [com.mamiyaotaru.voxelmap.util.g:for:292]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[17:04:09] [Client thread/INFO]: [com.mamiyaotaru.voxelmap.k:<init>:414]: CATEGORY ORDER IS 7
+[17:04:09] [Client thread/INFO]: Created: 256x256 waypoints-atlas
+[17:04:09] [Client thread/INFO]: Created: 256x128 chooser-atlas
+[17:04:09] [Client thread/INFO]: Created: 512x256 mobs-atlas
+[17:04:09] [Client thread/INFO]: Baking listener list for ViewportListener with 0 listeners
+[17:04:09] [Client thread/INFO]: Sound handler reload inhibit removed
+[17:04:09] [Client thread/INFO]: Reloading sound handler
+[17:04:10] [Client thread/WARN]: Missing sound for event: cfm:channel_news
+[17:04:10] [Client thread/WARN]: Missing sound for event: cfm:channel_cooking
+[17:04:10] [Client thread/WARN]: Missing sound for event: cfm:channel_sam_tabor
+[17:04:10] [Client thread/WARN]: Missing sound for event: cfm:channel_heman
+[17:04:10] [Client thread/WARN]: Missing sound for event: cfm:channel_switch
+[17:04:10] [Client thread/WARN]: Missing sound for event: variedcommodities:gun.pistol.shot
+[17:04:10] [Client thread/WARN]: Missing sound for event: variedcommodities:gun.pistol.trigger
+[17:04:10] [Client thread/WARN]: Missing sound for event: variedcommodities:gun.empty
+[17:04:10] [Client thread/WARN]: Missing sound for event: variedcommodities:gun.ak47.load
+[17:04:10] [Client thread/WARN]: Missing sound for event: variedcommodities:magic.shot
+[17:04:10] [Client thread/WARN]: Missing sound for event: variedcommodities:magic.charge
+[17:04:10] [Client thread/WARN]: Missing sound for event: variedcommodities:misc.swosh
+[17:04:10] [Client thread/INFO]: SoundSystem shutting down...
+[17:04:10] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[17:04:10] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[17:04:10] [Client thread/INFO]: Baking listener list for GameLoopListener with 0 listeners
+[17:04:10] [Client thread/INFO]: Checking Doc Versions
+[17:04:10] [Client thread/INFO]: Baking listener list for RenderListener with 1 listeners
+[17:04:10] [Thread-17/INFO]: Initializing LWJGL OpenAL
+[17:04:10] [Thread-17/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[17:04:11] [Client thread/INFO]: Baking listener list for TickObserver with 3 listeners
+[17:04:11] [Client thread/INFO]: Baking listener list for PostRenderObserver with 3 listeners
+[17:04:11] [Client thread/INFO]: Baking listener list for Tickable with 1 listeners
+[17:04:11] [Client thread/INFO]: Baking listener list for FrameBufferListener with 0 listeners
+[17:04:11] [Thread-17/INFO]: OpenAL initialized.
+[17:04:11] [Sound Library Loader/INFO]: Sound engine started
+[17:04:22] [Client thread/INFO]: LiteLoader is shutting down, shutting down core providers and syncing configuration
+[17:04:22] [Client thread/INFO]: Baking listener list for ShutdownObserver with 3 listeners
+[17:04:22] [Client thread/INFO]: Stopping!
+[17:04:22] [Client thread/INFO]: SoundSystem shutting down...
+[17:04:22] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
