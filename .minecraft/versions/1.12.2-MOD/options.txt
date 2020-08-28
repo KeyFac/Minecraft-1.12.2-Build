@@ -73,8 +73,8 @@ key_key.smoothCamera:88
 key_key.fullscreen:87
 key_key.spectatorOutlines:0
 key_key.swapHands:33
-key_key.saveToolbarActivator:22
-key_key.loadToolbarActivator:24
+key_key.saveToolbarActivator:21
+key_key.loadToolbarActivator:22
 key_key.advancements:62
 key_key.hotbar.1:2
 key_key.hotbar.2:3
