@@ -1,0 +1,174 @@
+---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  CorePlugin (AcademyCraft-1.1.2.jar)
+  TickrateChanger (TickrateChanger-1.0.14.jar)
+  CustomSkinLoader (CustomSkinLoader_Forge-14.11.jar)
+Contact their authors BEFORE contacting forge
+
+// Uh... Did I do that?
+
+Time: 7/2/21 11:06 PM
+Description: Ticking entity
+
+java.lang.NullPointerException: Ticking entity
+	at net.minecraft.entity.ai.EntityLookHelper.func_75651_a(SourceFile:19)
+	at net.minecraft.entity.ai.EntityAIAttackMelee.func_75246_d(EntityAIAttackMelee.java:123)
+	at net.minecraft.entity.ai.EntityAITasks.func_75774_a(SourceFile:129)
+	at net.minecraft.entity.EntityLiving.func_70626_be(EntityLiving.java:763)
+	at net.minecraft.entity.EntityLivingBase.func_70636_d(EntityLivingBase.java:2359)
+	at net.minecraft.entity.EntityLiving.func_70636_d(EntityLiving.java:577)
+	at net.minecraft.entity.monster.EntityMob.func_70636_d(EntityMob.java:45)
+	at net.minecraft.entity.monster.EntityEnderman.func_70636_d(EntityEnderman.java:225)
+	at net.minecraft.entity.EntityLivingBase.func_70071_h_(EntityLivingBase.java:2179)
+	at net.minecraft.entity.EntityLiving.func_70071_h_(EntityLiving.java:295)
+	at net.minecraft.entity.monster.EntityMob.func_70071_h_(EntityMob.java:50)
+	at net.minecraft.world.World.func_72866_a(World.java:1996)
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832)
+	at net.minecraft.world.World.func_72870_g(World.java:1958)
+	at net.minecraft.world.World.func_72939_s(World.java:1762)
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:185)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server thread
+Stacktrace:
+	at net.minecraft.entity.ai.EntityLookHelper.func_75651_a(SourceFile:19)
+	at net.minecraft.entity.ai.EntityAIAttackMelee.func_75246_d(EntityAIAttackMelee.java:123)
+	at net.minecraft.entity.ai.EntityAITasks.func_75774_a(SourceFile:129)
+	at net.minecraft.entity.EntityLiving.func_70626_be(EntityLiving.java:763)
+	at net.minecraft.entity.EntityLivingBase.func_70636_d(EntityLivingBase.java:2359)
+	at net.minecraft.entity.EntityLiving.func_70636_d(EntityLiving.java:577)
+	at net.minecraft.entity.monster.EntityMob.func_70636_d(EntityMob.java:45)
+	at net.minecraft.entity.monster.EntityEnderman.func_70636_d(EntityEnderman.java:225)
+	at net.minecraft.entity.EntityLivingBase.func_70071_h_(EntityLivingBase.java:2179)
+	at net.minecraft.entity.EntityLiving.func_70071_h_(EntityLiving.java:295)
+	at net.minecraft.entity.monster.EntityMob.func_70071_h_(EntityMob.java:50)
+	at net.minecraft.world.World.func_72866_a(World.java:1996)
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832)
+	at net.minecraft.world.World.func_72870_g(World.java:1958)
+
+-- Entity being ticked --
+Details:
+	Entity Type: minecraft:enderman (net.minecraft.entity.monster.EntityEnderman)
+	Entity ID: 55051
+	Entity Name: 末影人
+	Entity's Exact location: 23.95, 63.00, 27.32
+	Entity's Block location: World: (23,63,27), Chunk: (at 7,3,11 in 1,1; contains blocks 16,0,16 to 31,255,31), Region: (0,0; contains chunks 0,0 to 31,31, blocks 0,0,0 to 511,255,511)
+	Entity's Momentum: 0.03, -0.08, -0.05
+	Entity's Passengers: []
+	Entity's Vehicle: ~~ERROR~~ NullPointerException: null
+Stacktrace:
+	at net.minecraft.world.World.func_72939_s(World.java:1762)
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613)
+
+-- Affected level --
+Details:
+	Level name: New World
+	All players: 1 total; [EntityPlayerMP['gele178'/395, l='New World', x=-0.04, y=72.84, z=-5.12]]
+	Chunk stats: ServerChunkCache: 841 Drop: 0
+	Level seed: -5730359419941009896
+	Level generator: ID 00 - default, ver 1. Features enabled: false
+	Level generator options: 
+	Level spawn location: World: (0,0,0), Chunk: (at 0,0,0 in 0,0; contains blocks 0,0,0 to 15,255,15), Region: (0,0; contains chunks 0,0 to 31,31, blocks 0,0,0 to 511,255,511)
+	Level time: 0 game time, 0 day time
+	Level dimension: 0
+	Level storage version: 0x00000 - Unknown?
+	Level weather: Rain time: 0 (now: false), thunder time: 0 (now: false)
+	Level game mode: ~~ERROR~~ NullPointerException: null
+Stacktrace:
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:185)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Thread.java:748)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_251, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 2327419776 bytes (2219 MB) / 4294967296 bytes (4096 MB) up to 4294967296 bytes (4096 MB)
+	LiteLoader Brand: 1.12.2-SNAPSHOT-r4CC2BB0-b4-4
+	LiteLoader Mods: 1 loaded mod(s)
+          - VoxelMap version 1.7.1
+	LaunchWrapper: 28 active transformer(s)
+          - Transformer: net.minecraftforge.fml.common.asm.transformers.PatchingTransformer
+          - Transformer: org.spongepowered.asm.mixin.transformer.Proxy
+          - Transformer: com.mumfrey.liteloader.transformers.event.EventProxyTransformer
+          - Transformer: com.mumfrey.liteloader.launch.LiteLoaderTransformer
+          - Transformer: com.mumfrey.liteloader.client.transformers.CrashReportTransformer
+          - Transformer: org.spongepowered.asm.mixin.transformer.Proxy
+          - Transformer: $wrapper.net.minecraftforge.fml.common.asm.transformers.SideTransformer
+          - Transformer: $wrapper.net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+          - Transformer: $wrapper.net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+          - Transformer: $wrapper.net.minecraftforge.fml.common.asm.transformers.SoundEngineFixTransformer
+          - Transformer: $wrapper.cn.lambdalib2.render.mc.PipelineTransformer
+          - Transformer: $wrapper.cn.lambdalib2.registry.impl.RegistryTransformer
+          - Transformer: $wrapper.customskinloader.forge.loader.LaunchWrapper
+          - Transformer: $wrapper.me.guichaguri.tickratechanger.TickrateTransformer
+          - Transformer: net.minecraftforge.fml.common.asm.transformers.DeobfuscationTransformer
+          - Transformer: net.minecraftforge.fml.common.asm.transformers.AccessTransformer
+          - Transformer: net.minecraftforge.fml.common.asm.transformers.ModAccessTransformer
+          - Transformer: net.minecraftforge.fml.common.asm.transformers.ItemStackTransformer
+          - Transformer: net.minecraftforge.fml.common.asm.transformers.ItemBlockTransformer
+          - Transformer: net.minecraftforge.fml.common.asm.transformers.ItemBlockSpecialTransformer
+          - Transformer: net.minecraftforge.fml.common.asm.transformers.PotionEffectTransformer
+          - Transformer: net.minecraftforge.fml.common.asm.transformers.TerminalTransformer
+          - Transformer: org.spongepowered.asm.mixin.transformer.Proxy
+          - Transformer: com.mumfrey.liteloader.transformers.event.EventTransformer
+          - Transformer: com.mumfrey.liteloader.common.transformers.LiteLoaderPacketTransformer
+          - Transformer: com.mumfrey.liteloader.transformers.event.json.ModEventInjectionTransformer
+          - Transformer: org.spongepowered.asm.mixin.transformer.Proxy
+          - Transformer: net.minecraftforge.fml.common.asm.transformers.ModAPITransformer
+	JVM Flags: 11 total; -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=16M -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Xmn128m -Xmx4096m -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump
+	IntCache: cache: 0, tcache: 0, allocated: 12, tallocated: 94
+	FML: MCP 9.42 Powered by Forge 14.23.5.2847 21 mods loaded, 21 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State  | ID                | Version         | Source                                                | Signature                                |
+	|:------ |:----------------- |:--------------- |:----------------------------------------------------- |:---------------------------------------- |
+	| LCHIJA | minecraft         | 1.12.2          | minecraft.jar                                         | None                                     |
+	| LCHIJA | mcp               | 9.42            | minecraft.jar                                         | None                                     |
+	| LCHIJA | FML               | 8.0.99.99       | forge-1.12.2-14.23.5.2847.jar                         | None                                     |
+	| LCHIJA | forge             | 14.23.5.2847    | forge-1.12.2-14.23.5.2847.jar                         | None                                     |
+	| LCHIJA | LambdaLib|Core    | 0.1.9           | minecraft.jar                                         | None                                     |
+	| LCHIJA | lambdalib2        | 0.1.9           | AcademyCraft-1.1.2.jar                                | None                                     |
+	| LCHIJA | academy           | 1.1.2           | AcademyCraft-1.1.2.jar                                | None                                     |
+	| LCHIJA | codechickenlib    | 3.2.3.358       | CodeChickenLib-1.12.2-3.2.3.358-universal.jar         | f1850c39b2516232a2108a7bd84d1cb5df93b261 |
+	| LCHIJA | redstoneflux      | 2.1.0           | RedstoneFlux-1.12-2.1.0.6-universal.jar               | 8a6abf2cb9e141b866580d369ba6548732eff25f |
+	| LCHIJA | brandonscore      | 2.4.18          | BrandonsCore-1.12.2-2.4.18.210-universal.jar          | None                                     |
+	| LCHIJA | customnpcs        | 1.12            | CustomNPCs_1.12.2-(01Oct19).jar                       | None                                     |
+	| LCHIJA | customskinloader  | 14.11           | CustomSkinLoader_Forge-14.11.jar                      | 52885f395e68f42e9b3b629ba56ecf606f7d4269 |
+	| LCHIJA | ptrmodellib       | 1.0.4           | PTRLib-1.0.4.jar                                      | None                                     |
+	| LCHIJA | props             | 2.6.3           | Decocraft-2.6.3_1.12.2.jar                            | None                                     |
+	| LCHIJA | draconicevolution | 2.3.25          | Draconic-Evolution-1.12.2-2.3.25.351-universal.jar    | None                                     |
+	| LCHIJA | cfm               | 6.3.1           | furniture-6.3.1-1.12.2.jar                            | None                                     |
+	| LCHIJA | ic2               | 2.8.196-ex112   | industrialcraft-2-2.8.196-ex112.jar                   | de041f9f6187debbc77034a344134053277aa3b0 |
+	| LCHIJA | tickratechanger   | 1.0.14          | TickrateChanger-1.0.14.jar                            | None                                     |
+	| LCHIJA | vm                | 1.0             | Timestop-1.4.jar                                      | None                                     |
+	| LCHIJA | variedcommodities | 1.12.2          | VariedCommodities_1.12.2(21nov19).jar                 | None                                     |
+	| LCHIJA | worldedit         | 6.1.10-SNAPSHOT | 创世神-worldedit-forge-mc1.12.2-6.1.10-SNAPSHOT-dist.jar | None                                     |
+
+	Loaded coremods (and transformers): 
+CorePlugin (AcademyCraft-1.1.2.jar)
+  cn.lambdalib2.render.mc.PipelineTransformer
+  cn.lambdalib2.registry.impl.RegistryTransformer
+TickrateChanger (TickrateChanger-1.0.14.jar)
+  me.guichaguri.tickratechanger.TickrateTransformer
+CustomSkinLoader (CustomSkinLoader_Forge-14.11.jar)
+  customskinloader.forge.loader.LaunchWrapper
+	GL info: ~~ERROR~~ RuntimeException: No OpenGL context found in the current thread.
+	Profiler Position: N/A (disabled)
+	Player Count: 1 / 8; [EntityPlayerMP['gele178'/395, l='New World', x=-0.04, y=72.84, z=-5.12]]
+	Type: Integrated Server (map_client.txt)
+	Is Modded: Definitely; Client brand changed to 'fml,forge,LiteLoader'

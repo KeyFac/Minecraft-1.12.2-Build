@@ -11,7 +11,7 @@ bobView:true
 anaglyph3d:false
 maxFps:260
 fboEnable:true
-difficulty:3
+difficulty:0
 fancyGraphics:true
 ao:2
 renderClouds:fast
@@ -110,7 +110,7 @@ key_key.minimap.voxelmapmenu:36
 key_key.minimap.waypointmenu:0
 key_key.minimap.zoom:44
 key_key.minimap.togglefullscreen:37
-key_key.minimap.waypointhotkey:49
+key_key.minimap.waypointhotkey:35
 key_key.minimap.togglemobs:0
 key_key.minimap.toggleingamewaypoints:0
 soundCategory_master:1.0
