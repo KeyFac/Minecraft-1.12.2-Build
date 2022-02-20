@@ -1,29 +1,24 @@
-[2022-02-20 12:08:18] [Client thread INFO] CustomSkinLoader 14.11
-[2022-02-20 12:08:18] [Client thread INFO] DataDir: d:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\CustomSkinLoader
-[2022-02-20 12:08:18] [Client thread INFO] Minecraft: 1.12.2(1.12.2-MOD)
-[2022-02-20 12:08:18] [Client thread INFO] Config File: d:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\CustomSkinLoader\CustomSkinLoader.json
-[2022-02-20 12:08:18] [Client thread INFO] Try to load config.
-[2022-02-20 12:08:18] [Client thread INFO] Successfully load config.
-[2022-02-20 12:08:18] [Client thread INFO] version : 14.11
-[2022-02-20 12:08:18] [Client thread INFO] enableDynamicSkull : true
-[2022-02-20 12:08:18] [Client thread INFO] enableTransparentSkin : true
-[2022-02-20 12:08:18] [Client thread INFO] ignoreHttpsCertificate : false
-[2022-02-20 12:08:18] [Client thread INFO] forceLoadAllTextures : false
-[2022-02-20 12:08:18] [Client thread INFO] enableCape : true
-[2022-02-20 12:08:18] [Client thread INFO] cacheExpiry : 30
-[2022-02-20 12:08:18] [Client thread INFO] enableUpdateSkull : false
-[2022-02-20 12:08:18] [Client thread INFO] enableLocalProfileCache : false
-[2022-02-20 12:08:18] [Client thread INFO] enableCacheAutoClean : false
-[2022-02-20 12:08:18] [Client thread INFO] loadList : 6
-[2022-02-20 12:08:18] [gele178's skull INFO] Loading gele178's profile.
-[2022-02-20 12:08:18] [gele178's skull INFO] 1/6 Try to load profile from 'Mojang'.
-[2022-02-20 12:08:18] [gele178's skull INFO] Default profile will be used.
-[2022-02-20 12:08:18] [gele178's skull INFO] gele178's profile loaded.
-[2022-02-20 12:08:18] [gele178's skull INFO] (SkinUrl: https://littleskin.cn/textures/399683dd1eebbecd8b42de0a838a427d3acd12d1cb6c217aadc211f10171550d , Model: default , CapeUrl: https://littleskin.cn/textures/f27d93fe97653bf71e18c064f3e6b469391d4c74827064a08ceb5b5ae985c57e  , Expiry: 1645330130)
-[2022-02-20 12:25:12] [gele178 INFO] Loading gele178's profile.
-[2022-02-20 12:25:12] [gele178 INFO] 1/6 Try to load profile from 'Mojang'.
-[2022-02-20 12:25:12] [gele178 INFO] Default profile will be used.
-[2022-02-20 12:25:12] [gele178 INFO] gele178's profile loaded.
-[2022-02-20 12:25:12] [gele178 INFO] (SkinUrl: https://littleskin.cn/textures/399683dd1eebbecd8b42de0a838a427d3acd12d1cb6c217aadc211f10171550d , Model: default , CapeUrl: https://littleskin.cn/textures/f27d93fe97653bf71e18c064f3e6b469391d4c74827064a08ceb5b5ae985c57e  , Expiry: 1645331145)
-[2022-02-20 12:25:12] [Client thread DEBUG] Loading type:SKIN
-[2022-02-20 12:25:12] [Client thread DEBUG] Loading type:CAPE
+[2022-02-20 16:21:03] [pool-4-thread-1 INFO] CustomSkinLoader 14.11
+[2022-02-20 16:21:03] [pool-4-thread-1 INFO] DataDir: d:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\CustomSkinLoader
+[2022-02-20 16:21:03] [pool-4-thread-1 INFO] Minecraft: 1.12.2(1.12.2-MOD)
+[2022-02-20 16:21:03] [pool-4-thread-1 INFO] Config File: d:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-MOD\CustomSkinLoader\CustomSkinLoader.json
+[2022-02-20 16:21:03] [pool-4-thread-1 INFO] Try to load config.
+[2022-02-20 16:21:03] [pool-4-thread-1 INFO] Successfully load config.
+[2022-02-20 16:21:03] [pool-4-thread-1 INFO] version : 14.11
+[2022-02-20 16:21:03] [pool-4-thread-1 INFO] enableDynamicSkull : true
+[2022-02-20 16:21:03] [pool-4-thread-1 INFO] enableTransparentSkin : true
+[2022-02-20 16:21:03] [pool-4-thread-1 INFO] ignoreHttpsCertificate : false
+[2022-02-20 16:21:03] [pool-4-thread-1 INFO] forceLoadAllTextures : false
+[2022-02-20 16:21:03] [pool-4-thread-1 INFO] enableCape : true
+[2022-02-20 16:21:03] [pool-4-thread-1 INFO] cacheExpiry : 30
+[2022-02-20 16:21:03] [pool-4-thread-1 INFO] enableUpdateSkull : false
+[2022-02-20 16:21:03] [pool-4-thread-1 INFO] enableLocalProfileCache : false
+[2022-02-20 16:21:03] [pool-4-thread-1 INFO] enableCacheAutoClean : false
+[2022-02-20 16:21:03] [pool-4-thread-1 INFO] loadList : 6
+[2022-02-20 16:21:03] [GLgele INFO] Loading GLgele's profile.
+[2022-02-20 16:21:03] [GLgele INFO] 1/6 Try to load profile from 'Mojang'.
+[2022-02-20 16:21:03] [GLgele INFO] Default profile will be used.
+[2022-02-20 16:21:03] [GLgele INFO] GLgele's profile loaded.
+[2022-02-20 16:21:03] [GLgele INFO] (SkinUrl: https://littleskin.cn/textures/399683dd1eebbecd8b42de0a838a427d3acd12d1cb6c217aadc211f10171550d , Model: default , CapeUrl: https://littleskin.cn/textures/f27d93fe97653bf71e18c064f3e6b469391d4c74827064a08ceb5b5ae985c57e  , Expiry: 1645345295)
+[2022-02-20 16:21:05] [Client thread DEBUG] Loading type:SKIN
+[2022-02-20 16:21:05] [Client thread DEBUG] Loading type:CAPE
