@@ -1,0 +1,17 @@
+[2022-07-07 18:52:50] [pool-4-thread-1 INFO] CustomSkinLoader 14.9
+[2022-07-07 18:52:50] [pool-4-thread-1 INFO] DataDir: d:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-mp\CustomSkinLoader
+[2022-07-07 18:52:50] [pool-4-thread-1 INFO] Minecraft: 1.12.2(1.12.2-mp)
+[2022-07-07 18:52:50] [pool-4-thread-1 INFO] Config File: d:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-mp\CustomSkinLoader\CustomSkinLoader.json
+[2022-07-07 18:52:50] [pool-4-thread-1 INFO] Config file not found, use default instead.
+[2022-07-07 18:52:50] [pool-4-thread-1 INFO] Successfully create config.
+[2022-07-07 18:52:50] [pool-4-thread-1 INFO] EnableDynamicSkull:true, EnableTranSkin:true, IgnoreHttpsCertificate:false, CacheExpiry:30, EnableUpdateSkull:false, EnableLocalProfileCache:false, EnableCacheAutoClean:false, LoadList:6
+[2022-07-07 18:52:50] [GLgele INFO] Loading GLgele's profile.
+[2022-07-07 18:52:50] [GLgele's skull INFO] Loading GLgele's profile.
+[2022-07-07 18:52:50] [GLgele INFO] 1/6 Try to load profile from 'Mojang'.
+[2022-07-07 18:52:50] [GLgele's skull INFO] 1/6 Try to load profile from 'Mojang'.
+[2022-07-07 18:52:50] [GLgele INFO] Default profile will be used.
+[2022-07-07 18:52:50] [GLgele's skull INFO] Default profile will be used.
+[2022-07-07 18:52:50] [GLgele's skull INFO] GLgele's profile loaded.
+[2022-07-07 18:52:50] [GLgele INFO] GLgele's profile loaded.
+[2022-07-07 18:52:50] [GLgele's skull INFO] (SkinUrl: https://littleskin.cn/textures/399683dd1eebbecd8b42de0a838a427d3acd12d1cb6c217aadc211f10171550d , Model: default , CapeUrl: https://littleskin.cn/textures/f27d93fe97653bf71e18c064f3e6b469391d4c74827064a08ceb5b5ae985c57e  , Expiry: 1657191200)
+[2022-07-07 18:52:50] [GLgele INFO] (SkinUrl: https://littleskin.cn/textures/399683dd1eebbecd8b42de0a838a427d3acd12d1cb6c217aadc211f10171550d , Model: default , CapeUrl: https://littleskin.cn/textures/f27d93fe97653bf71e18c064f3e6b469391d4c74827064a08ceb5b5ae985c57e  , Expiry: 1657191200)

@@ -1,0 +1,847 @@
+[18:51:19] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[18:51:19] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[18:51:19] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[18:51:19] [main/INFO]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[18:51:19] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_311, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jdk1.8.0_311\jre
+[18:51:20] [main/INFO]: Searching d:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-mp\mods for mods
+[18:51:20] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in AcademyCraft-1.1.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[18:51:20] [main/WARN]: The coremod cn.lambdalib2.CorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[18:51:20] [main/WARN]: The coremod CorePlugin (cn.lambdalib2.CorePlugin) is not signed!
+[18:51:20] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from VoxelMap-1.9.27_for_1.12.2.jar
+[18:51:20] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in 皮肤-CustomSkinLoader_Forge-14.9.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[18:51:20] [main/WARN]: The coremod customskinloader.forge.ForgePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[18:51:20] [main/WARN]: The coremod ForgePlugin (customskinloader.forge.ForgePlugin) is not signed!
+[18:51:20] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:51:20] [main/INFO]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[18:51:20] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/d:/Users/Administrator/Documents/GitHub/Minecraft-1.12.2-Build/.minecraft/versions/1.12.2-mp/mods/VoxelMap-1.9.27_for_1.12.2.jar Service=LaunchWrapper Env=CLIENT
+[18:51:20] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[18:51:20] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:51:20] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:51:20] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:51:20] [main/DEBUG]: Injecting coremod FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\} class transformers
+[18:51:20] [main/TRACE]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[18:51:20] [main/TRACE]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[18:51:20] [main/TRACE]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[18:51:20] [main/TRACE]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SoundEngineFixTransformer
+[18:51:20] [main/DEBUG]: Injection complete
+[18:51:20] [main/DEBUG]: Running coremod plugin for FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\}
+[18:51:20] [main/DEBUG]: Running coremod plugin FMLCorePlugin
+[18:51:23] [main/INFO]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[18:51:23] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[18:51:23] [main/DEBUG]: Coremod plugin class FMLCorePlugin run successfully
+[18:51:23] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:51:23] [main/DEBUG]: Injecting coremod FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\} class transformers
+[18:51:23] [main/DEBUG]: Injection complete
+[18:51:23] [main/DEBUG]: Running coremod plugin for FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\}
+[18:51:23] [main/DEBUG]: Running coremod plugin FMLForgePlugin
+[18:51:23] [main/DEBUG]: Coremod plugin class FMLForgePlugin run successfully
+[18:51:23] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:51:23] [main/DEBUG]: Injecting coremod CorePlugin \{cn.lambdalib2.CorePlugin\} class transformers
+[18:51:23] [main/TRACE]: Registering transformer cn.lambdalib2.render.mc.PipelineTransformer
+[18:51:23] [main/TRACE]: Registering transformer cn.lambdalib2.registry.impl.RegistryTransformer
+[18:51:23] [main/DEBUG]: Injection complete
+[18:51:23] [main/DEBUG]: Running coremod plugin for CorePlugin \{cn.lambdalib2.CorePlugin\}
+[18:51:23] [main/DEBUG]: Running coremod plugin CorePlugin
+[18:51:23] [main/DEBUG]: Coremod plugin class CorePlugin run successfully
+[18:51:23] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:51:23] [main/DEBUG]: Injecting coremod ForgePlugin \{customskinloader.forge.ForgePlugin\} class transformers
+[18:51:23] [main/TRACE]: Registering transformer customskinloader.forge.TransformerManager
+[18:51:23] [main/INFO]: [customskinloader.Logger:log:68]: [main INFO] [CSL DEBUG] REGISTERING TRANSFORMER customskinloader.forge.transformer.SkinManagerTransformer$InitTransformer
+[18:51:23] [main/INFO]: [customskinloader.Logger:log:68]: [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.client.resources.SkinManager(<init>(Lnet/minecraft/client/renderer/texture/TextureManager;Ljava/io/File;Lcom/mojang/authlib/minecraft/MinecraftSessionService;)V)
+[18:51:23] [main/INFO]: [customskinloader.Logger:log:68]: [main INFO] [CSL DEBUG] REGISTERING TRANSFORMER customskinloader.forge.transformer.SkinManagerTransformer$LoadSkinTransformer
+[18:51:23] [main/INFO]: [customskinloader.Logger:log:68]: [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.client.resources.SkinManager(func_152789_a(Lcom/mojang/authlib/minecraft/MinecraftProfileTexture;Lcom/mojang/authlib/minecraft/MinecraftProfileTexture$Type;Lnet/minecraft/client/resources/SkinManager$SkinAvailableCallback;)Lnet/minecraft/util/ResourceLocation;)
+[18:51:23] [main/INFO]: [customskinloader.Logger:log:68]: [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.client.resources.SkinManager(loadSkin(Lcom/mojang/authlib/minecraft/MinecraftProfileTexture;Lcom/mojang/authlib/minecraft/MinecraftProfileTexture$Type;Lnet/minecraft/client/resources/SkinManager$SkinAvailableCallback;)Lnet/minecraft/util/ResourceLocation;)
+[18:51:23] [main/INFO]: [customskinloader.Logger:log:68]: [main INFO] [CSL DEBUG] REGISTERING TRANSFORMER customskinloader.forge.transformer.SkinManagerTransformer$LoadProfileTexturesTransformer
+[18:51:23] [main/INFO]: [customskinloader.Logger:log:68]: [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.client.resources.SkinManager(func_152790_a(Lcom/mojang/authlib/GameProfile;Lnet/minecraft/client/resources/SkinManager$SkinAvailableCallback;Z)V)
+[18:51:23] [main/INFO]: [customskinloader.Logger:log:68]: [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.client.resources.SkinManager(loadProfileTextures(Lcom/mojang/authlib/GameProfile;Lnet/minecraft/client/resources/SkinManager$SkinAvailableCallback;Z)V)
+[18:51:23] [main/INFO]: [customskinloader.Logger:log:68]: [main INFO] [CSL DEBUG] REGISTERING TRANSFORMER customskinloader.forge.transformer.SkinManagerTransformer$LoadSkinFromCacheTransformer
+[18:51:23] [main/INFO]: [customskinloader.Logger:log:68]: [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.client.resources.SkinManager(func_152788_a(Lcom/mojang/authlib/GameProfile;)Ljava/util/Map;)
+[18:51:23] [main/INFO]: [customskinloader.Logger:log:68]: [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.client.resources.SkinManager(loadSkinFromCache(Lcom/mojang/authlib/GameProfile;)Ljava/util/Map;)
+[18:51:23] [main/INFO]: [customskinloader.Logger:log:68]: [main INFO] [CSL DEBUG] REGISTERING TRANSFORMER customskinloader.forge.transformer.PlayerTabTransformer$ScoreObjectiveTransformer
+[18:51:23] [main/INFO]: [customskinloader.Logger:log:68]: [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.client.gui.GuiPlayerTabOverlay(func_175249_a(ILnet/minecraft/scoreboard/Scoreboard;Lnet/minecraft/scoreboard/ScoreObjective;)V)
+[18:51:23] [main/INFO]: [customskinloader.Logger:log:68]: [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.client.gui.GuiPlayerTabOverlay(renderPlayerlist(ILnet/minecraft/scoreboard/Scoreboard;Lnet/minecraft/scoreboard/ScoreObjective;)V)
+[18:51:23] [main/INFO]: [customskinloader.Logger:log:68]: [main INFO] [CSL DEBUG] REGISTERING TRANSFORMER customskinloader.forge.transformer.SpectatorMenuTransformer$PlayerMenuObjectTransformer
+[18:51:23] [main/INFO]: [customskinloader.Logger:log:68]: [main INFO] [CSL DEBUG] REGISTERING METHOD net.minecraft.client.gui.spectator.PlayerMenuObject(<init>(Lcom/mojang/authlib/GameProfile;)V)
+[18:51:23] [main/DEBUG]: Injection complete
+[18:51:23] [main/DEBUG]: Running coremod plugin for ForgePlugin \{customskinloader.forge.ForgePlugin\}
+[18:51:23] [main/DEBUG]: Running coremod plugin ForgePlugin
+[18:51:23] [main/DEBUG]: Coremod plugin class ForgePlugin run successfully
+[18:51:23] [main/INFO]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[18:51:23] [main/INFO]: Compatibility level set to JAVA_8
+[18:51:23] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[18:51:23] [main/DEBUG]: Validating minecraft
+[18:51:23] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[18:51:23] [main/INFO]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[18:51:23] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[18:51:23] [main/INFO]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[18:51:24] [main/INFO]: [cn.lambdalib2.render.mc.PipelineTransformer:transform:16]: Transforming RenderGlobal
+[18:51:24] [main/INFO]: [cn.lambdalib2.render.mc.PipelineTransformer$EntityRendererVisitor:visitMethod:50]: Transforming RenderGlobal.renderEntities
+[18:51:24] [main/INFO]: A re-entrant transformer '$wrapper.cn.lambdalib2.render.mc.PipelineTransformer' was detected and will no longer process meta class data
+[18:51:24] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[18:51:25] [Client thread/INFO]: Setting user: GLgele
+[18:51:29] [Client thread/INFO]: LWJGL Version: 2.9.4
+[18:51:31] [Client thread/INFO]: -- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_311, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 89755840 bytes (85 MB) / 301989888 bytes (288 MB) up to 2147483648 bytes (2048 MB)
+	JVM Flags: 12 total; -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=16m -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -XX:-DontCompileHugeMethods -Xmn128m -Xmx2048m -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+CorePlugin (AcademyCraft-1.1.2.jar)
+  cn.lambdalib2.render.mc.PipelineTransformer
+  cn.lambdalib2.registry.impl.RegistryTransformer
+ForgePlugin (皮肤-CustomSkinLoader_Forge-14.9.jar)
+  customskinloader.forge.TransformerManager
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 431.65' Renderer: 'GeForce GTX 1650/PCIe/SSE2'
+[18:51:31] [Client thread/INFO]: MinecraftForge v14.23.5.2860 Initialized
+[18:51:31] [Client thread/INFO]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[18:51:31] [Client thread/INFO]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[18:51:31] [Client thread/INFO]: Replaced 1227 ore ingredients
+[18:51:31] [Client thread/INFO]: Searching d:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-mp\mods for mods
+[18:51:33] [Client thread/INFO]: Mod lambdalib2 is missing the required element 'name'. Substituting lambdalib2
+[18:51:33] [Thread-4/INFO]: Using sync timing. 200 frames of Display.update took 191614200 nanos
+[18:51:34] [Client thread/INFO]: Forge Mod Loader has identified 14 mods to load
+[18:51:34] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge, LambdaLib|Core, voxelmap, academy, lambdalib2, ic2, jei, projecte, flammpfeil.slashblade, cfm, customskinloader] at CLIENT
+[18:51:34] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge, LambdaLib|Core, voxelmap, academy, lambdalib2, ic2, jei, projecte, flammpfeil.slashblade, cfm, customskinloader] at SERVER
+[18:51:35] [Client thread/INFO]: LambdaLib2|Core is loading.
+[18:51:35] [Client thread/INFO]: [cn.lambdalib2.registry.impl.RegistryTransformer:transform:23]: [LL2] Find registry mod: cn.academy.AcademyCraft
+[18:51:36] [Client thread/INFO]: [cn.lambdalib2.render.mc.PipelineTransformer:transform:16]: Transforming RenderGlobal
+[18:51:36] [Client thread/INFO]: [cn.lambdalib2.render.mc.PipelineTransformer$EntityRendererVisitor:visitMethod:50]: Transforming RenderGlobal.renderEntities
+[18:51:37] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:VoxelMap, FMLFileResourcePack:Academy Craft, FMLFileResourcePack:lambdalib2, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Just Enough Items, FMLFileResourcePack:ProjectE, FMLFileResourcePack:SlashBlade, FMLFileResourcePack:MrCrayfish's Furniture Mod, FMLFileResourcePack:CustomSkinLoader
+[18:51:37] [Client thread/INFO]: Processing ObjectHolder annotations
+[18:51:37] [Client thread/INFO]: Found 1168 ObjectHolder annotations
+[18:51:37] [Client thread/INFO]: Identifying ItemStackHolder annotations
+[18:51:37] [Client thread/INFO]: Found 0 ItemStackHolder annotations
+[18:51:37] [Client thread/INFO]: Configured a dormant chunk cache size of 0
+[18:51:37] [Forge Version Check/INFO]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[18:51:40] [Client thread/INFO]: EntityData baked, network participants: [cn.academy.ability.develop.DevelopData, cn.academy.ability.develop.PortableDevData, cn.academy.ability.vanilla.teleporter.skill.LocTeleportData, cn.academy.datapart.AbilityData, cn.academy.datapart.CPData, cn.academy.datapart.CooldownData, cn.academy.datapart.PresetData, cn.academy.misc.media.MediaAcquireData, cn.academy.terminal.TerminalData, cn.academy.tutorial.TutorialData, cn.lambdalib2.datapart.PlayerDataTag]
+[18:51:40] [Client thread/INFO]: Starting AcademyCraft
+[18:51:40] [Client thread/INFO]: Copyright (c) Lambda Innovation, 2013-2018
+[18:51:40] [Client thread/INFO]: https://ac.li-dev.cn/
+[18:51:41] [Forge Version Check/INFO]: [forge] Found status: AHEAD Target: null
+[18:51:41] [Forge Version Check/INFO]: [projecte] Starting version check at https://raw.githubusercontent.com/sinkillerj/ProjectE/mc1.12.x/update.json
+[18:51:52] [Client thread/INFO]: Successfully loaded 352 out of 352 recipes for shaped recipes
+[18:51:52] [Client thread/INFO]: Successfully loaded 79 out of 79 recipes for shapeless recipes
+[18:51:52] [Client thread/INFO]: Successfully loaded 41 out of 41 recipes for solid uu recipes
+[18:51:52] [Client thread/INFO]: Successfully loaded 27 out of 27 recipes for furnace recipes
+[18:51:52] [Client thread/INFO]: Successfully loaded 5 out of 5 recipes for blast furnace recipes
+[18:51:52] [Client thread/INFO]: Successfully loaded 14 out of 14 recipes for block cutter recipes
+[18:51:52] [Client thread/INFO]: Successfully loaded 51 out of 51 recipes for compressor recipes
+[18:51:52] [Client thread/INFO]: Successfully loaded 13 out of 13 recipes for extractor recipes
+[18:51:52] [Client thread/INFO]: Successfully loaded 86 out of 86 recipes for macerator recipes
+[18:51:52] [Client thread/INFO]: Successfully loaded 5 out of 5 recipes for metal former cutting recipes
+[18:51:52] [Client thread/INFO]: Successfully loaded 10 out of 10 recipes for metal former extruding recipes
+[18:51:52] [Client thread/INFO]: Successfully loaded 14 out of 14 recipes for metal former rolling recipes
+[18:51:52] [Client thread/INFO]: Successfully loaded 8 out of 8 recipes for ore washing recipes
+[18:51:52] [Client thread/INFO]: Successfully loaded 26 out of 26 recipes for thermal centrifuge recipes
+[18:51:53] [Client thread/WARN]: The item tritium_fuel_rod is not initialized.
+[18:51:53] [Client thread/WARN]: The item plasma_launcher is not initialized.
+[18:51:53] [Client thread/WARN]: The item item_pipe is not initialized.
+[18:51:53] [Client thread/WARN]: The item extractor_cover is not initialized.
+[18:51:53] [Client thread/WARN]: The item ingot2 is not initialized.
+[18:51:53] [Client thread/WARN]: The item test_pick is not initialized.
+[18:51:53] [Client thread/WARN]: The fluid deuterium is not initialized.
+[18:51:53] [Client thread/WARN]: The fluid molten_brass is not initialized.
+[18:51:53] [Client thread/WARN]: The fluid molten_bronze is not initialized.
+[18:51:53] [Client thread/WARN]: The fluid molten_copper is not initialized.
+[18:51:53] [Client thread/WARN]: The fluid molten_gold is not initialized.
+[18:51:53] [Client thread/WARN]: The fluid molten_iron is not initialized.
+[18:51:53] [Client thread/WARN]: The fluid molten_lead is not initialized.
+[18:51:53] [Client thread/WARN]: The fluid molten_silver is not initialized.
+[18:51:53] [Client thread/WARN]: The fluid molten_steel is not initialized.
+[18:51:53] [Client thread/WARN]: The fluid molten_tin is not initialized.
+[18:51:53] [Client thread/WARN]: The fluid molten_zinc is not initialized.
+[18:51:53] [Client thread/INFO]: OBJLoader: Domain flammpfeil.slashblade has been added.
+[18:51:54] [Client thread/INFO]: LL2: Executing 3 block registry callbacks...
+[18:51:54] [Client thread/INFO]: Applying holder lookups
+[18:51:54] [Client thread/INFO]: Holder lookups applied
+[18:51:54] [Client thread/INFO]: LL2: Executing 5 item registry callbacks...
+[18:51:55] [Client thread/INFO]: Applying holder lookups
+[18:51:55] [Client thread/INFO]: Holder lookups applied
+[18:51:55] [Client thread/INFO]: Applying holder lookups
+[18:51:55] [Client thread/INFO]: Holder lookups applied
+[18:51:55] [Client thread/INFO]: Applying holder lookups
+[18:51:55] [Client thread/INFO]: Holder lookups applied
+[18:51:55] [Client thread/INFO]: Injecting itemstacks
+[18:51:55] [Client thread/INFO]: Itemstack injection complete
+[18:51:55] [Client thread/INFO]: [customskinloader.Logger:log:68]: [Client thread INFO] [CSL DEBUG] CLASS net.minecraft.client.resources.SkinManager will be transformed
+[18:51:55] [Client thread/INFO]: [customskinloader.Logger:log:68]: [Client thread INFO] [CSL DEBUG] Transforming method <init>(Lnet/minecraft/client/renderer/texture/TextureManager;Ljava/io/File;Lcom/mojang/authlib/minecraft/MinecraftSessionService;)V in class cex(net.minecraft.client.resources.SkinManager)
+[18:51:55] [Client thread/INFO]: [customskinloader.Logger:log:68]: [Client thread INFO] [CSL DEBUG] Successfully transformed method <init>(Lnet/minecraft/client/renderer/texture/TextureManager;Ljava/io/File;Lcom/mojang/authlib/minecraft/MinecraftSessionService;)V in class cex(net.minecraft.client.resources.SkinManager)
+[18:51:55] [Client thread/INFO]: [customskinloader.Logger:log:68]: [Client thread INFO] [CSL DEBUG] Transforming method func_152789_a(Lcom/mojang/authlib/minecraft/MinecraftProfileTexture;Lcom/mojang/authlib/minecraft/MinecraftProfileTexture$Type;Lnet/minecraft/client/resources/SkinManager$SkinAvailableCallback;)Lnet/minecraft/util/ResourceLocation; in class cex(net.minecraft.client.resources.SkinManager)
+[18:51:55] [Client thread/INFO]: [customskinloader.Logger:log:68]: [Client thread INFO] [CSL DEBUG] Successfully transformed method func_152789_a(Lcom/mojang/authlib/minecraft/MinecraftProfileTexture;Lcom/mojang/authlib/minecraft/MinecraftProfileTexture$Type;Lnet/minecraft/client/resources/SkinManager$SkinAvailableCallback;)Lnet/minecraft/util/ResourceLocation; in class cex(net.minecraft.client.resources.SkinManager)
+[18:51:55] [Client thread/INFO]: [customskinloader.Logger:log:68]: [Client thread INFO] [CSL DEBUG] Transforming method func_152790_a(Lcom/mojang/authlib/GameProfile;Lnet/minecraft/client/resources/SkinManager$SkinAvailableCallback;Z)V in class cex(net.minecraft.client.resources.SkinManager)
+[18:51:55] [Client thread/INFO]: [customskinloader.Logger:log:68]: [Client thread INFO] [CSL DEBUG] Successfully transformed method func_152790_a(Lcom/mojang/authlib/GameProfile;Lnet/minecraft/client/resources/SkinManager$SkinAvailableCallback;Z)V in class cex(net.minecraft.client.resources.SkinManager)
+[18:51:55] [Client thread/INFO]: [customskinloader.Logger:log:68]: [Client thread INFO] [CSL DEBUG] Transforming method func_152788_a(Lcom/mojang/authlib/GameProfile;)Ljava/util/Map; in class cex(net.minecraft.client.resources.SkinManager)
+[18:51:55] [Client thread/INFO]: [customskinloader.Logger:log:68]: [Client thread INFO] [CSL DEBUG] Successfully transformed method func_152788_a(Lcom/mojang/authlib/GameProfile;)Ljava/util/Map; in class cex(net.minecraft.client.resources.SkinManager)
+[18:51:56] [Client thread/WARN]: File minecraft:sounds/swingblade.ogg does not exist, cannot add it to event flammpfeil.slashblade:swingblade
+[18:51:56] [Client thread/WARN]: Missing sound for event: cfm:channel_news
+[18:51:56] [Client thread/WARN]: Missing sound for event: cfm:channel_cooking
+[18:51:56] [Client thread/WARN]: Missing sound for event: cfm:channel_sam_tabor
+[18:51:56] [Client thread/WARN]: Missing sound for event: cfm:channel_heman
+[18:51:56] [Client thread/WARN]: Missing sound for event: cfm:channel_switch
+[18:51:56] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[18:51:56] [Thread-7/INFO]: Initializing LWJGL OpenAL
+[18:51:56] [Thread-7/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[18:51:56] [Thread-7/INFO]: OpenAL initialized.
+[18:51:57] [Sound Library Loader/INFO]: Sound engine started
+[18:51:59] [Client thread/INFO]: OBJModel: A color has already been defined for material 'mat1' in 'flammpfeil.slashblade:models/item/sphere.mtl'. The color defined by key 'Ks' will not be applied!
+[18:51:59] [Client thread/INFO]: OBJLoader.MaterialLibrary: key 'Ns' (model: 'flammpfeil.slashblade:models/item/sphere.mtl') is not currently supported, skipping
+[18:51:59] [Client thread/INFO]: OBJModel: A color has already been defined for material 'mat2' in 'flammpfeil.slashblade:models/item/sphere.mtl'. The color defined by key 'Ks' will not be applied!
+[18:51:59] [Client thread/INFO]: OBJModel: A color has already been defined for material 'mat3' in 'flammpfeil.slashblade:models/item/sphere.mtl'. The color defined by key 'Ks' will not be applied!
+[18:51:59] [Client thread/INFO]: OBJModel: A color has already been defined for material 'mat1' in 'flammpfeil.slashblade:models/item/tiny.mtl'. The color defined by key 'Ks' will not be applied!
+[18:51:59] [Client thread/INFO]: OBJLoader.MaterialLibrary: key 'Ns' (model: 'flammpfeil.slashblade:models/item/tiny.mtl') is not currently supported, skipping
+[18:51:59] [Client thread/INFO]: OBJModel: A color has already been defined for material 'mat2' in 'flammpfeil.slashblade:models/item/tiny.mtl'. The color defined by key 'Ks' will not be applied!
+[18:51:59] [Client thread/INFO]: OBJModel: A color has already been defined for material 'mat3' in 'flammpfeil.slashblade:models/item/tiny.mtl'. The color defined by key 'Ks' will not be applied!
+[18:51:59] [Client thread/INFO]: OBJModel: A color has already been defined for material 'mat1' in 'flammpfeil.slashblade:models/block/soul.mtl'. The color defined by key 'Ks' will not be applied!
+[18:51:59] [Client thread/INFO]: OBJLoader.MaterialLibrary: key 'Ns' (model: 'flammpfeil.slashblade:models/block/soul.mtl') is not currently supported, skipping
+[18:51:59] [Client thread/INFO]: OBJModel: A color has already been defined for material 'mat2' in 'flammpfeil.slashblade:models/block/soul.mtl'. The color defined by key 'Ks' will not be applied!
+[18:51:59] [Client thread/INFO]: OBJModel: A color has already been defined for material 'mat3' in 'flammpfeil.slashblade:models/block/soul.mtl'. The color defined by key 'Ks' will not be applied!
+[18:51:59] [Client thread/INFO]: OBJModel: A color has already been defined for material 'mat1' in 'flammpfeil.slashblade:models/block/trapezohedron.mtl'. The color defined by key 'Ks' will not be applied!
+[18:51:59] [Client thread/INFO]: OBJLoader.MaterialLibrary: key 'Ns' (model: 'flammpfeil.slashblade:models/block/trapezohedron.mtl') is not currently supported, skipping
+[18:51:59] [Client thread/INFO]: OBJModel: A color has already been defined for material 'mat2' in 'flammpfeil.slashblade:models/block/trapezohedron.mtl'. The color defined by key 'Ks' will not be applied!
+[18:51:59] [Client thread/INFO]: OBJModel: A color has already been defined for material 'mat3' in 'flammpfeil.slashblade:models/block/trapezohedron.mtl'. The color defined by key 'Ks' will not be applied!
+[18:51:59] [Client thread/INFO]: OBJModel: A color has already been defined for material 'mat1' in 'flammpfeil.slashblade:models/block/sphere.mtl'. The color defined by key 'Ks' will not be applied!
+[18:51:59] [Client thread/INFO]: OBJLoader.MaterialLibrary: key 'Ns' (model: 'flammpfeil.slashblade:models/block/sphere.mtl') is not currently supported, skipping
+[18:51:59] [Client thread/INFO]: OBJModel: A color has already been defined for material 'mat2' in 'flammpfeil.slashblade:models/block/sphere.mtl'. The color defined by key 'Ks' will not be applied!
+[18:51:59] [Client thread/INFO]: OBJModel: A color has already been defined for material 'mat3' in 'flammpfeil.slashblade:models/block/sphere.mtl'. The color defined by key 'Ks' will not be applied!
+[18:51:59] [Client thread/INFO]: OBJModel: A color has already been defined for material 'mat1' in 'flammpfeil.slashblade:models/item/crystal.mtl'. The color defined by key 'Ks' will not be applied!
+[18:51:59] [Client thread/INFO]: OBJLoader.MaterialLibrary: key 'Ns' (model: 'flammpfeil.slashblade:models/item/crystal.mtl') is not currently supported, skipping
+[18:51:59] [Client thread/INFO]: OBJModel: A color has already been defined for material 'mat2' in 'flammpfeil.slashblade:models/item/crystal.mtl'. The color defined by key 'Ks' will not be applied!
+[18:51:59] [Client thread/INFO]: OBJModel: A color has already been defined for material 'mat3' in 'flammpfeil.slashblade:models/item/crystal.mtl'. The color defined by key 'Ks' will not be applied!
+[18:51:59] [Client thread/INFO]: OBJModel: A color has already been defined for material 'mat1' in 'flammpfeil.slashblade:models/block/ingot.mtl'. The color defined by key 'Ks' will not be applied!
+[18:51:59] [Client thread/INFO]: OBJLoader.MaterialLibrary: key 'Ns' (model: 'flammpfeil.slashblade:models/block/ingot.mtl') is not currently supported, skipping
+[18:51:59] [Client thread/INFO]: OBJModel: A color has already been defined for material 'mat2' in 'flammpfeil.slashblade:models/block/ingot.mtl'. The color defined by key 'Ks' will not be applied!
+[18:51:59] [Client thread/INFO]: OBJModel: A color has already been defined for material 'mat3' in 'flammpfeil.slashblade:models/block/ingot.mtl'. The color defined by key 'Ks' will not be applied!
+[18:51:59] [Client thread/INFO]: OBJModel: A color has already been defined for material 'mat1' in 'flammpfeil.slashblade:models/item/ingot.mtl'. The color defined by key 'Ks' will not be applied!
+[18:51:59] [Client thread/INFO]: OBJLoader.MaterialLibrary: key 'Ns' (model: 'flammpfeil.slashblade:models/item/ingot.mtl') is not currently supported, skipping
+[18:51:59] [Client thread/INFO]: OBJModel: A color has already been defined for material 'mat2' in 'flammpfeil.slashblade:models/item/ingot.mtl'. The color defined by key 'Ks' will not be applied!
+[18:51:59] [Client thread/INFO]: OBJModel: A color has already been defined for material 'mat3' in 'flammpfeil.slashblade:models/item/ingot.mtl'. The color defined by key 'Ks' will not be applied!
+[18:51:59] [Client thread/INFO]: OBJModel: A color has already been defined for material 'mat1' in 'flammpfeil.slashblade:models/block/tiny.mtl'. The color defined by key 'Ks' will not be applied!
+[18:51:59] [Client thread/INFO]: OBJLoader.MaterialLibrary: key 'Ns' (model: 'flammpfeil.slashblade:models/block/tiny.mtl') is not currently supported, skipping
+[18:51:59] [Client thread/INFO]: OBJModel: A color has already been defined for material 'mat2' in 'flammpfeil.slashblade:models/block/tiny.mtl'. The color defined by key 'Ks' will not be applied!
+[18:51:59] [Client thread/INFO]: OBJModel: A color has already been defined for material 'mat3' in 'flammpfeil.slashblade:models/block/tiny.mtl'. The color defined by key 'Ks' will not be applied!
+[18:51:59] [Client thread/INFO]: OBJModel: A color has already been defined for material 'mat1' in 'flammpfeil.slashblade:models/item/trapezohedron.mtl'. The color defined by key 'Ks' will not be applied!
+[18:51:59] [Client thread/INFO]: OBJLoader.MaterialLibrary: key 'Ns' (model: 'flammpfeil.slashblade:models/item/trapezohedron.mtl') is not currently supported, skipping
+[18:51:59] [Client thread/INFO]: OBJModel: A color has already been defined for material 'mat2' in 'flammpfeil.slashblade:models/item/trapezohedron.mtl'. The color defined by key 'Ks' will not be applied!
+[18:51:59] [Client thread/INFO]: OBJModel: A color has already been defined for material 'mat3' in 'flammpfeil.slashblade:models/item/trapezohedron.mtl'. The color defined by key 'Ks' will not be applied!
+[18:51:59] [Client thread/INFO]: OBJModel: A color has already been defined for material 'mat1' in 'flammpfeil.slashblade:models/item/soul.mtl'. The color defined by key 'Ks' will not be applied!
+[18:51:59] [Client thread/INFO]: OBJLoader.MaterialLibrary: key 'Ns' (model: 'flammpfeil.slashblade:models/item/soul.mtl') is not currently supported, skipping
+[18:51:59] [Client thread/INFO]: OBJModel: A color has already been defined for material 'mat2' in 'flammpfeil.slashblade:models/item/soul.mtl'. The color defined by key 'Ks' will not be applied!
+[18:51:59] [Client thread/INFO]: OBJModel: A color has already been defined for material 'mat3' in 'flammpfeil.slashblade:models/item/soul.mtl'. The color defined by key 'Ks' will not be applied!
+[18:51:59] [Client thread/INFO]: OBJModel: A color has already been defined for material 'mat1' in 'flammpfeil.slashblade:models/block/crystal.mtl'. The color defined by key 'Ks' will not be applied!
+[18:51:59] [Client thread/INFO]: OBJLoader.MaterialLibrary: key 'Ns' (model: 'flammpfeil.slashblade:models/block/crystal.mtl') is not currently supported, skipping
+[18:51:59] [Client thread/INFO]: OBJModel: A color has already been defined for material 'mat2' in 'flammpfeil.slashblade:models/block/crystal.mtl'. The color defined by key 'Ks' will not be applied!
+[18:51:59] [Client thread/INFO]: OBJModel: A color has already been defined for material 'mat3' in 'flammpfeil.slashblade:models/block/crystal.mtl'. The color defined by key 'Ks' will not be applied!
+[18:52:00] [Client thread/INFO]: Max texture size: 16384
+[18:52:04] [Client thread/INFO]: Created: 2048x1024 textures-atlas
+[18:52:06] [Client thread/ERROR]: Exception loading model for variant flammpfeil.slashblade:material#type=none, normal location exception: 
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model flammpfeil.slashblade:item/material with loader VanillaLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177590_d(ModelLoader.java:302) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177577_b(ModelBakery.java:175) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:151) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_311]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_311]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_311]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_311]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.io.FileNotFoundException: flammpfeil.slashblade:models/item/material.json
+	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(FallbackResourceManager.java:69) ~[cei.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SimpleReloadableResourceManager.java:65) ~[cev.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177594_c(ModelBakery.java:334) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.access$1400(ModelLoader.java:115) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VanillaLoader.loadModel(ModelLoader.java:861) ~[ModelLoader$VanillaLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 14 more
+[18:52:06] [Client thread/ERROR]: Exception loading model for variant flammpfeil.slashblade:material#type=none, blockstate location exception: 
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model flammpfeil.slashblade:material#type=none with loader VariantLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177590_d(ModelLoader.java:296) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.func_177577_b(ModelBakery.java:175) ~[cgb.class:?]
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:151) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28) [cgc.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121) [cev.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_311]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_311]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_311]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_311]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$MissingVariantException
+	at net.minecraft.client.renderer.block.model.ModelBlockDefinition.func_188004_c(ModelBlockDefinition.java:83) ~[bvv.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1175) ~[ModelLoader$VariantLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 14 more
+[18:52:07] [Client thread/INFO]: Applying holder lookups
+[18:52:07] [Client thread/INFO]: Holder lookups applied
+[18:52:08] [Client thread/INFO]: RegTileEntityRender: 10 renders registered.
+[18:52:08] [Client thread/WARN]: =============================================================
+[18:52:08] [Client thread/WARN]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
+[18:52:08] [Client thread/WARN]: Offender: com/jcraft/jorbis/VorbisFile.make_decode_ready()I
+[18:52:08] [Client thread/WARN]: Use FMLCommonHandler.exitJava instead
+[18:52:08] [Client thread/WARN]: =============================================================
+[18:52:08] [Client thread/INFO]: IC2 API Support has been loaded.
+[18:52:09] [Client thread/INFO]: Created: 256x128 textures-atlas
+[18:52:09] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmoven`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:52:09] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmfridge`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:52:09] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:52:09] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmfreezer`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:52:09] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmbedsidecabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:52:09] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmailbox`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:52:09] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcomputer`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:52:09] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmprinter`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:52:09] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmstereo`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:52:09] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmpresent`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:52:09] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmbin`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:52:09] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmwallcabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:52:09] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmbath`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:52:09] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmshowerhead`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:52:09] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmplate`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:52:09] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcouch`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:52:09] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmtoaster`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:52:09] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmchoppingboard`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:52:09] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmblender`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:52:09] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmicrowave`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:52:09] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmwashingmachine`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:52:09] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdishwasher`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:52:09] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcabinetkitchen`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:52:09] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcup`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:52:09] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcookiejar`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:52:09] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmtree`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:52:09] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmirror`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:52:09] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmgrill`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:52:09] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmeski`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:52:09] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdoormat`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:52:09] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcrate`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:52:09] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmlightswitch`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:52:09] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmceilingfan`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:52:09] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdeskcabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:52:09] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmodernslidingdoor`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:52:09] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdigitalclock`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:52:09] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmtv`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:52:09] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmkitchencounter`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:52:09] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cfmkitchencounterdrawer`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[18:52:09] [Client thread/INFO]: Injecting itemstacks
+[18:52:09] [Client thread/INFO]: Itemstack injection complete
+[18:52:10] [Client thread/INFO]: [com.mamiyaotaru.voxelmap.Map:<init>:422]: CATEGORY ORDER IS 7
+[18:52:10] [Client thread/INFO]: Created: 256x256 waypoints-atlas
+[18:52:10] [Client thread/INFO]: Created: 256x128 chooser-atlas
+[18:52:10] [Client thread/INFO]: Created: 512x256 mobs-atlas
+[18:52:10] [Client thread/INFO]: Created: 64x64 pings-atlas
+[18:52:10] [Client thread/INFO]: Loading predefined UU world scan values, run /ic2 uu-world-scan <small|medium|large> to calibrate them for your world.
+[18:52:11] [Client thread/INFO]: ic2 version 2.8.196-ex112 loaded.
+[18:52:11] [Client thread/INFO]: Starting JEI...
+[18:52:11] [Client thread/ERROR]: Found empty subBlock of Block{cfm:curtains_open}
+[18:52:11] [Client thread/ERROR]: Found empty subBlock of Block{cfm:curtains_open}
+[18:52:11] [Client thread/ERROR]: Found empty subBlock of Block{cfm:curtains_open}
+[18:52:11] [Client thread/ERROR]: Found empty subBlock of Block{cfm:curtains_open}
+[18:52:11] [Client thread/ERROR]: Found empty subBlock of Block{cfm:curtains_open}
+[18:52:11] [Client thread/ERROR]: Found empty subBlock of Block{cfm:curtains_open}
+[18:52:11] [Client thread/ERROR]: Found empty subBlock of Block{cfm:curtains_open}
+[18:52:11] [Client thread/ERROR]: Found empty subBlock of Block{cfm:curtains_open}
+[18:52:11] [Client thread/ERROR]: Found empty subBlock of Block{cfm:curtains_open}
+[18:52:11] [Client thread/ERROR]: Found empty subBlock of Block{cfm:curtains_open}
+[18:52:11] [Client thread/ERROR]: Found empty subBlock of Block{cfm:curtains_open}
+[18:52:11] [Client thread/ERROR]: Found empty subBlock of Block{cfm:curtains_open}
+[18:52:11] [Client thread/ERROR]: Found empty subBlock of Block{cfm:curtains_open}
+[18:52:11] [Client thread/ERROR]: Found empty subBlock of Block{cfm:curtains_open}
+[18:52:11] [Client thread/ERROR]: Found empty subBlock of Block{cfm:curtains_open}
+[18:52:11] [Client thread/ERROR]: Found empty subBlock of Block{cfm:curtains_open}
+[18:52:11] [Client thread/INFO]: Registering recipe categories...
+[18:52:11] [Client thread/INFO]: Registering recipe categories took 37.66 ms
+[18:52:11] [Client thread/INFO]: Registering mod plugins...
+[18:52:12] [Client thread/INFO]: Registering mod plugins took 755.7 ms
+[18:52:12] [Client thread/INFO]: Building recipe registry...
+[18:52:12] [Client thread/INFO]: Building recipe registry took 193.4 ms
+[18:52:12] [Client thread/INFO]: Building ingredient list...
+[18:52:12] [Client thread/INFO]: Building ingredient list took 40.85 ms
+[18:52:12] [Client thread/INFO]: Building ingredient filter...
+[18:52:12] [Client thread/INFO]: Building ingredient filter took 227.7 ms
+[18:52:12] [Client thread/INFO]: Building bookmarks...
+[18:52:12] [Client thread/INFO]: Building bookmarks took 5.756 ms
+[18:52:12] [Client thread/INFO]: Building runtime...
+[18:52:12] [Client thread/INFO]: Building runtime took 91.51 ms
+[18:52:12] [Client thread/INFO]: Ingredients are being added at runtime: 37 net.minecraft.item.ItemStack
+[18:52:12] [Client thread/INFO]: Optimizing memory usage...
+[18:52:12] [Client thread/INFO]: Optimizing memory usage took 54.11 ms
+[18:52:13] [Client thread/INFO]: Starting JEI took 1.723 s
+[18:52:13] [Client thread/INFO]: Forge Mod Loader has successfully loaded 14 mods
+[18:52:13] [Client thread/INFO]: [customskinloader.Logger:log:68]: [Client thread INFO] [CSL DEBUG] CLASS net.minecraft.client.gui.GuiPlayerTabOverlay will be transformed
+[18:52:13] [Client thread/INFO]: [customskinloader.Logger:log:68]: [Client thread INFO] [CSL DEBUG] Transforming method func_175249_a(ILnet/minecraft/scoreboard/Scoreboard;Lnet/minecraft/scoreboard/ScoreObjective;)V in class bjq(net.minecraft.client.gui.GuiPlayerTabOverlay)
+[18:52:13] [Client thread/INFO]: [customskinloader.Logger:log:68]: [Client thread INFO] [CSL DEBUG] Successfully transformed method func_175249_a(ILnet/minecraft/scoreboard/Scoreboard;Lnet/minecraft/scoreboard/ScoreObjective;)V in class bjq(net.minecraft.client.gui.GuiPlayerTabOverlay)
+[18:52:13] [Client thread/INFO]: Narrator library for x64 successfully loaded
+[18:52:13] [Client thread/ERROR]: +=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+[18:52:13] [Client thread/ERROR]: The following texture errors were found.
+[18:52:13] [Client thread/ERROR]: ==================================================
+[18:52:13] [Client thread/ERROR]:   DOMAIN minecraft
+[18:52:13] [Client thread/ERROR]: --------------------------------------------------
+[18:52:13] [Client thread/ERROR]:   domain minecraft is missing 1 texture
+[18:52:13] [Client thread/ERROR]:     domain minecraft has 3 locations:
+[18:52:13] [Client thread/ERROR]:       unknown resourcepack type net.minecraft.client.resources.DefaultResourcePack : Default
+[18:52:13] [Client thread/ERROR]:       mod voxelmap resources at d:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-mp\mods\VoxelMap-1.9.27_for_1.12.2.jar
+[18:52:13] [Client thread/ERROR]:       mod ic2 resources at d:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-mp\mods\industrialcraft-2-2.8.196-ex112.jar
+[18:52:13] [Client thread/ERROR]: -------------------------
+[18:52:13] [Client thread/ERROR]:     The missing resources for domain minecraft are:
+[18:52:13] [Client thread/ERROR]:       textures/soul.png.png
+[18:52:13] [Client thread/ERROR]: -------------------------
+[18:52:13] [Client thread/ERROR]:     No other errors exist for domain minecraft
+[18:52:13] [Client thread/ERROR]: ==================================================
+[18:52:13] [Client thread/ERROR]: +=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+[18:52:14] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[18:52:31] [Server thread/INFO]: Starting integrated minecraft server version 1.12.2
+[18:52:31] [Server thread/INFO]: Generating keypair
+[18:52:31] [Server thread/INFO]: Injecting existing registry data into this server instance
+[18:52:31] [Server thread/INFO]: Applying holder lookups
+[18:52:31] [Server thread/INFO]: Holder lookups applied
+[18:52:31] [Server thread/INFO]: Loading dimension 0 (新的世界) (net.minecraft.server.integrated.IntegratedServer@1af462e5)
+[18:52:32] [Server thread/INFO]: Loaded 553 advancements
+[18:52:32] [Server thread/WARN]: Unable to find spawn biome
+[18:52:34] [Server thread/INFO]: Loading dimension -1 (新的世界) (net.minecraft.server.integrated.IntegratedServer@1af462e5)
+[18:52:34] [Server thread/INFO]: Loading dimension 1 (新的世界) (net.minecraft.server.integrated.IntegratedServer@1af462e5)
+[18:52:34] [Server thread/INFO]: Preparing start region for level 0
+[18:52:35] [Server thread/INFO]: Preparing spawn area: 10%
+[18:52:36] [Server thread/INFO]: Preparing spawn area: 20%
+[18:52:37] [Server thread/INFO]: Preparing spawn area: 31%
+[18:52:38] [Server thread/INFO]: Preparing spawn area: 42%
+[18:52:39] [Server thread/INFO]: Preparing spawn area: 53%
+[18:52:40] [Server thread/INFO]: Preparing spawn area: 67%
+[18:52:41] [Server thread/INFO]: Preparing spawn area: 78%
+[18:52:42] [Server thread/INFO]: Preparing spawn area: 93%
+[18:52:42] [Server thread/INFO]: Starting server-side EMC mapping.
+[18:52:42] [Server thread/WARN]: Can not get Fluid 'obisidan.molten'
+[18:52:42] [Server thread/WARN]: Can not get Fluid 'glass.molten'
+[18:52:42] [Server thread/WARN]: Can not get Fluid 'glass.molten'
+[18:52:42] [Server thread/WARN]: Can not get Fluid 'ender'
+[18:52:42] [Server thread/WARN]: Can not get Fluid 'iron.molten'
+[18:52:42] [Server thread/WARN]: Can not get Fluid 'gold.molten'
+[18:52:42] [Server thread/WARN]: Can not get Fluid 'copper.molten'
+[18:52:42] [Server thread/WARN]: Can not get Fluid 'tin.molten'
+[18:52:42] [Server thread/WARN]: Can not get Fluid 'silver.molten'
+[18:52:42] [Server thread/WARN]: Can not get Fluid 'lead.molten'
+[18:52:42] [Server thread/WARN]: Can not get Fluid 'nickel.molten'
+[18:52:42] [Server thread/WARN]: Can not get Fluid 'aluminum.molten'
+[18:52:42] [Server thread/WARN]: Can not get Fluid 'ardite.molten'
+[18:52:42] [Server thread/WARN]: Can not get Fluid 'cobalt.molten'
+[18:52:42] [Server thread/WARN]: Can not get Fluid 'platinum.molten'
+[18:52:42] [Server thread/WARN]: Can not get Fluid 'obsidian.molten'
+[18:52:42] [Server thread/WARN]: Can not get Fluid 'electrum.molten'
+[18:52:42] [Server thread/WARN]: Can not get Fluid 'invar.molten'
+[18:52:42] [Server thread/WARN]: Can not get Fluid 'signalum.molten'
+[18:52:42] [Server thread/WARN]: Can not get Fluid 'lumium.molten'
+[18:52:42] [Server thread/WARN]: Can not get Fluid 'enderium.molten'
+[18:52:42] [Server thread/WARN]: Can not get Fluid 'mithril.molten'
+[18:52:42] [Server thread/WARN]: Can not get Fluid 'bronze.molten'
+[18:52:42] [Server thread/WARN]: Can not get Fluid 'aluminumbrass.molten'
+[18:52:42] [Server thread/WARN]: Can not get Fluid 'manyullyn.molten'
+[18:52:42] [Server thread/WARN]: Can not get Fluid 'alumite.molten'
+[18:52:42] [Server thread/WARN]: Can not get Fluid 'emerald.liquid'
+[18:52:42] [Server thread/WARN]: Can not get Fluid 'redstone'
+[18:52:42] [Server thread/WARN]: Can not get Fluid 'glowstone'
+[18:52:42] [Server thread/WARN]: Can not get Fluid 'cryotheum'
+[18:52:42] [Server thread/WARN]: Can not get Fluid 'pryotheum'
+[18:52:42] [Server thread/WARN]: EMC Exploit: ingredients (0 + 9*minecraft:iron_nugget:0 => 1*minecraft:iron_ingot:0) cost 252 but output value is 256
+[18:52:42] [Server thread/WARN]: EMC Exploit: "0 + 9*minecraft:gold_nugget:0 => 1*minecraft:gold_ingot:0" ingredient cost: 2043 value of result: 2048 setValueFromConversion: 0 + 8*OD: ingotIron => 1*minecraft:gold_ingot:0
+[18:52:42] [Server thread/WARN]: EMC Exploit: ingredients (0 + 1*minecraft:cobblestone:0 + 1*minecraft:stone:3 => 2*minecraft:stone:5) cost 17 but output value is 16
+[18:52:43] [Server thread/INFO]: Registered 1135 EMC values. (took 320 ms)
+[18:52:43] [ProjectE UUID Checker Server/FATAL]: Caught exception in UUID Checker thread!
+[18:52:43] [ProjectE UUID Checker Server/INFO]: [moze_intel.projecte.network.ThreadCheckUUID:run:58]: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[18:52:43] [ProjectE UUID Checker Server/INFO]: [moze_intel.projecte.network.ThreadCheckUUID:run:58]: 	at sun.security.ssl.Alert.createSSLException(Alert.java:131)
+[18:52:43] [ProjectE UUID Checker Server/INFO]: [moze_intel.projecte.network.ThreadCheckUUID:run:58]: 	at sun.security.ssl.TransportContext.fatal(TransportContext.java:370)
+[18:52:43] [ProjectE UUID Checker Server/INFO]: [moze_intel.projecte.network.ThreadCheckUUID:run:58]: 	at sun.security.ssl.TransportContext.fatal(TransportContext.java:313)
+[18:52:43] [ProjectE UUID Checker Server/INFO]: [moze_intel.projecte.network.ThreadCheckUUID:run:58]: 	at sun.security.ssl.TransportContext.fatal(TransportContext.java:308)
+[18:52:43] [ProjectE UUID Checker Server/INFO]: [moze_intel.projecte.network.ThreadCheckUUID:run:58]: 	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.checkServerCerts(CertificateMessage.java:652)
+[18:52:43] [ProjectE UUID Checker Server/INFO]: [moze_intel.projecte.network.ThreadCheckUUID:run:58]: 	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.onCertificate(CertificateMessage.java:471)
+[18:52:43] [ProjectE UUID Checker Server/INFO]: [moze_intel.projecte.network.ThreadCheckUUID:run:58]: 	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.consume(CertificateMessage.java:367)
+[18:52:43] [ProjectE UUID Checker Server/INFO]: [moze_intel.projecte.network.ThreadCheckUUID:run:58]: 	at sun.security.ssl.SSLHandshake.consume(SSLHandshake.java:376)
+[18:52:43] [ProjectE UUID Checker Server/INFO]: [moze_intel.projecte.network.ThreadCheckUUID:run:58]: 	at sun.security.ssl.HandshakeContext.dispatch(HandshakeContext.java:479)
+[18:52:43] [ProjectE UUID Checker Server/INFO]: [moze_intel.projecte.network.ThreadCheckUUID:run:58]: 	at sun.security.ssl.HandshakeContext.dispatch(HandshakeContext.java:457)
+[18:52:43] [ProjectE UUID Checker Server/INFO]: [moze_intel.projecte.network.ThreadCheckUUID:run:58]: 	at sun.security.ssl.TransportContext.dispatch(TransportContext.java:200)
+[18:52:43] [ProjectE UUID Checker Server/INFO]: [moze_intel.projecte.network.ThreadCheckUUID:run:58]: 	at sun.security.ssl.SSLTransport.decode(SSLTransport.java:154)
+[18:52:43] [ProjectE UUID Checker Server/INFO]: [moze_intel.projecte.network.ThreadCheckUUID:run:58]: 	at sun.security.ssl.SSLSocketImpl.decode(SSLSocketImpl.java:1290)
+[18:52:43] [ProjectE UUID Checker Server/INFO]: [moze_intel.projecte.network.ThreadCheckUUID:run:58]: 	at sun.security.ssl.SSLSocketImpl.readHandshakeRecord(SSLSocketImpl.java:1199)
+[18:52:43] [ProjectE UUID Checker Server/INFO]: [moze_intel.projecte.network.ThreadCheckUUID:run:58]: 	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:401)
+[18:52:43] [ProjectE UUID Checker Server/INFO]: [moze_intel.projecte.network.ThreadCheckUUID:run:58]: 	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:373)
+[18:52:43] [ProjectE UUID Checker Server/INFO]: [moze_intel.projecte.network.ThreadCheckUUID:run:58]: 	at sun.net.www.protocol.https.HttpsClient.afterConnect(HttpsClient.java:587)
+[18:52:43] [ProjectE UUID Checker Server/INFO]: [moze_intel.projecte.network.ThreadCheckUUID:run:58]: 	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:197)
+[18:52:43] [ProjectE UUID Checker Server/INFO]: [moze_intel.projecte.network.ThreadCheckUUID:run:58]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1584)
+[18:52:43] [ProjectE UUID Checker Server/INFO]: [moze_intel.projecte.network.ThreadCheckUUID:run:58]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:92)
+[18:52:43] [ProjectE UUID Checker Server/INFO]: [moze_intel.projecte.network.ThreadCheckUUID:run:58]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1504)
+[18:52:43] [ProjectE UUID Checker Server/INFO]: [moze_intel.projecte.network.ThreadCheckUUID:run:58]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1502)
+[18:52:43] [ProjectE UUID Checker Server/INFO]: [moze_intel.projecte.network.ThreadCheckUUID:run:58]: 	at java.security.AccessController.doPrivileged(Native Method)
+[18:52:43] [ProjectE UUID Checker Server/INFO]: [moze_intel.projecte.network.ThreadCheckUUID:run:58]: 	at java.security.AccessController.doPrivilegedWithCombiner(AccessController.java:784)
+[18:52:43] [ProjectE UUID Checker Server/INFO]: [moze_intel.projecte.network.ThreadCheckUUID:run:58]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1501)
+[18:52:43] [ProjectE UUID Checker Server/INFO]: [moze_intel.projecte.network.ThreadCheckUUID:run:58]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)
+[18:52:43] [ProjectE UUID Checker Server/INFO]: [moze_intel.projecte.network.ThreadCheckUUID:run:58]: 	at java.net.URL.openStream(URL.java:1092)
+[18:52:43] [ProjectE UUID Checker Server/INFO]: [moze_intel.projecte.network.ThreadCheckUUID:run:58]: 	at moze_intel.projecte.network.ThreadCheckUUID.run(ThreadCheckUUID.java:28)
+[18:52:43] [ProjectE UUID Checker Server/INFO]: [java.lang.Throwable:printStackTrace:635]: Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[18:52:43] [ProjectE UUID Checker Server/INFO]: [java.lang.Throwable:printStackTrace:635]: 	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:439)
+[18:52:43] [ProjectE UUID Checker Server/INFO]: [java.lang.Throwable:printStackTrace:635]: 	at sun.security.validator.PKIXValidator.engineValidate(PKIXValidator.java:306)
+[18:52:43] [ProjectE UUID Checker Server/INFO]: [java.lang.Throwable:printStackTrace:635]: 	at sun.security.validator.Validator.validate(Validator.java:271)
+[18:52:43] [ProjectE UUID Checker Server/INFO]: [java.lang.Throwable:printStackTrace:635]: 	at sun.security.ssl.X509TrustManagerImpl.validate(X509TrustManagerImpl.java:312)
+[18:52:43] [ProjectE UUID Checker Server/INFO]: [java.lang.Throwable:printStackTrace:635]: 	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(X509TrustManagerImpl.java:221)
+[18:52:43] [ProjectE UUID Checker Server/INFO]: [java.lang.Throwable:printStackTrace:635]: 	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(X509TrustManagerImpl.java:128)
+[18:52:43] [ProjectE UUID Checker Server/INFO]: [java.lang.Throwable:printStackTrace:635]: 	at sun.security.ssl.CertificateMessage$T12CertificateConsumer.checkServerCerts(CertificateMessage.java:636)
+[18:52:43] [ProjectE UUID Checker Server/INFO]: [java.lang.Throwable:printStackTrace:635]: 	... 23 more
+[18:52:43] [ProjectE UUID Checker Server/INFO]: [java.lang.Throwable:printStackTrace:644]: Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[18:52:43] [ProjectE UUID Checker Server/INFO]: [java.lang.Throwable:printStackTrace:644]: 	at sun.security.provider.certpath.SunCertPathBuilder.build(SunCertPathBuilder.java:141)
+[18:52:43] [ProjectE UUID Checker Server/INFO]: [java.lang.Throwable:printStackTrace:644]: 	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(SunCertPathBuilder.java:126)
+[18:52:43] [ProjectE UUID Checker Server/INFO]: [java.lang.Throwable:printStackTrace:644]: 	at java.security.cert.CertPathBuilder.build(CertPathBuilder.java:280)
+[18:52:43] [ProjectE UUID Checker Server/INFO]: [java.lang.Throwable:printStackTrace:644]: 	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:434)
+[18:52:43] [ProjectE UUID Checker Server/INFO]: [java.lang.Throwable:printStackTrace:644]: 	... 29 more
+[18:52:43] [Server thread/INFO]: Unloading dimension -1
+[18:52:43] [Server thread/INFO]: Unloading dimension 1
+[18:52:43] [Server thread/INFO]: Changing view distance to 12, from 10
+[18:52:44] [Netty Local Client IO #0/INFO]: Server protocol version 2
+[18:52:44] [Netty Server IO #1/INFO]: Client protocol version 2
+[18:52:44] [Netty Server IO #1/INFO]: Client attempting to join with 14 mods : minecraft@1.12.2,FML@8.0.99.99,cfm@6.3.1,customskinloader@14.9,lambdalib2@0.1.9,jei@4.16.1.301,voxelmap@1.9.25,projecte@1.12.2-PE1.4.1,forge@14.23.5.2860,ic2@2.8.196-ex112,flammpfeil.slashblade@mc1.12-r33,mcp@9.42,LambdaLib|Core@0.1.9,academy@1.1.2
+[18:52:44] [Netty Local Client IO #0/INFO]: [Netty Local Client IO #0] Client side modded connection established
+[18:52:44] [Server thread/INFO]: [Server thread] Server side modded connection established
+[18:52:44] [Server thread/INFO]: GLgele[local:E:7b6a4151] logged in with entity id 1685 at (-245.5, 64.0, -249.5)
+[18:52:44] [Server thread/INFO]: GLgele加入了游戏
+[18:52:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2600ms behind, skipping 52 tick(s)
+[18:52:47] [Server thread/INFO]: Saving and pausing game...
+[18:52:50] [pool-4-thread-1/INFO]: [customskinloader.Logger:log:68]: [pool-4-thread-1 INFO] CustomSkinLoader 14.9
+[18:52:50] [pool-4-thread-1/INFO]: [customskinloader.Logger:log:68]: [pool-4-thread-1 INFO] DataDir: d:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-mp\CustomSkinLoader
+[18:52:50] [pool-4-thread-1/INFO]: [customskinloader.Logger:log:68]: [pool-4-thread-1 INFO] Minecraft: 1.12.2(1.12.2-mp)
+[18:52:50] [pool-4-thread-1/INFO]: [customskinloader.Logger:log:68]: [pool-4-thread-1 INFO] Config File: d:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-mp\CustomSkinLoader\CustomSkinLoader.json
+[18:52:50] [pool-4-thread-1/INFO]: [customskinloader.Logger:log:68]: [pool-4-thread-1 INFO] Config file not found, use default instead.
+[18:52:50] [pool-4-thread-1/INFO]: [customskinloader.Logger:log:68]: [pool-4-thread-1 INFO] Successfully create config.
+[18:52:50] [Server thread/INFO]: Saving chunks for level '新的世界'/overworld
+[18:52:50] [pool-4-thread-1/INFO]: [customskinloader.Logger:log:68]: [pool-4-thread-1 INFO] EnableDynamicSkull:true, EnableTranSkin:true, IgnoreHttpsCertificate:false, CacheExpiry:30, EnableUpdateSkull:false, EnableLocalProfileCache:false, EnableCacheAutoClean:false, LoadList:6
+[18:52:50] [GLgele/INFO]: [customskinloader.Logger:log:68]: [GLgele INFO] Loading GLgele's profile.
+[18:52:50] [GLgele's skull/INFO]: [customskinloader.Logger:log:68]: [GLgele's skull INFO] Loading GLgele's profile.
+[18:52:50] [GLgele/INFO]: [customskinloader.Logger:log:68]: [GLgele INFO] 1/6 Try to load profile from 'Mojang'.
+[18:52:50] [GLgele's skull/INFO]: [customskinloader.Logger:log:68]: [GLgele's skull INFO] 1/6 Try to load profile from 'Mojang'.
+[18:52:50] [GLgele/INFO]: [customskinloader.Logger:log:68]: [GLgele INFO] Default profile will be used.
+[18:52:50] [GLgele's skull/INFO]: [customskinloader.Logger:log:68]: [GLgele's skull INFO] Default profile will be used.
+[18:52:50] [GLgele's skull/INFO]: [customskinloader.Logger:log:68]: [GLgele's skull INFO] GLgele's profile loaded.
+[18:52:50] [GLgele/INFO]: [customskinloader.Logger:log:68]: [GLgele INFO] GLgele's profile loaded.
+[18:52:50] [GLgele's skull/INFO]: [customskinloader.Logger:log:68]: [GLgele's skull INFO] (SkinUrl: https://littleskin.cn/textures/399683dd1eebbecd8b42de0a838a427d3acd12d1cb6c217aadc211f10171550d , Model: default , CapeUrl: https://littleskin.cn/textures/f27d93fe97653bf71e18c064f3e6b469391d4c74827064a08ceb5b5ae985c57e  , Expiry: 1657191200)
+[18:52:50] [GLgele/INFO]: [customskinloader.Logger:log:68]: [GLgele INFO] (SkinUrl: https://littleskin.cn/textures/399683dd1eebbecd8b42de0a838a427d3acd12d1cb6c217aadc211f10171550d , Model: default , CapeUrl: https://littleskin.cn/textures/f27d93fe97653bf71e18c064f3e6b469391d4c74827064a08ceb5b5ae985c57e  , Expiry: 1657191200)
+[18:52:51] [Client thread/INFO]: [CHAT] §ENo waypoints exist for this world/server.
+[18:52:51] [Client thread/INFO]: [CHAT] 感谢下载 MrCrayfish 的家具模组。
+[18:52:51] [Client thread/INFO]: [CHAT] §6-> §a浏览 MrCrayfish 的所有模组。
+[18:52:51] [Client thread/INFO]: [CHAT] §6-> §rmrcrayfish.com
+[18:52:52] [Client thread/INFO]: Loaded 22 advancements
+[18:52:53] [Client thread/INFO]: OnSynchronized true Preset{#0=null, #1=null, #2=null, #3=null}
+[18:52:57] [Thread-17/ERROR]: javax.net.ssl.SSLException: java.net.SocketException: Connection reset
+[18:53:00] [Server thread/INFO]: Saving and pausing game...
+[18:53:00] [Server thread/INFO]: Saving chunks for level '新的世界'/overworld
+[18:53:00] [ProjectE Update Checker Notifier/INFO]: Update check failed.
+[18:53:01] [Server thread/INFO]: Saving and pausing game...
+[18:53:01] [Server thread/INFO]: Saving chunks for level '新的世界'/overworld
+[18:53:05] [Server thread/INFO]: Saving and pausing game...
+[18:53:05] [Server thread/INFO]: Saving chunks for level '新的世界'/overworld
+[18:53:10] [Server thread/INFO]: Saving and pausing game...
+[18:53:10] [Server thread/INFO]: Saving chunks for level '新的世界'/overworld
+[18:55:33] [Server thread/INFO]: Saving and pausing game...
+[18:55:33] [Server thread/INFO]: Saving chunks for level '新的世界'/overworld
+[18:55:36] [Server thread/INFO]: GLgele取得了进度[初次接触]
+[18:55:36] [Client thread/INFO]: [CHAT] GLgele取得了进度[初次接触]
+[18:55:36] [Client thread/INFO]: Loaded 29 advancements
+[18:55:36] [Server thread/INFO]: Saving and pausing game...
+[18:55:36] [Server thread/INFO]: Saving chunks for level '新的世界'/overworld
+[18:55:48] [Client thread/INFO]: [CHAT] academy:ability_interferer, academy:app_freq_transmitter, academy:app_media_player, academy:app_skill_tree, academy:brain_component, academy:calc_chip, academy:cat_engine, academy:coin, academy:constraint_ingot, academy:constraint_metal, academy:constraint_plate, academy:crystal_low, academy:crystal_normal, academy:crystal_ore, academy:crystal_pure, academy:data_chip, academy:dev_advanced, academy:dev_normal, academy:developer_portable, academy:energy_convert_component, academy:energy_unit, academy:eu_input, academy:eu_output, academy:imag_fusor, academy:imag_phase, academy:imag_silicon_ingot, academy:imag_silicon_piece, academy:imagsil_ore, academy:induction_factor, academy:info_component, academy:logo, academy:machine_frame, academy:mag_hook, academy:magnetic_coil, academy:mat_core, academy:matrix, academy:matter_unit, academy:media_item, academy:metal_former, academy:needle, academy:node_advanced, academy:node_basic, academy:node_standard, academy:phase_gen, academy:reinforced_iron_plate, academy:reso_crystal, academy:reso_ore, academy:resonance_component, academy:silbarn, academy:solar_gen, academy:terminal_installer, academy:tutorial, academy:wafer, academy:windgen_base, academy:windgen_fan, academy:windgen_main, academy:windgen_pillar, cfm:bar_stool, cfm:basin, cfm:bath_bottom, cfm:bedside_cabinet_acacia, cfm:bedside_cabinet_andesite, cfm:bedside_cabinet_birch, cfm:bedside_cabinet_dark_oak, cfm:bedside_cabinet_diorite, cfm:bedside_cabinet_granite, cfm:bedside_cabinet_jungle, cfm:bedside_cabinet_oak, cfm:bedside_cabinet_spruce, cfm:bedside_cabinet_stone, cfm:bench, cfm:bin, cfm:bird_bath, cfm:blender, cfm:blinds_acacia_open, cfm:blinds_birch_open, cfm:blinds_dark_oak_open, cfm:blinds_jungle_open, cfm:blinds_open, cfm:blinds_spruce_open, cfm:cabinet_acacia, cfm:cabinet_andesite, cfm:cabinet_birch, cfm:cabinet_dark_oak, cfm:cabinet_diorite, cfm:cabinet_granite, cfm:cabinet_jungle, cfm:cabinet_kitchen, cfm:cabinet_oak, cfm:cabinet_spruce, cfm:cabinet_stone, cfm:candle, cfm:castle_netting, cfm:ceiling_fan, cfm:ceiling_fan_fans, cfm:ceiling_light_off, cfm:chair_acacia, cfm:chair_andesite, cfm:chair_birch, cfm:chair_dark_oak, cfm:chair_diorite, cfm:chair_granite, cfm:chair_jungle, cfm:chair_oak, cfm:chair_spruce, cfm:chair_stone, cfm:chimney, cfm:chopping_board, cfm:coffee_table_acacia, cfm:coffee_table_andesite, cfm:coffee_table_birch, cfm:coffee_table_dark_oak, cfm:coffee_table_diorite, cfm:coffee_table_granite, cfm:coffee_table_jungle, cfm:coffee_table_oak, cfm:coffee_table_spruce, cfm:coffee_table_stone, cfm:computer, cfm:cookie_jar, cfm:couch, cfm:couch_jeb, cfm:counter, cfm:counter_drawer, cfm:counter_sink, cfm:crate, cfm:crate_acacia, cfm:crate_birch, cfm:crate_dark_oak, cfm:crate_jungle, cfm:crate_spruce, cfm:curtains_open, cfm:desk_acacia, cfm:desk_andesite, cfm:desk_birch, cfm:desk_cabinet_acacia, cfm:desk_cabinet_andesite, cfm:desk_cabinet_birch, cfm:desk_cabinet_dark_oak, cfm:desk_cabinet_diorite, cfm:desk_cabinet_granite, cfm:desk_cabinet_jungle, cfm:desk_cabinet_oak, cfm:desk_cabinet_spruce, cfm:desk_cabinet_stone, cfm:desk_dark_oak, cfm:desk_diorite, cfm:desk_granite, cfm:desk_jungle, cfm:desk_oak, cfm:desk_spruce, cfm:desk_stone, cfm:digital_clock, cfm:dishwasher, cfm:divingboard_base, cfm:door_bell, cfm:door_bell_acacia, cfm:door_bell_birch, cfm:door_bell_dark_oak, cfm:door_bell_jungle, cfm:door_bell_spruce, cfm:door_mat, cfm:electric_fence, cfm:esky, cfm:fairy_light, cfm:fire_alarm_off, cfm:fire_alarm_on, cfm:fire_pit_on, cfm:freezer, cfm:grand_chair_bottom, cfm:grill, cfm:hedge_acacia, cfm:hedge_birch, cfm:hedge_dark_oak, cfm:hedge_jungle, cfm:hedge_oak, cfm:hedge_spruce, cfm:inflatable_castle, cfm:item_bread_slice, cfm:item_cool_pack, cfm:item_crayfish, cfm:item_crow_bar, cfm:item_cup, cfm:item_drink, cfm:item_envelope, cfm:item_envelope_signed, cfm:item_flesh, cfm:item_flesh_cooked, cfm:item_hammer, cfm:item_ink_cartridge, cfm:item_kebab, cfm:item_kebab_cooked, cfm:item_knife, cfm:item_log, cfm:item_package, cfm:item_package_signed, cfm:item_recipe_book, cfm:item_sausage, cfm:item_sausage_cooked, cfm:item_soap, cfm:item_soap_water, cfm:item_spatula, cfm:item_super_soap_water, cfm:item_toast, cfm:lamp_off, cfm:light_switch_off, cfm:mail_box, cfm:mail_box_acacia, cfm:mail_box_birch, cfm:mail_box_dark_oak, cfm:mail_box_jungle, cfm:mail_box_spruce, cfm:mantel_piece, cfm:microwave, cfm:mirror, cfm:modern_bed_bottom, cfm:modern_chair, cfm:modern_coffee_table, cfm:modern_couch, cfm:modern_light_off, cfm:modern_sliding_door, cfm:modern_stair, cfm:modern_table, cfm:modern_table_outdoor, cfm:modern_tv, cfm:modern_window, cfm:oven, cfm:park_bench_acacia, cfm:park_bench_birch, cfm:park_bench_dark_oak, cfm:park_bench_jungle, cfm:park_bench_oak, cfm:park_bench_spruce, cfm:photo_frame, cfm:plate, cfm:present, cfm:printer, cfm:range_hood, cfm:shower_bottom, cfm:shower_head_off, cfm:stereo, cfm:stone_path, cfm:table_acacia, cfm:table_andesite, cfm:table_birch, cfm:table_dark_oak, cfm:table_diorite, cfm:table_granite, cfm:table_jungle, cfm:table_oak, cfm:table_outdoor, cfm:table_spruce, cfm:table_stone, cfm:tap, cfm:toaster, cfm:toilet, cfm:trampoline, cfm:tree_bottom, cfm:tv, cfm:tv_remote, cfm:tv_stand, cfm:upgraded_fence_acacia, cfm:upgraded_fence_birch, cfm:upgraded_fence_dark_oak, cfm:upgraded_fence_jungle, cfm:upgraded_fence_nether_brick, cfm:upgraded_fence_oak, cfm:upgraded_fence_spruce, cfm:upgraded_gate_acacia, cfm:upgraded_gate_birch, cfm:upgraded_gate_dark_oak, cfm:upgraded_gate_jungle, cfm:upgraded_gate_oak, cfm:upgraded_gate_spruce, cfm:wall_cabinet, cfm:washing_machine, cfm:white_fence, cfm:white_gate, cfm:wreath, flammpfeil.slashblade:proudsoul, flammpfeil.slashblade:slashblade, flammpfeil.slashblade:slashbladebamboolight, flammpfeil.slashblade:slashbladenamed, flammpfeil.slashblade:slashbladesilverbamboolight, flammpfeil.slashblade:slashbladewhite, flammpfeil.slashblade:slashbladewood, flammpfeil.slashblade:slashbladewrapper, ic2:advanced_batpack, ic2:advanced_charging_re_battery, ic2:advanced_heat_exchanger, ic2:advanced_heat_vent, ic2:advanced_re_battery, ic2:advanced_scanner, ic2:air, ic2:alloy_chestplate, ic2:barrel, ic2:batpack, ic2:biogas, ic2:biomass, ic2:block_cutting_blade, ic2:boat, ic2:booze_mug, ic2:bronze_axe, ic2:bronze_boots, ic2:bronze_chestplate, ic2:bronze_helmet, ic2:bronze_hoe, ic2:bronze_leggings, ic2:bronze_pickaxe, ic2:bronze_shovel, ic2:bronze_sword, ic2:cable, ic2:casing, ic2:cell, ic2:cf_pack, ic2:chainsaw, ic2:charging_energy_crystal, ic2:charging_lapotron_crystal, ic2:charging_re_battery, ic2:coke, ic2:component_heat_exchanger, ic2:component_heat_vent, ic2:construction_foam, ic2:containment_box, ic2:containment_plating, ic2:coolant, ic2:cover, ic2:crafting, ic2:creosote, ic2:crop_res, ic2:crop_seed_bag, ic2:crop_stick, ic2:cropnalyzer, ic2:crowbar, ic2:crushed, ic2:crystal_memory, ic2:cutter, ic2:debug_item, ic2:depleted_isotope_fuel_rod, ic2:diamond_drill, ic2:distilled_water, ic2:drill, ic2:dual_mox_fuel_rod, ic2:dual_uranium_fuel_rod, ic2:dust, ic2:dynamite, ic2:dynamite_sticky, ic2:electric_hoe, ic2:electric_treetap, ic2:electric_wrench, ic2:energy_crystal, ic2:energy_pack, ic2:fence, ic2:filled_fuel_can, ic2:filled_tin_can, ic2:fluid_cell, ic2:foam, ic2:foam_sprayer, ic2:forge_hammer, ic2:frequency_transmitter, ic2:glass, ic2:hazmat_chestplate, ic2:hazmat_helmet, ic2:hazmat_leggings, ic2:heat_exchanger, ic2:heat_plating, ic2:heat_storage, ic2:heat_vent, ic2:heatpack, ic2:heavy_water, ic2:hex_heat_storage, ic2:hot_coolant, ic2:hot_water, ic2:hydrogen, ic2:ingot, ic2:iodine_tablet, ic2:iridium_drill, ic2:iridium_reflector, ic2:jetpack, ic2:jetpack_electric, ic2:lapotron_crystal, ic2:lappack, ic2:leaves, ic2:lithium_fuel_rod, ic2:lzh_condensator, ic2:meter, ic2:mining_laser, ic2:mining_pipe, ic2:misc_resource, ic2:mox_fuel_rod, ic2:mug, ic2:nano_boots, ic2:nano_chestplate, ic2:nano_helmet, ic2:nano_leggings, ic2:nano_saber, ic2:neutron_reflector, ic2:nightvision_goggles, ic2:nuclear, ic2:obscurator, ic2:overclocked_heat_vent, ic2:oxygen, ic2:pahoehoe_lava, ic2:painter, ic2:pipe, ic2:plate, ic2:plating, ic2:purified, ic2:quad_mox_fuel_rod, ic2:quad_uranium_fuel_rod, ic2:quantum_boots, ic2:quantum_chestplate, ic2:quantum_helmet, ic2:quantum_leggings, ic2:re_battery, ic2:reactor_heat_exchanger, ic2:reactor_heat_vent, ic2:refractory_bricks, ic2:reinforced_door, ic2:remote, ic2:resource, ic2:rotor_bronze, ic2:rotor_carbon, ic2:rotor_iron, ic2:rotor_steel, ic2:rotor_wood, ic2:rsh_condensator, ic2:rubber_boots, ic2:rubber_wood, ic2:sapling, ic2:scaffold, ic2:scanner, ic2:sheet, ic2:single_use_battery, ic2:solar_helmet, ic2:static_boots, ic2:steam, ic2:superheated_steam, ic2:te, ic2:terra_wart, ic2:tfbp, ic2:thick_neutron_reflector, ic2:tool_box, ic2:treetap, ic2:tri_heat_storage, ic2:upgrade, ic2:upgrade_kit, ic2:uranium_fuel_rod, ic2:uu_matter, ic2:wall, ic2:weed_ex, ic2:weeding_trowel, ic2:wind_meter, ic2:wrench, ic2:wrench_new, minecraft:acacia_boat, minecraft:acacia_door, minecraft:acacia_fence, minecraft:acacia_fence_gate, minecraft:acacia_stairs, minecraft:activator_rail, minecraft:air, minecraft:anvil, minecraft:apple, minecraft:armor_stand, minecraft:arrow, minecraft:baked_potato, minecraft:banner, minecraft:barrier, minecraft:beacon, minecraft:bed, minecraft:bedrock, minecraft:beef, minecraft:beetroot, minecraft:beetroot_seeds, minecraft:beetroot_soup, minecraft:birch_boat, minecraft:birch_door, minecraft:birch_fence, minecraft:birch_fence_gate, minecraft:birch_stairs, minecraft:black_glazed_terracotta, minecraft:black_shulker_box, minecraft:blaze_powder, minecraft:blaze_rod, minecraft:blue_glazed_terracotta, minecraft:blue_shulker_box, minecraft:boat, minecraft:bone, minecraft:bone_block, minecraft:book, minecraft:bookshelf, minecraft:bow, minecraft:bowl, minecraft:bread, minecraft:brewing_stand, minecraft:brick, minecraft:brick_block, minecraft:brick_stairs, minecraft:brown_glazed_terracotta, minecraft:brown_mushroom, minecraft:brown_mushroom_block, minecraft:brown_shulker_box, minecraft:bucket, minecraft:cactus, minecraft:cake, minecraft:carpet, minecraft:carrot, minecraft:carrot_on_a_stick, minecraft:cauldron, minecraft:chain_command_block, minecraft:chainmail_boots, minecraft:chainmail_chestplate, minecraft:chainmail_helmet, minecraft:chainmail_leggings, minecraft:chest, minecraft:chest_minecart, minecraft:chicken, minecraft:chorus_flower, minecraft:chorus_fruit, minecraft:chorus_fruit_popped, minecraft:chorus_plant, minecraft:clay, minecraft:clay_ball, minecraft:clock, minecraft:coal, minecraft:coal_block, minecraft:coal_ore, minecraft:cobblestone, minecraft:cobblestone_wall, minecraft:command_block, minecraft:command_block_minecart, minecraft:comparator, minecraft:compass, minecraft:concrete, minecraft:concrete_powder, minecraft:cooked_beef, minecraft:cooked_chicken, minecraft:cooked_fish, minecraft:cooked_mutton, minecraft:cooked_porkchop, minecraft:cooked_rabbit, minecraft:cookie, minecraft:crafting_table, minecraft:cyan_glazed_terracotta, minecraft:cyan_shulker_box, minecraft:dark_oak_boat, minecraft:dark_oak_door, minecraft:dark_oak_fence, minecraft:dark_oak_fence_gate, minecraft:dark_oak_stairs, minecraft:daylight_detector, minecraft:deadbush, minecraft:detector_rail, minecraft:diamond, minecraft:diamond_axe, minecraft:diamond_block, minecraft:diamond_boots, minecraft:diamond_chestplate, minecraft:diamond_helmet, minecraft:diamond_hoe, minecraft:diamond_horse_armor, minecraft:diamond_leggings, minecraft:diamond_ore, minecraft:diamond_pickaxe, minecraft:diamond_shovel, minecraft:diamond_sword, minecraft:dirt, minecraft:dispenser, minecraft:double_plant, minecraft:dragon_breath, minecraft:dragon_egg, minecraft:dropper, minecraft:dye, minecraft:egg, minecraft:elytra, minecraft:emerald, minecraft:emerald_block, minecraft:emerald_ore, minecraft:enchanted_book, minecraft:enchanting_table, minecraft:end_bricks, minecraft:end_crystal, minecraft:end_portal_frame, minecraft:end_rod, minecraft:end_stone, minecraft:ender_chest, minecraft:ender_eye, minecraft:ender_pearl, minecraft:experience_bottle, minecraft:farmland, minecraft:feather, minecraft:fence, minecraft:fence_gate, minecraft:fermented_spider_eye, minecraft:filled_map, minecraft:fire_charge, minecraft:firework_charge, minecraft:fireworks, minecraft:fish, minecraft:fishing_rod, minecraft:flint, minecraft:flint_and_steel, minecraft:flower_pot, minecraft:furnace, minecraft:furnace_minecart, minecraft:ghast_tear, minecraft:glass, minecraft:glass_bottle, minecraft:glass_pane, minecraft:glowstone, minecraft:glowstone_dust, minecraft:gold_block, minecraft:gold_ingot, minecraft:gold_nugget, minecraft:gold_ore, minecraft:golden_apple, minecraft:golden_axe, minecraft:golden_boots, minecraft:golden_carrot, minecraft:golden_chestplate, minecraft:golden_helmet, minecraft:golden_hoe, minecraft:golden_horse_armor, minecraft:golden_leggings, minecraft:golden_pickaxe, minecraft:golden_rail, minecraft:golden_shovel, minecraft:golden_sword, minecraft:grass, minecraft:grass_path, minecraft:gravel, minecraft:gray_glazed_terracotta, minecraft:gray_shulker_box, minecraft:green_glazed_terracotta, minecraft:green_shulker_box, minecraft:gunpowder, minecraft:hardened_clay, minecraft:hay_block, minecraft:heavy_weighted_pressure_plate, minecraft:hopper, minecraft:hopper_minecart, minecraft:ice, minecraft:iron_axe, minecraft:iron_bars, minecraft:iron_block, minecraft:iron_boots, minecraft:iron_chestplate, minecraft:iron_door, minecraft:iron_helmet, minecraft:iron_hoe, minecraft:iron_horse_armor, minecraft:iron_ingot, minecraft:iron_leggings, minecraft:iron_nugget, minecraft:iron_ore, minecraft:iron_pickaxe, minecraft:iron_shovel, minecraft:iron_sword, minecraft:iron_trapdoor, minecraft:item_frame, minecraft:jukebox, minecraft:jungle_boat, minecraft:jungle_door, minecraft:jungle_fence, minecraft:jungle_fence_gate, minecraft:jungle_stairs, minecraft:knowledge_book, minecraft:ladder, minecraft:lapis_block, minecraft:lapis_ore, minecraft:lava_bucket, minecraft:lead, minecraft:leather, minecraft:leather_boots, minecraft:leather_chestplate, minecraft:leather_helmet, minecraft:leather_leggings, minecraft:leaves, minecraft:leaves2, minecraft:lever, minecraft:light_blue_glazed_terracotta, minecraft:light_blue_shulker_box, minecraft:light_weighted_pressure_plate, minecraft:lime_glazed_terracotta, minecraft:lime_shulker_box, minecraft:lingering_potion, minecraft:lit_pumpkin, minecraft:log, minecraft:log2, minecraft:magenta_glazed_terracotta, minecraft:magenta_shulker_box, minecraft:magma, minecraft:magma_cream, minecraft:map, minecraft:melon, minecraft:melon_block, minecraft:melon_seeds, minecraft:milk_bucket, minecraft:minecart, minecraft:mob_spawner, minecraft:monster_egg, minecraft:mossy_cobblestone, minecraft:mushroom_stew, minecraft:mutton, minecraft:mycelium, minecraft:name_tag, minecraft:nether_brick, minecraft:nether_brick_fence, minecraft:nether_brick_stairs, minecraft:nether_star, minecraft:nether_wart, minecraft:nether_wart_block, minecraft:netherbrick, minecraft:netherrack, minecraft:noteblock, minecraft:oak_stairs, minecraft:observer, minecraft:obsidian, minecraft:orange_glazed_terracotta, minecraft:orange_shulker_box, minecraft:packed_ice, minecraft:painting, minecraft:paper, minecraft:pink_glazed_terracotta, minecraft:pink_shulker_box, minecraft:piston, minecraft:planks, minecraft:poisonous_potato, minecraft:porkchop, minecraft:potato, minecraft:potion, minecraft:prismarine, minecraft:prismarine_crystals, minecraft:prismarine_shard, minecraft:pumpkin, minecraft:pumpkin_pie, minecraft:pumpkin_seeds, minecraft:purple_glazed_terracotta, minecraft:purple_shulker_box, minecraft:purpur_block, minecraft:purpur_pillar, minecraft:purpur_slab, minecraft:purpur_stairs, minecraft:quartz, minecraft:quartz_block, minecraft:quartz_ore, minecraft:quartz_stairs, minecraft:rabbit, minecraft:rabbit_foot, minecraft:rabbit_hide, minecraft:rabbit_stew, minecraft:rail, minecraft:record_11, minecraft:record_13, minecraft:record_blocks, minecraft:record_cat, minecraft:record_chirp, minecraft:record_far, minecraft:record_mall, minecraft:record_mellohi, minecraft:record_stal, minecraft:record_strad, minecraft:record_wait, minecraft:record_ward, minecraft:red_flower, minecraft:red_glazed_terracotta, minecraft:red_mushroom, minecraft:red_mushroom_block, minecraft:red_nether_brick, minecraft:red_sandstone, minecraft:red_sandstone_stairs, minecraft:red_shulker_box, minecraft:redstone, minecraft:redstone_block, minecraft:redstone_lamp, minecraft:redstone_ore, minecraft:redstone_torch, minecraft:reeds, minecraft:repeater, minecraft:repeating_command_block, minecraft:rotten_flesh, minecraft:saddle, minecraft:sand, minecraft:sandstone, minecraft:sandstone_stairs, minecraft:sapling, minecraft:sea_lantern, minecraft:shears, minecraft:shield, minecraft:shulker_shell, minecraft:sign, minecraft:silver_glazed_terracotta, minecraft:silver_shulker_box, minecraft:skull, minecraft:slime, minecraft:slime_ball, minecraft:snow, minecraft:snow_layer, minecraft:snowball, minecraft:soul_sand, minecraft:spawn_egg, minecraft:speckled_melon, minecraft:spectral_arrow, minecraft:spider_eye, minecraft:splash_potion, minecraft:sponge, minecraft:spruce_boat, minecraft:spruce_door, minecraft:spruce_fence, minecraft:spruce_fence_gate, minecraft:spruce_stairs, minecraft:stained_glass, minecraft:stained_glass_pane, minecraft:stained_hardened_clay, minecraft:stick, minecraft:sticky_piston, minecraft:stone, minecraft:stone_axe, minecraft:stone_brick_stairs, minecraft:stone_button, minecraft:stone_hoe, minecraft:stone_pickaxe, minecraft:stone_pressure_plate, minecraft:stone_shovel, minecraft:stone_slab, minecraft:stone_slab2, minecraft:stone_stairs, minecraft:stone_sword, minecraft:stonebrick, minecraft:string, minecraft:structure_block, minecraft:structure_void, minecraft:sugar, minecraft:tallgrass, minecraft:tipped_arrow, minecraft:tnt, minecraft:tnt_minecart, minecraft:torch, minecraft:totem_of_undying, minecraft:trapdoor, minecraft:trapped_chest, minecraft:tripwire_hook, minecraft:vine, minecraft:water_bucket, minecraft:waterlily, minecraft:web, minecraft:wheat, minecraft:wheat_seeds, minecraft:white_glazed_terracotta, minecraft:white_shulker_box, minecraft:wooden_axe, minecraft:wooden_button, minecraft:wooden_door, minecraft:wooden_hoe, minecraft:wooden_pickaxe, minecraft:wooden_pressure_plate, minecraft:wooden_shovel, minecraft:wooden_slab, minecraft:wooden_sword, minecraft:wool, minecraft:writable_book, minecraft:written_book, minecraft:yellow_flower, minecraft:yellow_glazed_terracotta, minecraft:yellow_shulker_box, projecte:alchemical_chest, projecte:collector_mk1, projecte:collector_mk2, projecte:collector_mk3, projecte:condenser_mk1, projecte:condenser_mk2, projecte:dm_furnace, projecte:dm_pedestal, projecte:fuel_block, projecte:interdiction_torch, projecte:item.pe_alchemical_bag, projecte:item.pe_arcana_ring, projecte:item.pe_archangel_smite, projecte:item.pe_black_hole, projecte:item.pe_body_stone, projecte:item.pe_catalitic_lens, projecte:item.pe_covalence_dust, projecte:item.pe_destruction_catalyst, projecte:item.pe_divining_rod_1, projecte:item.pe_divining_rod_2, projecte:item.pe_divining_rod_3, projecte:item.pe_dm_armor_0, projecte:item.pe_dm_armor_1, projecte:item.pe_dm_armor_2, projecte:item.pe_dm_armor_3, projecte:item.pe_dm_axe, projecte:item.pe_dm_hammer, projecte:item.pe_dm_hoe, projecte:item.pe_dm_pick, projecte:item.pe_dm_shears, projecte:item.pe_dm_shovel, projecte:item.pe_dm_sword, projecte:item.pe_evertide_amulet, projecte:item.pe_fire_projectile, projecte:item.pe_fuel, projecte:item.pe_gem_armor_0, projecte:item.pe_gem_armor_1, projecte:item.pe_gem_armor_2, projecte:item.pe_gem_armor_3, projecte:item.pe_gem_density, projecte:item.pe_harvest_god, projecte:item.pe_hyperkinetic_lens, projecte:item.pe_ignition, projecte:item.pe_klein_star, projecte:item.pe_lava_orb, projecte:item.pe_lens_explosive, projecte:item.pe_life_stone, projecte:item.pe_manual, projecte:item.pe_matter, projecte:item.pe_mercurial_eye, projecte:item.pe_mind_stone, projecte:item.pe_philosophers_stone, projecte:item.pe_randomizer, projecte:item.pe_repair_talisman, projecte:item.pe_ring_iron_band, projecte:item.pe_rm_armor_0, projecte:item.pe_rm_armor_1, projecte:item.pe_rm_armor_2, projecte:item.pe_rm_armor_3, projecte:item.pe_rm_axe, projecte:item.pe_rm_hammer, projecte:item.pe_rm_hoe, projecte:item.pe_rm_katar, projecte:item.pe_rm_morning_star, projecte:item.pe_rm_pick, projecte:item.pe_rm_shears, projecte:item.pe_rm_shovel, projecte:item.pe_rm_sword, projecte:item.pe_soul_stone, projecte:item.pe_swrg, projecte:item.pe_time_watch, projecte:item.pe_tome, projecte:item.pe_transmutation_tablet, projecte:item.pe_void_ring, projecte:item.pe_volcanite_amulet, projecte:item.pe_water_orb, projecte:item.pe_wind_projectile, projecte:item.pe_zero_ring, projecte:matter_block, projecte:nova_cataclysm, projecte:nova_catalyst, projecte:relay_mk1, projecte:relay_mk2, projecte:relay_mk3, projecte:rm_furnace, projecte:transmutation_table
+[18:55:53] [Client thread/INFO]: [CHAT] academy:ability_interferer, academy:app_freq_transmitter, academy:app_media_player, academy:app_skill_tree, academy:brain_component, academy:calc_chip, academy:cat_engine, academy:coin, academy:constraint_ingot, academy:constraint_metal, academy:constraint_plate, academy:crystal_low, academy:crystal_normal, academy:crystal_ore, academy:crystal_pure, academy:data_chip, academy:dev_advanced, academy:dev_normal, academy:developer_portable, academy:energy_convert_component, academy:energy_unit, academy:eu_input, academy:eu_output, academy:imag_fusor, academy:imag_phase, academy:imag_silicon_ingot, academy:imag_silicon_piece, academy:imagsil_ore, academy:induction_factor, academy:info_component, academy:logo, academy:machine_frame, academy:mag_hook, academy:magnetic_coil, academy:mat_core, academy:matrix, academy:matter_unit, academy:media_item, academy:metal_former, academy:needle, academy:node_advanced, academy:node_basic, academy:node_standard, academy:phase_gen, academy:reinforced_iron_plate, academy:reso_crystal, academy:reso_ore, academy:resonance_component, academy:silbarn, academy:solar_gen, academy:terminal_installer, academy:tutorial, academy:wafer, academy:windgen_base, academy:windgen_fan, academy:windgen_main, academy:windgen_pillar
+[18:56:00] [Server thread/INFO]: [GLgele: 成功将[虚像硅晶圆]*1给予GLgele]
+[18:56:00] [Client thread/INFO]: [CHAT] 成功将[虚像硅晶圆]*1给予GLgele
+[18:56:03] [Client thread/INFO]: [CHAT] [调试]： 高级提示框：显示
+[18:56:09] [Server thread/INFO]: [GLgele: 清除了GLgele的物品栏，删除了1个物品]
+[18:56:09] [Client thread/INFO]: [CHAT] 清除了GLgele的物品栏，删除了1个物品
+[18:56:22] [Server thread/INFO]: Saving and pausing game...
+[18:56:22] [Server thread/INFO]: Saving chunks for level '新的世界'/overworld
+[18:56:30] [Server thread/INFO]: Saving and pausing game...
+[18:56:30] [Server thread/INFO]: Saving chunks for level '新的世界'/overworld
+[18:56:31] [Server thread/INFO]: Saving and pausing game...
+[18:56:31] [Server thread/INFO]: Saving chunks for level '新的世界'/overworld
+[18:59:30] [Client thread/INFO]: [CHAT] academy:terminal_installer, ic2:terra_wart
+[18:59:31] [Server thread/INFO]: [GLgele: 成功将[数据终端]*1给予GLgele]
+[18:59:31] [Client thread/INFO]: [CHAT] 成功将[数据终端]*1给予GLgele
+[18:59:31] [Server thread/INFO]: GLgele取得了进度[科技改变生活]
+[18:59:31] [Client thread/INFO]: [CHAT] GLgele取得了进度[科技改变生活]
+[18:59:31] [Client thread/INFO]: Loaded 29 advancements
+[18:59:33] [Server thread/INFO]: Saving and pausing game...
+[18:59:33] [Server thread/INFO]: Saving chunks for level '新的世界'/overworld
+[18:59:34] [Server thread/INFO]: Saving and pausing game...
+[18:59:34] [Server thread/INFO]: Saving chunks for level '新的世界'/overworld
+[18:59:44] [Client thread/INFO]: [CHAT] 成功安装数据终端。使用LMENU键来开/关数据终端界面。
+[18:59:46] [Server thread/INFO]: Saving and pausing game...
+[18:59:46] [Server thread/INFO]: Saving chunks for level '新的世界'/overworld
+[18:59:48] [Client thread/INFO]: GainFocus key@Widget
+[18:59:50] [Client thread/INFO]: GainFocus key@Widget
+[18:59:51] [Client thread/INFO]: GainFocus key@Widget
+[18:59:52] [Client thread/INFO]: GainFocus key@Widget
+[18:59:52] [Client thread/INFO]: [cn.lambdalib2.cgui.CGui:mouseClickMove:151]: StartDragging key@Widget
+[18:59:52] [Client thread/INFO]: GainFocus key@Widget
+[18:59:58] [Server thread/INFO]: Saving and pausing game...
+[18:59:58] [Server thread/INFO]: Saving chunks for level '新的世界'/overworld
+[18:59:59] [Server thread/INFO]: Saving and pausing game...
+[18:59:59] [Server thread/INFO]: Saving chunks for level '新的世界'/overworld
+[19:00:02] [Server thread/INFO]: Saving and pausing game...
+[19:00:02] [Server thread/INFO]: Saving chunks for level '新的世界'/overworld
+[19:00:04] [Server thread/INFO]: Saving and pausing game...
+[19:00:04] [Server thread/INFO]: Saving chunks for level '新的世界'/overworld
+[19:00:04] [Server thread/INFO]: Saving and pausing game...
+[19:00:04] [Server thread/INFO]: Saving chunks for level '新的世界'/overworld
+[19:00:11] [Server thread/INFO]: Saving and pausing game...
+[19:00:11] [Server thread/INFO]: Saving chunks for level '新的世界'/overworld
+[19:00:12] [Server thread/INFO]: Saving and pausing game...
+[19:00:12] [Server thread/INFO]: Saving chunks for level '新的世界'/overworld
+[19:00:44] [Server thread/INFO]: [GLgele: 将GLgele传送到 -180.5，64.0，-237.5]
+[19:00:44] [Client thread/INFO]: [CHAT] 将GLgele传送到 -180.5，64.0，-237.5
+[19:00:44] [Server thread/WARN]: GLgele moved wrongly!
+[19:00:44] [Server thread/WARN]: GLgele moved wrongly!
+[19:00:44] [Server thread/WARN]: GLgele moved wrongly!
+[19:00:44] [Server thread/WARN]: GLgele moved wrongly!
+[19:00:44] [Server thread/WARN]: GLgele moved wrongly!
+[19:00:44] [Server thread/WARN]: GLgele moved wrongly!
+[19:00:44] [Server thread/WARN]: GLgele moved wrongly!
+[19:00:44] [Server thread/WARN]: GLgele moved wrongly!
+[19:00:52] [Server thread/INFO]: Saving and pausing game...
+[19:00:52] [Server thread/INFO]: Saving chunks for level '新的世界'/overworld
+[19:00:54] [Server thread/INFO]: Saving and pausing game...
+[19:00:54] [Server thread/INFO]: Saving chunks for level '新的世界'/overworld
+[19:00:58] [Server thread/INFO]: [GLgele: 将GLgele传送到 -231.5，64.0，-236.5]
+[19:00:58] [Client thread/INFO]: [CHAT] 将GLgele传送到 -231.5，64.0，-236.5
+[19:00:58] [Server thread/WARN]: GLgele moved wrongly!
+[19:00:58] [Server thread/WARN]: GLgele moved wrongly!
+[19:00:58] [Server thread/WARN]: GLgele moved wrongly!
+[19:00:58] [Server thread/WARN]: GLgele moved wrongly!
+[19:01:08] [Client thread/INFO]: Loaded 31 advancements
+[19:01:37] [Server thread/INFO]: Saving and pausing game...
+[19:01:37] [Server thread/INFO]: Saving chunks for level '新的世界'/overworld
+[19:01:39] [Server thread/INFO]: Saving and pausing game...
+[19:01:39] [Server thread/INFO]: Saving chunks for level '新的世界'/overworld
+[19:01:49] [Client thread/INFO]: Loaded 42 advancements
+[19:01:58] [Client thread/INFO]: Loaded 45 advancements
+[19:01:58] [Client thread/INFO]: Loaded 51 advancements
+[19:02:25] [Client thread/INFO]: Loaded 57 advancements
+[19:02:54] [Client thread/INFO]: Loaded 59 advancements
+[19:03:23] [Client thread/INFO]: Loaded 65 advancements
+[19:03:41] [Server thread/INFO]: GLgele取得了进度[来硬的]
+[19:03:41] [Client thread/INFO]: [CHAT] GLgele取得了进度[来硬的]
+[19:03:41] [Client thread/INFO]: Loaded 109 advancements
+[19:03:53] [Server thread/INFO]: GLgele取得了进度[钻石！]
+[19:03:53] [Client thread/INFO]: [CHAT] GLgele取得了进度[钻石！]
+[19:03:53] [Client thread/INFO]: Loaded 133 advancements
+[19:04:06] [Client thread/INFO]: Loaded 134 advancements
+[19:04:11] [Client thread/INFO]: [CHAT] false, true
+[19:04:11] [Server thread/INFO]: [GLgele: 游戏规则keepInventory已经更新为 false]
+[19:04:11] [Client thread/INFO]: [CHAT] 游戏规则keepInventory已经更新为 false
+[19:04:14] [Server thread/INFO]: [GLgele: 游戏规则keepInventory已经更新为 true]
+[19:04:14] [Client thread/INFO]: [CHAT] 游戏规则keepInventory已经更新为 true
+[19:04:29] [Client thread/INFO]: Loaded 135 advancements
+[19:05:49] [Server thread/INFO]: Saving and pausing game...
+[19:05:49] [Server thread/INFO]: Saving chunks for level '新的世界'/overworld
+[19:05:51] [Server thread/INFO]: [GLgele: 将GLgele传送到 -230.5，64.0，-240.5]
+[19:05:51] [Client thread/INFO]: [CHAT] 将GLgele传送到 -230.5，64.0，-240.5
+[19:05:51] [Server thread/WARN]: GLgele moved wrongly!
+[19:05:51] [Server thread/WARN]: GLgele moved wrongly!
+[19:05:52] [Server thread/WARN]: GLgele moved wrongly!
+[19:05:52] [Server thread/WARN]: GLgele moved wrongly!
+[19:05:52] [Server thread/WARN]: GLgele moved wrongly!
+[19:06:27] [Client thread/INFO]: Loaded 142 advancements
+[19:14:42] [Server thread/INFO]: [GLgele: 将时间设为1000]
+[19:14:42] [Client thread/INFO]: [CHAT] 将时间设为1000
+[19:14:47] [Server thread/INFO]: GLgele取得了进度[拔刀剑]
+[19:14:47] [Client thread/INFO]: [CHAT] GLgele取得了进度[拔刀剑]
+[19:14:47] [Client thread/INFO]: Loaded 145 advancements
+[19:14:51] [Server thread/INFO]: GLgele被尸壳杀死了
+[19:14:51] [Client thread/INFO]: [CHAT] GLgele被尸壳杀死了
+[19:14:51] [Client thread/INFO]: Loaded 154 advancements
+[19:14:53] [Client thread/INFO]: OnSynchronized true Preset{#0=null, #1=null, #2=null, #3=null}
+[19:14:59] [Server thread/INFO]: Saving and pausing game...
+[19:14:59] [Server thread/INFO]: Saving chunks for level '新的世界'/overworld
+[19:15:03] [Server thread/INFO]: Saving and pausing game...
+[19:15:03] [Server thread/INFO]: Saving chunks for level '新的世界'/overworld
+[19:15:03] [Server thread/INFO]: Saving and pausing game...
+[19:15:03] [Server thread/INFO]: Saving chunks for level '新的世界'/overworld
+[19:15:12] [Server thread/INFO]: Saving and pausing game...
+[19:15:12] [Server thread/INFO]: Saving chunks for level '新的世界'/overworld
+[19:15:22] [Server thread/INFO]: Saving and pausing game...
+[19:15:22] [Server thread/INFO]: Saving chunks for level '新的世界'/overworld
+[19:15:23] [Server thread/INFO]: [GLgele: 将GLgele传送到 -171.5，68.0，-244.5]
+[19:15:23] [Client thread/INFO]: [CHAT] 将GLgele传送到 -171.5，68.0，-244.5
+[19:15:29] [Server thread/INFO]: GLgele取得了进度[怪物猎人]
+[19:15:29] [Client thread/INFO]: [CHAT] GLgele取得了进度[怪物猎人]
+[19:15:29] [Client thread/INFO]: Loaded 155 advancements
+[19:15:52] [Client thread/INFO]: Loaded 155 advancements
+[19:17:25] [Server thread/INFO]: [GLgele: 成功将[砂岩]*1给予GLgele]
+[19:17:25] [Client thread/INFO]: [CHAT] 成功将[砂岩]*1给予GLgele
+[19:17:49] [Client thread/INFO]: [CHAT] /gamemode, /gamerule, /give
+[19:17:49] [Server thread/INFO]: [GLgele: 您的游戏模式已被设置为创造模式 ]
+[19:17:49] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为创造模式
+[19:18:32] [Client thread/INFO]: [CHAT] /gamemode, /gamerule, /give
+[19:18:32] [Client thread/INFO]: [CHAT] adventure, creative, spectator, survival
+[19:18:33] [Client thread/INFO]: [CHAT] adventure, creative, spectator, survival
+[19:18:33] [Server thread/INFO]: [GLgele: 您的游戏模式已被设置为创造模式 ]
+[19:18:33] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为创造模式
+[19:18:36] [Client thread/INFO]: [CHAT] spectator, survival
+[19:18:36] [Server thread/INFO]: [GLgele: 您的游戏模式已被设置为旁观模式 ]
+[19:18:36] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为旁观模式
+[19:18:38] [Server thread/INFO]: [GLgele: 您的游戏模式已被设置为旁观模式 ]
+[19:18:38] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为旁观模式
+[19:18:41] [Server thread/INFO]: [GLgele: 您的游戏模式已被设置为生存模式 ]
+[19:18:41] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为生存模式
+[19:20:22] [Client thread/WARN]: Failed to load texture: flammpfeil.slashblade:model/custom/dios/texture.png
+java.io.FileNotFoundException: flammpfeil.slashblade:model/custom/dios/texture.png
+	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(FallbackResourceManager.java:69) ~[cei.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SimpleReloadableResourceManager.java:65) ~[cev.class:?]
+	at net.minecraft.client.renderer.texture.SimpleTexture.func_110551_a(SourceFile:28) ~[cdm.class:?]
+	at net.minecraft.client.renderer.texture.TextureManager.func_110579_a(TextureManager.java:69) [cdr.class:?]
+	at net.minecraft.client.renderer.texture.TextureManager.func_110577_a(TextureManager.java:44) [cdr.class:?]
+	at mods.flammpfeil.slashblade.client.model.BladeSpecialRender.bindTexture(BladeSpecialRender.java:403) [BladeSpecialRender.class:?]
+	at mods.flammpfeil.slashblade.client.model.BladeSpecialRender.func_179022_a(BladeSpecialRender.java:57) [BladeSpecialRender.class:?]
+	at net.minecraft.client.renderer.RenderItem.func_180454_a(RenderItem.java:145) [bzw.class:?]
+	at net.minecraft.client.renderer.RenderItem.func_191962_a(RenderItem.java:308) [bzw.class:?]
+	at net.minecraft.client.renderer.RenderItem.func_184391_a(RenderItem.java:347) [bzw.class:?]
+	at mezz.jei.plugins.vanilla.ingredients.item.ItemStackRenderer.render(ItemStackRenderer.java:30) [ItemStackRenderer.class:?]
+	at mezz.jei.plugins.vanilla.ingredients.item.ItemStackRenderer.render(ItemStackRenderer.java:23) [ItemStackRenderer.class:?]
+	at mezz.jei.render.IngredientRenderer.renderSlow(IngredientRenderer.java:69) [IngredientRenderer.class:?]
+	at mezz.jei.render.IngredientListBatchRenderer.render(IngredientListBatchRenderer.java:189) [IngredientListBatchRenderer.class:?]
+	at mezz.jei.gui.overlay.IngredientGrid.draw(IngredientGrid.java:99) [IngredientGrid.class:?]
+	at mezz.jei.gui.overlay.IngredientGridWithNavigation.draw(IngredientGridWithNavigation.java:97) [IngredientGridWithNavigation.class:?]
+	at mezz.jei.gui.overlay.IngredientListOverlay.drawScreen(IngredientListOverlay.java:161) [IngredientListOverlay.class:?]
+	at mezz.jei.gui.GuiEventHandler.onDrawBackgroundEventPost(GuiEventHandler.java:72) [GuiEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_288_GuiEventHandler_onDrawBackgroundEventPost_BackgroundDrawnEvent.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraft.client.gui.GuiScreen.func_146276_q_(GuiScreen.java:575) [blk.class:?]
+	at mezz.jei.gui.recipes.RecipesGui.func_73863_a(RecipesGui.java:188) [RecipesGui.class:?]
+	at net.minecraftforge.client.ForgeHooksClient.drawScreen(ForgeHooksClient.java:396) [ForgeHooksClient.class:?]
+	at net.minecraft.client.renderer.EntityRenderer.func_181560_a(EntityRenderer.java:1124) [buq.class:?]
+	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:1119) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:398) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_311]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_311]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_311]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_311]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+[19:20:43] [Server thread/INFO]: GLgele取得了进度[无铭刀「木偶」]
+[19:20:43] [Client thread/INFO]: [CHAT] GLgele取得了进度[无铭刀「木偶」]
+[19:20:43] [Client thread/INFO]: Loaded 156 advancements
+[19:21:28] [Server thread/INFO]: GLgele取得了进度[石器时代]
+[19:21:28] [Client thread/INFO]: [CHAT] GLgele取得了进度[石器时代]
+[19:21:28] [Client thread/INFO]: Loaded 166 advancements
+[19:21:34] [Client thread/INFO]: Loaded 167 advancements
+[19:22:12] [Client thread/INFO]: [CHAT] /gamemode, /gamerule, /give
+[19:22:12] [Client thread/INFO]: [CHAT] spectator, survival
+[19:22:13] [Server thread/INFO]: [GLgele: 您的游戏模式已被设置为旁观模式 ]
+[19:22:13] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为旁观模式
+[19:22:38] [Client thread/INFO]: [CHAT] /gamemode, /gamerule, /give
+[19:22:39] [Client thread/INFO]: [CHAT] spectator, survival
+[19:22:39] [Client thread/INFO]: [CHAT] spectator, survival
+[19:22:40] [Server thread/INFO]: [GLgele: 您的游戏模式已被设置为生存模式 ]
+[19:22:40] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为生存模式
+[19:22:52] [Server thread/INFO]: GLgele取得了进度[获得升级]
+[19:22:52] [Client thread/INFO]: [CHAT] GLgele取得了进度[获得升级]
+[19:22:52] [Client thread/INFO]: Loaded 168 advancements
+[19:23:18] [Client thread/INFO]: Loaded 170 advancements
+[19:25:52] [Server thread/INFO]: GLgele取得了进度[这不是铁镐么]
+[19:25:52] [Server thread/INFO]: [GLgele: 成功将[铁镐]*1给予GLgele]
+[19:25:52] [Client thread/INFO]: [CHAT] GLgele取得了进度[这不是铁镐么]
+[19:25:52] [Client thread/INFO]: [CHAT] 成功将[铁镐]*1给予GLgele
+[19:25:52] [Client thread/INFO]: Loaded 170 advancements
+[19:29:03] [Client thread/INFO]: Loaded 171 advancements
+[19:29:36] [Client thread/INFO]: [CHAT] /gamemode, /gamerule, /give
+[19:29:37] [Server thread/INFO]: [GLgele: 您的游戏模式已被设置为创造模式 ]
+[19:29:37] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为创造模式
+[19:29:47] [Client thread/INFO]: Loaded 171 advancements
+[19:30:16] [Client thread/INFO]: Loaded 171 advancements
+[19:30:22] [Client thread/INFO]: Loaded 171 advancements
+[19:31:03] [Server thread/INFO]: Saving and pausing game...
+[19:31:03] [Server thread/INFO]: Saving chunks for level '新的世界'/overworld
+[19:31:09] [Server thread/INFO]: Saving and pausing game...
+[19:31:09] [Server thread/INFO]: Saving chunks for level '新的世界'/overworld
+[19:34:47] [Server thread/INFO]: Saving and pausing game...
+[19:34:47] [Server thread/INFO]: Saving chunks for level '新的世界'/overworld
+[19:35:17] [Server thread/INFO]: [GLgele: 将GLgele传送到 -165.5，65.0，-242.5]
+[19:35:17] [Client thread/INFO]: [CHAT] 将GLgele传送到 -165.5，65.0，-242.5
+[19:36:22] [Client thread/INFO]: [CHAT] /gamemode, /gamerule, /give
+[19:36:22] [Client thread/INFO]: [CHAT] spectator, survival
+[19:36:22] [Client thread/INFO]: [CHAT] spectator, survival
+[19:36:23] [Server thread/INFO]: [GLgele: 您的游戏模式已被设置为生存模式 ]
+[19:36:23] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为生存模式
+[19:38:27] [Client thread/INFO]: Loaded 173 advancements
+[19:40:06] [Client thread/ERROR]: Null returned as 'hitResult', this shouldn't happen!
+[19:40:06] [Client thread/WARN]: Null returned as 'hitResult', this shouldn't happen!
+[19:40:35] [Client thread/INFO]: [CHAT] /gamemode, /gamerule, /give
+[19:40:35] [Client thread/INFO]: [CHAT] adventure, creative, spectator, survival
+[19:40:37] [Server thread/INFO]: [GLgele: 您的游戏模式已被设置为创造模式 ]
+[19:40:37] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为创造模式
+[19:40:56] [Client thread/INFO]: [CHAT] /gamemode, /gamerule, /give
+[19:40:56] [Client thread/INFO]: [CHAT] spectator, survival
+[19:40:57] [Client thread/INFO]: [CHAT] spectator, survival
+[19:40:57] [Server thread/INFO]: [GLgele: 您的游戏模式已被设置为生存模式 ]
+[19:40:57] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为生存模式
+[19:41:50] [Server thread/INFO]: Saving and pausing game...
+[19:41:50] [Server thread/INFO]: Saving chunks for level '新的世界'/overworld
+[19:41:56] [Client thread/INFO]: [com.mamiyaotaru.voxelmap.gui.GuiSlotDimensions:elementClicked:65]: mousex: 263, leftEdge: 240, width: 88, iw: 16, pad: 4, le: 308, re: 328
+[19:41:59] [Server thread/INFO]: [GLgele: 将GLgele传送到 -165.5，65.0，-242.5]
+[19:41:59] [Client thread/INFO]: [CHAT] 将GLgele传送到 -165.5，65.0，-242.5
+[19:42:15] [Client thread/INFO]: Loaded 175 advancements
+[19:42:31] [Client thread/INFO]: [CHAT] /gamemode, /gamerule, /give
+[19:42:32] [Client thread/INFO]: [CHAT] spectator, survival
+[19:42:32] [Server thread/INFO]: [GLgele: 您的游戏模式已被设置为旁观模式 ]
+[19:42:32] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为旁观模式
+[19:43:21] [Client thread/INFO]: Loaded 175 advancements
+[19:44:05] [Client thread/INFO]: [CHAT] /gamemode, /gamerule, /give
+[19:44:06] [Client thread/INFO]: [CHAT] adventure, creative, spectator, survival
+[19:44:06] [Client thread/INFO]: [CHAT] adventure, creative, spectator, survival
+[19:44:07] [Client thread/INFO]: [CHAT] adventure, creative, spectator, survival
+[19:44:08] [Client thread/INFO]: [CHAT] adventure, creative, spectator, survival
+[19:44:08] [Server thread/INFO]: [GLgele: 您的游戏模式已被设置为生存模式 ]
+[19:44:08] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为生存模式
+[19:44:49] [Client thread/INFO]: [CHAT] /gamemode, /gamerule, /give
+[19:44:50] [Server thread/INFO]: [GLgele: 您的游戏模式已被设置为创造模式 ]
+[19:44:50] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为创造模式
+[19:48:03] [Server thread/INFO]: [GLgele: 将时间设为1000]
+[19:48:03] [Client thread/INFO]: [CHAT] 将时间设为1000
+[19:49:10] [Client thread/INFO]: Loaded 175 advancements
+[19:49:41] [Client thread/INFO]: Loaded 209 advancements
+[19:50:49] [Client thread/INFO]: Loaded 210 advancements
+[19:53:54] [Server thread/INFO]: [GLgele: 成功将[火把]*32给予GLgele]
+[19:53:54] [Client thread/INFO]: [CHAT] 成功将[火把]*32给予GLgele
+[19:56:38] [Server thread/INFO]: GLgele取得了进度[冰桶挑战]
+[19:56:38] [Client thread/INFO]: [CHAT] GLgele取得了进度[冰桶挑战]
+[19:56:38] [Client thread/INFO]: Loaded 215 advancements
+[19:57:24] [Client thread/INFO]: [CHAT] academy:ability_interferer, academy:cat_engine, academy:constraint_metal, academy:crystal_ore, academy:dev_advanced, academy:dev_normal, academy:eu_input, academy:eu_output, academy:imag_fusor, academy:imag_phase, academy:imagsil_ore, academy:machine_frame, academy:matrix, academy:metal_former, academy:node_advanced, academy:node_basic, academy:node_standard, academy:phase_gen, academy:reso_ore, academy:solar_gen, academy:windgen_base, academy:windgen_main, academy:windgen_pillar, cfm:bar_stool, cfm:basin, cfm:bath_bottom, cfm:bath_top, cfm:bedside_cabinet_acacia, cfm:bedside_cabinet_andesite, cfm:bedside_cabinet_birch, cfm:bedside_cabinet_dark_oak, cfm:bedside_cabinet_diorite, cfm:bedside_cabinet_granite, cfm:bedside_cabinet_jungle, cfm:bedside_cabinet_oak, cfm:bedside_cabinet_spruce, cfm:bedside_cabinet_stone, cfm:bench, cfm:bin, cfm:bird_bath, cfm:blender, cfm:blinds_acacia_closed, cfm:blinds_acacia_open, cfm:blinds_birch_closed, cfm:blinds_birch_open, cfm:blinds_closed, cfm:blinds_dark_oak_closed, cfm:blinds_dark_oak_open, cfm:blinds_jungle_closed, cfm:blinds_jungle_open, cfm:blinds_open, cfm:blinds_spruce_closed, cfm:blinds_spruce_open, cfm:cabinet_acacia, cfm:cabinet_andesite, cfm:cabinet_birch, cfm:cabinet_dark_oak, cfm:cabinet_diorite, cfm:cabinet_granite, cfm:cabinet_jungle, cfm:cabinet_kitchen, cfm:cabinet_oak, cfm:cabinet_spruce, cfm:cabinet_stone, cfm:candle, cfm:castle_netting, cfm:ceiling_fan, cfm:ceiling_light_off, cfm:ceiling_light_on, cfm:chair_acacia, cfm:chair_andesite, cfm:chair_birch, cfm:chair_dark_oak, cfm:chair_diorite, cfm:chair_granite, cfm:chair_jungle, cfm:chair_oak, cfm:chair_spruce, cfm:chair_stone, cfm:chimney, cfm:chopping_board, cfm:coffee_table_acacia, cfm:coffee_table_andesite, cfm:coffee_table_birch, cfm:coffee_table_dark_oak, cfm:coffee_table_diorite, cfm:coffee_table_granite, cfm:coffee_table_jungle, cfm:coffee_table_oak, cfm:coffee_table_spruce, cfm:coffee_table_stone, cfm:computer, cfm:cookie_jar, cfm:couch, cfm:couch_jeb, cfm:counter, cfm:counter_drawer, cfm:counter_sink, cfm:crate, cfm:crate_acacia, cfm:crate_birch, cfm:crate_dark_oak, cfm:crate_jungle, cfm:crate_spruce, cfm:cup, cfm:curtains_closed, cfm:curtains_open, cfm:desk_acacia, cfm:desk_andesite, cfm:desk_birch, cfm:desk_cabinet_acacia, cfm:desk_cabinet_andesite, cfm:desk_cabinet_birch, cfm:desk_cabinet_dark_oak, cfm:desk_cabinet_diorite, cfm:desk_cabinet_granite, cfm:desk_cabinet_jungle, cfm:desk_cabinet_oak, cfm:desk_cabinet_spruce, cfm:desk_cabinet_stone, cfm:desk_dark_oak, cfm:desk_diorite, cfm:desk_granite, cfm:desk_jungle, cfm:desk_oak, cfm:desk_spruce, cfm:desk_stone, cfm:digital_clock, cfm:dishwasher, cfm:divingboard_base, cfm:divingboard_plank, cfm:door_bell, cfm:door_bell_acacia, cfm:door_bell_birch, cfm:door_bell_dark_oak, cfm:door_bell_jungle, cfm:door_bell_spruce, cfm:door_mat, cfm:electric_fence, cfm:esky, cfm:fairy_light, cfm:fire_alarm_off, cfm:fire_alarm_on, cfm:fire_pit_off, cfm:fire_pit_on, cfm:freezer, cfm:fridge, cfm:grand_chair_bottom, cfm:grand_chair_top, cfm:grill, cfm:hedge_acacia, cfm:hedge_birch, cfm:hedge_dark_oak, cfm:hedge_jungle, cfm:hedge_oak, cfm:hedge_spruce, cfm:inflatable_castle, cfm:lamp_off, cfm:lamp_on, cfm:light_switch_off, cfm:light_switch_on, cfm:mail_box, cfm:mail_box_acacia, cfm:mail_box_birch, cfm:mail_box_dark_oak, cfm:mail_box_jungle, cfm:mail_box_spruce, cfm:mantel_piece, cfm:microwave, cfm:mirror, cfm:modern_bed_bottom, cfm:modern_bed_top, cfm:modern_chair, cfm:modern_coffee_table, cfm:modern_couch, cfm:modern_light_off, cfm:modern_light_on, cfm:modern_sliding_door, cfm:modern_stair, cfm:modern_table, cfm:modern_table_outdoor, cfm:modern_tv, cfm:modern_window, cfm:oven, cfm:park_bench_acacia, cfm:park_bench_birch, cfm:park_bench_dark_oak, cfm:park_bench_jungle, cfm:park_bench_oak, cfm:park_bench_spruce, cfm:photo_frame, cfm:plate, cfm:present, cfm:printer, cfm:range_hood, cfm:range_hood_powered, cfm:shower_bottom, cfm:shower_head_off, cfm:shower_head_on, cfm:shower_top, cfm:stereo, cfm:stone_path, cfm:table_acacia, cfm:table_andesite, cfm:table_birch, cfm:table_dark_oak, cfm:table_diorite, cfm:table_granite, cfm:table_jungle, cfm:table_oak, cfm:table_outdoor, cfm:table_spruce, cfm:table_stone, cfm:tap, cfm:toaster, cfm:toilet, cfm:trampoline, cfm:tree_bottom, cfm:tree_top, cfm:tv, cfm:tv_stand, cfm:upgraded_fence_acacia, cfm:upgraded_fence_birch, cfm:upgraded_fence_dark_oak, cfm:upgraded_fence_jungle, cfm:upgraded_fence_nether_brick, cfm:upgraded_fence_oak, cfm:upgraded_fence_spruce, cfm:upgraded_gate_acacia, cfm:upgraded_gate_birch, cfm:upgraded_gate_dark_oak, cfm:upgraded_gate_jungle, cfm:upgraded_gate_oak, cfm:upgraded_gate_spruce, cfm:wall_cabinet, cfm:washing_machine, cfm:white_fence, cfm:white_gate, cfm:wreath, ic2:air, ic2:biogas, ic2:biomass, ic2:construction_foam, ic2:coolant, ic2:creosote, ic2:distilled_water, ic2:dynamite, ic2:fence, ic2:foam, ic2:glass, ic2:heavy_water, ic2:hot_coolant, ic2:hot_water, ic2:hydrogen, ic2:leaves, ic2:mining_pipe, ic2:oxygen, ic2:pahoehoe_lava, ic2:refractory_bricks, ic2:reinforced_door, ic2:resource, ic2:rubber_wood, ic2:sapling, ic2:scaffold, ic2:sheet, ic2:steam, ic2:superheated_steam, ic2:te, ic2:uu_matter, ic2:wall, ic2:weed_ex, minecraft:acacia_door, minecraft:acacia_fence, minecraft:acacia_fence_gate, minecraft:acacia_stairs, minecraft:activator_rail, minecraft:air, minecraft:anvil, minecraft:barrier, minecraft:beacon, minecraft:bed, minecraft:bedrock, minecraft:beetroots, minecraft:birch_door, minecraft:birch_fence, minecraft:birch_fence_gate, minecraft:birch_stairs, minecraft:black_glazed_terracotta, minecraft:black_shulker_box, minecraft:blue_glazed_terracotta, minecraft:blue_shulker_box, minecraft:bone_block, minecraft:bookshelf, minecraft:brewing_stand, minecraft:brick_block, minecraft:brick_stairs, minecraft:brown_glazed_terracotta, minecraft:brown_mushroom, minecraft:brown_mushroom_block, minecraft:brown_shulker_box, minecraft:cactus, minecraft:cake, minecraft:carpet, minecraft:carrots, minecraft:cauldron, minecraft:chain_command_block, minecraft:chest, minecraft:chorus_flower, minecraft:chorus_plant, minecraft:clay, minecraft:coal_block, minecraft:coal_ore, minecraft:cobblestone, minecraft:cobblestone_wall, minecraft:cocoa, minecraft:command_block, minecraft:concrete, minecraft:concrete_powder, minecraft:crafting_table, minecraft:cyan_glazed_terracotta, minecraft:cyan_shulker_box, minecraft:dark_oak_door, minecraft:dark_oak_fence, minecraft:dark_oak_fence_gate, minecraft:dark_oak_stairs, minecraft:daylight_detector, minecraft:daylight_detector_inverted, minecraft:deadbush, minecraft:detector_rail, minecraft:diamond_block, minecraft:diamond_ore, minecraft:dirt, minecraft:dispenser, minecraft:double_plant, minecraft:double_stone_slab, minecraft:double_stone_slab2, minecraft:double_wooden_slab, minecraft:dragon_egg, minecraft:dropper, minecraft:emerald_block, minecraft:emerald_ore, minecraft:enchanting_table, minecraft:end_bricks, minecraft:end_gateway, minecraft:end_portal, minecraft:end_portal_frame, minecraft:end_rod, minecraft:end_stone, minecraft:ender_chest, minecraft:farmland, minecraft:fence, minecraft:fence_gate, minecraft:fire, minecraft:flower_pot, minecraft:flowing_lava, minecraft:flowing_water, minecraft:frosted_ice, minecraft:furnace, minecraft:glass, minecraft:glass_pane, minecraft:glowstone, minecraft:gold_block, minecraft:gold_ore, minecraft:golden_rail, minecraft:grass, minecraft:grass_path, minecraft:gravel, minecraft:gray_glazed_terracotta, minecraft:gray_shulker_box, minecraft:green_glazed_terracotta, minecraft:green_shulker_box, minecraft:hardened_clay, minecraft:hay_block, minecraft:heavy_weighted_pressure_plate, minecraft:hopper, minecraft:ice, minecraft:iron_bars, minecraft:iron_block, minecraft:iron_door, minecraft:iron_ore, minecraft:iron_trapdoor, minecraft:jukebox, minecraft:jungle_door, minecraft:jungle_fence, minecraft:jungle_fence_gate, minecraft:jungle_stairs, minecraft:ladder, minecraft:lapis_block, minecraft:lapis_ore, minecraft:lava, minecraft:leaves, minecraft:leaves2, minecraft:lever, minecraft:light_blue_glazed_terracotta, minecraft:light_blue_shulker_box, minecraft:light_weighted_pressure_plate, minecraft:lime_glazed_terracotta, minecraft:lime_shulker_box, minecraft:lit_furnace, minecraft:lit_pumpkin, minecraft:lit_redstone_lamp, minecraft:lit_redstone_ore, minecraft:log, minecraft:log2, minecraft:magenta_glazed_terracotta, minecraft:magenta_shulker_box, minecraft:magma, minecraft:melon_block, minecraft:melon_stem, minecraft:mob_spawner, minecraft:monster_egg, minecraft:mossy_cobblestone, minecraft:mycelium, minecraft:nether_brick, minecraft:nether_brick_fence, minecraft:nether_brick_stairs, minecraft:nether_wart, minecraft:nether_wart_block, minecraft:netherrack, minecraft:noteblock, minecraft:oak_stairs, minecraft:observer, minecraft:obsidian, minecraft:orange_glazed_terracotta, minecraft:orange_shulker_box, minecraft:packed_ice, minecraft:pink_glazed_terracotta, minecraft:pink_shulker_box, minecraft:piston, minecraft:piston_extension, minecraft:piston_head, minecraft:planks, minecraft:portal, minecraft:potatoes, minecraft:powered_comparator, minecraft:powered_repeater, minecraft:prismarine, minecraft:pumpkin, minecraft:pumpkin_stem, minecraft:purple_glazed_terracotta, minecraft:purple_shulker_box, minecraft:purpur_block, minecraft:purpur_double_slab, minecraft:purpur_pillar, minecraft:purpur_slab, minecraft:purpur_stairs, minecraft:quartz_block, minecraft:quartz_ore, minecraft:quartz_stairs, minecraft:rail, minecraft:red_flower, minecraft:red_glazed_terracotta, minecraft:red_mushroom, minecraft:red_mushroom_block, minecraft:red_nether_brick, minecraft:red_sandstone, minecraft:red_sandstone_stairs, minecraft:red_shulker_box, minecraft:redstone_block, minecraft:redstone_lamp, minecraft:redstone_ore, minecraft:redstone_torch, minecraft:redstone_wire, minecraft:reeds, minecraft:repeating_command_block, minecraft:sand, minecraft:sandstone, minecraft:sandstone_stairs, minecraft:sapling, minecraft:sea_lantern, minecraft:silver_glazed_terracotta, minecraft:silver_shulker_box, minecraft:skull, minecraft:slime, minecraft:snow, minecraft:snow_layer, minecraft:soul_sand, minecraft:sponge, minecraft:spruce_door, minecraft:spruce_fence, minecraft:spruce_fence_gate, minecraft:spruce_stairs, minecraft:stained_glass, minecraft:stained_glass_pane, minecraft:stained_hardened_clay, minecraft:standing_banner, minecraft:standing_sign, minecraft:sticky_piston, minecraft:stone, minecraft:stone_brick_stairs, minecraft:stone_button, minecraft:stone_pressure_plate, minecraft:stone_slab, minecraft:stone_slab2, minecraft:stone_stairs, minecraft:stonebrick, minecraft:structure_block, minecraft:structure_void, minecraft:tallgrass, minecraft:tnt, minecraft:torch, minecraft:trapdoor, minecraft:trapped_chest, minecraft:tripwire, minecraft:tripwire_hook, minecraft:unlit_redstone_torch, minecraft:unpowered_comparator, minecraft:unpowered_repeater, minecraft:vine, minecraft:wall_banner, minecraft:wall_sign, minecraft:water, minecraft:waterlily, minecraft:web, minecraft:wheat, minecraft:white_glazed_terracotta, minecraft:white_shulker_box, minecraft:wooden_button, minecraft:wooden_door, minecraft:wooden_pressure_plate, minecraft:wooden_slab, minecraft:wool, minecraft:yellow_flower, minecraft:yellow_glazed_terracotta, minecraft:yellow_shulker_box, projecte:alchemical_chest, projecte:collector_mk1, projecte:collector_mk2, projecte:collector_mk3, projecte:condenser_mk1, projecte:condenser_mk2, projecte:dm_furnace, projecte:dm_furnace_lit, projecte:dm_pedestal, projecte:fuel_block, projecte:interdiction_torch, projecte:matter_block, projecte:nova_cataclysm, projecte:nova_catalyst, projecte:relay_mk1, projecte:relay_mk2, projecte:relay_mk3, projecte:rm_furnace, projecte:rm_furnace_lit, projecte:transmutation_table
+[19:57:27] [Client thread/INFO]: [CHAT] cfm:fire_alarm_off, cfm:fire_alarm_on, cfm:fire_pit_off, cfm:fire_pit_on, minecraft:fire
+[19:57:28] [Client thread/INFO]: [CHAT] cfm:fire_alarm_off, cfm:fire_alarm_on, cfm:fire_pit_off, cfm:fire_pit_on, minecraft:fire
+[19:57:28] [Client thread/INFO]: [CHAT] cfm:fire_alarm_off, cfm:fire_alarm_on, cfm:fire_pit_off, cfm:fire_pit_on, minecraft:fire
+[19:57:28] [Client thread/INFO]: [CHAT] cfm:fire_alarm_off, cfm:fire_alarm_on, cfm:fire_pit_off, cfm:fire_pit_on, minecraft:fire
+[19:57:29] [Client thread/INFO]: [CHAT] cfm:fire_alarm_off, cfm:fire_alarm_on, cfm:fire_pit_off, cfm:fire_pit_on, minecraft:fire
+[19:57:30] [Server thread/INFO]: [GLgele: 方块已放置]
+[19:57:30] [Client thread/INFO]: [CHAT] 方块已放置
+[19:59:41] [Server thread/INFO]: [GLgele: 方块已放置]
+[19:59:41] [Client thread/INFO]: [CHAT] 方块已放置
+[20:02:37] [Server thread/INFO]: Saving and pausing game...
+[20:02:37] [Server thread/INFO]: Saving chunks for level '新的世界'/overworld
+[20:02:37] [Server thread/INFO]: Stopping server
+[20:02:37] [Server thread/INFO]: Saving players
+[20:02:37] [Server thread/INFO]: GLgele lost connection: 连接中止
+[20:02:37] [Server thread/INFO]: GLgele退出了游戏
+[20:02:37] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[20:02:37] [Server thread/INFO]: Saving worlds
+[20:02:37] [Server thread/INFO]: Saving chunks for level '新的世界'/overworld
+[20:02:38] [Server thread/INFO]: Unloading dimension 0
+[20:02:38] [Server thread/INFO]: Applying holder lookups
+[20:02:38] [Server thread/INFO]: Holder lookups applied
+[20:02:40] [Client thread/INFO]: Stopping!
+[20:02:40] [Client thread/INFO]: SoundSystem shutting down...
+[20:02:40] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com

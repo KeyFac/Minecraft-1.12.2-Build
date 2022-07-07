@@ -1,0 +1,6 @@
+subworlds:
+oldNorthWorlds:
+seeds:
+name:Latest Death,x:-172,z:-245,y:68,enabled:true,red:1.0,green:1.0,blue:1.0,suffix:skull,world:,dimensions:0#
+name:Temple,x:-166,z:-243,y:65,enabled:true,red:0.7921569,green:0.74509805,blue:0.0,suffix:house,world:,dimensions:0#
+name:cave1,x:-232,z:-246,y:51,enabled:true,red:0.19198084,green:0.35405058,blue:0.42709374,suffix:pickaxe,world:,dimensions:0#
