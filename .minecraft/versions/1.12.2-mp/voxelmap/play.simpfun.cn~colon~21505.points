@@ -1,0 +1,5 @@
+subworlds:Spawn,World,
+oldNorthWorlds:
+seeds:
+name:Default,x:207,z:110,y:63,enabled:true,red:0.0,green:1.0,blue:0.0,suffix:,world:World,dimensions:0#
+name:Latest Death,x:0,z:0,y:3,enabled:true,red:1.0,green:1.0,blue:1.0,suffix:skull,world:Spawn,dimensions:2#
