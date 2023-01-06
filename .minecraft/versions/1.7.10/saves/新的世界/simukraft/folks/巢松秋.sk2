@@ -1,5 +1,5 @@
-employedat|null
-vocation|null
+employedat|-36,64,65,0
+vocation|GROCER
 name|≥≤À…«Ô
 age|18
 gender|1
@@ -10,7 +10,7 @@ levelbuilder|1.0
 levelminer|1.0
 levelsoldier|1.0
 stayput|false
-location|-38,64,99,0
+location|-35,64,65,0
 pregnancy|0.0
 building|null
 terraformtype|null

@@ -4,13 +4,13 @@ name|¹®Ö¾Ô´
 age|19
 gender|0
 skin|27
-levelfood|10
+levelfood|9
 levelfun|5
 levelbuilder|1.0
 levelminer|1.0
 levelsoldier|1.0
 stayput|false
-location|-37,64,100,0
+location|-38,64,99,0
 pregnancy|0.0
 building|null
 terraformtype|null
