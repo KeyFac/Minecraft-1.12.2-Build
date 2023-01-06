@@ -14,7 +14,7 @@
   "autoDownloadThreads": false,
   "downloadThreads": 64,
   "downloadType": "mcbbs",
-  "autoChooseDownloadType": false,
+  "autoChooseDownloadType": true,
   "versionListSource": "balanced",
   "configurations": {
     "Default": {
@@ -51,7 +51,7 @@
       },
       "gameDir": ".minecraft",
       "useRelativePath": true,
-      "selectedMinecraftVersion": "1.12.2-mp"
+      "selectedMinecraftVersion": "1.7.10"
     },
     "Home": {
       "global": {
@@ -98,7 +98,7 @@
       "userProperties": {},
       "accessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI3ZTU3N2FlZWI1NDE1NWQyYmIzM2I0ODZhYmZiMTg2NyIsInlnZ3QiOiIwMDI3MjhlZjAxMTI0MGJmOGZmZGMwYTk4MDVmNTRjYiIsInNwciI6IjYyNmQyZWRlODY5OTQyMWE4ZGQwODM5ZDhmZjhlODRkIiwiaXNzIjoiWWdnZHJhc2lsLUF1dGgiLCJleHAiOjE2MzM4NTc1MzMuMjIxODEzLCJpYXQiOjE2MzM1OTgzMzMuMjIxODEzfQ.rU43Zf86HCOuxUG8X_-WoCtZXEsNRHAkFpzF6CyOyJA",
       "profileProperties": {
-        "textures": "eyJ0aW1lc3RhbXAiOjE2NTc3NjcxOTUzNDksInByb2ZpbGVJZCI6IjYyNmQyZWRlODY5OTQyMWE4ZGQwODM5ZDhmZjhlODRkIiwicHJvZmlsZU5hbWUiOiJnZWxlMTc4IiwiaXNQdWJsaWMiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cHM6Ly9saXR0bGVza2luLmNuL3RleHR1cmVzLzM5OTY4M2RkMWVlYmJlY2Q4YjQyZGUwYTgzOGE0MjdkM2FjZDEyZDFjYjZjMjE3YWFkYzIxMWYxMDE3MTU1MGQifSwiQ0FQRSI6eyJ1cmwiOiJodHRwczovL2xpdHRsZXNraW4uY24vdGV4dHVyZXMvZjI3ZDkzZmU5NzY1M2JmNzFlMThjMDY0ZjNlNmI0NjkzOTFkNGM3NDgyNzA2NGEwOGNlYjViNWFlOTg1YzU3ZSJ9fX0\u003d",
+        "textures": "eyJ0aW1lc3RhbXAiOjE2NzI3MjYyMjgyNjksInByb2ZpbGVJZCI6IjYyNmQyZWRlODY5OTQyMWE4ZGQwODM5ZDhmZjhlODRkIiwicHJvZmlsZU5hbWUiOiJnZWxlMTc4IiwiaXNQdWJsaWMiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cHM6Ly9saXR0bGVza2luLmNuL3RleHR1cmVzLzM5OTY4M2RkMWVlYmJlY2Q4YjQyZGUwYTgzOGE0MjdkM2FjZDEyZDFjYjZjMjE3YWFkYzIxMWYxMDE3MTU1MGQifSwiQ0FQRSI6eyJ1cmwiOiJodHRwczovL2xpdHRsZXNraW4uY24vdGV4dHVyZXMvZjI3ZDkzZmU5NzY1M2JmNzFlMThjMDY0ZjNlNmI0NjkzOTFkNGM3NDgyNzA2NGEwOGNlYjViNWFlOTg1YzU3ZSJ9fX0\u003d",
         "uploadableTextures": "skin,cape"
       },
       "type": "authlibInjector",
@@ -112,13 +112,27 @@
       "userProperties": {},
       "accessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI3ZTU3N2FlZWI1NDE1NWQyYmIzM2I0ODZhYmZiMTg2NyIsInlnZ3QiOiIxYmI1ODQxNWM2ZmM0OTA4YmFkZGMwYWM3NDU1ZmQ4NSIsInNwciI6Ijg0ZThkZThlZjZkOTQzNzE4MzViNjg0NGNiN2ZmMGU5IiwiaXNzIjoiWWdnZHJhc2lsLUF1dGgiLCJleHAiOjE2NTc0NDk2NjcuNzM2ODk0LCJpYXQiOjE2NTcxOTA0NjcuNzM2ODk0fQ.X4UN7B3-tbMeNjcgLNedvJT9cUbYZqIYB-WYMYtxFdo",
       "profileProperties": {
-        "textures": "eyJ0aW1lc3RhbXAiOjE2NTc3MjE4MzM4NDAsInByb2ZpbGVJZCI6Ijg0ZThkZThlZjZkOTQzNzE4MzViNjg0NGNiN2ZmMGU5IiwicHJvZmlsZU5hbWUiOiJHTGdlbGUiLCJpc1B1YmxpYyI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL2xpdHRsZXNraW4uY24vdGV4dHVyZXMvMzk5NjgzZGQxZWViYmVjZDhiNDJkZTBhODM4YTQyN2QzYWNkMTJkMWNiNmMyMTdhYWRjMjExZjEwMTcxNTUwZCJ9LCJDQVBFIjp7InVybCI6Imh0dHBzOi8vbGl0dGxlc2tpbi5jbi90ZXh0dXJlcy9mMjdkOTNmZTk3NjUzYmY3MWUxOGMwNjRmM2U2YjQ2OTM5MWQ0Yzc0ODI3MDY0YTA4Y2ViNWI1YWU5ODVjNTdlIn19fQ\u003d\u003d",
+        "textures": "eyJ0aW1lc3RhbXAiOjE2NzI3MTI1MjY5NjksInByb2ZpbGVJZCI6Ijg0ZThkZThlZjZkOTQzNzE4MzViNjg0NGNiN2ZmMGU5IiwicHJvZmlsZU5hbWUiOiJHTGdlbGUiLCJpc1B1YmxpYyI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL2xpdHRsZXNraW4uY24vdGV4dHVyZXMvMzk5NjgzZGQxZWViYmVjZDhiNDJkZTBhODM4YTQyN2QzYWNkMTJkMWNiNmMyMTdhYWRjMjExZjEwMTcxNTUwZCJ9LCJDQVBFIjp7InVybCI6Imh0dHBzOi8vbGl0dGxlc2tpbi5jbi90ZXh0dXJlcy9mMjdkOTNmZTk3NjUzYmY3MWUxOGMwNjRmM2U2YjQ2OTM5MWQ0Yzc0ODI3MDY0YTA4Y2ViNWI1YWU5ODVjNTdlIn19fQ\u003d\u003d",
         "uploadableTextures": "skin,cape"
       },
       "type": "authlibInjector",
       "uuid": "84e8de8ef6d94371835b6844cb7ff0e9",
-      "selected": true,
       "username": "GLgele"
+    },
+    {
+      "serverBaseURL": "https://littleskin.cn/api/yggdrasil/",
+      "clientToken": "b45da6665b1c42f0b1b07500fb5581f0",
+      "displayName": "RuoBai07",
+      "userProperties": {},
+      "accessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI3ZTU3N2FlZWI1NDE1NWQyYmIzM2I0ODZhYmZiMTg2NyIsInlnZ3QiOiJiMWJmYTlkMTQ3N2Y0N2Y0OTAyNmUyMzA1ZTc5ZjAzYyIsInNwciI6IjNlODEwY2RiNWQwZjRjOTE4NDQ3YTBmOWUxZDY1MTQzIiwiaXNzIjoiWWdnZHJhc2lsLUF1dGgiLCJleHAiOjE2NzMwNzgxNTAuNzUwMjgsImlhdCI6MTY3MjgxODk1MC43NTAyOH0.dD0Z8AHYHo4C6xvVsEi2-wfF_6HbvKqe6zj0aErFhqc",
+      "profileProperties": {
+        "textures": "eyJ0aW1lc3RhbXAiOjE2NzI4Nzc3MTc5NjUsInByb2ZpbGVJZCI6IjNlODEwY2RiNWQwZjRjOTE4NDQ3YTBmOWUxZDY1MTQzIiwicHJvZmlsZU5hbWUiOiJSdW9CYWkwNyIsImlzUHVibGljIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vbGl0dGxlc2tpbi5jbi90ZXh0dXJlcy8zOTk2ODNkZDFlZWJiZWNkOGI0MmRlMGE4MzhhNDI3ZDNhY2QxMmQxY2I2YzIxN2FhZGMyMTFmMTAxNzE1NTBkIn19fQ\u003d\u003d",
+        "uploadableTextures": "skin,cape"
+      },
+      "type": "authlibInjector",
+      "uuid": "3e810cdb5d0f4c918447a0f9e1d65143",
+      "selected": true,
+      "username": "RuoBai07"
     }
   ],
   "fontFamily": "Consolas",
@@ -129,12 +143,12 @@
     {
       "url": "https://mcskin.littleservice.cn/api/yggdrasil/",
       "metadataResponse": "{\"meta\":{\"serverName\":\"LittleSkin\",\"implementationName\":\"Yggdrasil API for Blessing Skin\",\"implementationVersion\":\"5.1.1\",\"links\":{\"homepage\":\"https:\\/\\/littleskin.cn\",\"register\":\"https:\\/\\/littleskin.cn\\/auth\\/register\"},\"feature.non_email_login\":true},\"skinDomains\":[\"skin.prinzeugen.net\",\"littleskin.cn\"],\"signaturePublickey\":\"-----BEGIN PUBLIC KEY-----\\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEArGcNOOFIqLJSqoE3u0hj\\ntOEnOcET3wj9Drss1BE6sBqgPo0bMulOULhqjkc\\/uH\\/wyosYnzw3xaazJt87jTHh\\nJ8BPMxCeQMoyEdRoS3Jnj1G0Kezj4A2b61PJJM1DpvDAcqQBYsrSdpBJ+52MjoGS\\nvJoeQO5XUlJVQm21\\/HmJnqsPhzcA6HgY71RHYE5xnhpWJiPxLKUPtmt6CNYUQQoS\\no2v36XWgMmLBZhAbNOPxYX+1ioxKamjhLO29UhwtgY9U6PWEO7\\/SBfXzyRPTzhPV\\n2nHq7KJqd8IIrltslv6i\\/4FEM81ivS\\/mm+PN3hYlIYK6z6Ymii1nrQAplsJ67OGq\\nYHtWKOvpfTzOollugsRihkAG4OB6hM0Pr45jjC3TIc7eO7kOgIcGUGUQGuuugDEz\\nJ1N9FFWnN\\/H6P9ukFeg5SmGC5+wmUPZZCtNBLr8o8sI5H7QhK7NgwCaGFoYuiAGL\\ngz3k\\/3YwJ40BbwQayQ2gIqenz+XOFIAlajv+\\/nyfcDvZH9vGNKP9lVcHXUT5YRnS\\nZSHo5lwvVrYUrqEAbh\\/zDz8QMEyiujWvUkPhZs9fh6fimUGxtm8mFIPCtPJVXjeY\\nwD3Lvt3aIB1JHdUTJR3eEc4eIaTKMwMPyJRzVn5zKsitaZz3nn\\/cOA\\/wZC9oqyEU\\nmc9h6ZMRTRUEE4TtaJyg9lMCAwEAAQ\u003d\u003d\\n-----END PUBLIC KEY-----\\n\"}",
-      "metadataTimestamp": 1657788336200
+      "metadataTimestamp": 1672881190221
     },
     {
       "url": "https://littleskin.cn/api/yggdrasil/",
       "metadataResponse": "{\"meta\":{\"serverName\":\"LittleSkin\",\"implementationName\":\"Yggdrasil API for Blessing Skin\",\"implementationVersion\":\"5.1.1\",\"links\":{\"homepage\":\"https:\\/\\/littleskin.cn\",\"register\":\"https:\\/\\/littleskin.cn\\/auth\\/register\"},\"feature.non_email_login\":true},\"skinDomains\":[\"skin.prinzeugen.net\",\"littleskin.cn\"],\"signaturePublickey\":\"-----BEGIN PUBLIC KEY-----\\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEArGcNOOFIqLJSqoE3u0hj\\ntOEnOcET3wj9Drss1BE6sBqgPo0bMulOULhqjkc\\/uH\\/wyosYnzw3xaazJt87jTHh\\nJ8BPMxCeQMoyEdRoS3Jnj1G0Kezj4A2b61PJJM1DpvDAcqQBYsrSdpBJ+52MjoGS\\nvJoeQO5XUlJVQm21\\/HmJnqsPhzcA6HgY71RHYE5xnhpWJiPxLKUPtmt6CNYUQQoS\\no2v36XWgMmLBZhAbNOPxYX+1ioxKamjhLO29UhwtgY9U6PWEO7\\/SBfXzyRPTzhPV\\n2nHq7KJqd8IIrltslv6i\\/4FEM81ivS\\/mm+PN3hYlIYK6z6Ymii1nrQAplsJ67OGq\\nYHtWKOvpfTzOollugsRihkAG4OB6hM0Pr45jjC3TIc7eO7kOgIcGUGUQGuuugDEz\\nJ1N9FFWnN\\/H6P9ukFeg5SmGC5+wmUPZZCtNBLr8o8sI5H7QhK7NgwCaGFoYuiAGL\\ngz3k\\/3YwJ40BbwQayQ2gIqenz+XOFIAlajv+\\/nyfcDvZH9vGNKP9lVcHXUT5YRnS\\nZSHo5lwvVrYUrqEAbh\\/zDz8QMEyiujWvUkPhZs9fh6fimUGxtm8mFIPCtPJVXjeY\\nwD3Lvt3aIB1JHdUTJR3eEc4eIaTKMwMPyJRzVn5zKsitaZz3nn\\/cOA\\/wZC9oqyEU\\nmc9h6ZMRTRUEE4TtaJyg9lMCAwEAAQ\u003d\u003d\\n-----END PUBLIC KEY-----\\n\"}",
-      "metadataTimestamp": 1657788334608
+      "metadataTimestamp": 1672881189395
     }
   ],
   "_version": 0,
