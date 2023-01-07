@@ -1,7 +1,7 @@
 employedat|-14,68,105,0
 vocation|MERCHANT
 name|—Ú…‡œƒ—≈
-age|19
+age|20
 gender|1
 skin|12
 levelfood|5
@@ -10,7 +10,7 @@ levelbuilder|1.322015
 levelminer|1.0
 levelsoldier|1.0
 stayput|false
-location|-13,69,105,0
+location|-8,69,104,0
 pregnancy|0.0
 building|null
 terraformtype|null

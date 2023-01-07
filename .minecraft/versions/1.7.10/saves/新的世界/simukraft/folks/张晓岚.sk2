@@ -1,7 +1,7 @@
 employedat|null
 vocation|null
 name|ÕÅÏþá°
-age|18
+age|19
 gender|1
 skin|25
 levelfood|10
@@ -10,7 +10,7 @@ levelbuilder|1.0
 levelminer|1.0
 levelsoldier|1.0
 stayput|false
-location|-6,68,101,0
+location|-36,64,104,0
 pregnancy|0.0
 building|null
 terraformtype|null
