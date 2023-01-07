@@ -9,8 +9,8 @@ levelfun|5
 levelbuilder|1.0
 levelminer|1.0
 levelsoldier|1.0
-stayput|true
-location|-35,65,108,0
+stayput|false
+location|-12,70,105,0
 pregnancy|0.0
 building|null
 terraformtype|null

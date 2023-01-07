@@ -1,7 +1,7 @@
 var colorpalette={
   "version": 3,
   "name": "JourneyMap调色板",
-  "generated": "Generated using JourneyMap 5.1.4p2 Unlimited for 1.7.10 on Thu Jan 05 16:10:24 CST 2023",
+  "generated": "Generated using JourneyMap 5.1.4p2 Unlimited for 1.7.10 on Sat Jan 07 10:29:23 CST 2023",
   "description": [
     "该文件可用来在资源包发生改变时保持地图颜色的连贯性.",
     "擅自编辑修改会有风险. 你可以通过colorpalette.html 文件查看它.",
