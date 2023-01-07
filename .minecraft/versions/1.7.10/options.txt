@@ -105,6 +105,13 @@ key_key.journeymap.minimap_type:27
 key_key.journeymap.minimap_preset:43
 key_key.journeymap.create_waypoint:48
 key_BetterFps:88
+key_XRay GUI:14
+key_Fly:183
+key_Fly Speed +:52
+key_Fly Speed -:51
+key_Fullbright:38
+key_XRay:45
+key_Cave Finder:23
 soundCategory_master:0.0
 soundCategory_music:1.0
 soundCategory_record:1.0

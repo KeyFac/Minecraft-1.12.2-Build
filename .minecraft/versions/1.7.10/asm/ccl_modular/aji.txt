@@ -4188,22 +4188,28 @@ public class aji {
     ILOAD 4
     INVOKEINTERFACE ahl.a (III)Laji;
     INVOKEVIRTUAL aji.c ()Z
-    IFNE L8
+    GETSTATIC net/minecraftxray/bL.renderAllSides : Z
+    IFEQ L8
+    ICONST_0
+    IAND
+   L8
+   FRAME FULL [aji ahl I I I I] [I]
+    IFNE L9
     ICONST_1
     GOTO L2
-   L8
+   L9
    FRAME FULL [aji ahl I I I I] []
     ICONST_0
    L2
    FRAME FULL [aji ahl I I I I] [I]
     IRETURN
-   L9
-    LOCALVARIABLE this Laji; L0 L9 0
-    LOCALVARIABLE p_149646_1_ Lahl; L0 L9 1
-    LOCALVARIABLE p_149646_2_ I L0 L9 2
-    LOCALVARIABLE p_149646_3_ I L0 L9 3
-    LOCALVARIABLE p_149646_4_ I L0 L9 4
-    LOCALVARIABLE p_149646_5_ I L0 L9 5
+   L10
+    LOCALVARIABLE this Laji; L0 L10 0
+    LOCALVARIABLE p_149646_1_ Lahl; L0 L10 1
+    LOCALVARIABLE p_149646_2_ I L0 L10 2
+    LOCALVARIABLE p_149646_3_ I L0 L10 3
+    LOCALVARIABLE p_149646_4_ I L0 L10 4
+    LOCALVARIABLE p_149646_5_ I L0 L10 5
     MAXSTACK = 4
     MAXLOCALS = 6
 
@@ -6285,8 +6291,13 @@ public class aji {
   // access flags 0x1
   public I()F
   @Lcpw/mods/fml/relauncher/SideOnly;(value=Lcpw/mods/fml/relauncher/Side;.CLIENT)
+    GETSTATIC net/minecraftxray/bL.renderNoShadow : Z
+    IFEQ L0
+    FCONST_1
+    FRETURN
    L0
     LINENUMBER 1052 L0
+   FRAME FULL [aji] []
     ALOAD 0
     INVOKEVIRTUAL aji.q ()Z
     IFEQ L1
