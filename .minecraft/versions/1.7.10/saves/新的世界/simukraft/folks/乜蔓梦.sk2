@@ -1,5 +1,5 @@
-employedat|5,68,91,0
-vocation|BUILDER
+employedat|null
+vocation|null
 name|Ø¿ÂûÃÎ
 age|18
 gender|1
@@ -10,7 +10,7 @@ levelbuilder|1.0
 levelminer|1.0
 levelsoldier|1.0
 stayput|false
-location|0,5,0,0
+location|5,68,91,0
 pregnancy|0.0
 building|null
 terraformtype|null

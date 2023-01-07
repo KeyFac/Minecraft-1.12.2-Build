@@ -1,12 +1,12 @@
-[10:29:17] [Client thread/INFO] [JMLogger] JourneyMap log initialized.
-[10:29:17] [Client thread/INFO] [JourneymapClient] initialize ENTER
-[10:29:17] [Client thread/INFO] [PropertiesBase] Loaded CoreProperties from d:\Users\Administrator\Documents\Github\Minecraft-1.12.2-Build\.minecraft\versions\1.7.10\journeymap\config\5.1\journeymap.core.config
-[10:29:17] [Client thread/INFO] [PropertiesBase] Loaded FullMapProperties from d:\Users\Administrator\Documents\Github\Minecraft-1.12.2-Build\.minecraft\versions\1.7.10\journeymap\config\5.1\journeymap.fullmap.config
-[10:29:17] [Client thread/INFO] [PropertiesBase] Loaded MiniMapProperties from d:\Users\Administrator\Documents\Github\Minecraft-1.12.2-Build\.minecraft\versions\1.7.10\journeymap\config\5.1\journeymap.minimap.config
-[10:29:17] [Client thread/INFO] [PropertiesBase] Loaded MiniMapProperties2 from d:\Users\Administrator\Documents\Github\Minecraft-1.12.2-Build\.minecraft\versions\1.7.10\journeymap\config\5.1\journeymap.minimap2.config
-[10:29:17] [Client thread/INFO] [PropertiesBase] Loaded WebMapProperties from d:\Users\Administrator\Documents\Github\Minecraft-1.12.2-Build\.minecraft\versions\1.7.10\journeymap\config\5.1\journeymap.webmap.config
-[10:29:17] [Client thread/INFO] [PropertiesBase] Loaded WaypointProperties from d:\Users\Administrator\Documents\Github\Minecraft-1.12.2-Build\.minecraft\versions\1.7.10\journeymap\config\5.1\journeymap.waypoint.config
-[10:29:17] [Client thread/INFO] [?] Version: JourneyMap 5.1.4p2 Unlimited, built with Forge 10.13.4.1558
+[10:41:58] [Client thread/INFO] [JMLogger] JourneyMap log initialized.
+[10:41:58] [Client thread/INFO] [JourneymapClient] initialize ENTER
+[10:41:58] [Client thread/INFO] [PropertiesBase] Loaded CoreProperties from d:\Users\Administrator\Documents\Github\Minecraft-1.12.2-Build\.minecraft\versions\1.7.10\journeymap\config\5.1\journeymap.core.config
+[10:41:58] [Client thread/INFO] [PropertiesBase] Loaded FullMapProperties from d:\Users\Administrator\Documents\Github\Minecraft-1.12.2-Build\.minecraft\versions\1.7.10\journeymap\config\5.1\journeymap.fullmap.config
+[10:41:58] [Client thread/INFO] [PropertiesBase] Loaded MiniMapProperties from d:\Users\Administrator\Documents\Github\Minecraft-1.12.2-Build\.minecraft\versions\1.7.10\journeymap\config\5.1\journeymap.minimap.config
+[10:41:58] [Client thread/INFO] [PropertiesBase] Loaded MiniMapProperties2 from d:\Users\Administrator\Documents\Github\Minecraft-1.12.2-Build\.minecraft\versions\1.7.10\journeymap\config\5.1\journeymap.minimap2.config
+[10:41:58] [Client thread/INFO] [PropertiesBase] Loaded WebMapProperties from d:\Users\Administrator\Documents\Github\Minecraft-1.12.2-Build\.minecraft\versions\1.7.10\journeymap\config\5.1\journeymap.webmap.config
+[10:41:58] [Client thread/INFO] [PropertiesBase] Loaded WaypointProperties from d:\Users\Administrator\Documents\Github\Minecraft-1.12.2-Build\.minecraft\versions\1.7.10\journeymap\config\5.1\journeymap.waypoint.config
+[10:41:58] [Client thread/INFO] [?] Version: JourneyMap 5.1.4p2 Unlimited, built with Forge 10.13.4.1558
 Forge: 10.13.4.1614
 Environment: os.name, os.arch, java.version, user.country, user.language=null, game language=zh_CN, locale=zh_cn
 Unlimited Features: 
@@ -21,12 +21,11 @@ FullMapProperties{entityIconSetName=2D, showAnimals=true, showMobs=true, showPet
 WaypointProperties{autoHideLabel=true, beaconEnabled=true, boldLabel=false, createDeathpoints=true, fontScale=2, managerEnabled=true, maxDistance=0, name=waypoint, showDistance=true, showName=true, showRotatingBeam=true, showStaticBeam=true, showTexture=true, textureSmall=true}
 WebMapProperties: , enabled=false, port=8080, showMobs=true, showAnimals=true, showVillagers=true, showPets=true, showPlayers=true, showWaypoints=true, entityIconSetName=2D
 CoreProperties{announceMod=true, autoMapPoll=2000, browserPoll=2000, cacheAnimalsData=3100, cacheMobsData=3000, cachePlayerData=1000, cachePlayersData=2000, cacheVillagersData=2200, caveIgnoreGlass=true, isUpdateCheckEnabled=true, renderDelay=2, hideSneakingEntities=true, logLevel=INFO, mapAntialiasing=true, mapBathymetry=false, mapCaveLighting=true, mapCrops=true, mapPlants=false, mapPlantShadows=false, mapSurfaceAboveCaves=true, tileHighDisplayQuality=true, mapTransparency=true, maxAnimalsData=32, maxMobsData=32, maxPlayersData=32, maxVillagersData=32, optionsManagerViewed=5.1.4p2, radarLateralDistance=64, radarVerticalDistance=16, recordCacheStats=false, renderOverlayEventTypeName=ALL, renderOverlayPreEvent=true, renderDistanceCaveMin=3, renderDistanceCaveMax=3, renderDistanceSurfaceMin=4, renderDistanceSurfaceMax=7, revealShape=圆形, themeName=Victorian, tileRenderType=1}
-[10:29:17] [Client thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 0 avg �ms
-[10:29:17] [Client thread/INFO] [JourneymapClient] postInitialize ENTER
-[10:29:17] [Client thread/INFO] [WorldInfoHandler] Registered channel: world_info
-[10:29:17] [Client thread/INFO] [IconSetFileHandler] Initializing icon sets...
-[10:29:18] [Client thread/INFO] [JourneymapClient] postInitialize EXIT, elapsed§8 count §r1§8 avg §r661.57§8ms§r
-[10:29:18] [JM-VersionCheck-1/ERROR] [VersionCheck$1] Could not check version URL
+[10:41:58] [Client thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 0 avg �ms
+[10:41:58] [Client thread/INFO] [JourneymapClient] postInitialize ENTER
+[10:41:58] [Client thread/INFO] [WorldInfoHandler] Registered channel: world_info
+[10:41:58] [Client thread/INFO] [IconSetFileHandler] Initializing icon sets...
+[10:41:59] [JM-VersionCheck-1/ERROR] [VersionCheck$1] Could not check version URL
 java.net.UnknownHostException: widget.mcf.li
 	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:196) ~[?:1.8.0_311]
 	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:162) ~[?:1.8.0_311]
@@ -61,16 +60,17 @@ java.net.UnknownHostException: widget.mcf.li
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_311]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_311]
 	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_311]
-[10:29:23] [Client thread/INFO] [ColorManager] Loading blocks and textures...
-[10:29:23] [Client thread/INFO] [BlockMD] Built BlockMD cache (369) : BlockMD.reset count 1 avg 23.59ms
-[10:29:23] [Client thread/INFO] [ColorHelper_1_7_10] initBlocksTexture: 1024x512 loaded in 22.3743ms
-[10:29:23] [Client thread/INFO] [ColorPalette] Existing color palette's resource packs and mod names match current loadout.
-[10:29:23] [Client thread/INFO] [ColorManager] Loaded 360 block colors from color palette file in 2ms: D:\Users\Administrator\Documents\Github\Minecraft-1.12.2-Build\.minecraft\versions\1.7.10\journeymap\colorpalette.json
-[10:29:23] [Client thread/INFO] [ColorManager] Initialized 9 block colors from mods and resource packs in 1ms
-[10:29:23] [Client thread/INFO] [ColorPalette] Color palette file generated with 360 colors in 16ms for: D:\Users\Administrator\Documents\Github\Minecraft-1.12.2-Build\.minecraft\versions\1.7.10\journeymap\colorpalette.json
-[10:29:23] [Client thread/INFO] [ColorManager] Updated color palette file: D:\Users\Administrator\Documents\Github\Minecraft-1.12.2-Build\.minecraft\versions\1.7.10\journeymap\colorpalette.json
-[10:31:07] [Client thread/INFO] [WaypointStore] Loaded 3 waypoints from d:\Users\Administrator\Documents\Github\Minecraft-1.12.2-Build\.minecraft\versions\1.7.10\journeymap\data\sp\新的世界\waypoints
-[10:31:07] [Client thread/INFO] [ColorManager] Blocks and textures are current
-[10:31:07] [Client thread/INFO] [JourneymapClient] Mapping started in d:\Users\Administrator\Documents\Github\Minecraft-1.12.2-Build\.minecraft\versions\1.7.10\journeymap\data\sp\新的世界\DIM0. Memory: 1152MB total, 543MB free 
-[10:31:15] [Client thread/INFO] [ChatLog] JourneyMap: 按下[J]键
-[10:33:36] [Client thread/INFO] [JourneymapClient] Mapping halted in d:\Users\Administrator\Documents\Github\Minecraft-1.12.2-Build\.minecraft\versions\1.7.10\journeymap\data\sp\新的世界\DIM0
+[10:41:59] [Client thread/INFO] [JourneymapClient] postInitialize EXIT, elapsed§8 count §r1§8 avg §r654.77§8ms§r
+[10:42:05] [Client thread/INFO] [ColorManager] Loading blocks and textures...
+[10:42:05] [Client thread/INFO] [BlockMD] Built BlockMD cache (369) : BlockMD.reset count 1 avg 17.62ms
+[10:42:05] [Client thread/INFO] [ColorHelper_1_7_10] initBlocksTexture: 1024x512 loaded in 23.0238ms
+[10:42:05] [Client thread/INFO] [ColorPalette] Existing color palette's resource packs and mod names match current loadout.
+[10:42:05] [Client thread/INFO] [ColorManager] Loaded 360 block colors from color palette file in 3ms: D:\Users\Administrator\Documents\Github\Minecraft-1.12.2-Build\.minecraft\versions\1.7.10\journeymap\colorpalette.json
+[10:42:05] [Client thread/INFO] [ColorManager] Initialized 9 block colors from mods and resource packs in 1ms
+[10:42:05] [Client thread/INFO] [ColorPalette] Color palette file generated with 360 colors in 12ms for: D:\Users\Administrator\Documents\Github\Minecraft-1.12.2-Build\.minecraft\versions\1.7.10\journeymap\colorpalette.json
+[10:42:05] [Client thread/INFO] [ColorManager] Updated color palette file: D:\Users\Administrator\Documents\Github\Minecraft-1.12.2-Build\.minecraft\versions\1.7.10\journeymap\colorpalette.json
+[10:43:05] [Client thread/INFO] [WaypointStore] Loaded 3 waypoints from d:\Users\Administrator\Documents\Github\Minecraft-1.12.2-Build\.minecraft\versions\1.7.10\journeymap\data\sp\新的世界\waypoints
+[10:43:05] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[10:43:05] [Client thread/INFO] [JourneymapClient] Mapping started in d:\Users\Administrator\Documents\Github\Minecraft-1.12.2-Build\.minecraft\versions\1.7.10\journeymap\data\sp\新的世界\DIM0. Memory: 896MB total, 496MB free 
+[10:43:05] [Client thread/INFO] [ChatLog] JourneyMap: 按下[J]键
+[10:43:52] [Client thread/INFO] [JourneymapClient] Mapping halted in d:\Users\Administrator\Documents\Github\Minecraft-1.12.2-Build\.minecraft\versions\1.7.10\journeymap\data\sp\新的世界\DIM0
