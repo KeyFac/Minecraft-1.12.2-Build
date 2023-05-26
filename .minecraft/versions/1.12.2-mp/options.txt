@@ -17,7 +17,7 @@ ao:2
 renderClouds:true
 resourcePacks:["Minecraft-Mod-Language-Modpack.zip","CustomNPCsFix.zip"]
 incompatibleResourcePacks:[]
-lastServer:
+lastServer:play.simpfun.cn:21505
 lang:zh_cn
 chatVisibility:0
 chatColors:true
@@ -118,6 +118,9 @@ key_Scene2 start/pause:80
 key_Scene3 start/pause:81
 key_Scene reset:82
 key_Quest Log:38
+key_key.infinity.desc:183
+key_key.infinitycopy.desc:88
+key_key.infinitysave.desc:23
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:33:CONTROL
 key_key.jei.toggleCheatMode:0
@@ -137,9 +140,15 @@ key_打开电力漫游车物品栏:73
 key_打开模块管理器:72
 key_打开发射检查表 GUI:71
 key_打开便携式 NASA 工作台 GUI:181
-key_key.infinity.desc:183
-key_key.infinitycopy.desc:88
-key_key.infinitysave.desc:23
+key_key.draconicevolution.placeItem:25
+key_key.draconicevolution.toolConfig:46
+key_key.draconicevolution.toolProfileChange:43
+key_key.draconicevolution.armorProfileChange:43:ALT
+key_key.draconicevolution.toggleFlight:0
+key_key.draconicevolution.toggleDislocator:0
+key_key.draconicevolution.cycleDigAOE:0
+key_key.draconicevolution.cycleAttackAOE:0
+key_key.draconicevolution.toggleShields:0
 key_key.minimap.voxelmapmenu:50
 key_key.minimap.waypointmenu:41
 key_key.minimap.zoom:0
@@ -147,6 +156,27 @@ key_key.minimap.togglefullscreen:45
 key_key.minimap.waypointhotkey:0
 key_key.minimap.togglemobs:0
 key_key.minimap.toggleingamewaypoints:0
+key_enderio.keybind.inventory:23
+key_enderio.keybind.dsu:0
+key_enderio.keybind.glidertoggle:34
+key_enderio.keybind.soundlocator:0
+key_enderio.keybind.nightvision:25
+key_enderio.keybind.gogglesofrevealing:0
+key_enderio.keybind.stepassist:0
+key_enderio.keybind.speed:0
+key_enderio.keybind.jump:0
+key_enderio.keybind.top:0
+key_enderio.keybind.tnt:0
+key_enderio.keybind.yetawrenchmode:21
+key_enderio.keybind.magnet:0
+key_enderio.keybind.fovreset:0
+key_enderio.keybind.fovunreset:0
+key_enderio.keybind.fovstore:0
+key_enderio.keybind.fovrecall:0
+key_enderio.keybind.fovplus:0
+key_enderio.keybind.fovminus:0
+key_enderio.keybind.fovplusfast:0
+key_enderio.keybind.fovminusfast:0
 soundCategory_master:0.5033113
 soundCategory_music:0.0
 soundCategory_record:1.0
