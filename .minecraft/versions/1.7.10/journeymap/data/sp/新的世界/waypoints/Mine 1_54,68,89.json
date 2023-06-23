@@ -1,0 +1,17 @@
+{
+  "id": "Mine 1_54,68,89",
+  "name": "Mine 1",
+  "icon": "waypoint-normal.png",
+  "x": 54,
+  "y": 68,
+  "z": 89,
+  "r": 163,
+  "g": 205,
+  "b": 86,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

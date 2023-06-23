@@ -1,88 +1,12 @@
-[2022-08-02 14:28:06] [Client thread INFO] CustomSkinLoader 14.9
-[2022-08-02 14:28:06] [Client thread INFO] DataDir: D:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-mp\CustomSkinLoader
-[2022-08-02 14:28:06] [Client thread INFO] Minecraft: 1.12.2(1.12.2-mp)
-[2022-08-02 14:28:06] [Client thread INFO] Config File: D:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-mp\CustomSkinLoader\CustomSkinLoader.json
-[2022-08-02 14:28:06] [Client thread INFO] Try to load config.
-[2022-08-02 14:28:06] [Client thread INFO] Successfully load config.
-[2022-08-02 14:28:06] [Client thread INFO] EnableDynamicSkull:true, EnableTranSkin:true, IgnoreHttpsCertificate:false, CacheExpiry:30, EnableUpdateSkull:false, EnableLocalProfileCache:false, EnableCacheAutoClean:false, LoadList:6
-[2022-08-02 14:28:06] [GLgele's skull INFO] Loading GLgele's profile.
-[2022-08-02 14:28:06] [GLgele's skull INFO] 1/6 Try to load profile from 'Mojang'.
-[2022-08-02 14:28:06] [GLgele's skull DEBUG] Try to request 'http://127.0.0.1:53728/https/api.mojang.com/users/profiles/minecraft/GLgele'.
-[2022-08-02 14:28:07] [GLgele's skull DEBUG] Successfully request (Response Code: 200 , Content Length: -1)
-[2022-08-02 14:28:07] [GLgele's skull DEBUG] Saved to cache (Length: 57 , Path: 'D:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-mp\CustomSkinLoader\caches\4253ae266f54395c9b7031cd9b0e952f51b4df45' , Expire: 1659508087)
-[2022-08-02 14:28:07] [GLgele's skull DEBUG] Content: {"id":"84e8de8ef6d94371835b6844cb7ff0e9","name":"GLgele"}
-[2022-08-02 14:28:07] [GLgele's skull DEBUG] Try to request 'http://127.0.0.1:53728/https/sessionserver.mojang.com/session/minecraft/profile/84e8de8ef6d94371835b6844cb7ff0e9'.
-[2022-08-02 14:28:07] [GLgele's skull DEBUG] Successfully request (Response Code: 200 , Content Length: 625)
-[2022-08-02 14:28:07] [GLgele's skull DEBUG] Saved to cache (Length: 625 , Path: 'D:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-mp\CustomSkinLoader\caches\35430739038912a421e77d12f7599a82af81dfa8' , Expire: 1659421782)
-[2022-08-02 14:28:07] [GLgele's skull DEBUG] Content: {"id":"84e8de8ef6d94371835b6844cb7ff0e9","name":"GLgele","properties":[{"name":"textures","value":"eyJ0aW1lc3RhbXAiOjE2NTkzNjY5NDcxNjAsInByb2ZpbGVJZCI6Ijg0ZThkZThlZjZkOTQzNzE4MzViNjg0NGNiN2ZmMGU5IiwicHJvZmlsZU5hbWUiOiJHTGdlbGUiLCJpc1B1YmxpYyI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL2xpdHRsZXNraW4uY24vdGV4dHVyZXMvMzk5NjgzZGQxZWViYmVjZDhiNDJkZTBhODM4YTQyN2QzYWNkMTJkMWNiNmMyMTdhYWRjMjExZjEwMTcxNTUwZCJ9LCJDQVBFIjp7InVybCI6Imh0dHBzOi8vbGl0dGxlc2tpbi5jbi90ZXh0dXJlcy9mMjdkOTNmZTk3NjUzYmY3MWUxOGMwNjRmM2U2YjQ2OTM5MWQ0Yzc0ODI3MDY0YTA4Y2ViNWI1YWU5ODVjNTdlIn19fQ=="},{"name":"uploadableTextures","value":"skin,cape"}]}
-[2022-08-02 14:28:07] [GLgele's skull INFO] GLgele's profile loaded.
-[2022-08-02 14:28:07] [GLgele's skull INFO] (SkinUrl: https://littleskin.cn/textures/399683dd1eebbecd8b42de0a838a427d3acd12d1cb6c217aadc211f10171550d , Model: default , CapeUrl: https://littleskin.cn/textures/f27d93fe97653bf71e18c064f3e6b469391d4c74827064a08ceb5b5ae985c57e  , Expiry: 1659421722)
-[2022-08-02 14:28:10] [GLgele INFO] Cached profile will be used.
-[2022-08-02 14:28:10] [GLgele INFO] (SkinUrl: https://littleskin.cn/textures/399683dd1eebbecd8b42de0a838a427d3acd12d1cb6c217aadc211f10171550d , Model: default , CapeUrl: https://littleskin.cn/textures/f27d93fe97653bf71e18c064f3e6b469391d4c74827064a08ceb5b5ae985c57e  , Expiry: 1659421722)
-[2022-08-02 14:29:07] [GLgele INFO] Loading GLgele's profile.
-[2022-08-02 14:29:07] [GLgele INFO] 1/6 Try to load profile from 'Mojang'.
-[2022-08-02 14:29:07] [GLgele DEBUG] Try to request 'http://127.0.0.1:53728/https/api.mojang.com/users/profiles/minecraft/GLgele'.
-[2022-08-02 14:29:07] [GLgele DEBUG] Cache file found (Length: 57 , Path: 'D:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-mp\CustomSkinLoader\caches\4253ae266f54395c9b7031cd9b0e952f51b4df45' , Expire: 0')
-[2022-08-02 14:29:07] [GLgele INFO] Try to load from cache 'D:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-mp\CustomSkinLoader\caches\4253ae266f54395c9b7031cd9b0e952f51b4df45'.
-[2022-08-02 14:29:07] [GLgele DEBUG] Successfully load from cache
-[2022-08-02 14:29:07] [GLgele DEBUG] Content: {"id":"84e8de8ef6d94371835b6844cb7ff0e9","name":"GLgele"}
-[2022-08-02 14:29:07] [GLgele DEBUG] Try to request 'http://127.0.0.1:53728/https/sessionserver.mojang.com/session/minecraft/profile/84e8de8ef6d94371835b6844cb7ff0e9'.
-[2022-08-02 14:29:07] [GLgele DEBUG] Cache file found (Length: 625 , Path: 'D:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-mp\CustomSkinLoader\caches\35430739038912a421e77d12f7599a82af81dfa8' , Expire: 1659421782')
-[2022-08-02 14:29:07] [GLgele INFO] Try to load from cache 'D:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-mp\CustomSkinLoader\caches\35430739038912a421e77d12f7599a82af81dfa8'.
-[2022-08-02 14:29:07] [GLgele DEBUG] Successfully load from cache
-[2022-08-02 14:29:07] [GLgele DEBUG] Content: {"id":"84e8de8ef6d94371835b6844cb7ff0e9","name":"GLgele","properties":[{"name":"textures","value":"eyJ0aW1lc3RhbXAiOjE2NTkzNjY5NDcxNjAsInByb2ZpbGVJZCI6Ijg0ZThkZThlZjZkOTQzNzE4MzViNjg0NGNiN2ZmMGU5IiwicHJvZmlsZU5hbWUiOiJHTGdlbGUiLCJpc1B1YmxpYyI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL2xpdHRsZXNraW4uY24vdGV4dHVyZXMvMzk5NjgzZGQxZWViYmVjZDhiNDJkZTBhODM4YTQyN2QzYWNkMTJkMWNiNmMyMTdhYWRjMjExZjEwMTcxNTUwZCJ9LCJDQVBFIjp7InVybCI6Imh0dHBzOi8vbGl0dGxlc2tpbi5jbi90ZXh0dXJlcy9mMjdkOTNmZTk3NjUzYmY3MWUxOGMwNjRmM2U2YjQ2OTM5MWQ0Yzc0ODI3MDY0YTA4Y2ViNWI1YWU5ODVjNTdlIn19fQ=="},{"name":"uploadableTextures","value":"skin,cape"}]}
-[2022-08-02 14:29:07] [GLgele INFO] GLgele's profile loaded.
-[2022-08-02 14:29:07] [GLgele INFO] (SkinUrl: https://littleskin.cn/textures/399683dd1eebbecd8b42de0a838a427d3acd12d1cb6c217aadc211f10171550d , Model: default , CapeUrl: https://littleskin.cn/textures/f27d93fe97653bf71e18c064f3e6b469391d4c74827064a08ceb5b5ae985c57e  , Expiry: 1659421779)
-[2022-08-02 14:30:08] [GLgele INFO] Loading GLgele's profile.
-[2022-08-02 14:30:08] [GLgele INFO] 1/6 Try to load profile from 'Mojang'.
-[2022-08-02 14:30:08] [GLgele DEBUG] Try to request 'http://127.0.0.1:53728/https/api.mojang.com/users/profiles/minecraft/GLgele'.
-[2022-08-02 14:30:08] [GLgele DEBUG] Cache file found (Length: 57 , Path: 'D:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-mp\CustomSkinLoader\caches\4253ae266f54395c9b7031cd9b0e952f51b4df45' , Expire: 0')
-[2022-08-02 14:30:08] [GLgele INFO] Try to load from cache 'D:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-mp\CustomSkinLoader\caches\4253ae266f54395c9b7031cd9b0e952f51b4df45'.
-[2022-08-02 14:30:08] [GLgele DEBUG] Successfully load from cache
-[2022-08-02 14:30:08] [GLgele DEBUG] Content: {"id":"84e8de8ef6d94371835b6844cb7ff0e9","name":"GLgele"}
-[2022-08-02 14:30:08] [GLgele DEBUG] Try to request 'http://127.0.0.1:53728/https/sessionserver.mojang.com/session/minecraft/profile/84e8de8ef6d94371835b6844cb7ff0e9'.
-[2022-08-02 14:30:09] [GLgele DEBUG] Successfully request (Response Code: 200 , Content Length: 625)
-[2022-08-02 14:30:09] [GLgele DEBUG] Saved to cache (Length: 625 , Path: 'D:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-mp\CustomSkinLoader\caches\35430739038912a421e77d12f7599a82af81dfa8' , Expire: 1659421899)
-[2022-08-02 14:30:09] [GLgele DEBUG] Content: {"id":"84e8de8ef6d94371835b6844cb7ff0e9","name":"GLgele","properties":[{"name":"textures","value":"eyJ0aW1lc3RhbXAiOjE2NTkzNjY5NDcxNjAsInByb2ZpbGVJZCI6Ijg0ZThkZThlZjZkOTQzNzE4MzViNjg0NGNiN2ZmMGU5IiwicHJvZmlsZU5hbWUiOiJHTGdlbGUiLCJpc1B1YmxpYyI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL2xpdHRsZXNraW4uY24vdGV4dHVyZXMvMzk5NjgzZGQxZWViYmVjZDhiNDJkZTBhODM4YTQyN2QzYWNkMTJkMWNiNmMyMTdhYWRjMjExZjEwMTcxNTUwZCJ9LCJDQVBFIjp7InVybCI6Imh0dHBzOi8vbGl0dGxlc2tpbi5jbi90ZXh0dXJlcy9mMjdkOTNmZTk3NjUzYmY3MWUxOGMwNjRmM2U2YjQ2OTM5MWQ0Yzc0ODI3MDY0YTA4Y2ViNWI1YWU5ODVjNTdlIn19fQ=="},{"name":"uploadableTextures","value":"skin,cape"}]}
-[2022-08-02 14:30:09] [GLgele INFO] GLgele's profile loaded.
-[2022-08-02 14:30:09] [GLgele INFO] (SkinUrl: https://littleskin.cn/textures/399683dd1eebbecd8b42de0a838a427d3acd12d1cb6c217aadc211f10171550d , Model: default , CapeUrl: https://littleskin.cn/textures/f27d93fe97653bf71e18c064f3e6b469391d4c74827064a08ceb5b5ae985c57e  , Expiry: 1659421844)
-[2022-08-02 14:32:23] [GLgele INFO] Loading GLgele's profile.
-[2022-08-02 14:32:23] [GLgele INFO] 1/6 Try to load profile from 'Mojang'.
-[2022-08-02 14:32:23] [GLgele DEBUG] Try to request 'http://127.0.0.1:53728/https/api.mojang.com/users/profiles/minecraft/GLgele'.
-[2022-08-02 14:32:23] [GLgele DEBUG] Cache file found (Length: 57 , Path: 'D:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-mp\CustomSkinLoader\caches\4253ae266f54395c9b7031cd9b0e952f51b4df45' , Expire: 0')
-[2022-08-02 14:32:23] [GLgele INFO] Try to load from cache 'D:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-mp\CustomSkinLoader\caches\4253ae266f54395c9b7031cd9b0e952f51b4df45'.
-[2022-08-02 14:32:23] [GLgele DEBUG] Successfully load from cache
-[2022-08-02 14:32:23] [GLgele DEBUG] Content: {"id":"84e8de8ef6d94371835b6844cb7ff0e9","name":"GLgele"}
-[2022-08-02 14:32:23] [GLgele DEBUG] Try to request 'http://127.0.0.1:53728/https/sessionserver.mojang.com/session/minecraft/profile/84e8de8ef6d94371835b6844cb7ff0e9'.
-[2022-08-02 14:32:23] [GLgele DEBUG] Successfully request (Response Code: 200 , Content Length: 625)
-[2022-08-02 14:32:23] [GLgele DEBUG] Saved to cache (Length: 625 , Path: 'D:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-mp\CustomSkinLoader\caches\35430739038912a421e77d12f7599a82af81dfa8' , Expire: 1659422035)
-[2022-08-02 14:32:23] [GLgele DEBUG] Content: {"id":"84e8de8ef6d94371835b6844cb7ff0e9","name":"GLgele","properties":[{"name":"textures","value":"eyJ0aW1lc3RhbXAiOjE2NTkzNjY5NDcxNjAsInByb2ZpbGVJZCI6Ijg0ZThkZThlZjZkOTQzNzE4MzViNjg0NGNiN2ZmMGU5IiwicHJvZmlsZU5hbWUiOiJHTGdlbGUiLCJpc1B1YmxpYyI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL2xpdHRsZXNraW4uY24vdGV4dHVyZXMvMzk5NjgzZGQxZWViYmVjZDhiNDJkZTBhODM4YTQyN2QzYWNkMTJkMWNiNmMyMTdhYWRjMjExZjEwMTcxNTUwZCJ9LCJDQVBFIjp7InVybCI6Imh0dHBzOi8vbGl0dGxlc2tpbi5jbi90ZXh0dXJlcy9mMjdkOTNmZTk3NjUzYmY3MWUxOGMwNjRmM2U2YjQ2OTM5MWQ0Yzc0ODI3MDY0YTA4Y2ViNWI1YWU5ODVjNTdlIn19fQ=="},{"name":"uploadableTextures","value":"skin,cape"}]}
-[2022-08-02 14:32:23] [GLgele INFO] GLgele's profile loaded.
-[2022-08-02 14:32:23] [GLgele INFO] (SkinUrl: https://littleskin.cn/textures/399683dd1eebbecd8b42de0a838a427d3acd12d1cb6c217aadc211f10171550d , Model: default , CapeUrl: https://littleskin.cn/textures/f27d93fe97653bf71e18c064f3e6b469391d4c74827064a08ceb5b5ae985c57e  , Expiry: 1659421975)
-[2022-08-02 14:35:48] [GLgele INFO] Loading GLgele's profile.
-[2022-08-02 14:35:48] [GLgele INFO] 1/6 Try to load profile from 'Mojang'.
-[2022-08-02 14:35:48] [GLgele DEBUG] Try to request 'http://127.0.0.1:53728/https/api.mojang.com/users/profiles/minecraft/GLgele'.
-[2022-08-02 14:35:48] [GLgele DEBUG] Cache file found (Length: 57 , Path: 'D:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-mp\CustomSkinLoader\caches\4253ae266f54395c9b7031cd9b0e952f51b4df45' , Expire: 0')
-[2022-08-02 14:35:48] [GLgele INFO] Try to load from cache 'D:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-mp\CustomSkinLoader\caches\4253ae266f54395c9b7031cd9b0e952f51b4df45'.
-[2022-08-02 14:35:48] [GLgele DEBUG] Successfully load from cache
-[2022-08-02 14:35:48] [GLgele DEBUG] Content: {"id":"84e8de8ef6d94371835b6844cb7ff0e9","name":"GLgele"}
-[2022-08-02 14:35:48] [GLgele DEBUG] Try to request 'http://127.0.0.1:53728/https/sessionserver.mojang.com/session/minecraft/profile/84e8de8ef6d94371835b6844cb7ff0e9'.
-[2022-08-02 14:35:48] [GLgele DEBUG] Successfully request (Response Code: 200 , Content Length: 625)
-[2022-08-02 14:35:48] [GLgele DEBUG] Saved to cache (Length: 625 , Path: 'D:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-mp\CustomSkinLoader\caches\35430739038912a421e77d12f7599a82af81dfa8' , Expire: 1659422240)
-[2022-08-02 14:35:48] [GLgele DEBUG] Content: {"id":"84e8de8ef6d94371835b6844cb7ff0e9","name":"GLgele","properties":[{"name":"textures","value":"eyJ0aW1lc3RhbXAiOjE2NTkzNjY5NDcxNjAsInByb2ZpbGVJZCI6Ijg0ZThkZThlZjZkOTQzNzE4MzViNjg0NGNiN2ZmMGU5IiwicHJvZmlsZU5hbWUiOiJHTGdlbGUiLCJpc1B1YmxpYyI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL2xpdHRsZXNraW4uY24vdGV4dHVyZXMvMzk5NjgzZGQxZWViYmVjZDhiNDJkZTBhODM4YTQyN2QzYWNkMTJkMWNiNmMyMTdhYWRjMjExZjEwMTcxNTUwZCJ9LCJDQVBFIjp7InVybCI6Imh0dHBzOi8vbGl0dGxlc2tpbi5jbi90ZXh0dXJlcy9mMjdkOTNmZTk3NjUzYmY3MWUxOGMwNjRmM2U2YjQ2OTM5MWQ0Yzc0ODI3MDY0YTA4Y2ViNWI1YWU5ODVjNTdlIn19fQ=="},{"name":"uploadableTextures","value":"skin,cape"}]}
-[2022-08-02 14:35:48] [GLgele INFO] GLgele's profile loaded.
-[2022-08-02 14:35:48] [GLgele INFO] (SkinUrl: https://littleskin.cn/textures/399683dd1eebbecd8b42de0a838a427d3acd12d1cb6c217aadc211f10171550d , Model: default , CapeUrl: https://littleskin.cn/textures/f27d93fe97653bf71e18c064f3e6b469391d4c74827064a08ceb5b5ae985c57e  , Expiry: 1659422181)
-[2022-08-02 14:36:57] [GLgele INFO] Loading GLgele's profile.
-[2022-08-02 14:36:57] [GLgele INFO] 1/6 Try to load profile from 'Mojang'.
-[2022-08-02 14:36:57] [GLgele DEBUG] Try to request 'http://127.0.0.1:53728/https/api.mojang.com/users/profiles/minecraft/GLgele'.
-[2022-08-02 14:36:57] [GLgele DEBUG] Cache file found (Length: 57 , Path: 'D:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-mp\CustomSkinLoader\caches\4253ae266f54395c9b7031cd9b0e952f51b4df45' , Expire: 0')
-[2022-08-02 14:36:57] [GLgele INFO] Try to load from cache 'D:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-mp\CustomSkinLoader\caches\4253ae266f54395c9b7031cd9b0e952f51b4df45'.
-[2022-08-02 14:36:57] [GLgele DEBUG] Successfully load from cache
-[2022-08-02 14:36:57] [GLgele DEBUG] Content: {"id":"84e8de8ef6d94371835b6844cb7ff0e9","name":"GLgele"}
-[2022-08-02 14:36:57] [GLgele DEBUG] Try to request 'http://127.0.0.1:53728/https/sessionserver.mojang.com/session/minecraft/profile/84e8de8ef6d94371835b6844cb7ff0e9'.
-[2022-08-02 14:36:57] [GLgele DEBUG] Cache file found (Length: 625 , Path: 'D:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-mp\CustomSkinLoader\caches\35430739038912a421e77d12f7599a82af81dfa8' , Expire: 1659422240')
-[2022-08-02 14:36:57] [GLgele INFO] Try to load from cache 'D:\Users\Administrator\Documents\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-mp\CustomSkinLoader\caches\35430739038912a421e77d12f7599a82af81dfa8'.
-[2022-08-02 14:36:57] [GLgele DEBUG] Successfully load from cache
-[2022-08-02 14:36:57] [GLgele DEBUG] Content: {"id":"84e8de8ef6d94371835b6844cb7ff0e9","name":"GLgele","properties":[{"name":"textures","value":"eyJ0aW1lc3RhbXAiOjE2NTkzNjY5NDcxNjAsInByb2ZpbGVJZCI6Ijg0ZThkZThlZjZkOTQzNzE4MzViNjg0NGNiN2ZmMGU5IiwicHJvZmlsZU5hbWUiOiJHTGdlbGUiLCJpc1B1YmxpYyI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL2xpdHRsZXNraW4uY24vdGV4dHVyZXMvMzk5NjgzZGQxZWViYmVjZDhiNDJkZTBhODM4YTQyN2QzYWNkMTJkMWNiNmMyMTdhYWRjMjExZjEwMTcxNTUwZCJ9LCJDQVBFIjp7InVybCI6Imh0dHBzOi8vbGl0dGxlc2tpbi5jbi90ZXh0dXJlcy9mMjdkOTNmZTk3NjUzYmY3MWUxOGMwNjRmM2U2YjQ2OTM5MWQ0Yzc0ODI3MDY0YTA4Y2ViNWI1YWU5ODVjNTdlIn19fQ=="},{"name":"uploadableTextures","value":"skin,cape"}]}
-[2022-08-02 14:36:57] [GLgele INFO] GLgele's profile loaded.
-[2022-08-02 14:36:57] [GLgele INFO] (SkinUrl: https://littleskin.cn/textures/399683dd1eebbecd8b42de0a838a427d3acd12d1cb6c217aadc211f10171550d , Model: default , CapeUrl: https://littleskin.cn/textures/f27d93fe97653bf71e18c064f3e6b469391d4c74827064a08ceb5b5ae985c57e  , Expiry: 1659422252)
+[2023-01-04 16:06:43] [pool-4-thread-1 INFO] CustomSkinLoader 14.9
+[2023-01-04 16:06:43] [pool-4-thread-1 INFO] DataDir: F:\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-mp\CustomSkinLoader
+[2023-01-04 16:06:43] [pool-4-thread-1 INFO] Minecraft: 1.12.2(1.12.2-mp)
+[2023-01-04 16:06:43] [pool-4-thread-1 INFO] Config File: F:\GitHub\Minecraft-1.12.2-Build\.minecraft\versions\1.12.2-mp\CustomSkinLoader\CustomSkinLoader.json
+[2023-01-04 16:06:43] [pool-4-thread-1 INFO] Try to load config.
+[2023-01-04 16:06:43] [pool-4-thread-1 INFO] Successfully load config.
+[2023-01-04 16:06:43] [pool-4-thread-1 INFO] EnableDynamicSkull:true, EnableTranSkin:true, IgnoreHttpsCertificate:false, CacheExpiry:30, EnableUpdateSkull:false, EnableLocalProfileCache:false, EnableCacheAutoClean:false, LoadList:6
+[2023-01-04 16:06:43] [RuoBai07 INFO] Loading RuoBai07's profile.
+[2023-01-04 16:06:43] [RuoBai07 INFO] 1/6 Try to load profile from 'Mojang'.
+[2023-01-04 16:06:43] [RuoBai07 INFO] Default profile will be used.
+[2023-01-04 16:06:43] [RuoBai07 INFO] RuoBai07's profile loaded.
+[2023-01-04 16:06:43] [RuoBai07 INFO] (SkinUrl: https://littleskin.cn/textures/399683dd1eebbecd8b42de0a838a427d3acd12d1cb6c217aadc211f10171550d , Model: default , CapeUrl: null  , Expiry: 1672819638)
