@@ -7,13 +7,15 @@
   "hasProxyAuth": false,
   "proxyType": "HTTP",
   "proxyPort": 0,
-  "width": 247.0,
-  "height": 34.0,
+  "x": 0.2828125,
+  "y": 0.18703703703703703,
+  "width": 1015.0,
+  "height": 702.0,
   "theme": "#5c6bc0",
   "localization": "def",
   "autoDownloadThreads": false,
   "downloadThreads": 64,
-  "downloadType": "mcbbs",
+  "downloadType": "bmclapi",
   "autoChooseDownloadType": true,
   "versionListSource": "balanced",
   "configurations": {
@@ -22,6 +24,7 @@
         "usesGlobal": true,
         "javaArgs": "",
         "minecraftArgs": "",
+        "environmentVariables": "",
         "maxMemory": 2048,
         "autoMemory": true,
         "permSize": "",
@@ -31,7 +34,6 @@
         "precalledCommand": "",
         "postExitCommand": "",
         "serverIp": "",
-        "java": "1.8.0_311",
         "wrapper": "",
         "fullscreen": false,
         "noJVMArgs": false,
@@ -42,14 +44,16 @@
         "gameDir": "",
         "launcherVisibility": 1,
         "processPriority": 2,
-        "useSoftwareRenderer": false,
         "useNativeGLFW": false,
         "useNativeOpenAL": false,
         "gameDirType": 0,
         "defaultJavaPath": "C:\\Program Files\\Java\\jdk1.8.0_311\\jre\\bin\\java.exe",
         "nativesDir": "",
         "nativesDirType": 0,
-        "versionIcon": 0
+        "versionIcon": 0,
+        "javaVersionType": "AUTO",
+        "java": "Auto",
+        "renderer": "DEFAULT"
       },
       "gameDir": ".minecraft",
       "useRelativePath": true,
@@ -60,6 +64,7 @@
         "usesGlobal": false,
         "javaArgs": "",
         "minecraftArgs": "",
+        "environmentVariables": "",
         "maxMemory": 2048,
         "autoMemory": true,
         "permSize": "",
@@ -69,7 +74,6 @@
         "precalledCommand": "",
         "postExitCommand": "",
         "serverIp": "",
-        "java": "",
         "wrapper": "",
         "fullscreen": false,
         "noJVMArgs": false,
@@ -80,14 +84,16 @@
         "gameDir": "",
         "launcherVisibility": 1,
         "processPriority": 2,
-        "useSoftwareRenderer": false,
         "useNativeGLFW": false,
         "useNativeOpenAL": false,
         "gameDirType": 0,
         "defaultJavaPath": "",
         "nativesDir": "",
         "nativesDirType": 0,
-        "versionIcon": 0
+        "versionIcon": 0,
+        "javaVersionType": "AUTO",
+        "java": "Auto",
+        "renderer": "DEFAULT"
       },
       "gameDir": "C:\\Users\\Administrator\\AppData\\Roaming\\.minecraft",
       "useRelativePath": false,
@@ -130,12 +136,10 @@
       "userProperties": {},
       "accessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI3ZTU3N2FlZWI1NDE1NWQyYmIzM2I0ODZhYmZiMTg2NyIsInlnZ3QiOiJjYzVhNWEwNWEzOTY0NTg0YjZlNzRhNzU1MzAxNmQ5YyIsInNwciI6IjNlODEwY2RiNWQwZjRjOTE4NDQ3YTBmOWUxZDY1MTQzIiwiaXNzIjoiWWdnZHJhc2lsLUF1dGgiLCJleHAiOjE2NzMzMTc2ODEuOTA3MTczLCJpYXQiOjE2NzMwNTg0ODEuOTA3MTczfQ.VfLYgcdjGvQIMo0T6xYrgk6IoFZOizYmLOlCyIYiktc",
       "profileProperties": {
-        "textures": "eyJ0aW1lc3RhbXAiOjE2NzI5NjUyNzI4NjAsInByb2ZpbGVJZCI6IjNlODEwY2RiNWQwZjRjOTE4NDQ3YTBmOWUxZDY1MTQzIiwicHJvZmlsZU5hbWUiOiJSdW9CYWkwNyIsImlzUHVibGljIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vbGl0dGxlc2tpbi5jbi90ZXh0dXJlcy8zOTk2ODNkZDFlZWJiZWNkOGI0MmRlMGE4MzhhNDI3ZDNhY2QxMmQxY2I2YzIxN2FhZGMyMTFmMTAxNzE1NTBkIn19fQ\u003d\u003d",
-        "uploadableTextures": "skin,cape"
+        "textures": "eyJ0aW1lc3RhbXAiOjE3NDc0MjAzMDIsInByb2ZpbGVJZCI6IjNlODEwY2RiNWQwZjRjOTE4NDQ3YTBmOWUxZDY1MTQzIiwicHJvZmlsZU5hbWUiOiJLZXlGYWMiLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vbGl0dGxlc2tpbi5jbi90ZXh0dXJlcy8zOTk2ODNkZDFlZWJiZWNkOGI0MmRlMGE4MzhhNDI3ZDNhY2QxMmQxY2I2YzIxN2FhZGMyMTFmMTAxNzE1NTBkIn19fQ\u003d\u003d"
       },
       "type": "authlibInjector",
       "uuid": "3e810cdb5d0f4c918447a0f9e1d65143",
-      "selected": true,
       "username": "RuoBai07"
     }
   ],
@@ -146,16 +150,19 @@
   "authlibInjectorServers": [
     {
       "url": "https://mcskin.littleservice.cn/api/yggdrasil/",
-      "metadataResponse": "{\"meta\":{\"serverName\":\"LittleSkin\",\"implementationName\":\"Yggdrasil API for Blessing Skin\",\"implementationVersion\":\"5.1.1\",\"links\":{\"homepage\":\"https:\\/\\/littleskin.cn\",\"register\":\"https:\\/\\/littleskin.cn\\/auth\\/register\"},\"feature.non_email_login\":true},\"skinDomains\":[\"skin.prinzeugen.net\",\"littleskin.cn\"],\"signaturePublickey\":\"-----BEGIN PUBLIC KEY-----\\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEArGcNOOFIqLJSqoE3u0hj\\ntOEnOcET3wj9Drss1BE6sBqgPo0bMulOULhqjkc\\/uH\\/wyosYnzw3xaazJt87jTHh\\nJ8BPMxCeQMoyEdRoS3Jnj1G0Kezj4A2b61PJJM1DpvDAcqQBYsrSdpBJ+52MjoGS\\nvJoeQO5XUlJVQm21\\/HmJnqsPhzcA6HgY71RHYE5xnhpWJiPxLKUPtmt6CNYUQQoS\\no2v36XWgMmLBZhAbNOPxYX+1ioxKamjhLO29UhwtgY9U6PWEO7\\/SBfXzyRPTzhPV\\n2nHq7KJqd8IIrltslv6i\\/4FEM81ivS\\/mm+PN3hYlIYK6z6Ymii1nrQAplsJ67OGq\\nYHtWKOvpfTzOollugsRihkAG4OB6hM0Pr45jjC3TIc7eO7kOgIcGUGUQGuuugDEz\\nJ1N9FFWnN\\/H6P9ukFeg5SmGC5+wmUPZZCtNBLr8o8sI5H7QhK7NgwCaGFoYuiAGL\\ngz3k\\/3YwJ40BbwQayQ2gIqenz+XOFIAlajv+\\/nyfcDvZH9vGNKP9lVcHXUT5YRnS\\nZSHo5lwvVrYUrqEAbh\\/zDz8QMEyiujWvUkPhZs9fh6fimUGxtm8mFIPCtPJVXjeY\\nwD3Lvt3aIB1JHdUTJR3eEc4eIaTKMwMPyJRzVn5zKsitaZz3nn\\/cOA\\/wZC9oqyEU\\nmc9h6ZMRTRUEE4TtaJyg9lMCAwEAAQ\u003d\u003d\\n-----END PUBLIC KEY-----\\n\"}",
-      "metadataTimestamp": 1673060916814
+      "metadataResponse": "{\"meta\":{\"serverName\":\"LittleSkin\",\"implementationName\":\"Yggdrasil Connect\",\"implementationVersion\":\"0.0.6\",\"links\":{\"announcement\":\"https://littleskin.cn/api/announcements\",\"homepage\":\"https://littleskin.cn\",\"register\":\"https://littleskin.cn/auth/register\"},\"feature.no_email_login\":true,\"feature.openid_configuration_url\":\"https://open.littleskin.cn/.well-known/openid-configuration\"},\"skinDomains\":[\"littleskin.cn\"],\"signaturePublickey\":\"-----BEGIN PUBLIC KEY-----\\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEArGcNOOFIqLJSqoE3u0hj\\ntOEnOcET3wj9Drss1BE6sBqgPo0bMulOULhqjkc/uH/wyosYnzw3xaazJt87jTHh\\nJ8BPMxCeQMoyEdRoS3Jnj1G0Kezj4A2b61PJJM1DpvDAcqQBYsrSdpBJ+52MjoGS\\nvJoeQO5XUlJVQm21/HmJnqsPhzcA6HgY71RHYE5xnhpWJiPxLKUPtmt6CNYUQQoS\\no2v36XWgMmLBZhAbNOPxYX+1ioxKamjhLO29UhwtgY9U6PWEO7/SBfXzyRPTzhPV\\n2nHq7KJqd8IIrltslv6i/4FEM81ivS/mm+PN3hYlIYK6z6Ymii1nrQAplsJ67OGq\\nYHtWKOvpfTzOollugsRihkAG4OB6hM0Pr45jjC3TIc7eO7kOgIcGUGUQGuuugDEz\\nJ1N9FFWnN/H6P9ukFeg5SmGC5+wmUPZZCtNBLr8o8sI5H7QhK7NgwCaGFoYuiAGL\\ngz3k/3YwJ40BbwQayQ2gIqenz+XOFIAlajv+/nyfcDvZH9vGNKP9lVcHXUT5YRnS\\nZSHo5lwvVrYUrqEAbh/zDz8QMEyiujWvUkPhZs9fh6fimUGxtm8mFIPCtPJVXjeY\\nwD3Lvt3aIB1JHdUTJR3eEc4eIaTKMwMPyJRzVn5zKsitaZz3nn/cOA/wZC9oqyEU\\nmc9h6ZMRTRUEE4TtaJyg9lMCAwEAAQ\u003d\u003d\\n-----END PUBLIC KEY-----\\n\"}",
+      "metadataTimestamp": 1747420301937
     },
     {
       "url": "https://littleskin.cn/api/yggdrasil/",
-      "metadataResponse": "{\"meta\":{\"serverName\":\"LittleSkin\",\"implementationName\":\"Yggdrasil API for Blessing Skin\",\"implementationVersion\":\"5.1.1\",\"links\":{\"homepage\":\"https:\\/\\/littleskin.cn\",\"register\":\"https:\\/\\/littleskin.cn\\/auth\\/register\"},\"feature.non_email_login\":true},\"skinDomains\":[\"skin.prinzeugen.net\",\"littleskin.cn\"],\"signaturePublickey\":\"-----BEGIN PUBLIC KEY-----\\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEArGcNOOFIqLJSqoE3u0hj\\ntOEnOcET3wj9Drss1BE6sBqgPo0bMulOULhqjkc\\/uH\\/wyosYnzw3xaazJt87jTHh\\nJ8BPMxCeQMoyEdRoS3Jnj1G0Kezj4A2b61PJJM1DpvDAcqQBYsrSdpBJ+52MjoGS\\nvJoeQO5XUlJVQm21\\/HmJnqsPhzcA6HgY71RHYE5xnhpWJiPxLKUPtmt6CNYUQQoS\\no2v36XWgMmLBZhAbNOPxYX+1ioxKamjhLO29UhwtgY9U6PWEO7\\/SBfXzyRPTzhPV\\n2nHq7KJqd8IIrltslv6i\\/4FEM81ivS\\/mm+PN3hYlIYK6z6Ymii1nrQAplsJ67OGq\\nYHtWKOvpfTzOollugsRihkAG4OB6hM0Pr45jjC3TIc7eO7kOgIcGUGUQGuuugDEz\\nJ1N9FFWnN\\/H6P9ukFeg5SmGC5+wmUPZZCtNBLr8o8sI5H7QhK7NgwCaGFoYuiAGL\\ngz3k\\/3YwJ40BbwQayQ2gIqenz+XOFIAlajv+\\/nyfcDvZH9vGNKP9lVcHXUT5YRnS\\nZSHo5lwvVrYUrqEAbh\\/zDz8QMEyiujWvUkPhZs9fh6fimUGxtm8mFIPCtPJVXjeY\\nwD3Lvt3aIB1JHdUTJR3eEc4eIaTKMwMPyJRzVn5zKsitaZz3nn\\/cOA\\/wZC9oqyEU\\nmc9h6ZMRTRUEE4TtaJyg9lMCAwEAAQ\u003d\u003d\\n-----END PUBLIC KEY-----\\n\"}",
-      "metadataTimestamp": 1673060914684
+      "metadataResponse": "{\"meta\":{\"serverName\":\"LittleSkin\",\"implementationName\":\"Yggdrasil Connect\",\"implementationVersion\":\"0.0.6\",\"links\":{\"announcement\":\"https://littleskin.cn/api/announcements\",\"homepage\":\"https://littleskin.cn\",\"register\":\"https://littleskin.cn/auth/register\"},\"feature.no_email_login\":true,\"feature.openid_configuration_url\":\"https://open.littleskin.cn/.well-known/openid-configuration\"},\"skinDomains\":[\"littleskin.cn\"],\"signaturePublickey\":\"-----BEGIN PUBLIC KEY-----\\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEArGcNOOFIqLJSqoE3u0hj\\ntOEnOcET3wj9Drss1BE6sBqgPo0bMulOULhqjkc/uH/wyosYnzw3xaazJt87jTHh\\nJ8BPMxCeQMoyEdRoS3Jnj1G0Kezj4A2b61PJJM1DpvDAcqQBYsrSdpBJ+52MjoGS\\nvJoeQO5XUlJVQm21/HmJnqsPhzcA6HgY71RHYE5xnhpWJiPxLKUPtmt6CNYUQQoS\\no2v36XWgMmLBZhAbNOPxYX+1ioxKamjhLO29UhwtgY9U6PWEO7/SBfXzyRPTzhPV\\n2nHq7KJqd8IIrltslv6i/4FEM81ivS/mm+PN3hYlIYK6z6Ymii1nrQAplsJ67OGq\\nYHtWKOvpfTzOollugsRihkAG4OB6hM0Pr45jjC3TIc7eO7kOgIcGUGUQGuuugDEz\\nJ1N9FFWnN/H6P9ukFeg5SmGC5+wmUPZZCtNBLr8o8sI5H7QhK7NgwCaGFoYuiAGL\\ngz3k/3YwJ40BbwQayQ2gIqenz+XOFIAlajv+/nyfcDvZH9vGNKP9lVcHXUT5YRnS\\nZSHo5lwvVrYUrqEAbh/zDz8QMEyiujWvUkPhZs9fh6fimUGxtm8mFIPCtPJVXjeY\\nwD3Lvt3aIB1JHdUTJR3eEc4eIaTKMwMPyJRzVn5zKsitaZz3nn/cOA/wZC9oqyEU\\nmc9h6ZMRTRUEE4TtaJyg9lMCAwEAAQ\u003d\u003d\\n-----END PUBLIC KEY-----\\n\"}",
+      "metadataTimestamp": 1747420301418
     }
   ],
-  "_version": 0,
+  "addedLittleSkin": true,
+  "_version": 2,
   "uiVersion": 0,
-  "preferredLoginType": "authlibInjector"
+  "preferredLoginType": "authlibInjector",
+  "animationDisabled": false,
+  "shownTips": {}
 }
